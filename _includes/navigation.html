@@ -1,0 +1,20 @@
+ <div class="topnav">
+  <div class="identity">
+    <!--{% if site.logo %}<a class="blog-logo" href="{{ '/' | relative_url }}"><img src="{{ '/' | relative_url }}{{ site.logo }}" alt="Blog Logo" /></a>{% endif %}-->
+    {% if site.name %}
+        <h2 class="blog-logo"><a class="site-name" href="{{ '/' | relative_url }}">{{ site.name }}</a></h2> 
+    {% endif %} 
+  </div>
+  <div class="topnav-right">
+    <div class="menu-items" id="myTopnav">
+      <a href="/">Home</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
+      <a href="{{ '/contact' | relative_url }}">Contact</a>
+
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+  </div>
+
+ </div> 

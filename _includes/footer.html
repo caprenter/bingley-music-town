@@ -1,0 +1,22 @@
+<div class="footer-title">
+    <h2>{{ site.name }}</h2>
+    <div class="strapline">{{ site.tagline }}</div>
+</div>
+<div class="row">
+    <div class="column">
+    {% capture links %}{% include links.md %}{% endcapture %}
+    {{ links | markdownify }}
+    </div>
+
+    <div class="column">
+    {% capture get-involved %}{% include get-involved.md %}{% endcapture %}
+    {{ get-involved | markdownify }}
+    </div>
+
+    <div class="column">
+        {% capture join-us %}{% include join-us.md %}{% endcapture %}
+        {{ join-us | markdownify }}
+    </div>
+
+</div>
+<div class="copyright">All content &copy; Bingley Music Town unless otherwise stated. <a href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/privacy">Privacy Statement</a></div>
