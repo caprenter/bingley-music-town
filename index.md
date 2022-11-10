@@ -17,7 +17,7 @@ cover: /assets/images/BMTlogoSplash.jpg
 <!-- Get the next film data -->
 {% assign film = site.data.films | where:"our-id", page.our-id | first  %}
 <!-- The big featured header  -->
-<header class="main-header {% if film.main-image %}" style="background-image: radial-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0)), url({{ site.baseurl }}/assets/images/{{ film.main-image }} {% elsif page.cover %}" style="background-image: radial-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0)), url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+<header class="main-header" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
 
     <div class="vertical">
         <div class="main-header-content inner">

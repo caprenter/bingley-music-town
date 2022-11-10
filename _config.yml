@@ -13,10 +13,10 @@ title: "Bingley Music Town" # the name of your site, e.g. ACME Corp.
 email: info@bingleymusictown.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
  Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
- 
+
 logo: 'assets/images/logo.jpg' # No leading slash!
 author: Bingley Music Town
-url: "https://bingleymuscitown.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bingleymusictown.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #google_analytics: UA-111111111-1
 #twitter:
