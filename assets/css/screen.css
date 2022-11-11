@@ -1923,9 +1923,9 @@ figcaption {
     }
   
 
-    .identity {
+    /*.identity {
         width: 80%;
-    }
+    }*/
   }
   /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
   @media screen and (max-width: 900px) {
@@ -1943,7 +1943,7 @@ figcaption {
     .menu-items.responsive a {
       float: none;
       display: block;
-      text-align: left;
+      text-align: center;
     }
   } 
 
@@ -2115,13 +2115,13 @@ figcaption {
         height: 40vh;
     }
 
-    .identity {
+    /*.identity {
         width: 100%;
-    }
+    }*/
 
-    .topnav-right {
+    /*.topnav-right {
         clear:left;
-      }
+      }*/
 
     .no-cover.main-header {
         height: 30vh;
