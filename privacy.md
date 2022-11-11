@@ -42,6 +42,7 @@ Bingley Music Town may also receive your data indirectly from organisations or i
 ### How will we use your data?
 Bingley Music Town collects your data so that we can:
 * Run our organisation. As a membership organisation we need to communicate with our members so they can actively participate in their organisation.
+* To keep an accurate up to date register of our members. The register of members can be viewed by other members on request.
 * Report to our funders on the numbers and types of people we are working with.    
 * Contact you in the event of unexpected circumstances (e.g. an event is cancelled); about     opportunities you might be interested in; to update you with news about Bingley Music Town.     
 * Contact someone in the event of emergency     

@@ -11,13 +11,47 @@ We are an organisation that is run by it's members. The membership set the prior
 
 ## Become a member
 
+<p class="membership">
+    <button type="button" class="btn btn-outline-light">
+        <a href="https://forms.gle/h1a8oGDkBzagYnuf7">Sign Up Form</a>
+    </button>
+</p>
+
+Our members run the organisation.
+
+They decide what the priorities are, and help achieve them. 
+
 Membership is open to individuals (over the age of 18) and organisations that agree to work with us towards our aim:
 
 "...to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy."
 
-To become a member send the following details to us:
+### Benefits
 
-### Individuals:
+As a member you get to:
+* have a say
+* meet like minded people
+* achieve something you can't achieve on your own
+* support a cause
+* stay informed
+
+You can also:
+* vote for, and be a member of, the steering group
+* attend members meetings
+* get on a members only mailing list 
+
+### Sign Up Online
+
+<p class="membership">
+    <button type="button" class="btn btn-outline-light">
+        <a href="https://forms.gle/h1a8oGDkBzagYnuf7">Sign Up Form</a>
+    </button>
+</p>
+
+### Sign Up by email
+
+To become a member you can [sign up online](https://forms.gle/h1a8oGDkBzagYnuf7) or send the following details to us:
+
+#### Individuals:
 * Full name
 * Address
 * Email
@@ -25,7 +59,7 @@ To become a member send the following details to us:
 * Confirm that you are over 18
 * State that you agree to help Bingley Music Town to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy. 
 
-### Organisations
+#### Organisations
 * Name of organisation you represent 
 * State that you have the authority to act on behalf of the organisation to become member
 * Full name
@@ -34,7 +68,6 @@ To become a member send the following details to us:
 * Contact Phone number
 * Confirm that you are over 18
 * State that you agree to help Bingley Music Town to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy. 
-
 
 ## Steering Group
 A steering group is elected by the membership, and tasked to look after the day to day running of the organisation.
