@@ -1,8 +1,8 @@
 ### Links
 
-[About]({% link about.md %})<br/>
+[Join]({% link join.md %})<br/>
 [Contact]({% link contact.md %})<br/>
-[Bingley Music Town - Facebook](https://facebook.com/bingleymusictown)
+[Bingley Music Town on Facebook<i class="fa fa-external-link" aria-hidden="true"></i>](https://facebook.com/bingleymusictown){:target="_blank" rel="noopener noreferrer"}
 
 <div class="icons">
     <ul>

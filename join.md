@@ -1,5 +1,5 @@
 ---
-title: About
+title: Join
 layout: page 
 cover: BMTlogoSplash.jpg #No leading slash
 image-credit: 
@@ -10,13 +10,6 @@ Bingley Music Town was formally constituted on 9th November 2022.
 We are an organisation that is run by it's members. The membership set the priorities and the direction of the group.
 
 ## Become a member
-
-<p class="membership">
-    <button type="button" class="btn btn-outline-light">
-        <a href="https://forms.gle/h1a8oGDkBzagYnuf7">Sign Up Form</a>
-    </button>
-</p>
-
 Our members run the organisation.
 
 They decide what the priorities are, and help achieve them. 
@@ -43,13 +36,13 @@ You can also:
 
 <p class="membership">
     <button type="button" class="btn btn-outline-light">
-        <a href="https://forms.gle/h1a8oGDkBzagYnuf7">Sign Up Form</a>
+        <a href="https://forms.gle/h1a8oGDkBzagYnuf7" target="_blank" rel="noopener noreferrer">Sign Up Form<i class="fa fa-external-link" aria-hidden="true"></i></a>
     </button>
 </p>
 
 ### Sign Up by email
 
-To become a member you can [sign up online](https://forms.gle/h1a8oGDkBzagYnuf7) or send the following details to us:
+To become a member you can [sign up online<i class="fa fa-external-link" aria-hidden="true"></i>](https://forms.gle/h1a8oGDkBzagYnuf7){:target="_blank" rel="noopener noreferrer"} or send the following details to us:
 
 #### Individuals:
 * Full name
