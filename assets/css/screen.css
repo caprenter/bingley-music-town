@@ -131,6 +131,11 @@
     color: #fff;
     padding:0;
   }
+  #contact-mailing #mc_embed_signup {
+    background:#fff;
+    color: #000;
+    padding:0;
+  }
   #mc_embed_signup input {border: 1px solid #ABB0B2; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
 #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
 #mc_embed_signup input[type=radio]{-webkit-appearance:radio;}

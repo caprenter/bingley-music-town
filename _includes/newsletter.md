@@ -1,3 +1,3 @@
-### Newsletters - Sign Up
+### Mailing List
 
 {% include mailchimp.html %}

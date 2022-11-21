@@ -13,6 +13,11 @@ navigation: true
 </li>
 </ul>
 
+<div id="contact-mailing" markdown="1">
+{% include newsletter.md %}
+</div>
+
+
 
 
 
