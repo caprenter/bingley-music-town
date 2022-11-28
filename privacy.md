@@ -64,7 +64,7 @@ On cloud storage servers owned by third parties, specifically:
 ### How long do we keep your data?
 Bingley Music Town will keep your personal data for as long as you remain connected to the organisation as either a member or volunteer. 
 
-Once we have had no contact with you for 2 years, we will delete your data by shredding paper copies and deleting digital files.
+Once you have cancelled your membership, or if we have had no contact with you for 3 years, we will delete your data by shredding paper copies and deleting digital files.
 
 ## Marketing
 Bingley Music Town would like to send you information about things we are doing that we think you might like, as well as those of other opportunities that may be on offer from other organisations. 
@@ -139,4 +139,15 @@ Should you wish to report a complaint or if you feel that Bingley Music Town has
 ## About this Policy
 This text is [adapted from a template](https://gdpr.eu/wp-content/uploads/2019/01/Our-Company-Privacy-Policy.pdf) from [GDPR.eu](https://gdpr.eu)
 
-This privacy policy is version 1.0 and was last updated on 10th November 2022.
+This privacy policy is **version 1.1** and was last updated on **28th November 2022**.
+
+## Changelog
+
+The text on this page is tracked in a version control system.<br/> [View the full changelog](https://github.com/caprenter/bingley-music-town/blob/main/privacy.md) 
+
+**Version 1.1 - 28th November 2022**
+* Changes the length of time we retain your personal data from 2 years to 3 years before we destroy it.
+* Adds this 'Changelog' section
+
+**Version 1.0 - 10th November 2022**
+* First published version
