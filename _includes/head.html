@@ -1,14 +1,3 @@
-    <!-- Get the next film data -->
-    {% assign film = site.data.films | where:"our-id", page.our-id | first  %}
-    <!-- Define the image used for Twitter Cards etc-->
-    {% if page.current == 'home' %}
-    {% assign use_image = film.main-image %}
-    {% elsif page.cover %}
-    {% assign use_image = page.cover %}
-    {% else %}
-    {% assign use_image = 'cover1.jpg' %}
-    {% endif %}
-
     <link rel="canonical" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
     <meta name="referrer" content="origin" />
     <!--<link rel="next" href="{{ site.baseurl }}page2/" />-->
@@ -17,13 +6,13 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
-    <meta property="og:image" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/{{ use_image }}" />
+    <meta property="og:image" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/{{ page.cover }}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
-    <meta name="twitter:image:src" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/{{ use_image }}" />
+    <meta name="twitter:image:src" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/{{ page.cover }}" />
     <!-- Matomo - Analytics with no cookies-->
     <script>
         var _paq = window._paq = window._paq || [];
