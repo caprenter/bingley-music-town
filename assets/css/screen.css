@@ -116,6 +116,11 @@
     font-size: 4rem;
 }
 
+ul.contact {
+    padding: 0;
+    list-style: none;
+}
+
   /* Mailchimp form */
   #mc_embed_signup .mc-field-group input {
     color:#000;
