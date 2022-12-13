@@ -7,8 +7,8 @@ navigation: true
 ---
 
 ### Next Meeting
-Open Meeting - Wednesday 14th December 2022, 7pm (Venue TBC)<br/>
-Information will be sent to members by Monday 12th December.<br/>
+Open Meeting - Wednesday 14th December 2022, 7pm, [The Brew House](https://whatpub.com/pubs/BRA/040/bingley-brew-house-bingley), Bingley.
+
 [Contact us]({% link contact.md %}) if you need more information.
 
 ### Dates for your diary
