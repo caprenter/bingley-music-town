@@ -22,6 +22,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #twitter:
 #  username:
 #  card: summary #keep this to generate a twitter share card
+#
+# For the Logos
+defaults:
+  - scope:
+      path: "assets/images/gallery"
+    values:
+      image: true
+
 
 #short_url: 'jekyllt.github.io/jasper/'
 #google_analytics: UA-69281367-1

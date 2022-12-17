@@ -31,4 +31,5 @@ cover: BMTlogoSplash.jpg
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main" markdown="1">
 {% include main.md %}
+{% include gallery.html %}
 </main>

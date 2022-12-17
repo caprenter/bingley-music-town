@@ -93,7 +93,15 @@
     width: 30%;
     padding:1.5%;
   }
+  .logos .column {
+    text-align: center;
+    width: 22%
+  }
   
+  .logos .column img {
+    max-height: 200px;
+  }
+
   /* Clear floats after the columns */
   .row:after {
     content: "";
