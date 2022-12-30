@@ -5,8 +5,8 @@
     <div class="column">
         <img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.image }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
         <div>
-            <a href="https://.com/{{ organisation.url }}">
-            {{ organisation.name }}
+            <a href="{{ organisation.url }}" class="org-link">
+            {{ organisation.name }}<i class="fa fa-external-link" aria-hidden="true"></i>
             </a>
         </div>
     </div>

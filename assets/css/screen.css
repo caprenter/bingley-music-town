@@ -63,6 +63,15 @@
     font-size: 0.8em;
     padding: 0.5em;
   }
+  a.org-link {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: smaller;
+  }
+
+  #organisational-members {
+    text-align: center;
+  }
 
   .topnav-right {
     float:right;
@@ -92,6 +101,15 @@
     float: left;
     width: 30%;
     padding:1.5%;
+  }
+  .logos {
+    max-width: 1280px;
+    margin:auto;
+  }
+  .logos .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
   }
   .logos .column {
     text-align: center;
@@ -2182,6 +2200,9 @@ figcaption {
         border-top: rgba(0,0,100,0.06) 1px solid;
         border-left: none;
     }
+    .logos .column {
+        width: 46%
+      }
 
 }
 
@@ -2475,6 +2496,10 @@ figcaption {
     .read-next .post {
         width: 100%;
     }
+
+    .logos .column {
+        width: 100%
+      }
 
 }
 
