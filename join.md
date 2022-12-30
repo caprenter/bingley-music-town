@@ -63,6 +63,4 @@ To become a member you can [sign up online<i class="fa fa-external-link" aria-hi
 * State that you agree to help Bingley Music Town to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy. 
 
 ## Steering Group
-A steering group is elected by the membership, and tasked to look after the day to day running of the organisation.
-
-A steering group will be formally elected on 14th December 2022
+{% include steering-group.md %}
