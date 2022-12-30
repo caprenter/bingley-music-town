@@ -1,0 +1,1 @@
+Our steering group meets regularly to look after the day to day running of the organisation. The rules for how the steering group operates can be found in our [constitution<i class="fa fa-external-link" aria-hidden="true"></i>](https://drive.google.com/file/d/19oB3hbpEdBO6RMdMvLL4kwb-BboUtBND/view?usp=share_link){:target="_blank" rel="noopener noreferrer"}
