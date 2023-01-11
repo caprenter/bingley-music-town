@@ -1,8 +1,8 @@
 ---
 title: Contact
 layout: page
-cover: BMTlogoSplash.jpg #no leading slash
-image-credit: 
+cover: PFK2.jpg #no leading slash
+image-credit: Playing For Kicks
 navigation: true
 ---
 

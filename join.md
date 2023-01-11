@@ -1,8 +1,8 @@
 ---
 title: Join
 layout: page 
-cover: BMTlogoSplash.jpg #No leading slash
-image-credit: 
+cover: BMTlogo_Wilko.jpg #No leading slash
+image-credit: Wilko Wilkes
 navigation: true
 ---
 Bingley Music Town was formally constituted on 9th November 2022.
