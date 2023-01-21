@@ -9,12 +9,6 @@ navigation: true
 ## Upcoming Meetings
 (Steering group meetings are usually on the second Wednesday of the month)
 
-### Wednesday 11th January 2023
-#### Steering Group Meeting
-**7pm - 8pm, [The Brew House](https://whatpub.com/pubs/BRA/040/bingley-brew-house-bingley), Bingley**<br/>
-Steering Group meetings are about the work that needs to be done to keep the organisation going.
-Members and non-members are welcome to come along to observe and to meet up.
-
 ### Monday 23rd January 2023
 #### Open Meeting
 **10:30am - 11:30am at The Craft House. Bingley**<br/>
@@ -29,6 +23,12 @@ The event will be facilitated by Chis from Community Action Bradford And Distric
 
 If you can't get there but want to have an input, [contact us]({% link contact.md %}) with your ideas.
 
+### Wednesday 8th March 2023
+#### Steering Group Meeting
+**7pm - 8pm, Bar 66, Bingley**<br/>
+Steering Group meetings are about the work that needs to be done to keep the organisation going.
+Members and non-members are welcome to come along to observe and to meet up.
+
 ## About Meetings
 
 ### Steering Group
@@ -39,3 +39,8 @@ If you can't get there but want to have an input, [contact us]({% link contact.m
 
 ### Open Meetings
 {% include open-meetings.md %}
+
+## Agenda and Newsletter Items
+ * Please get agenda and newsletter items to us one week before steering group meetings.
+ * Finalised agendas will be circulated the day before meetings.
+ * [Newsletters]({{ site_url }}/contact#mailing-list) go out two weeks after the meeting with a link to the meeting notes/minutes.
