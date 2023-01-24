@@ -17,3 +17,6 @@ I teach piano, flute and music theory at [Becs Leighton Music](https://www.becsl
 
 #### David Carpenter (Treasurer)
 I have a background in community work and technology. I make music and sounds as [The Argent Grub](https://theargentgrub.co.uk/), and I've lived in Bingley for over 20 years. My interest in the music town is geared towards anything that helps people make music for themselves.  
+
+#### Anita Bašić
+I am the founder and Musical Director of [Bradford Accordion Band (BAB)](https://www.bradfordaccordionband.co.uk/) who were established in 1997. My musical mission is to encourage as many people as possible to play an instrument they love, as part of a group. I have lived in the Bingley area for over 20 years and know that this Town has talent! 
