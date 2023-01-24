@@ -113,7 +113,15 @@
   }
   .logos .column {
     text-align: center;
-    width: 22%
+    width: 22%;
+  }
+  .logos .col-md-4 {
+    text-align: center;
+    width: 32%;
+  }
+  .logos .col-md-8 {
+    text-align: center;
+    width: 68%;
   }
   
   .logos .column img {
@@ -1249,9 +1257,19 @@ p.page-description {
     word-wrap: break-word;
 }
 
+.listing {
+    position: relative;
+    width: 80%;
+    max-width: 960px;
+    margin: 4rem auto;
+    padding-bottom: 4rem;
+    border-bottom: #EBF2F6 1px solid;
+    word-wrap: break-word;
+}
+
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
-.post:after {
+.post:after, .listing:after {
     display: block;
     content: "";
     width: 7px;
