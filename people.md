@@ -1,8 +1,8 @@
 ---
 title: People
 layout: page 
-cover: BMTlogoSplash.jpg #No leading slash
-#image-credit:
+cover: splashes/BMTlogo_BradfordAccordionBand.jpg #No leading slash
+image-credit: Bradford Accordion Band
 navigation: true
 ---
 

@@ -3,13 +3,13 @@ layout: default
 title: Bingley Music Town
 class: 'home-template'
 navigation: True
-logo: /assets/images/BMTlogoSplash.jpg
+#logo: /assets/images/splashes/BMTlogoSplash.jpg
 current: home
 #Use 'our_id' below for the next film to be shown. The id is in the csv file
 # we use {% assign film = site.data.films | where:"our-id", page.our-id | first  %}
 # in _includes/head.html to make use of the data below using e.g. film.main-image
 # Defaults to use if no 'next film'
-cover: BMTlogoSplash.jpg
+cover: splashes/BMTlogoSplash.jpg
 
 ---
 <!-- < default -->

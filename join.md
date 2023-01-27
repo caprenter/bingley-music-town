@@ -1,7 +1,7 @@
 ---
 title: Join
 layout: page 
-cover: BMTlogo_Wilko.jpg #No leading slash
+cover: splashes/BMTlogo_Wilko.jpg #No leading slash
 image-credit: Wilko Wilkes
 navigation: true
 ---
