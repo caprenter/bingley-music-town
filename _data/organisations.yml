@@ -3,50 +3,57 @@
   logo: BradfordAiredaleYouthChoir.png
   image:
   type: music-group
+  member: true
 
 - name: Accessible Inclusive Music-AIM
   url: https://www.facebook.com/accessibleinclusivemusic/
   logo: aim.png
   image:
   type: music-group
+  member: true
 
 - name: Bradford Accordion Band
   url: https://www.bradfordaccordionband.co.uk/
   logo: Bradford_Accordion_Band_logo.png
   image: Bradford_Accordion_Band_on_golf_course.jpg
   type: music-group
-  description: "
-  Bradford Accordion Band (BAB) is a unique and diverse amateur musical
-group whose mission is to make great music, whilst having lots of fun! 
+  member: true
+  description: |
+    Bradford Accordion Band (BAB) is a unique and diverse amateur musical
+    group whose mission is to make great music, whilst having lots of fun! 
+    We have been established since 1997 and our membership comprises 32
+    accordion, keyboard, woodwind, strings and percussion players between
+    the ages of 22 and 91. 
 
-We have been established since 1997 and our membership comprises 32
-accordion, keyboard, woodwind, strings and percussion players between
-the ages of 22 and 91. 
+    BAB's repertoire is wide-ranging and includes classics, show music, pop, rock, folk and accordion originals. We perform
+    regularly at venues across Yorkshire and have recently featured on BBC's
+    'Look North' Programme. We are always looking to 'swell' our membership
+    and we'd love to hear from you if you are a budding, competent or
+    accomplished musician living in the Bingley area.
 
-BAB's repertoire is wide-ranging and includes classics, show music, pop, rock, folk and accordion originals. We perform
-regularly at venues across Yorkshire and have recently featured on BBC's
-'Look North' Programme. We are always looking to 'swell' our membership
-and we'd love to hear from you if you are a budding, competent or
-accomplished musician living in the Bingley area. 
+    Instrument loan scheme available.
 
-Instrument loan scheme available.
-Email: [bradfordaccordionband@gmail.com](mailto:bradfordaccordionband@gmail.com)
-[www.bradfordaccordionband.co.uk](https://www.bradfordaccordionband.co.uk)
-"
+    * Email: [bradfordaccordionband@gmail.com](mailto:bradfordaccordionband@gmail.com)
+    * Web: [www.bradfordaccordionband.co.uk](https://www.bradfordaccordionband.co.uk) 
+    {: .org-contact }
+
 - name: TSO Promotions
   url: https://linktr.ee/tsopromotions
   logo: tso.png
   image:
   type: promoter
+  member: true
 
 - name: Playing For Kicks
   url: https://playingforkicks.co.uk/
   logo: pfklogo.jpg
   image:
   type: performer
+  member: true
 
 - name: The Shed Planners Association - BFD
   url: https://www.facebook.com/shedplannersbfd/
   logo: ShedPlannersLogo.jpg  
   image:
   type: music-group
+  member: true

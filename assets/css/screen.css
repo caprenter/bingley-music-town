@@ -102,6 +102,31 @@
     width: 30%;
     padding:1.5%;
   }
+  .column-4 {
+    float: left;
+    width: 47%;
+    padding:1.5%;
+  }
+  .column-8 {
+    float: left;
+    width: 47%;
+    padding-right:1.5%;
+  }
+
+  ul.org-contact {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .member-badge p {
+    margin: 0 0 1em;
+    background: #000;
+    color: #fff;
+    padding: 0.4em;
+    width: fit-content;
+    border-radius: 9px;
+  }
+
   .logos {
     max-width: 1280px;
     margin:auto;
@@ -2418,6 +2443,10 @@ figcaption {
         width: calc(100% + 32px); /* expand with to image + margins */
         min-width: 0;
         max-width: 112%; /* fallback when calc doesn't work */
+    }
+
+    .organisation-image {
+        border-radius: 25px;
     }
 
     .post-meta {
