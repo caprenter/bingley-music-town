@@ -14,8 +14,6 @@ cover: BMTlogoSplash.jpg
 ---
 <!-- < default -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
-<!-- Get the next film data -->
-{% assign film = site.data.films | where:"our-id", page.our-id | first  %}
 <!-- The big featured header  -->
 <header class="main-header" style="background-image: url({{ site.baseurl }}/assets/images/{{ page.cover }})">
 
