@@ -112,6 +112,19 @@
     width: 47%;
     padding-right:1.5%;
   }
+  @media screen and (max-width:762px) {
+    .column-4 {
+        float: left;
+        width: 100%;
+        padding:1.5%;
+      }
+      .column-8 {
+        float: left;
+        width: 100%;
+        padding-right:1.5%;
+      }
+    
+  }
 
   ul.org-contact {
     list-style: none;

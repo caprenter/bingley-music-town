@@ -1,7 +1,7 @@
 ---
 title: Meet
 layout: page 
-cover: BMTlogo_flutes.jpg #No leading slash
+cover: splashes/BMTlogo_flutes.jpg #No leading slash
 image-credit: Becs Leighton Music
 navigation: true
 ---

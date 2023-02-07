@@ -1,7 +1,7 @@
 ---
 title: Bingley Music Town Privacy Policy
 layout: page 
-cover: BMTlogoSplash.jpg #No leading slash
+cover: splashes/BMTlogoSplash.jpg #No leading slash
 image-credit: 
 navigation: true
 ---

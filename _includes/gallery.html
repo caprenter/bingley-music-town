@@ -4,11 +4,11 @@
     {% if indexmod4 == 1 %}<div class="row">{% endif %}
     <div class="column">
         <img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
-        <div>
+        {% if organisation.url %}<div>
             <a href="{{ organisation.url }}" class="org-link">
             {{ organisation.name }}<i class="fa fa-external-link" aria-hidden="true"></i>
             </a>
-        </div>
+        </div>{% endif %}
     </div>
     {% if indexmod4 == 0 or forloop.last %}</div>{% endif %}
     {% endfor %}

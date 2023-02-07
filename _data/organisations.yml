@@ -14,6 +14,7 @@
 
 - name: Bradford Accordion Band
   url: https://www.bradfordaccordionband.co.uk/
+  email: bradfordaccordionband@gmail.com
   logo: Bradford_Accordion_Band_logo.png
   image: Bradford_Accordion_Band_on_golf_course.jpg
   type: music-group
@@ -33,15 +34,11 @@
 
     Instrument loan scheme available.
 
-    * Email: [bradfordaccordionband@gmail.com](mailto:bradfordaccordionband@gmail.com)
-    * Web: [www.bradfordaccordionband.co.uk](https://www.bradfordaccordionband.co.uk) 
-    {: .org-contact }
-
 - name: TSO Promotions
   url: https://linktr.ee/tsopromotions
   logo: tso.png
   image:
-  type: promoter
+  type: [promoter,music-group]
   member: true
 
 - name: Playing For Kicks
@@ -54,6 +51,13 @@
 - name: The Shed Planners Association - BFD
   url: https://www.facebook.com/shedplannersbfd/
   logo: ShedPlannersLogo.jpg  
+  image:
+  type: music-group
+  member: true
+
+- name: Bingley Singing For Fun
+  url: 
+  logo: Bingley_Singing_for_Fun.png
   image:
   type: music-group
   member: true

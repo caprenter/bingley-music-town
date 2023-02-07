@@ -3,19 +3,17 @@ layout: default
 title: Bingley Music Town
 class: 'home-template'
 navigation: True
-logo: /assets/images/BMTlogoSplash.jpg
+#logo: /assets/images/splashes/BMTlogoSplash.jpg
 current: home
 #Use 'our_id' below for the next film to be shown. The id is in the csv file
 # we use {% assign film = site.data.films | where:"our-id", page.our-id | first  %}
 # in _includes/head.html to make use of the data below using e.g. film.main-image
 # Defaults to use if no 'next film'
-cover: BMTlogoSplash.jpg
+cover: splashes/BMTlogoSplash.jpg
 
 ---
 <!-- < default -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
-<!-- Get the next film data -->
-{% assign film = site.data.films | where:"our-id", page.our-id | first  %}
 <!-- The big featured header  -->
 <header class="main-header" style="background-image: url({{ site.baseurl }}/assets/images/{{ page.cover }})">
 

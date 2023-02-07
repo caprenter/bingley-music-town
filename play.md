@@ -1,7 +1,7 @@
 ---
 title: Play
 layout: listing
-cover: BMTlogoSplash.jpg #No leading slash
+cover: splashes/BMTlogoSplash.jpg #No leading slash
 #image-credit:
 navigation: true
 ---
@@ -11,7 +11,8 @@ Places where you can play and sing.
 
 <div class="container logos">
 {% for organisation in site.data.organisations %}
-{% if organisation.type == "music-group" %}
+{% if organisation.type contains "music-group" %}
+
 <div class="row"> 
 <div class="column-8" markdown="1">
 <h3>{{ organisation.name }}</h3>
@@ -21,6 +22,10 @@ Places where you can play and sing.
 </div>
 {% endif %}
 {{ organisation.description }}
+<div class="org-contact" markdown="1">
+* Email: [{{ organisation.email }}](mailto:{{ organisation.email }})
+* Web: [{{ organisation.url }}]({{ organisation.url }})
+</div>
 </div>
 <div class="column-4 organisation-image">
 {% if organisation.image %}
@@ -31,6 +36,7 @@ Places where you can play and sing.
 </div>
 
 </div>
+
 {% endif %}
 {% endfor %}
 </div>
