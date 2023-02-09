@@ -2003,6 +2003,13 @@ figcaption {
     padding: 1.5%;
 }
 
+.supported-by {
+    padding:1.5%;
+  }
+  .supported-by a:hover {
+    text-decoration: none;
+  }
+
 
 /* ==========================================================================
    12. Media Queries - Smaller than 900px

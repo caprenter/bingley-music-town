@@ -17,6 +17,11 @@
         {% capture newsletter %}{% include newsletter.md %}{% endcapture %}
         {{ newsletter | markdownify }}
     </div>
+</div> 
+<div class="row supported-by">
+        <p class="footer-txt"><br>Supported by</p>
+        <a href="https://bingleytowncouncil.gov.uk/"><img style="max-width:200px" src="{{ '/assets/images/bingley-town-council-logo.png' | relative_url }}" alt="Bingley Town Council Logo" class="img-responsive"></a>
+        <!--<a href="https://www.cooperativeit.co.uk/"><img style="max-width:270px" src="{{ '/assets/images/ci-masthead.png' | relative_url }}" alt="Cooperative IT" class="img-responsive"></a>-->
 </div>
 <div class="copyright">
     <p>All content &copy; Bingley Music Town unless otherwise stated. <a href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/privacy">Privacy Statement</a></p>
