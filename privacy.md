@@ -61,6 +61,22 @@ On cloud storage servers owned by third parties, specifically:
 * Google Drive
 * Mail Chimp
 
+#### Your Privacy and Google Documents
+
+In order to share the content of Google Documents with other people on the web, we need to give people access to those documents. This can be as a 'viewer', 'owner', or 'editor'.
+
+When interacting with those documents there is a chance your Google email address and username will be seen by other people also using the service.
+
+This can only happen IF you are logged into you Google Account when you view the items. To avoid any risk of exposing your details make sure you are logged out or use a browser in incognito mode. 
+
+**What are the risks:**
+
+If a document is set to 'view only' or 'edit' for members - your email and username may be seen by another member.
+
+If a document is set to 'view only' or 'edit' for anyone - your email and username may be seen by anyone who is in the document at the same time.
+
+If you are the owner of a folder or document then your Username maybe shown to people accessing folders.
+
 ### How long do we keep your data?
 Bingley Music Town will keep your personal data for as long as you remain connected to the organisation as either a member or volunteer. 
 
@@ -144,6 +160,9 @@ This privacy policy is **version 1.1** and was last updated on **28th November 2
 ## Changelog
 
 The text on this page is tracked in a version control system.<br/> [View the full changelog](https://github.com/caprenter/bingley-music-town/blob/main/privacy.md) 
+
+**Version 1.2 - 09th February 2023**
+* Adds a section about our use of Google Documents and makes clear that Google Account information may be seen by other people when using those services.
 
 **Version 1.1 - 28th November 2022**
 * Changes the length of time we retain your personal data from 2 years to 3 years before we destroy it.
