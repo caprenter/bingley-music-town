@@ -5,11 +5,6 @@
 <section class="main-page">
 <div markdown="1">
 
-## Members Meeting
-Wednesday 8th February 2023, 5:30pm - 7pm at Cardigan House, Ferncliffe Road, Bingley, BD16 2TA.
-
-This is a great chance for you to get your ideas on the table and really be part of shaping the future of music in Bingley. We want ALL of you there, every voice counts and all your ideas are needed for BMT to be truly community-led. [See our meet page for more details]({% link meet.md%}). 
-
 ## Bingley - A Music Town
 Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
 
