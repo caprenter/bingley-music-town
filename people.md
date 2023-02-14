@@ -20,3 +20,6 @@ I have a background in community work and technology. I make music and sounds as
 
 #### Anita Bašić
 I am the founder and Musical Director of [Bradford Accordion Band (BAB)<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bradfordaccordionband.co.uk/){:target="_blank" rel="noopener noreferrer"} who were established in 1997. My musical mission is to encourage as many people as possible to play an instrument they love, as part of a group. I have lived in the Bingley area for over 20 years and know that this Town has talent! 
+
+#### Stephanie Laycock
+ I am a lover of plays, musical theatre and pantomimes and have been performing with [Keighley Musical Theatre Company<i class="fa fa-external-link" aria-hidden="true"></i>](https://keighleymtc.com/){:target="_blank" rel="noopener noreferrer"} since 2005. I believe everyone should have the opportunity to enjoy and take part in music and the arts in their own town. 
