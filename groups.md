@@ -1,16 +1,16 @@
 ---
-title: Play
+title: Music Groups
 layout: listing
 cover: splashes/BMTlogoSplash.jpg #No leading slash
 #image-credit:
 navigation: true
 ---
+{% assign organisations = site.data.organisations | sort: "name" %}
 
-## Music Groups
 Places where you can play and sing.
 
 <div class="container logos">
-{% for organisation in site.data.organisations %}
+{% for organisation in organisations %}
 {% if organisation.type contains "music-group" %}
 
 <div class="row"> 
@@ -23,8 +23,8 @@ Places where you can play and sing.
 {% endif %}
 {{ organisation.description }}
 <div class="org-contact" markdown="1">
-* Email: [{{ organisation.email }}](mailto:{{ organisation.email }})
-* Web: [{{ organisation.url }}]({{ organisation.url }})
+{% if organisation.email %}* **Email:** [{{ organisation.email }}](mailto:{{ organisation.email }}){% endif %}
+{% if organisation.url %}* **Web:** [{{ organisation.url }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ organisation.url }}){:target="_blank" rel="noopener noreferrer"}{% endif %}
 </div>
 </div>
 <div class="column-4 organisation-image">
