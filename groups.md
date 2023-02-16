@@ -1,8 +1,8 @@
 ---
 title: Music Groups
 layout: listing
-cover: splashes/BMTlogoSplash.jpg #No leading slash
-#image-credit:
+cover: splashes/BMTlogo_effects.jpg #No leading slash
+image-credit: "Photo: Martin Singleton"
 navigation: true
 ---
 {% assign organisations = site.data.organisations | sort: "name" %}
