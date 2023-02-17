@@ -51,6 +51,13 @@ approx 7pm, [Martinez Wine Bar <i class="fa fa-external-link" aria-hidden="true"
 [{{ organisation.name }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ organisation.url }}){:target="_blank" rel="noopener noreferrer"}<br>
 1.30-3.00pm, Bingley Methodist Church
 
+#### Fortnightly 
+Open Mic by {% assign organisation = site.data.organisations 
+    | where_exp:"organisation", "organisation.name == 'TSO Promotions'"
+    | first %}
+[{{ organisation.name }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ organisation.url }}){:target="_blank" rel="noopener noreferrer"} (from 23rd Feb 2023)<br>
+7pm - 11pm at [The Peacock Bar  <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/peacockbarbingley/){:target="_blank" rel="noopener noreferrer"},  Bingley
+
 #### Second Thursday of the month
 {% assign organisation = site.data.organisations 
     | where_exp:"organisation", "organisation.name == 'The Shed Planners Association - BFD'"
