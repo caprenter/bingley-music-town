@@ -21,6 +21,19 @@
     14. Animations
 
 */
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.95);
+  }
+
+.dropdown-item {
+    font-size: 1.6rem;
+}
+
+.navbar-dark .navbar-toggler-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.95%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
  /* Add a black background color to the top navigation */
  .topnav {
     background-color: #333;
@@ -45,6 +58,9 @@
     text-underline-offset: 4px;
     color:#fff
   }
+  #myDropdown a:hover {
+    color: #000;
+  }
 
   /* Add an active class to highlight the current page */
   .topnav a.active {
@@ -62,6 +78,8 @@
   a.site-name {
     font-size: 0.8em;
     padding: 0.5em;
+    font-size: 3.6rem;
+    letter-spacing: -1px;
   }
   a.org-link {
     text-transform: uppercase;
@@ -102,6 +120,44 @@
     width: 30%;
     padding:1.5%;
   }
+  .column-4 {
+    float: left;
+    width: 47%;
+    padding:1.5%;
+  }
+  .column-8 {
+    float: left;
+    width: 47%;
+    padding-right:1.5%;
+  }
+  @media screen and (max-width:762px) {
+    .column-4 {
+        float: left;
+        width: 100%;
+        padding:1.5%;
+      }
+      .column-8 {
+        float: left;
+        width: 100%;
+        padding-right:1.5%;
+      }
+    
+  }
+
+  .org-contact ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .member-badge p {
+    margin: 0 0 1em;
+    background: #000;
+    color: #fff;
+    padding: 0.4em;
+    width: fit-content;
+    border-radius: 9px;
+  }
+
   .logos {
     max-width: 1280px;
     margin:auto;
@@ -113,7 +169,15 @@
   }
   .logos .column {
     text-align: center;
-    width: 22%
+    width: 22%;
+  }
+  .logos .col-md-4 {
+    text-align: center;
+    width: 32%;
+  }
+  .logos .col-md-8 {
+    text-align: center;
+    width: 68%;
   }
   
   .logos .column img {
@@ -1249,9 +1313,19 @@ p.page-description {
     word-wrap: break-word;
 }
 
+.listing {
+    position: relative;
+    width: 80%;
+    max-width: 960px;
+    margin: 4rem auto;
+    padding-bottom: 4rem;
+    border-bottom: #EBF2F6 1px solid;
+    word-wrap: break-word;
+}
+
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
-.post:after {
+.post:after, .listing:after {
     display: block;
     content: "";
     width: 7px;
@@ -2026,7 +2100,7 @@ figcaption {
  
    /* When the screen is less than 900 pixels wide, hide all links. Show the link that contains should open and close the topnav (.icon) */
  @media screen and (max-width: 900px) {
-    .menu-items a {display: none;}
+    .menu-items a, .menu-items div.menu-items {display: none;}
     .menu-items a.icon {
       float: right;
       display: block;
@@ -2039,7 +2113,7 @@ figcaption {
   }
   /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
   @media screen and (max-width: 900px) {
-    .menu-items.responsive {position: relative;}
+    .menu-items.responsive,  .menu-items.responsive div.menu-items {position: relative;}
     .menu-items.responsive a.icon {
       position: absolute;
       right: 0;
@@ -2050,7 +2124,7 @@ figcaption {
         margin-top: 30px;
     }
 
-    .menu-items.responsive a {
+    .menu-items.responsive a, .menu-items.responsive div.menu-items {
       float: none;
       display: block;
       text-align: center;
@@ -2407,6 +2481,10 @@ figcaption {
         width: calc(100% + 32px); /* expand with to image + margins */
         min-width: 0;
         max-width: 112%; /* fallback when calc doesn't work */
+    }
+
+    .organisation-image {
+        border-radius: 25px;
     }
 
     .post-meta {

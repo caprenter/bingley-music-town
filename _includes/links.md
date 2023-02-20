@@ -2,6 +2,9 @@
 
 [Join]({% link join.md %})<br/>
 [Meet]({% link meet.md %})<br/>
+[People]({% link people.md %})<br/>
+[Music Groups]({% link groups.md %})<br/>
+[Regular Activities]({% link regular-activities.md %})<br/>
 [Contact]({% link contact.md %})<br/>
 [Bingley Music Town on Facebook<i class="fa fa-external-link" aria-hidden="true"></i>](https://facebook.com/bingleymusictown){:target="_blank" rel="noopener noreferrer"}
 

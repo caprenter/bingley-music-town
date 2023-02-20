@@ -1,27 +1,70 @@
 - name: Bradford Airedale Youth Choir
   url: https://www.bradfordandairedaleyouthchoir.co.uk/
-  image: BradfordAiredaleYouthChoir.png
+  logo: BradfordAiredaleYouthChoir.png
+  image:
+  type: music-group
+  member: true
 
 - name: Accessible Inclusive Music-AIM
   url: https://www.facebook.com/accessibleinclusivemusic/
-  image: aim.png
+  logo: aim.png
+  image:
+  type: music-group
+  member: true
 
 - name: Bradford Accordion Band
   url: https://www.bradfordaccordionband.co.uk/
-  image: Bradford_Accordion_Band_logo.png
+  email: bradfordaccordionband@gmail.com
+  logo: Bradford_Accordion_Band_logo.png
+  image: Bradford_Accordion_Band_on_golf_course.jpg
+  type: music-group
+  member: true
+  description: |
+    Bradford Accordion Band (BAB) is a unique and diverse amateur musical
+    group whose mission is to make great music, whilst having lots of fun! 
+    We have been established since 1997 and our membership comprises 32
+    accordion, keyboard, woodwind, strings and percussion players between
+    the ages of 22 and 91. 
+
+    BAB's repertoire is wide-ranging and includes classics, show music, pop, rock, folk and accordion originals. We perform
+    regularly at venues across Yorkshire and have recently featured on BBC's
+    'Look North' Programme. We are always looking to 'swell' our membership
+    and we'd love to hear from you if you are a budding, competent or
+    accomplished musician living in the Bingley area.
+
+    Instrument loan scheme available.
 
 - name: TSO Promotions
   url: https://linktr.ee/tsopromotions
-  image: tso.png
+  logo: tso.png
+  image:
+  type: [promoter,music-group]
+  member: true
 
 - name: Playing For Kicks
   url: https://playingforkicks.co.uk/
-  image: pfklogo.jpg
+  logo: pfklogo.jpg
+  image:
+  type: performer
+  member: true
 
 - name: The Shed Planners Association - BFD
   url: https://www.facebook.com/shedplannersbfd/
-  image: ShedPlannersLogo.jpg
+  logo: ShedPlannersLogo.jpg  
+  image:
+  type: music-group
+  member: true
 
 - name: Bingley Singing For Fun
   url: 
-  image: Bingley_Singing_for_Fun.png
+  logo: Bingley_Singing_for_Fun.png
+  image:
+  type: music-group
+  member: true
+
+- name: All Together Now
+  url: https://www.facebook.com/atnsing
+  logo: All_Together_Now_logo.png
+  image:
+  type: music-group
+  member: true
