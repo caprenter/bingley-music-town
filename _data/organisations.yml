@@ -1,24 +1,54 @@
 - name: Bradford Airedale Youth Choir
-  url: https://www.bradfordandairedaleyouthchoir.co.uk/
+  website: https://www.bradfordandairedaleyouthchoir.co.uk/
+  facebook: bradfordairedaleyouthchoir
+  instagram: bradfordairedaleyouthchoir
+  twitter: BAYCYouthChoir
+  email: baycstaff@gmail.com
   logo: BradfordAiredaleYouthChoir.png
-  image:
+  #image:
   type: music-group
   member: true
+  short-description: |
+    An exciting group of contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
+  description: |
+    An exciting group of contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
+
+    Our mission? To make excellent vocal training fun, affordable and accessible to every young person with singing potential - because opportunities in music can change lives. 
+
+    With over 50 members, we always have room for more.
+    Everyone who loves to sing has a place at BAYC.
 
 - name: Accessible Inclusive Music-AIM
-  url: https://www.facebook.com/accessibleinclusivemusic/
+  #website:
+  facebook: accessibleinclusivemusic
   logo: aim.png
-  image:
+  #image:
   type: music-group
   member: true
+  short-description: |
+    Accessible Inclusive Music (A.I.M.) are a Shipley-based charity providing fully-inclusive musical activities, with a strong commitment to ensuring musical opportunities for all.
+  description: |
+    Accessible Inclusive Music (A.I.M.) are a Shipley-based charity led by specialist music practitioner Sarah Dunn. 
+    They provide fully-inclusive musical activities, with a strong commitment to ensuring musical opportunities for all.
+    
+    Their online inclusive choir is yet again running for FREE, thanks to a Connecting Communities grant from Scope (funded by Charities Aid Foundation) and funds raised by students of Becs Leighton Music at their Christmas Concert.
+    
+    All children up to the age of 18 can join, and participate with their voice, their body, Makaton signing, voice-output devices, switches… any and all means of communicating and creating music are facilitated. 
 
 - name: Bradford Accordion Band
-  url: https://www.bradfordaccordionband.co.uk/
+  website: https://www.bradfordaccordionband.co.uk/
   email: bradfordaccordionband@gmail.com
   logo: Bradford_Accordion_Band_logo.png
   image: Bradford_Accordion_Band_on_golf_course.jpg
   type: music-group
   member: true
+  short-description: |
+    Bradford Accordion Band (BAB) is a unique and diverse amateur musical
+    group whose mission is to make great music, whilst having lots of fun! 
+    We have been established since 1997 and our membership comprises 32
+    accordion, keyboard, woodwind, strings and percussion players between
+    the ages of 22 and 91.
+  
   description: |
     Bradford Accordion Band (BAB) is a unique and diverse amateur musical
     group whose mission is to make great music, whilst having lots of fun! 
@@ -35,36 +65,89 @@
     Instrument loan scheme available.
 
 - name: TSO Promotions
-  url: https://linktr.ee/tsopromotions
+  website: https://linktr.ee/tsopromotions
   logo: tso.png
-  image:
+  #image:
   type: [promoter,music-group]
   member: true
+  short-description: |
+    Music Agency and Events Organiser putting on events and working with Bingley musicians.
+  
+  description: |
+    Music Agency and Events Organiser putting on events and working with Bingley musicians.
 
 - name: Playing For Kicks
-  url: https://playingforkicks.co.uk/
+  website: https://playingforkicks.co.uk/
   logo: pfklogo.jpg
-  image:
+  #image:
   type: performer
   member: true
+  short-description: | 
+    Bingley based covers band, Playing for Kicks play songs you know and love from ELO to Divine Comedy and The Killers to Earth Wind and Fire. 
+    
+    There's something for everyone and you're sure to have a great night.
+  description: | 
+    Bingley based covers band, Playing for Kicks play songs you know and love from ELO to Divine Comedy and The Killers to Earth Wind and Fire. 
+    
+    There's something for everyone and you're sure to have a great night.
+
+    Looking for a band for an event, function or your music venue? <br>    
+    Come along to one of our gigs to check us out, and/or contact us to check our availability.
 
 - name: The Shed Planners Association - BFD
-  url: https://www.facebook.com/shedplannersbfd/
+  #website: https://www.facebook.com/shedplannersbfd/
+  facebook: shedplannersbfd
   logo: ShedPlannersLogo.jpg  
-  image:
+  #image:
   type: music-group
   member: true
+  short-description: | 
+    An open mic and jam session at the Highfield, Idle, Bradford. From 9pm on the second Thursday of every month.
+    
+    Run by Bingley musicians. PA, drums and backline provided. 
+  
+  description: | 
+    An open mic and jam session at the Highfield, Idle, Bradford. From 9pm on the second Thursday of every month.
+    
+    Run by Bingley musicians. PA, drums and backline provided. 
 
 - name: Bingley Singing For Fun
-  url: 
+  #website: 
   logo: Bingley_Singing_for_Fun.png
-  image:
+  #image:
   type: music-group
   member: true
+  short-description: |
+    Bingley Singing For Fun - no experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
+
+  description: |
+    Bingley Singing For Fun - no experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
+
+    The group meets ot enjoy each other's company and to sing for fun. 
+
+    Every Wednesday, 11:30 -12:30.    
 
 - name: All Together Now
-  url: https://www.facebook.com/atnsing
+  #website: https://www.facebook.com/atnsing
+  facebook: https://www.facebook.com/atnsing
+  email: admin@atnsing.co.uk
   logo: All_Together_Now_logo.png
-  image:
+  #image:
   type: music-group
   member: true
+  short-description: |
+    Yorkshire Community Choir based in Baildon, Bingley, Harrogate & Skipton
+  description: |
+    Yorkshire Community Choir based in Baildon, Bingley, Harrogate & Skipton
+    
+    Our Weekly Singing Timetable:
+      * Monday 10.00-11.30am Bingley
+      * Monday 7.00-8.30pm Harrogate
+      * Tuesday 10.00-11.30am Baildon
+      * Thursday 10.00-11.30am Skipton
+      * Thursday 1.30-3.00pm Bingley
+      * Thursday 7.30-9.00pm Baildon 
+      * Friday 10.00-11.30am Baildon
+    
+    Get in touch if you are interested in joining us. Your first session is free so you've got nothing to lose in coming along
+

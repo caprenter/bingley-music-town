@@ -1,0 +1,65 @@
+---
+layout: default
+class: 'page-template'
+---
+<!-- < default -->
+
+<!-- This is a page template. A page outputs content just like any other post, and has all the same -->
+    <!-- attributes by default, but you can also customise it to behave differently if you prefer.  -->
+
+<!-- Everything inside the #post tags pulls data from the page -->
+<!-- #post -->
+{% if page.image %}
+{% capture background-image %}
+style="background-image: url({{ site.baseurl }}/assets/images/organisations/{{ page.image }})"
+{% endcapture %}
+{% else %}
+{% capture background-image %}
+style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSplash.jpg)"
+{% endcapture %}
+{% endif %}
+
+<header class="main-header post-head" {{ background-image }}>
+{% if page.image-credit %}{% include image-credit.html %}{% endif %}
+</header>
+
+<main class="content" role="main">
+    <article class="listing">
+        <!-- Everything inside the #post tags pulls data from the post -->
+
+        <header class="post-header">
+            <h1 class="post-title">{{ page.name }}</h1>
+        </header>
+
+<section class="post-content main-page">
+<div class="row"> 
+<div class="column-8">
+{% if page.member %}
+<div class="member-badge">
+<p>Bingley Music Town Member</p>
+</div>
+{% endif %}
+
+<div class="org-description" markdown="1">
+    {% capture description %}{{ page.description }}{% endcapture %}
+    {{ description | markdownify }}
+</div>
+
+<div class="org-contact">
+{% if page.email %}{% capture email %}* **Email:** [{{ page.email }}](mailto:{{ page.email }}){% endcapture %}{{ email | markdownify }}{% endif %}
+{% if page.website %}{% capture web %}* **Web:** [{{ page.website }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ page.website }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ web | markdownify }}{% endif %}
+{% if page.facebook %}{% capture facebook %}* **Facebook:** [{{ page.facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/{{ page.facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}{% endif %}
+{% if page.twitter %}{% capture twitter %}* **Twitter:** [{{ page.twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://twitter.com/{{ page.twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}{% endif %}
+{% if page.instagram %}{% capture instagram %}* **Instagram:** [{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
+</div>
+</div>
+<div class="column-4 organisation-image">
+{% if page.logo %}
+<img src="{{ '/assets/images/logos' | relative_url }}/{{ page.logo }}" alt="{{ page.name }}" title="{{ page.name }}"  class="img-responsive" />
+{% endif %}
+</div>
+</div>
+</section>
+   </article>
+</main>
+<!-- /post -->

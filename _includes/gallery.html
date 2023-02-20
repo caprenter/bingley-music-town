@@ -1,12 +1,12 @@
 <div class="container logos">
-    {% for organisation in site.data.organisations %}
+    {% for organisation in site.organisations %}
     {% assign indexmod4 = forloop.index | modulo: 4 %}
     {% if indexmod4 == 1 %}<div class="row">{% endif %}
     <div class="column">
         <img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
         {% if organisation.url %}<div>
             <a href="{{ organisation.url }}" class="org-link">
-            {{ organisation.name }}<i class="fa fa-external-link" aria-hidden="true"></i>
+            {{ organisation.name }}
             </a>
         </div>{% endif %}
     </div>

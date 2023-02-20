@@ -30,7 +30,6 @@ defaults:
     values:
       image: true
 
-
 #short_url: 'jekyllt.github.io/jasper/'
 #google_analytics: UA-69281367-1
 #disqus: username
@@ -75,10 +74,17 @@ production_url:  https://bingleymusictown.org.uk/
 source_url:  https://github.com/caprenter/bingley-music-town/
 
 # gems and other configs
-#plugins:
+plugins:
+ - pagemaster
 
 # Jekyll collection definitions
-
+# Pagemaster bases its configuration on these
+collections:
+  organisations:
+    output: true
+    source: organisations.yml
+    id_key: name
+    layout: org_page
 
 exclude:
   - README.md

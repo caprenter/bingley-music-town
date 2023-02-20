@@ -5,27 +5,27 @@ cover: splashes/BMTlogo_effects.jpg #No leading slash
 image-credit: "Photo: Martin Singleton"
 navigation: true
 ---
-{% assign organisations = site.data.organisations | sort: "name" %}
+
 
 Places where you can play and sing.
 
 <div class="container logos">
-{% for organisation in organisations %}
+{% for organisation in site.organisations %}
 {% if organisation.type contains "music-group" %}
 
 <div class="row"> 
 <div class="column-8" markdown="1">
-<h3>{{ organisation.name }}</h3>
+<h3><a href="{{ organisation.url }}">{{ organisation.name }}</a></h3>
 {% if organisation.member %}
 <div class="member-badge">
 <p>Bingley Music Town Member</p>
 </div>
 {% endif %}
-{{ organisation.description }}
-<div class="org-contact" markdown="1">
+{{ organisation.short-description }}
+<!--<div class="org-contact" markdown="1">
 {% if organisation.email %}* **Email:** [{{ organisation.email }}](mailto:{{ organisation.email }}){% endif %}
-{% if organisation.url %}* **Web:** [{{ organisation.url }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ organisation.url }}){:target="_blank" rel="noopener noreferrer"}{% endif %}
-</div>
+{% if organisation.website %}* **Web:** [{{ organisation.website }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ organisation.website }}){:target="_blank" rel="noopener noreferrer"}{% endif %}
+</div>-->
 </div>
 <div class="column-4 organisation-image">
 {% if organisation.image %}
