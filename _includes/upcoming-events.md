@@ -7,7 +7,7 @@
 {% assign venues = site.data.venues %}
 
 {% for event in events %}
-
+{% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Date > dateToday  %}
 
 {% if event.cancelled !=1  %}
@@ -24,7 +24,7 @@
 {% endif %}
 {% assign date = event.Date %}
 
-<div class="event-item" markdown="1">
+<div class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}" markdown="1">
 <div class="row">
 <!--{% if event.largeimageurl %}
 <div class="col-md-4 image" markdown="1">
@@ -52,6 +52,17 @@ Support: {% continue %}{% endif %}
 {{ event.Description }}
 {: class="description" }
 <!--<div class="event-badge" markdown="1">[Event link]({{ event.Link }})</div>-->
+<!--{% if event.Time %}Doors: {{ event.Time | date: "%l:%M%P" }} <br/>{% endif %}-->
+{% if event.Time %}*From: {{ event.Time}}*
+{: class="description" }{% endif %}
+<!--{% if event.link %}[Get Tickets for {{ event.eventname }}]({{ event.link }}){:class="btn btn-primary"}{% endif %}-->
+<!--{% if event.entryprice %}£{{ event.entryprice }}{% endif %}-->
+
+
+<!-- Price -->
+*Price: {{ event.Price }}*
+{: class="description" }
+{% if event.Tickets %} [Buy Tickets]({{ event.Tickets }}){% endif %}
 
 <!-- LINKS -->
 {% for performer in performers -%}
@@ -80,12 +91,6 @@ Support: {% continue %}{% endif %}
 </div>
 {% endif %}
 {% endfor %}
-
-<!--{% if event.Time %}Doors: {{ event.Time | date: "%l:%M%P" }} <br/>{% endif %}-->
-{% if event.Time %}Doors: {{ event.Time}}
-{: class="description" }{% endif %}
-<!--{% if event.link %}[Get Tickets for {{ event.eventname }}]({{ event.link }}){:class="btn btn-primary"}{% endif %}-->
-<!--{% if event.entryprice %}£{{ event.entryprice }}{% endif %}-->
 
 {% if event.LastUpdated %}Data fetched on: {{ event.LastUpdated | date: "%A %d %B %Y" }} 
 {: class="last-updated" }{% endif %}
