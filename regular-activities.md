@@ -36,6 +36,14 @@ approx 8pm, The Brown Cow, Bingley
 [Bingley Bellringers <i class="fa fa-external-link" aria-hidden="true"></i>](https://bingleybells.chessck.co.uk/RingingPracticeTimes){:target="_blank" rel="noopener noreferrer"}<br>
 7:30pm All Saints Church, Bingley
 
+#### Third Tuesday of the month
+Goldies - A good old sing-a-long<br>
+Songs from the 50's onwards, followed by bingo and afternoon tea. <br>
+Goldies sessions are open to everyone but aim particularly to combat isolation in older adults.  The group is dementia friendly and free to all residents of Bingley.  <br>
+For more information, please contact Carole on 01274 560539.
+
+2pm - 4pm [Eldwick Church <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.eldwickchurch.org.uk){:target="_blank" rel="noopener noreferrer"}, Eldwick
+
 ### Wednesday
 
 {% assign organisation = site.organisations 

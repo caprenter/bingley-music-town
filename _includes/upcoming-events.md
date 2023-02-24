@@ -8,7 +8,7 @@
 
 {% for event in events %}
 {% assign mod2 = forloop.index | modulo: 2 %}
-{% if event.Date > dateToday  %}
+{% if event.Date >= dateToday  %}
 
 {% if event.cancelled !=1  %}
 
