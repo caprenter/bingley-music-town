@@ -746,6 +746,11 @@ table.plain tbody > tr:nth-child(odd) > th {
    background: transparent;
 }
 
+table.events {
+    table-layout: auto;
+    width: 100%;
+}
+
 iframe, .fluid-width-video-wrapper {
     display: block;
     margin: 1.75em 0;

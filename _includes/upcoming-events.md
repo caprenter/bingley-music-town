@@ -2,7 +2,7 @@
 {% assign dateToday = 'now' | date: "%Y-%m-%d" %}
 
 
-{% assign events = site.data.events | sort: "Date" | reversed  %}
+{% assign events = site.data.events | sort: "Date"  %}
 {% assign artists = site.data.artists %}
 {% assign venues = site.data.venues %}
 

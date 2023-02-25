@@ -1,6 +1,6 @@
 ---
 title: Live Music
-layout: page 
+layout: listing
 cover: splashes/BMTlogo_piano.jpg #No leading slash
 image-credit: Becs Leighton Music
 navigation: true
