@@ -10,10 +10,19 @@ Bingley Music Town brings together the people that care about music in our area,
 
 There's already so much going on, and there's also loads of ideas about what else could happen in our town and district.
 
-You can read (and add your knowledge and ideas to) this working document: [Bingley - A Music Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit){:target="_blank" rel="noopener noreferrer"}
-, with a big list of [What we've got already<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.5vdluu5s24cx){:target="_blank" rel="noopener noreferrer"}, and another list of [What's missing (that a Music Town might have)<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.azivrbtwiz2u){:target="_blank" rel="noopener noreferrer"}.
-
 We're working on a plan to make things happen, you're welcome to [join us]({{% site_url %}}/join#become-a-member).
+
+Get up to speed with what we're doing...
+
+### Background Documents
+* [Bingley - A Music Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit){:target="_blank" rel="noopener noreferrer"}
+* [What we've got already<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.5vdluu5s24cx){:target="_blank" rel="noopener noreferrer"}
+* [What's missing (that a Music Town might have)<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.azivrbtwiz2u){:target="_blank" rel="noopener noreferrer"}.
+
+### News
+* [February 2023 Newsletter](https://us21.campaign-archive.com/?u=7fbce00836d596f9a960cfed6&id=d92c4bda77){:target="_blank" rel="noopener noreferrer"}
+* [January 2023 Newsletter](https://us21.campaign-archive.com/?u=7fbce00836d596f9a960cfed6&id=928a214397){:target="_blank" rel="noopener noreferrer"}
+* [December 2022 Newlsetter](https://us21.campaign-archive.com/?u=7fbce00836d596f9a960cfed6&id=b286710b73){:target="_blank" rel="noopener noreferrer"}
 
 {% include get-involved.md %}
 

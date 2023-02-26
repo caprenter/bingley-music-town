@@ -12,17 +12,6 @@
         <li class="nav-item px-3">
           <a class="nav-link" href="{{ '/join' | relative_url }}">Join</a>
         </li>
-        <li class="nav-item px-3 dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Live Music
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="{{ '/live' | relative_url }}">Upcoming Events</a>
-            <li><a class="dropdown-item" href="{{ '/previous-events' | relative_url }}">Previous Events</a>
-              <!--<li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>-->
-            </ul>
-        </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="{{ '/meet' | relative_url }}">Meet</a>
         </li>
@@ -39,6 +28,17 @@
             <!--<li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>-->
           </ul>
+        </li>
+        <li class="nav-item px-3 dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Live Music
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="{{ '/live' | relative_url }}">Upcoming Events</a>
+            <li><a class="dropdown-item" href="{{ '/previous-events' | relative_url }}">Previous Events</a>
+              <!--<li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>-->
+            </ul>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="{{ '/contact' | relative_url }}">Contact</a>

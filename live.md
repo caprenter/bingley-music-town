@@ -1,8 +1,8 @@
 ---
 title: Live Music
 layout: listing
-cover: splashes/BMTlogo_piano.jpg #No leading slash
-image-credit: Becs Leighton Music
+cover: splashes/BMTlogo_Razerbills.jpg #No leading slash
+image-credit: The Razerbills
 navigation: true
 ---
 
