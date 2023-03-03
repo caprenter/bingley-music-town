@@ -63,6 +63,12 @@ approx 7pm, [Martinez Wine Bar <i class="fa fa-external-link" aria-hidden="true"
 
 ### Thursday 
 {% assign organisation = site.organisations 
+    | where_exp:"organisation", "organisation.name == 'Cullingworth Ukulele Group'"
+    | first %}
+[{{ organisation.name }}]({{ organisation.url }})<br>
+Free ukulele lessons for beginners in Cullingworth.
+
+{% assign organisation = site.organisations 
     | where_exp:"organisation", "organisation.name == 'All Together Now'"
     | first %}
 [{{ organisation.name }}]({{ organisation.url }})<br>
