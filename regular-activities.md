@@ -89,7 +89,7 @@ Open Mic by {% assign organisation = site.organisations
 Open mic with full band organised by Bingley musicians<br>
 8pm The Highfield, Idle 
 
-### Satuday
+### Saturday
 
 #### First Saturday of the month
 

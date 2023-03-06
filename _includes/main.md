@@ -5,6 +5,9 @@
 <section class="main-page">
 <div markdown="1">
 
+{% include live-today.md %}
+{% include make-today.md %}
+
 ## Bingley - A Music Town
 Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
 
