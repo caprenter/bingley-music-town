@@ -83,3 +83,8 @@ Support: {% continue %}{% endif %}
 {% endif %} <!-- not cancelled -->
 {% endif %} <!-- if today -->
 {% endfor %}
+{% if date %} <!-- If date is set we have an event(s) today -->
+{% else %} <!-- If not print a message -->
+## Live Music
+Looking for live music? Check out our [Upcoming Events page]({% link live.md %}) to see what's on offer. 
+{% endif %}
