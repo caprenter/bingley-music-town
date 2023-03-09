@@ -176,6 +176,12 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
     text-align: center;
     width: 22%;
   }
+  .our_logos {
+    background: #eee;
+  }
+  .logos .our_logos {
+    width: 25%;
+  }
   .logos .col-md-4 {
     text-align: center;
     width: 32%;
