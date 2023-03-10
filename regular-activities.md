@@ -78,8 +78,8 @@ Free ukulele lessons for beginners in Cullingworth.
 Open Mic by {% assign organisation = site.organisations 
     | where_exp:"organisation", "organisation.name == 'TSO Promotions'"
     | first %}
-[{{ organisation.name }}]({{ organisation.url }}) (from 23rd Feb 2023)<br>
-7pm - 11pm at [The Peacock Bar  <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/peacockbarbingley/){:target="_blank" rel="noopener noreferrer"},  Bingley
+[{{ organisation.name }}]({{ organisation.url }}) (from 23rd March 2023)<br>
+7pm - 11pm at [The 66 Bar  <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/the66bar){:target="_blank" rel="noopener noreferrer"},  Bingley
 
 #### Second Thursday of the month
 {% assign organisation = site.organisations 
