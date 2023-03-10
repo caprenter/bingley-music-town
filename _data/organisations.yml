@@ -167,3 +167,54 @@
     Loan ukuleles available
 
     Phone Brian 0789 998 1852
+
+- name: Becs Leighton Music
+  website: https://www.becsleightonmusic.com
+  facebook: https://www.facebook.com/becsleightonmusic/
+  logo: Becs_Leighton_Music.png
+  #image:
+  type: tuition
+  member: true
+  short-description: |
+    Piano, Flute, Musicianship and Music Theory Lessons for children and adults of all ages and abilities.
+  
+  description: |
+    Piano, Flute, Musicianship and Music Theory Lessons:
+
+    * For children and adults of all ages and abilities, beginner to Diploma
+    * Learn at The Studio, or online - find out more on the Piano/Flute/Theory Tuition page.
+    * Support is also available for GCSE and A-Level Music. 
+
+    Piano Accompaniment:
+    * I co-founded Bradford and Airedale Youth Choir,  and have worked with Ilkley Youth Choir, Village Voices and Barnsley Singers / Barnsley Youth Choir. 
+    * I provide piano accompaniment for music exams / performances on a freelance basis - find out more on the accompaniment page.
+    
+    I am also Secretary of Bingley Music Town
+
+- name: Bingley Guitar Studio
+  website: http://bingleyguitarstudio.co.uk/
+  facebook: https://www.facebook.com/Bingley-Guitar-Studio-728490577262222/?ref=settings
+  logo: Bingley_Guitar_Studio.png
+  #image:
+  type: tuition
+  member: true
+  short-description: |
+    Expert Guitar & Bass Tuition for Bingley and Surrounding Areas.
+  
+  description: |
+    Friendly patient tuition from an experienced professional
+    
+    * Electric, Acoustic & Bass Lessons
+    * Advice and guidance
+    * Individual or Group Lessons
+    * Professional studio environment
+    * Central Bingley location
+    * Easy parking
+
+    My name is Dave Johnson and I set up Bingley Guitar Studio in 2004. Since then I have tutored and mentored hundreds of students, from youngsters aged 7 to mature first timers, I have successfully taught the skills to many who aspired to make music with the electric, acoustic and bass guitar.
+
+    Everybody’s ‘guitar journey’ is unique and I can quickly identify the interests and aspirations of new students and then work out the most interesting way for them to learn the necessary skills and techniques to make learning fun and enjoyable.
+
+    Enjoying the process is the quickest way to  success!
+
+    

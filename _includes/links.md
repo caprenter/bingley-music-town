@@ -6,6 +6,7 @@
 [People]({% link people.md %})<br/>
 [Music Groups]({% link groups.md %})<br/>
 [Regular Activities]({% link regular-activities.md %})<br/>
+[Tuition]({% link tuition.md %})<br/>
 [Upcoming Events]({% link live.md %})<br/>
 [Previous Events]({% link previous-events.md %})<br/>
 [Resources]({% link resources.md %})<br/>
