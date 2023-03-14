@@ -85,6 +85,11 @@ collections:
     source: organisations.yml
     id_key: name
     layout: org_page
+  venues:
+    output: true
+    source: venues.csv
+    id_key: Name
+    layout: venue_page
 
 exclude:
   - README.md

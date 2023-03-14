@@ -1,13 +1,13 @@
-Name,Area,Address,Postcode,Web,Facebook,Lat,Lng,LastUpdated
-The New Inn,Wisden,"114 Main Street, Wilsden",", BD15 0AB",https://whatpub.com/pubs/BRA/415/new-inn-wilsden,https://www.facebook.com/newinnwilsden,53.822999,-1.860593,2023-02-23
-The Brown Cow,Bingley,"The Brown Cow, Ireland Bridge, Bingley, United Kingdom",,https://browncowbingley.com,https://www.facebook.com/Bingleybrowncow,53.849957,-1.8419507,2023-02-23
-The 66 Bar,Bingley,"1 Burrage Street, Bingley",,,https://www.facebook.com/the66bar/,,,2023-02-23
-Ryshworth club,Crossflatts,"Keighley Road, Bingley, United Kingdom",,,https://www.facebook.com/people/Ryshworth-club/100064764558910/,,,2023-02-23
-Cottingley Town Hall,Cottingley,"Main Street, Cottingley",BD16 1SR,,,,,2023-02-23
-Bingley Arts Centre,Bingley,"Main Street, Bingley",BD16 2LZ,https://www.bingleyartscentre.co.uk,,,,2023-02-23
-The Royal,Crossflatts,"26 Keighley Rd, Crossflatts, Bingley",BD16 2EZ,,https://www.facebook.com/profile.php?id=100085052125370,,,2023-02-24
-The Villager Pub,Wilsden,"Peel Street, Wilsden",BD15 0JE,https://www.villagerpubwilsden.co.uk/index,https://www.facebook.com/profile.php?id=100035150184789,,,2023-02-24
-Ling Bob,Wilsden,"Haworth Road, Wilsden",,https://www.thelingbob.co.uk,https://www.facebook.com/LingBobWilsden,,,2023-02-24
-Martinez Bingley Wine Shop & Wine Bar,Bingley,"110 Main Street, Bingley",,https://martinez.co.uk/,https://www.facebook.com/MartinezWinesBingley,,,2023-03-08
-Five Rise Records,Bingley,"30E Park Road, Bingley",BD16 4JQ,https://www.fiveriserecords.co.uk/,https://www.facebook.com/FiveRiseRecords,,,2023-03-10
-"The Bandstand, Myrtle Park",Bingley,"Myrtle Grove, Bingley",BD16 2LQ,https://www.bingleywalkersarewelcome.org.uk/visiting-bingley/parks/myrtle-park-in-bingley/,,,,2023-03-13
+Name,Area,Address,Postcode,Web,Facebook,Lat,Lng,Member,Description,LastUpdated
+The New Inn,Wisden,"114 Main Street, Wilsden",", BD15 0AB",https://whatpub.com/pubs/BRA/415/new-inn-wilsden,https://www.facebook.com/newinnwilsden,53.822999,-1.860593,no,,2023-02-23
+The Brown Cow,Bingley,"The Brown Cow, Ireland Bridge, Bingley, United Kingdom",,https://browncowbingley.com,https://www.facebook.com/Bingleybrowncow,53.849957,-1.8419507,no,,2023-02-23
+The 66 Bar,Bingley,"1 Burrage Street, Bingley",,,https://www.facebook.com/the66bar/,,,no,,2023-02-23
+Ryshworth club,Crossflatts,"Keighley Road, Bingley, United Kingdom",,,https://www.facebook.com/people/Ryshworth-club/100064764558910/,,,no,,2023-02-23
+Cottingley Town Hall,Cottingley,"Main Street, Cottingley",BD16 1SR,,,,,no,,2023-02-23
+Bingley Arts Centre,Bingley,"Main Street, Bingley",BD16 2LZ,https://www.bingleyartscentre.co.uk,,,,no,,2023-02-23
+The Royal,Crossflatts,"26 Keighley Rd, Crossflatts, Bingley",BD16 2EZ,,https://www.facebook.com/profile.php?id=100085052125370,,,no,,2023-02-24
+The Villager Pub,Wilsden,"Peel Street, Wilsden",BD15 0JE,https://www.villagerpubwilsden.co.uk/index,https://www.facebook.com/profile.php?id=100035150184789,,,no,,2023-02-24
+Ling Bob,Wilsden,"Haworth Road, Wilsden",,https://www.thelingbob.co.uk,https://www.facebook.com/LingBobWilsden,,,no,,2023-02-24
+Martinez Bingley Wine Shop & Wine Bar,Bingley,"110 Main Street, Bingley",,https://martinez.co.uk/,https://www.facebook.com/MartinezWinesBingley,,,no,,2023-03-08
+Five Rise Records,Bingley,"30E Park Road, Bingley",BD16 4JQ,https://www.fiveriserecords.co.uk/,https://www.facebook.com/FiveRiseRecords,,,yes,,2023-03-10
+Myrtle Park,Bingley,"Myrtle Grove, Bingley",BD16 2LQ,https://www.bingleywalkersarewelcome.org.uk/visiting-bingley/parks/myrtle-park-in-bingley/,,,,yes,Myrtle Park is in the heart of Bingley and as such is one of the most popular outdoor places in town. It's a huge park with a variety of native trees and wildlife and a large meadow nestled in one of the meanders of the River Aire.,2023-03-13
