@@ -7,3 +7,4 @@ navigation: true
 ---
 
 {% include previous-events.md %}
+{% include about-this-page.md %}

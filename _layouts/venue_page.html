@@ -80,6 +80,10 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 {% for event in events %}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Venue == page.Name  %}
+{% if event.Date >= dateToday  %}
+{% assign HasEvents = 'yes %' %}
+
+## Upcoming Events
 
 <!-- GROUP EVENTS BY DATE -->
 {% if forloop.first %}
@@ -163,20 +167,26 @@ Support: {% continue %}{% endif %}
 
 </div>
 </div>
-{% endif %} <!-- in the future -->
+{% else %} <!-- in the future -->
+{% assign HasPastEvents = 'yes' %}
+{% endif %}
+{% endif %} <!-- at this Venue -->
 {% endfor %}
 
-
-
-## About this page
-
-We curate the event data in a [google spreadsheet](https://docs.google.com/spreadsheets/d/1-Eugy7Wfl0O2dSach2D2dOoE8JEW2tI3sqChuCvLUYg/edit?usp=sharing)
-
-If you would like to help us manage the data please [contact us]({% link contact.md %}).
-
-If you want to re-use the data please do.
 {% endcapture %}
+{% if HasEvents %}
 {{ EventsList | markdownify }}
+{% endif %}
+
+{% if HasPastEvents %}
+<h2>Previous Events</h2>
+{% include previous-events.md %}
+{% endif %}
+{% capture AboutThisPage %}
+{% include about-this-page.md %}
+{% endcapture %}
+{{ AboutThisPage | markdownify }}
+
    </article>
 </main>
 <!-- /post -->
