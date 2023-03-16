@@ -83,8 +83,6 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 {% if event.Date >= dateToday  %}
 {% assign HasEvents = 'yes %' %}
 
-## Upcoming Events
-
 <!-- GROUP EVENTS BY DATE -->
 {% if forloop.first %}
 ## {{ event.Date | date: "%A %d %B %Y" }}
@@ -175,6 +173,7 @@ Support: {% continue %}{% endif %}
 
 {% endcapture %}
 {% if HasEvents %}
+<h2>Upcoming Events</h2>
 {{ EventsList | markdownify }}
 {% endif %}
 
