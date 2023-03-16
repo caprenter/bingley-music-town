@@ -12,8 +12,8 @@ echo $2
 if [ $1 = update ]
 then
 git checkout main
-git add .
-git commit -m "Automatic Update Live Music Data"
+#git add _data/
+git commit -am "Automatic Update Live Music Data"
 fi
 if [ $2 = push ]
 then
