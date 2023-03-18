@@ -7,7 +7,7 @@ Web: https://www.bingleywalkersarewelcome.org.uk/visiting-bingley/parks/myrtle-p
 Facebook: 
 Lat: 
 Lng: 
-Member: 'yes'
+Member: 'no'
 Description: Myrtle Park is in the heart of Bingley and as such is one of the most
   popular outdoor places in town. It's a huge park with a variety of native trees
   and wildlife and a large meadow nestled in one of the meanders of the River Aire.

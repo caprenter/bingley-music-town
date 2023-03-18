@@ -9,6 +9,7 @@
 [Tuition]({% link tuition.md %})<br/>
 [Upcoming Events]({% link live.md %})<br/>
 [Previous Events]({% link previous-events.md %})<br/>
+[Venues]({% link venues.md %})<br/>
 [Resources]({% link resources.md %})<br/>
 [Contact]({% link contact.md %})<br/>
 <!--[Bingley Music Town on Facebook<i class="fa fa-external-link" aria-hidden="true"></i>](https://facebook.com/bingleymusictown){:target="_blank" rel="noopener noreferrer"}-->

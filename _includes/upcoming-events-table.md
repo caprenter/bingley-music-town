@@ -1,40 +1,50 @@
 {% comment %}
-  Used in:
-  previous-events.md page
-  Individual Venue pages to show past events
+  Used when we want a set of upcoming events in a table
+  e.g.on the venues page
+
+  WhichVenue is set in venues.md and included here
 {% endcomment %}
 
 
 {% assign dateToday = 'now' | date: "%Y-%m-%d" %}
-{% assign events = site.data.events | sort: "Date" | reverse  %}
+{% assign events = site.data.events | sort: "Date" %}
 {% assign venues = site.data.venues %}
 
+{% comment %}
+  Set a variable so we know which venue we are talking about
+{% endcomment %}
+{% if include.WhichVenue %}
+{% assign ThisVenue = include.WhichVenue %}
+{% endif %}
+
+{% comment %}
+  First loop through everything to see if this venue has upcoming events
+{% endcomment %}
+{% for event in events %}
+{% if event.Venue == ThisVenue  %}
+{% if event.Date >= dateToday  %}
+{% assign HasEvents = 'yes' %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% if HasEvents == "yes" %}
 <div style="overflow-x:auto;" >
 <table class="events">
+<caption>Upcoming Events</caption>
 <tr>
 <th>Date</th>
 <th>Artist(s)</th>
-{% comment %}
-  No need to show the Venue column if we're on Venue page already.
-{% endcomment %}
-{% if page.layout != 'venue_page' %}<th>Venue</th>{% endif %}
 <th>Notes</th>
 </tr>
 {% for event in events %}
 {% assign mod2 = forloop.index | modulo: 2 %}
-{% if event.Date < dateToday  %}
-
-{% comment %}
-  If this is a venue page, we only want events that happened at that venue.
-  Otherwise we want all past events at all venues
-{% endcomment %}
-{% if page.layout == "venue_page" %}
-{% if event.Venue != page.Name %}
+{% if event.Date >= dateToday  %}
+{% if event.Venue != ThisVenue %}
 {% continue %}
 {% endif %}
-{% endif %}
 
-{% assign venue = site.venues | where:"Name", event.Venue | first %}
+{% assign venue = site.venues | where:"Name", ThisVenue | first %}
 
 <tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
 <td><a href="{{event.Link}}">{{ event.Date | date: "%a. %d %b %Y" }}</a></td>
@@ -50,8 +60,6 @@
 {% if web %}<a href="{{ web }}">{{ performer}}</a>{% else %}{{performer}}{% endif %}{%- if forloop.last -%}{% else %}, {% endif %}
 {% endfor %}
 </td>
-{% if page.title != "Venues" and page.layout != 'venue_page'%}
-<td>{% if venue.url %}<a href="{{site.url}}{{ venue.url }}">{{ venue.Name }}</a>{% else %}{{ event.Venue }}{%endif %}</td>{% endif %}
 <td>{% if event.Cancelled == "1"  %}Cancelled{% endif %}</td>
 </tr>
 {% assign web = false %}
@@ -59,3 +67,8 @@
 {% endfor %}  
 </table>
 </div>
+{% endif %}
+{% comment %}
+  Reset the HasEvents variable
+{% endcomment %}
+{% assign HasEvents = '' %}

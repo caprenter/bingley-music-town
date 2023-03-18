@@ -756,6 +756,9 @@ table.events {
     table-layout: auto;
     width: 100%;
 }
+table.events caption{
+    caption-side:top;
+}
 
 iframe, .fluid-width-video-wrapper {
     display: block;
