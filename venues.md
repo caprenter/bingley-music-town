@@ -1,14 +1,14 @@
 ---
 title: Venues
 layout: listing
-cover: splashes/BMTlogo_effects.jpg #No leading slash
-image-credit: "Photo: Martin Singleton"
+cover: splashes/BMTlogoSplash.jpg #No leading slash
+#image-credit:
 navigation: true
 ---
 
 This is a list of places in our district where live music takes place.
 
-Check out our [live events listing]({% link live.md %}).
+Check out our [live music events listing]({% link live.md %}).
 
 <div class="container logos venues">
 {% for venue in site.venues %}

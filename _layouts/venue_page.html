@@ -55,7 +55,7 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 <div class="org-contact">
 {% if page.email %}{% capture email %}* **Email:** [{{ page.email }}](mailto:{{ page.email }}){% endcapture %}{{ email | markdownify }}{% endif %}
 {% if page.Web %}{% capture web %}* **Web:** [{{ page.Web }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ page.Web }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ web | markdownify }}{% endif %}
-{% if page.Facebook %}{% capture facebook %}* **Facebook:** [{{ page.Facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/{{ page.facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}{% endif %}
+{% if page.Facebook %}{% capture facebook %}* **Facebook:** [{{ page.Facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ page.Facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}{% endif %}
 {% if page.Twitter %}{% capture twitter %}* **Twitter:** [{{ page.Twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://twitter.com/{{ page.twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}{% endif %}
 {% if page.instagram %}{% capture instagram %}* **Instagram:** [{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
 </div>
