@@ -1,5 +1,5 @@
 ---
-Name: Ryshworth club
+Name: Ryshworth Club
 Area: Crossflatts
 Address: Keighley Road, Bingley, United Kingdom
 Postcode: 
