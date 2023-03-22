@@ -30,7 +30,9 @@ Professionals who can help you to play and sing.
 {% if organisation.image %}
 <img src="{{ '/assets/images/organisations' | relative_url }}/{{ organisation.image }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
 {% endif %}
+{% if organisation.logo %}
 <img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
+{% endif %}
 
 </div>
 

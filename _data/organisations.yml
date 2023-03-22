@@ -219,7 +219,7 @@
 
 - name: Myrtle Park Primary School
   website: https://myrtleparkprimary.org/
-  #facebook: https://www.facebook.com/Bingley-Guitar-Studio-728490577262222/?ref=settings
+  #facebook: 
   twitter: https://twitter.com/MyrtlePrimary
   logo: Myrtle_Park_Primary_School.png
   email: office@myrtlepark.bradford.sch.uk
@@ -237,7 +237,7 @@
 - name: Bingley Music School
   website: https://bingleymusicschool.co.uk
   facebook: https://www.facebook.com/MusicSchoolBingley/
-  #twitter: https://twitter.com/MyrtlePrimary
+  #twitter:
   logo: bingley-music-school.png
   email: stubms@outlook.com
   #image:
@@ -252,3 +252,18 @@
     Bingley Music School is currently offering lessons in Guitar, Bass, Ukelele, Piano, Keyboard, Drums, Vocals and Music Theory.
 
     Small group or individual lessons are available to students at all levels of playing, each tailored to provide students with the correct tools for learning their instrument.
+
+- name: Bradnum Vocals
+  #website:
+  facebook: https://www.facebook.com/BradnumVocals/
+  #twitter: 
+  #logo:
+  email: e.bradnumvocals@gmail.com
+  #image:
+  type: tuition
+  member: true
+  short-description: |
+    Singing, Acting through song, Musical Theatre, and Vocal Coaching. Both In-person and online lessons.
+
+  description: |
+    Singing, Acting through song, Musical Theatre, and Vocal Coaching. Both In-person and online lessons.

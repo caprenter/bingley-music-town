@@ -10,7 +10,7 @@ short-description: 'Bingley Music School is currently offering lessons in Guitar
   Bass, Ukelele, Piano, Keyboard, Drums, Vocals and Music Theory.
 
   '
-description: |-
+description: |
   Set in Bingley town centre and established in 2010, Bingley Music School is family orientated and one of the best places in the Bradford area to learn music.
 
   Bingley Music School is currently offering lessons in Guitar, Bass, Ukelele, Piano, Keyboard, Drums, Vocals and Music Theory.
