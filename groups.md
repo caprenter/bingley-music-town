@@ -1,8 +1,8 @@
 ---
 title: Music Groups
 layout: listing
-cover: splashes/BMTlogo_effects.jpg #No leading slash
-image-credit: "Photo: Martin Singleton"
+cover: splashes/BMTlogo_SingingForFun.jpg #No leading slash
+image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 navigation: true
 ---
 
