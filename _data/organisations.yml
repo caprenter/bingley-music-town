@@ -257,7 +257,7 @@
   #website:
   facebook: https://www.facebook.com/BradnumVocals/
   #twitter: 
-  #logo:
+  logo: BMT_logo_green_Teacher_Bradnum.png
   email: e.bradnumvocals@gmail.com
   #image:
   type: tuition
@@ -296,3 +296,22 @@
     Contact Nick on 07947471851 for more information or through our website.
     
     Come and join the fun, we’d love to see you soon!!!
+
+- name: Sally Leeming
+  #website: 
+  #facebook: 
+  #twitter: 
+  logo: BMT_logo_blue_Teacher_Sally.png
+  email: sally.leeming@btinternet.com
+  phone: 07903513252
+  #image:
+  type: tuition
+  member: true
+  short-description: |
+    Musicianship through singing and Theory - Kodály Inspired Approach
+  description: |
+    Musicianship through singing and Theory - Kodály Inspired Approach
+
+    Children and Beginner Adults
+
+    Musicianship sessions also available online
