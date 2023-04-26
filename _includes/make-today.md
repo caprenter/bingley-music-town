@@ -61,8 +61,8 @@ Want to make your own music today ({{ weekday }})?<br>
 {% endif %}
 {% endif %}
 
-Check out our <a href="{% link regular-activities.md %}#{{ weekday | downcase }}">Regular Activities page</a> to see what's on. 
 {% else %}
 ## Make Music 
-Check out our <a href="{% link regular-activities.md %}">Regular Activities page</a> to see what's on offer.
 {% endif %}
+Check out our <a href="{% link regular-activities.md %}">Regular Activities page</a> to see what's on offer throughout the week.<br>
+Looking for [Music Teacher]({% link tuition.md %})? Check out our [Tuition page]({% link tuition.md %}).
