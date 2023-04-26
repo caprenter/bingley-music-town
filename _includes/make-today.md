@@ -38,10 +38,20 @@ Want to make your own music today ({{ weekday }})?<br>
 
 {% if weekday == "Thursday" %}
 {% include regular-thursday.md %}
+{% include nth-occurrence.md nth_occurrence=1 day_of_week=4 %}
+{% if TDTD %}
+**Every First Thursday of the month**<br>
+{% include regular-thursday-first.md %}
+{% endif %}
 {% include nth-occurrence.md nth_occurrence=2 day_of_week=4 %}
 {% if TDTD %}
 **Every Second Thursday of the month**<br>
 {% include regular-thursday-second.md %}
+{% endif %}
+{% include nth-occurrence.md nth_occurrence=3 day_of_week=4 %}
+{% if TDTD %}
+**Every Third Thursday of the month**<br>
+{% include regular-thursday-third.md %}
 {% endif %}
 {% endif %}
 

@@ -33,8 +33,14 @@ approx 7pm, [{{ venue.Name }}]({{ venue.url }}), Bingley
 ### Thursday 
 {% include regular-thursday.md %}
 
+#### First Thursday of the month
+{% include regular-thursday-first.md %}
+
 #### Second Thursday of the month
 {% include regular-thursday-second.md %}
+
+#### Third Thursday of the month
+{% include regular-thursday-third.md %}
 
 ### Saturday
 
