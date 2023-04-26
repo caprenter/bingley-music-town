@@ -1,0 +1,2 @@
+[Bingley Bellringers <i class="fa fa-external-link" aria-hidden="true"></i>](https://bingleybells.chessck.co.uk/RingingPracticeTimes){:target="_blank" rel="noopener noreferrer"}<br>
+7:30pm All Saints Church, Bingley

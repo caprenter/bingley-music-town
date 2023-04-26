@@ -1,0 +1,2 @@
+[Buskers <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/groups/824997727607702){:target="_blank" rel="noopener noreferrer"} (open mic)<br>
+7pm [Martinez Wine Bar <i class="fa fa-external-link" aria-hidden="true"></i>](https://martinez.co.uk/news-events/whats-martinez/){:target="_blank" rel="noopener noreferrer"}, Bingley

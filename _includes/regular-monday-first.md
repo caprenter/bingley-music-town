@@ -1,0 +1,2 @@
+[Bingley First Monday Folk <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/groups/1823602681007824){:target="_blank" rel="noopener noreferrer"}<br>
+7pm Rishworth Club, Crossflatts
