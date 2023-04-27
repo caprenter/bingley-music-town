@@ -9,6 +9,8 @@ Lat:
 Lng: 
 Member: 'no'
 Description: 
+splash: 
+image-credit: 
 LastUpdated: '2023-02-23'
 permalink: "/venues/bingley_arts_centre.html"
 layout: venue_page

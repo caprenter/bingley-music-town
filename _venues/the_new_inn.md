@@ -9,6 +9,8 @@ Lat: '53.822999'
 Lng: "-1.860593"
 Member: 'no'
 Description: 
+splash: 
+image-credit: 
 LastUpdated: '2023-02-23'
 permalink: "/venues/the_new_inn.html"
 layout: venue_page

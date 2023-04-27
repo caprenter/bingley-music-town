@@ -1,8 +1,8 @@
 ---
 title: Previous Events
 layout: listing 
-cover: splashes/BMTlogo_band.jpg #No leading slash
-#image-credit: Becs Leighton Music
+cover: splashes/BMTlogo_Wilko.jpg #No leading slash
+image-credit: Wilko Wilkes
 navigation: true
 ---
 

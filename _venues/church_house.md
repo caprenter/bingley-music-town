@@ -9,6 +9,8 @@ Lat:
 Lng: 
 Member: 'no'
 Description: 
+splash: 
+image-credit: 
 LastUpdated: '2023-03-27'
 permalink: "/venues/church_house.html"
 layout: venue_page

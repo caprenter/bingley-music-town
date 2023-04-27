@@ -1,8 +1,8 @@
 ---
 title: Live Music
 layout: listing
-cover: splashes/BMTlogo_Razerbills.jpg #No leading slash
-image-credit: The Razerbills
+cover: splashes/BMTlogo_band.jpg #No leading slash
+#image-credit: The Razerbills
 navigation: true
 ---
 

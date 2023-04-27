@@ -1,8 +1,8 @@
 ---
 title: Venues
 layout: listing
-cover: splashes/BMTlogo_SingingForFunGroup.jpg #No leading slash
-image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
+cover: splashes/BMTlogo_FiveRiseRecords.jpg #No leading slash
+image-credit: "Photo: Neil Horsley, Bingley Camera Club"
 navigation: true
 ---
 

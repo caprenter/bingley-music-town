@@ -9,6 +9,8 @@ Lat:
 Lng: 
 Member: 'no'
 Description: The original Potting Shed, planted in the pretty Market Town of Bingley
+splash: 
+image-credit: 
 LastUpdated: '2023-04-12'
 permalink: "/venues/the_potting_shed.html"
 layout: venue_page

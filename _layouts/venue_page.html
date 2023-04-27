@@ -9,9 +9,9 @@ class: 'page-template'
 
 <!-- Everything inside the #post tags pulls data from the page -->
 <!-- #post -->
-{% if page.image %}
+{% if page.splash %}
 {% capture background-image %}
-style="background-image: url({{ site.baseurl }}/assets/images/organisations/{{ page.image }})"
+style="background-image: url({{ site.baseurl }}/assets/images/splashes/{{ page.splash }})"
 {% endcapture %}
 {% else %}
 {% capture background-image %}

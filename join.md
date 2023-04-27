@@ -1,8 +1,8 @@
 ---
 title: Join
 layout: page 
-cover: splashes/BMTlogo_Wilko.jpg #No leading slash
-image-credit: Wilko Wilkes
+cover: splashes/BMTlogo_SingingForFunGroup.jpg #No leading slash
+image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 navigation: true
 ---
 Bingley Music Town was formally constituted on 9th November 2022.
