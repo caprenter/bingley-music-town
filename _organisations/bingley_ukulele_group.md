@@ -1,6 +1,6 @@
 ---
 name: Bingley Ukulele Group
-facebook: https://www.facebook.com/groups/BingleyUG/
+facebook: groups/BingleyUG/
 email: 
 logo: Bingley_Ukulele_Group.png
 type: music-group

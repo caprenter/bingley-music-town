@@ -1,7 +1,7 @@
 ---
 name: Bingley Guitar Studio
 website: http://bingleyguitarstudio.co.uk/
-facebook: https://www.facebook.com/Bingley-Guitar-Studio-728490577262222/?ref=settings
+facebook: Bingley-Guitar-Studio-728490577262222/?ref=settings
 logo: Bingley_Guitar_Studio.png
 type: tuition
 member: true

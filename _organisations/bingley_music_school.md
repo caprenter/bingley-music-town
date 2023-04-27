@@ -1,7 +1,7 @@
 ---
 name: Bingley Music School
 website: https://bingleymusicschool.co.uk
-facebook: https://www.facebook.com/MusicSchoolBingley/
+facebook: MusicSchoolBingley/
 logo: bingley-music-school.png
 email: stubms@outlook.com
 type: tuition

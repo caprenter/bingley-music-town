@@ -49,9 +49,9 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 {% if page.phone %}{% capture phone %}* **Phone:** {{ page.phone }}{% endcapture %}{{ phone | markdownify }}{% endif %}
 {% if page.email %}{% capture email %}* **Email:** [{{ page.email }}](mailto:{{ page.email }}){% endcapture %}{{ email | markdownify }}{% endif %}
 {% if page.website %}{% capture web %}* **Web:** [{{ page.website }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ page.website }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ web | markdownify }}{% endif %}
-{% if page.facebook %}{% capture facebook %}* **Facebook:** [{{ page.facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/{{ page.facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}{% endif %}
-{% if page.twitter %}{% capture twitter %}* **Twitter:** [{{ page.twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://twitter.com/{{ page.twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}{% endif %}
-{% if page.instagram %}{% capture instagram %}* **Instagram:** [{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
+{% if page.facebook %}{% capture facebook %}* **Facebook:** [https://www.facebook.com/{{ page.facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/{{ page.facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}{% endif %}
+{% if page.twitter %}{% capture twitter %}* **Twitter:** [https://twitter.com/{{ page.twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://twitter.com/{{ page.twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}{% endif %}
+{% if page.instagram %}{% capture instagram %}* **Instagram:** [https://www.instagram.com/{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
 </div>
 </div>
 <div class="column-4 organisation-image">

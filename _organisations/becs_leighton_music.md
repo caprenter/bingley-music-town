@@ -1,7 +1,7 @@
 ---
 name: Becs Leighton Music
 website: https://www.becsleightonmusic.com
-facebook: https://www.facebook.com/becsleightonmusic/
+facebook: becsleightonmusic/
 logo: Becs_Leighton_Music.png
 type: tuition
 member: true
@@ -16,7 +16,7 @@ description: "Piano, Flute, Musicianship and Music Theory Lessons:\n\n* For chil
   Bradford and Airedale Youth Choir,  and have worked with Ilkley Youth Choir, Village
   Voices and Barnsley Singers / Barnsley Youth Choir. \n* I provide piano accompaniment
   for music exams / performances on a freelance basis - find out more on the accompaniment
-  page.\n\nI am also Secretary of Bingley Music Town"
+  page.\n\nI am also Secretary of Bingley Music Town\n"
 permalink: "/organisations/becs_leighton_music.html"
 layout: org_page
 ---

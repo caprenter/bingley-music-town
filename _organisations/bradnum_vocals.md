@@ -1,7 +1,7 @@
 ---
 name: Bradnum Vocals
-facebook: https://www.facebook.com/BradnumVocals/
-logo: BMT_logo_green_Teacher_Bradnum.png
+facebook: BradnumVocals/
+logo: Bradnum.png
 email: e.bradnumvocals@gmail.com
 type: tuition
 member: true

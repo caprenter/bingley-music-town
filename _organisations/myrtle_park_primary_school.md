@@ -1,7 +1,7 @@
 ---
 name: Myrtle Park Primary School
 website: https://myrtleparkprimary.org/
-twitter: https://twitter.com/MyrtlePrimary
+twitter: MyrtlePrimary
 logo: Myrtle_Park_Primary_School.png
 email: office@myrtlepark.bradford.sch.uk
 type: school

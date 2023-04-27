@@ -95,7 +95,7 @@
     Come along to one of our gigs to check us out, and/or contact us to check our availability.
 
 - name: The Shed Planners Association - BFD
-  #website: https://www.facebook.com/shedplannersbfd/
+  #website: shedplannersbfd/
   facebook: shedplannersbfd
   logo: ShedPlannersLogo.jpg  
   #image:
@@ -128,8 +128,8 @@
     Every Wednesday, 11:30 -12:30.    
 
 - name: All Together Now
-  #website: https://www.facebook.com/atnsing
-  facebook: https://www.facebook.com/atnsing
+  #website: atnsing
+  facebook: atnsing
   email: admin@atnsing.co.uk
   logo: All_Together_Now_logo.png
   #image:
@@ -152,8 +152,8 @@
     Get in touch if you are interested in joining us. Your first session is free so you've got nothing to lose in coming along
 
 - name: Cullingworth Ukulele Group
-  #website: https://www.facebook.com/atnsing
-  facebook: https://www.facebook.com/groups/326869992873872
+  #website: atnsing
+  facebook: groups/326869992873872
   email: 
   logo: Cullingworth_Ukulele_Group.png
   #image:
@@ -170,7 +170,7 @@
 
 - name: Becs Leighton Music
   website: https://www.becsleightonmusic.com
-  facebook: https://www.facebook.com/becsleightonmusic/
+  facebook: becsleightonmusic/
   logo: Becs_Leighton_Music.png
   #image:
   type: tuition
@@ -193,7 +193,7 @@
 
 - name: Bingley Guitar Studio
   website: http://bingleyguitarstudio.co.uk/
-  facebook: https://www.facebook.com/Bingley-Guitar-Studio-728490577262222/?ref=settings
+  facebook: Bingley-Guitar-Studio-728490577262222/?ref=settings
   logo: Bingley_Guitar_Studio.png
   #image:
   type: tuition
@@ -220,7 +220,7 @@
 - name: Myrtle Park Primary School
   website: https://myrtleparkprimary.org/
   #facebook: 
-  twitter: https://twitter.com/MyrtlePrimary
+  twitter: MyrtlePrimary
   logo: Myrtle_Park_Primary_School.png
   email: office@myrtlepark.bradford.sch.uk
   #image:
@@ -236,7 +236,7 @@
   
 - name: Bingley Music School
   website: https://bingleymusicschool.co.uk
-  facebook: https://www.facebook.com/MusicSchoolBingley/
+  facebook: MusicSchoolBingley/
   #twitter:
   logo: bingley-music-school.png
   email: stubms@outlook.com
@@ -255,9 +255,9 @@
 
 - name: Bradnum Vocals
   #website:
-  facebook: https://www.facebook.com/BradnumVocals/
+  facebook: BradnumVocals/
   #twitter: 
-  logo: BMT_logo_green_Teacher_Bradnum.png
+  logo: Bradnum.png
   email: e.bradnumvocals@gmail.com
   #image:
   type: tuition
@@ -270,7 +270,7 @@
 
 - name: Voices of Yorkshire
   website: https://www.voicesofyorkshire.com
-  facebook: https://www.facebook.com/profile.php?id=100057359113320
+  facebook: profile.php?id=100057359113320
   #twitter: 
   logo: Voices-of-Yorkshire.png
   #email:
@@ -319,8 +319,8 @@
     Musicianship sessions also available online
 
 - name: Bingley Ukulele Group
-  #website: https://www.facebook.com/atnsing
-  facebook: https://www.facebook.com/groups/BingleyUG/
+  #website: atnsing
+  facebook: groups/BingleyUG/
   email: 
   logo: Bingley_Ukulele_Group.png
   #image:
@@ -333,3 +333,18 @@
     Other instruments and singers are also welcome.
 
     Meets at the Peacock bar in Bingley on the 1st and 3rd Thursdays of the month. 
+
+- name: Catherine Radcliffe Piano Tuition
+  website: http://catherineradcliffepiano.weebly.com
+  facebook: catherineradcliffepiano
+  twitter: pianocat5
+  #email: 
+  logo: BMT_logo_green_Teacher_Catherine.png
+  #image:
+  type: tuition
+  member: true
+  short-description: |
+    One to one piano and theory lessons for beginners and improvers, children and adults all welcome. In person and online lessons available.
+
+  description: |
+        One to one piano and theory lessons for beginners and improvers, children and adults all welcome. In person and online lessons available.

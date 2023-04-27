@@ -1,6 +1,6 @@
 ---
 name: All Together Now
-facebook: https://www.facebook.com/atnsing
+facebook: atnsing
 email: admin@atnsing.co.uk
 logo: All_Together_Now_logo.png
 type: music-group
