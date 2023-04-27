@@ -8,11 +8,22 @@ navigation: true
 
 ## Upcoming Meetings
 
-### Wednesday 8th March 2023
-#### Steering Group Meeting
-**7pm - 8pm, Bar 66, Bingley**<br/>
-Steering Group meetings are about the work that needs to be done to keep the organisation going.
-Members and non-members are welcome to come along to observe and to meet up.
+### Steering Group Meetings
+
+* Wednesday May May 2023
+* Wednesday June 14th 2023
+* Wednesday July 19th 2023
+* Wednesday August 9th 2023
+* Wednesday September 13th 2023
+* Wednesday October 11th 2023
+* Wednesday November 8th 2023
+
+
+We meet at 7pm - 8pm, at Cardigan House, Ferncliffe Rd, Bingley BD16 2TA
+
+All are welcome, come along and help us get through the usual business and hatch new plans!
+
+Let us know if you're planning on coming down.
 
 ## About Meetings
 * Steering group meetings are usually on the second Wednesday of the month
