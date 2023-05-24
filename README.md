@@ -51,6 +51,12 @@ To update generated markdown delete that directory as existing files are not upd
 * Delete the corresponding entry under `/_organisations` (or the entire _organisations directory)
 * rebuild that page(s)with `bundle exec jekyll pagemaster organisations`
 
+## What if my organisation is also a venue
+
+Create an organisation in organisations.yml - you don't need to complete all fields
+
+we use the `jekyll-redirect-from` gem to redirect the org page to a venue page. 
+See Cottingley Community Centre as an example.
 
 ## Generating individual venue pages
 We generate markdown for each venue page by using the pagemaster plugin/gem.

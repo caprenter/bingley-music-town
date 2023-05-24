@@ -379,3 +379,9 @@
         In short, it brings such diverse pleasure to our lives. 
         
         Help us maintain and nurture this wonderful place!
+
+- name: Cottingley Community Centre
+  redirect_to: /venues/cottingley_community_centre.html
+  logo: cottingley-community-centre.png
+  type: venue
+  member: true

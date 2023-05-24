@@ -76,6 +76,7 @@ source_url:  https://github.com/caprenter/bingley-music-town/
 # gems and other configs
 plugins:
  - pagemaster
+ - jekyll-redirect-from
 
 # Jekyll collection definitions
 # Pagemaster bases its configuration on these
