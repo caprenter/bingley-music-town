@@ -2345,6 +2345,9 @@ figcaption {
         margin-bottom: 15px;
         height: 40vh;
     }
+    a.site-name {
+        font-size: 2.6rem;
+      }
 
     /*.identity {
         width: 100%;
