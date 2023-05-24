@@ -46,6 +46,15 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 </div>
 
 <div class="org-contact">
+{% if page.internal-link %}
+{% capture internal-link %}
+**See also:** <a href="{{ page.internal-link | relative-url }}">{{page.internal-link-text}}</a>
+{% endcapture %}
+{{ internal-link | markdownify }}
+{% endif %}
+</div>
+
+<div class="org-contact">
 {% if page.phone %}{% capture phone %}* **Phone:** {{ page.phone }}{% endcapture %}{{ phone | markdownify }}{% endif %}
 {% if page.email %}{% capture email %}* **Email:** [{{ page.email }}](mailto:{{ page.email }}){% endcapture %}{{ email | markdownify }}{% endif %}
 {% if page.website %}{% capture web %}* **Web:** [{{ page.website }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ page.website }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ web | markdownify }}{% endif %}

@@ -80,6 +80,11 @@ To update generated markdown delete that directory as existing files are not upd
 * Delete the corresponding entry under `/_venues` (or the entire _venues directory)
 * rebuild that page(s)with `bundle exec jekyll pagemaster venues`
 
+## Internal links between organisations and venues
+
+Put the path and the link text in the venues spreadsheet, and/or in the organisations.yml file.
+
+Examples of both exist. 
 
 ## Logos in the pre-footer area
 These are included in the `index.md` file from `_include/gallery.html` and should show all the logos that we have.

@@ -1,20 +1,20 @@
-Name,Area,Address,Postcode,Web,Facebook,Lat,Lng,Member,Description,splash,image-credit,LastUpdated
-The New Inn,Wisden,"114 Main Street, Wilsden",", BD15 0AB",https://whatpub.com/pubs/BRA/415/new-inn-wilsden,https://www.facebook.com/newinnwilsden,53.822999,-1.860593,no,,,,2023-02-23
-The Brown Cow,Bingley,"The Brown Cow, Ireland Bridge, Bingley, United Kingdom",,https://browncowbingley.com,https://www.facebook.com/Bingleybrowncow,53.849957,-1.8419507,no,,,,2023-02-23
-The 66 Bar,Bingley,"1 Burrage Street, Bingley",,,https://www.facebook.com/the66bar/,,,no,,,,2023-02-23
-Ryshworth Club,Crossflatts,"Keighley Road, Bingley, United Kingdom",,,https://www.facebook.com/people/Ryshworth-club/100064764558910/,,,no,,,,2023-02-23
-Cottingley Town Hall,Cottingley,"Main Street, Cottingley",BD16 1SR,,,,,no,,,,2023-02-23
-Bingley Arts Centre,Bingley,"Main Street, Bingley",BD16 2LZ,https://www.bingleyartscentre.co.uk,,,,no,,,,2023-02-23
-The Royal,Crossflatts,"26 Keighley Rd, Crossflatts, Bingley",BD16 2EZ,,https://www.facebook.com/profile.php?id=100085052125370,,,no,,,,2023-02-24
-The Villager Pub,Wilsden,"Peel Street, Wilsden",BD15 0JE,https://www.villagerpubwilsden.co.uk/index,https://www.facebook.com/profile.php?id=100035150184789,,,no,,,,2023-02-24
-Ling Bob,Wilsden,"Haworth Road, Wilsden",,https://www.thelingbob.co.uk,https://www.facebook.com/LingBobWilsden,,,no,,,,2023-02-24
-Martinez Bingley Wine Shop & Wine Bar,Bingley,"110 Main Street, Bingley",,https://martinez.co.uk/,https://www.facebook.com/MartinezWinesBingley,,,no,,,,2023-03-08
-Five Rise Records,Bingley,"30E Park Road, Bingley",BD16 4JQ,https://www.fiveriserecords.co.uk/,https://www.facebook.com/FiveRiseRecords,,,yes,,BMTlogo_FiveRiseRecords.jpg,"Photo: Neil Horsley, Bingley Camera Club",2023-03-10
-Myrtle Park,Bingley,"Myrtle Grove, Bingley",BD16 2LQ,https://www.bingleywalkersarewelcome.org.uk/visiting-bingley/parks/myrtle-park-in-bingley/,,,,no,Myrtle Park is in the heart of Bingley and as such is one of the most popular outdoor places in town. It's a huge park with a variety of native trees and wildlife and a large meadow nestled in one of the meanders of the River Aire.,,,2023-03-13
-Bradford And Bingley Rugby Club,Bingley,"Wagon Lane, Bingley",BD16 1LT,https://www.beesrfc.com/,https://www.facebook.com/beesrugby/,,,no,Home to the Bingley Weekender festival and live music at various times throughout the year.,,,2023-03-16
-All Saints Parish Church,Bingley,"Old Main Street, Bingley",BD16 2RH,https://www.allsaintsbingley.org.uk,https://www.facebook.com/BingleyParishChurch,,,no,An ancient church which has served the congregation and people of Bingley for over a thousand years.,,,2023-03-18
-Church House,Bingley,"Main Street, Bingley",BD16 2 RH,,,,,no,,,,2023-03-27
-The Potting Shed,Bingley,"94 Main St, Bingley",BD16 2JH,https://pottingshedbar.com,https://www.facebook.com/ThePottingShedBingley,,,no,"The original Potting Shed, planted in the pretty Market Town of Bingley",,,2023-04-12
-The Peacock Bar Bingley,Bingley,Wellington Street,BD16 2NB,https://www.peacockbar.co.uk/peacock-bingley/,https://www.facebook.com/peacockbarbingley,,,no,Authentic Indian bar with real ale and Indian street food with a twist.,,,2023-04-26
-The Fisherman's Pub,Bingley,"Wagon Lane, Bingley",BD16 1TS,https://www.fishermansinn.co.uk/,https://www.facebook.com/fishermanbingley/,,,no,The Fisherman's canal side pub and restaurant is situated on the Outskirts of Bingley on Wagon Lane.,,,2023-05-11
-Cottingley Community Centre,Cottingley,"Littlelands, Bingley",BD16 1AL,https://www.cottingleycommunitycentre.net/,https://www.facebook.com/cottingleycornerstone1,,,no,A purpose built community and corporate centre which houses offices and meeting rooms as well as a large event space with a bar and cafe.,,,2023-05-23
+Name,Area,Address,Postcode,Web,Facebook,Lat,Lng,Member,Description,splash,image-credit,internal-link,internal-link-text,LastUpdated
+The New Inn,Wisden,"114 Main Street, Wilsden",", BD15 0AB",https://whatpub.com/pubs/BRA/415/new-inn-wilsden,https://www.facebook.com/newinnwilsden,53.822999,-1.860593,no,,,,,,2023-02-23
+The Brown Cow,Bingley,"The Brown Cow, Ireland Bridge, Bingley, United Kingdom",,https://browncowbingley.com,https://www.facebook.com/Bingleybrowncow,53.849957,-1.8419507,no,,,,,,2023-02-23
+The 66 Bar,Bingley,"1 Burrage Street, Bingley",,,https://www.facebook.com/the66bar/,,,no,,,,,,2023-02-23
+Ryshworth Club,Crossflatts,"Keighley Road, Bingley, United Kingdom",,,https://www.facebook.com/people/Ryshworth-club/100064764558910/,,,no,,,,,,2023-02-23
+Cottingley Town Hall,Cottingley,"Main Street, Cottingley",BD16 1SR,,,,,no,,,,,,2023-02-23
+Bingley Arts Centre,Bingley,"Main Street, Bingley",BD16 2LZ,https://www.bingleyartscentre.co.uk,,,,no,,,,,,2023-02-23
+The Royal,Crossflatts,"26 Keighley Rd, Crossflatts, Bingley",BD16 2EZ,,https://www.facebook.com/profile.php?id=100085052125370,,,no,,,,,,2023-02-24
+The Villager Pub,Wilsden,"Peel Street, Wilsden",BD15 0JE,https://www.villagerpubwilsden.co.uk/index,https://www.facebook.com/profile.php?id=100035150184789,,,no,,,,,,2023-02-24
+Ling Bob,Wilsden,"Haworth Road, Wilsden",,https://www.thelingbob.co.uk,https://www.facebook.com/LingBobWilsden,,,no,,,,,,2023-02-24
+Martinez Bingley Wine Shop & Wine Bar,Bingley,"110 Main Street, Bingley",,https://martinez.co.uk/,https://www.facebook.com/MartinezWinesBingley,,,no,,,,,,2023-03-08
+Five Rise Records,Bingley,"30E Park Road, Bingley",BD16 4JQ,https://www.fiveriserecords.co.uk/,https://www.facebook.com/FiveRiseRecords,,,yes,,BMTlogo_FiveRiseRecords.jpg,"Photo: Neil Horsley, Bingley Camera Club",,,2023-03-10
+Myrtle Park,Bingley,"Myrtle Grove, Bingley",BD16 2LQ,https://www.bingleywalkersarewelcome.org.uk/visiting-bingley/parks/myrtle-park-in-bingley/,,,,no,Myrtle Park is in the heart of Bingley and as such is one of the most popular outdoor places in town. It's a huge park with a variety of native trees and wildlife and a large meadow nestled in one of the meanders of the River Aire.,,,/organisations/friends_of_myrtle_park.html,Friends Of Myrtle Park,2023-03-13
+Bradford And Bingley Rugby Club,Bingley,"Wagon Lane, Bingley",BD16 1LT,https://www.beesrfc.com/,https://www.facebook.com/beesrugby/,,,no,Home to the Bingley Weekender festival and live music at various times throughout the year.,,,,,2023-03-16
+All Saints Parish Church,Bingley,"Old Main Street, Bingley",BD16 2RH,https://www.allsaintsbingley.org.uk,https://www.facebook.com/BingleyParishChurch,,,no,An ancient church which has served the congregation and people of Bingley for over a thousand years.,,,,,2023-03-18
+Church House,Bingley,"Main Street, Bingley",BD16 2 RH,,,,,no,,,,,,2023-03-27
+The Potting Shed,Bingley,"94 Main St, Bingley",BD16 2JH,https://pottingshedbar.com,https://www.facebook.com/ThePottingShedBingley,,,no,"The original Potting Shed, planted in the pretty Market Town of Bingley",,,,,2023-04-12
+The Peacock Bar Bingley,Bingley,Wellington Street,BD16 2NB,https://www.peacockbar.co.uk/peacock-bingley/,https://www.facebook.com/peacockbarbingley,,,no,Authentic Indian bar with real ale and Indian street food with a twist.,,,,,2023-04-26
+The Fisherman's Pub,Bingley,"Wagon Lane, Bingley",BD16 1TS,https://www.fishermansinn.co.uk/,https://www.facebook.com/fishermanbingley/,,,no,The Fisherman's canal side pub and restaurant is situated on the Outskirts of Bingley on Wagon Lane.,,,,,2023-05-11
+Cottingley Community Centre,Cottingley,"Littlelands, Bingley",BD16 1AL,https://www.cottingleycommunitycentre.net/,https://www.facebook.com/cottingleycornerstone1,,,no,A purpose built community and corporate centre which houses offices and meeting rooms as well as a large event space with a bar and cafe.,,,,,2023-05-23

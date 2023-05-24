@@ -13,6 +13,8 @@ Description: Myrtle Park is in the heart of Bingley and as such is one of the mo
   and wildlife and a large meadow nestled in one of the meanders of the River Aire.
 splash: 
 image-credit: 
+internal-link: "/organisations/friends_of_myrtle_park.html"
+internal-link-text: Friends Of Myrtle Park
 LastUpdated: '2023-03-13'
 permalink: "/venues/myrtle_park.html"
 layout: venue_page

@@ -43,11 +43,11 @@
 {% for performer in performers -%}
 {% assign artist = site.data.artists | where:"Name", performer | first  %}
 {% if {{artist.Web}} %}
-{% assign web = {{artist.Web}} %}
+{% assign artist_web = {{artist.Web}} %}
 {% elsif {{artist.Facebook}} %}
-{% assign web = {{artist.Facebook}} %}
+{% assign artist_web = {{artist.Facebook}} %}
 {% endif %}
-{% if web %}<a href="{{ web }}">{{ performer}}</a>{% else %}{{performer}}{% endif %}{%- if forloop.last -%}{% else %}, {% endif %}
+{% if artist_web %}<a href="{{ artist_webweb }}">{{ performer}}</a>{% else %}{{performer}}{% endif %}{%- if forloop.last -%}{% else %}, {% endif %}
 {% endfor %}
 </td>
 {% if page.title != "Venues" and page.layout != 'venue_page'%}
