@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #  username:
 #  card: summary #keep this to generate a twitter share card
 #
-# For the Logos
+# For the Gallery
 defaults:
   - scope:
       path: "assets/images/gallery"

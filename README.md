@@ -92,6 +92,19 @@ Put the path and the link text in the venues spreadsheet, and/or in the organisa
 
 Examples of both exist. 
 
+## Gallery
+
+Place images in '/assets/images/gallery'
+
+File names of the images are used to generate captions etc.
+
+Underscores in filenames will be replaced by spaces in captions, titles and alt text. 
+
+Run this script in that directory to generate Thumbnails
+    
+    find . \( -name '*.jpg' -or -name '*.JPG' \) -print0 |  while read -d $'\0' file ; do convert -define jpeg:size=400x400  "$file" -thumbnail 300x300^ -gravity center -extent 300x300  ../thumbnails/"$file" ; done
+
+
 ## Logos in the pre-footer area
 These are included in the `index.md` file from `_include/gallery.html` and should show all the logos that we have.
 
