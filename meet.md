@@ -11,7 +11,7 @@ navigation: true
 ### Steering Group Meetings
 
 * Wednesday June 14th 2023
-* Wednesday July 19th 2023
+* Wednesday July 12th 2023
 * Wednesday August 9th 2023
 * Wednesday September 13th 2023
 * Wednesday October 11th 2023
