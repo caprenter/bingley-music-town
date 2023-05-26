@@ -23,6 +23,7 @@ Get up to speed with what we're doing...
 * [What's missing (that a Music Town might have)<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.azivrbtwiz2u){:target="_blank" rel="noopener noreferrer"}.
 
 ### News
+* [May 2023 Newsletter](https://mailchi.mp/f44a81680a13/bingley-music-town-news-may-2023){:target="_blank" rel="noopener noreferrer"}
 * [April 2023 Newsletter](https://mailchi.mp/355bac5ba170/bingley-music-town-news-april-2023){:target="_blank" rel="noopener noreferrer"}
 * [March 2023 Newsletter](https://mailchi.mp/2a270ea0026f/bingley-music-town-february-2023-news-362323){:target="_blank" rel="noopener noreferrer"}
 * [February 2023 Newsletter](https://us21.campaign-archive.com/?u=7fbce00836d596f9a960cfed6&id=d92c4bda77){:target="_blank" rel="noopener noreferrer"}
