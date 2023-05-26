@@ -16,13 +16,13 @@
 
 {% if next_on %}
 {% assign venue = site.venues | where:"Name", next_on.Venue | first %}
-Playing on {{ next_on.Date | date: "%a. %d %b %Y" }} at [{{ venue.Name }}]({{ venue.url }})
+**Playing on** {{ next_on.Date | date: "%a. %d %b %Y" }} at [{{ venue.Name }}]({{ venue.url }})
 {% endif %}
 
 {{ artist.About }}
 {% if artist.Web %}
 {% capture web %}**Web:** [{{ artist.Web }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ artist.Web }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ web | markdownify }}
-{% elsif artist.Facebook %}{% capture facebook %}**Facebook:** [{{ artist.Facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/{{ artist.Facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}
+{% elsif artist.Facebook %}{% capture facebook %}**Facebook:** [{{ artist.Facebook }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ artist.Facebook }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ facebook | markdownify }}
 {% elsif artist.Twitter %}{% capture twitter %}**Twitter:** [{{ artist.Twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ artist.Twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}
 {% elsif artist.Instagram %}{% capture instagram %}**Instagram:** [{{ artist.Instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>]({{ artist.Instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}
 {% endif %}
