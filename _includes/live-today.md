@@ -7,6 +7,7 @@
 {% assign artists = site.data.artists %}
 {% assign venues = site.data.venues %}
 
+
 ## Live Music
 Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 
@@ -31,7 +32,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 
 </div>
 </div>
-{% endif %} <!-- if today -->
+{% endif %}
 {% endfor %}
 
 {% if week-date %}
@@ -43,10 +44,9 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 
 {%- if currentYear == eventYear and eventDay < currentDay_plus_seven_days and eventDay >= tomorrow  -%}
 {% assign slug = event.Date | date:"%A-%d-%B-%Y" %}
-{{ event.Date | date: "%a. %d %b" }}: [{{ event.Artists }}]({{ '/live#' | relative_url }}#{{ slug | downcase  }})
+{{ event.Date | date: "%a. %d %b" }}: [{{ event.Artists }}]({{ '/live#' | relative_url }}#{{ slug | downcase  }}) - 
+{% for venue in venues %} {% if venue.Name == event.Venue %}{% assign ThisVenue = site.venues | where:"Name", venue.Name | first %}[{{ venue.Name }}]( {{site.url}}{{ ThisVenue.url }} ){% endif %}{% endfor %}
 {% assign week-date = event.Date %}
 {%- endif -%}
-    
 {%- endfor -%}
-
-{%- endif -%} <!-- if event in the coming week --> 
+{%- endif -%}
