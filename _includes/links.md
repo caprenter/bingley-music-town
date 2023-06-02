@@ -7,6 +7,7 @@
 [Music Groups]({% link groups.md %})<br/>
 [Regular Activities]({% link regular-activities.md %})<br/>
 [Tuition]({% link tuition.md %})<br/>
+[Instruments]({% link instruments.md %})<br/>
 [Upcoming Events]({% link live.md %})<br/>
 [Previous Events]({% link previous-events.md %})<br/>
 [Venues]({% link venues.md %})<br/>
