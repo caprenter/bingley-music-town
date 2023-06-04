@@ -48,6 +48,6 @@ approx 7pm, [{{ venue.Name }}]({{ venue.url }}), Bingley
 {% include regular-saturday-first.md %}
 
 ### Sunday
-
+{% include regular-sunday.md %}
 #### Second Sunday of the month
 {% include regular-sunday-second.md %}

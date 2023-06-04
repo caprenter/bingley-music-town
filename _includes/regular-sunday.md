@@ -2,5 +2,5 @@
     | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
     | first %}
 [{{ organisation.name }}]({{ organisation.url }})<br>
-Always willing to welcome new recruits to train and become part of the team.<br>
-7:30pm All Saints Church, Bingley
+We ring on Sundays for morning service and practice on Tuesday evenings, 7.30-9.00pm.<br>
+9.45-10.30am All Saints Church, Bingley

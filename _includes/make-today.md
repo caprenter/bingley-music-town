@@ -64,6 +64,7 @@ Want to make your own music today ({{ weekday }})?<br>
 {% endif %}
 
 {% if weekday == "Sunday" %}
+{% include regular-sunday.md %}
 {% include nth-occurrence.md nth_occurrence=2 day_of_week=0 %}
 {% if TDTD %}
 **Every Second Sunday of the month**<br>

@@ -2,6 +2,7 @@
 {% assign currentYear = site.time | date: "%Y" %}
 {% assign tomorrow = site.time | date: "%j" | plus: 1 %}
 {% assign currentDay_plus_seven_days = site.time | date: "%j" | plus: 7  %}
+{% assign weekday = "now" | date: "%A" %}
 
 {% assign events = site.data.events | sort: "Date"  %}
 {% assign artists = site.data.artists %}
@@ -10,6 +11,19 @@
 
 ## Live Music
 Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
+{% if weekday == "Sunday" %}
+{% assign organisation = site.organisations 
+    | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
+    | first %}
+9:45am - 10:30am - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for the Sunday service.
+{% endif %}
+
+{% if weekday == "Tuesday" %}
+{% assign organisation = site.organisations 
+    | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
+    | first %}
+7:30pm - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for practice.
+{% endif %}
 
 {% for event in events %}
 {% assign eventYear = event.Date | date: "%Y" %}
