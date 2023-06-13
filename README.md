@@ -17,6 +17,8 @@ Use the script under
 
 to set up a cron job. The job is logged in a jekyll_update.log file locally.
 
+This requires a GitHub authentication token which expires every now and again. If you need to replace that token you do it on the server that is running the cron job in the above file.
+
 ## Local Development
 To run this locally
 
