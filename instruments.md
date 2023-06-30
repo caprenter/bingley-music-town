@@ -34,3 +34,86 @@ So far we have found new homes for:
 </div>
 </div>
 </div>
+
+{% comment %}
+Show tables of instruments avialbale and already gone
+{% endcomment %}
+
+{% assign instruments = site.data.instruments %}
+
+{% assign gone = "" | split: ',' %}
+{% assign available = "" | split: ',' %}
+{% assign reserved = "" | split: ',' %}
+
+{% for instrument in instruments %}
+    {% if instrument.DateOut %}
+         {% assign gone = gone | push: instrument %}
+    {% elsif instrument.ReservedDate %}
+        {% assign reserved = reserved | push: instrument %}
+        {% assign has-reserved = true %}
+    {% else %}
+        {% assign available = available | push: instrument %}
+  {% endif %}
+{% endfor %}
+
+## Available Instruments
+<div style="overflow-x:auto;" >
+<table class="events">
+<tr>
+<th>Instrument</th>
+<th>Description</th>
+<th>Notes</th>
+</tr>
+{% for instrument in available %}
+{% assign mod2 = forloop.index | modulo: 2 %}
+
+<tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
+<td>{{ instrument.Item }}</td>
+<td>{{ instrument.Description }}</td>
+<td>{{ instrument.SpecialRequirements }}</td>
+</tr>
+{% endfor %}  
+</table>
+</div>
+
+{% if has-reserved %}
+## Reserved for Collection
+<div style="overflow-x:auto;" >
+<table class="events">
+<tr>
+<th>Instrument</th>
+<th>Description</th>
+<th>Notes</th>
+</tr>
+{% for instrument in reserved %}
+{% assign mod2 = forloop.index | modulo: 2 %}
+
+<tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
+<td>{{ instrument.Item }}</td>
+<td>{{ instrument.Description }}</td>
+<td>{{ instrument.SpecialRequirements }}</td>
+</tr>
+{% endfor %}  
+</table>
+</div>
+{% endif %}
+
+## We've distributed the following
+<div style="overflow-x:auto;" >
+<table class="events">
+<tr>
+<th>Instrument</th>
+<th>Description</th>
+<th>Notes</th>
+</tr>
+{% for instrument in gone %}
+{% assign mod2 = forloop.index | modulo: 2 %}
+
+<tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
+<td>{{ instrument.Item }}</td>
+<td>{{ instrument.Description }}</td>
+<td>{{ instrument.SpecialRequirements }}</td>
+</tr>
+{% endfor %}  
+</table>
+</div>
