@@ -128,6 +128,11 @@ Fetch the data with the script:
 
 We use the data to build a live listing page, a previous events page, and to populate the front page with live events today.
 
+## Instruments
+Data is held in a google spreadsheet. Google forms collect the basic info.
+We need to download the instruments sheet as a csv to update the website.
+We could make this a public sheet and automate it.
+Images are saved and named and then the filename is added to the spreadsheet
 
 ## Contributing
 Please fork the repo,and make pull requests from your clone to this one.

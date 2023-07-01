@@ -20,7 +20,7 @@ We've found ourselves finding good homes for instruments people no longer need, 
 
 This service is run voluntarily by Dave Johnson at Bingley Guitar Studio, First Floor 122-124 Main Street (above Fingerprints Printers), Bingley, BD16 2HL
 
-## Donate and instrument
+## Donate an instrument
 
 Fill in our [Donate an Instrument form](https://docs.google.com/forms/d/e/1FAIpQLSfpGeqaYlQz2LAsN3985pGQv32smi1tkOYU_kkgBsaX7lsrMg/viewform) , and we'll be in touch.
 
