@@ -18,25 +18,19 @@ Got an instrument you no longer need?
 
 We've found ourselves finding good homes for instruments people no longer need, and we're happy to keep on doing so.
 
-[Get in touch]({% link contact.md %}) if you have an instrument looking for a new home.
+This service is run voluntarily by Dave Johnson at Bingley Guitar Studio, First Floor 122-124 Main Street (above Fingerprints Printers), Bingley, BD16 2HL
 
-<div class="container">
-<div class="row">
-<div class="col-4" markdown="1">
-![image tooltip here](/assets/images/instruments/yamaha_thumb.jpg)
-</div>
-<div class="col-8" markdown="1">
-So far we have found new homes for:
+## Donate and instrument
 
- * a keyboard that was found in a house clearance and went to the student of Wilsden music teacher Paul Janetta. 
-* another keyboard that went to a family where the child learns at school but they could not afford an instrument at home.
-* a classical guitar, drum sticks, and other bits and pieces that went to a gigging drummer, and the guitar went to a singer in a punk band who is also learning to play guitar.
-</div>
-</div>
-</div>
+Fill in our [Donate an Instrument form](https://docs.google.com/forms/d/e/1FAIpQLSfpGeqaYlQz2LAsN3985pGQv32smi1tkOYU_kkgBsaX7lsrMg/viewform) , and we'll be in touch.
+
+## Request an instrument
+
+Fill in our [Request and Instrument form](https://docs.google.com/forms/d/e/1FAIpQLSfgOb9AqzPsfuYIa1MiFecc6Fuw5kwAUicM_X0914f5r9BMdQ/viewform), and we'll be in touch.
+
 
 {% comment %}
-Show tables of instruments avialbale and already gone
+Show tables of instruments available and already gone
 {% endcomment %}
 
 {% assign instruments = site.data.instruments %}
@@ -57,63 +51,25 @@ Show tables of instruments avialbale and already gone
 {% endfor %}
 
 ## Available Instruments
-<div style="overflow-x:auto;" >
-<table class="events">
-<tr>
-<th>Instrument</th>
-<th>Description</th>
-<th>Notes</th>
-</tr>
 {% for instrument in available %}
 {% assign mod2 = forloop.index | modulo: 2 %}
-
-<tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
-<td>{{ instrument.Item }}</td>
-<td>{{ instrument.Description }}</td>
-<td>{{ instrument.SpecialRequirements }}</td>
-</tr>
+{% include instrument.md %}
 {% endfor %}  
-</table>
-</div>
+
 
 {% if has-reserved %}
 ## Reserved for Collection
-<div style="overflow-x:auto;" >
-<table class="events">
-<tr>
-<th>Instrument</th>
-<th>Description</th>
-<th>Notes</th>
-</tr>
+
 {% for instrument in reserved %}
 {% assign mod2 = forloop.index | modulo: 2 %}
-
-<tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
-<td>{{ instrument.Item }}</td>
-<td>{{ instrument.Description }}</td>
-<td>{{ instrument.SpecialRequirements }}</td>
-</tr>
+{% include instrument.md %}
 {% endfor %}  
-</table>
-</div>
+
 {% endif %}
 
 ## We've distributed the following
-<div style="overflow-x:auto;" >
-<table class="events">
-<tr>
-<th>Instrument</th>
-<th>Description</th>
-<th>Notes</th>
-</tr>
+
 {% for instrument in gone %}
 {% assign mod2 = forloop.index | modulo: 2 %}
-
-<tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
-<td>{{ instrument.Item }}</td>
-<td>{{ instrument.Description }}</td>
-<td>{{ instrument.SpecialRequirements }}</td>
-</tr>
+{% include instrument.md %}
 {% endfor %}  
-</table>
-</div>
