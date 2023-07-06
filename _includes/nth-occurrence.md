@@ -1,3 +1,4 @@
+{% assign TDTD = false %}
 {% assign dateToday = site.time %}
 {% assign dayToday = dateToday | date: "%d" | plus:0 %}
 {% assign firstDOM = dateToday | truncate: 8, "" | append: "01"  %}
