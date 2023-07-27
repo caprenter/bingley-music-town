@@ -9,7 +9,7 @@ navigation: true
 We're grateful to [Bingley Camera Club](https://www.bingleycameraclub.org.uk/) for taking pictures of Bingley Music Town.<br>A selection of the images they have captured are shown here. 
 <!-- Gallery -->
 <div class="container gallery">
-{% assign image_files = site.static_files | where: "image", true | sort: 'date' %}
+{% assign image_files = site.static_files | where: "image", true | reverse %}
 {% for image in image_files %}
 {% if forloop.first %}<div class="row">{% endif %}
 {% assign indexmod3 = forloop.index | modulo: 3 %}
