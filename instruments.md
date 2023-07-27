@@ -18,7 +18,7 @@ Got an instrument you no longer need?
 
 We've found ourselves finding good homes for instruments people no longer need, and we're happy to keep on doing so.
 
-This service is run voluntarily by Dave Johnson at Bingley Guitar Studio, First Floor 122-124 Main Street (above Fingerprints Printers), Bingley, BD16 2HL
+This service is run voluntarily by Dave Johnson at Bingley Guitar Studio, First Floor 122-124 Main Street (above Ison Harrison Solicitors), Bingley, BD16 2HL
 
 ## Donate an instrument
 
