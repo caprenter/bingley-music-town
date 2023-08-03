@@ -15,6 +15,9 @@ Where links are available we've put them in. We appreciate that finding out more
 #### First Monday of the month
 {% include regular-monday-first.md %}
 
+#### Third Monday  of the month
+{% include regular-monday-third.md %}
+
 ### Tuesday
 {% include regular-tuesday.md %}
 
