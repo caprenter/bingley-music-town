@@ -10,7 +10,7 @@ navigation: true
 
 ### Steering Group Meetings
 
-* Wednesday August 9th 2023
+* Wednesday August 9th 2023 - CANCELLED
 * Wednesday September 13th 2023
 * Wednesday October 11th 2023
 * Wednesday November 8th 2023
