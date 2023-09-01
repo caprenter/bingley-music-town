@@ -5,10 +5,6 @@
 <section class="main-page">
 <div markdown="1">
 
-## Steering Group Meeting (9th August 2023) CANCELLED
-
-Sorry, but we've had to cancel the steering group meeting for 9th August because people are away.<br>Next meeting is 13th September. See: [Meet]({{% site_url %}}/meet) for more information.
-
 {% include live-today.md %}
 {% include make-today.md %}
 
