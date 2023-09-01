@@ -37,7 +37,7 @@
 {% assign venue = site.venues | where:"Name", event.Venue | first %}
 
 <tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
-<td><a href="{{event.Link}}">{{ event.Date | date: "%a. %d %b %Y" }}</a></td>
+<td>{% if event.Link %}<a href="{{event.Link}}">{{ event.Date | date: "%a. %d %b %Y" }}</a>{% else %}{{ event.Date | date: "%a. %d %b %Y" }}{% endif %}</td>
 <td>
 {% assign performers = event.Artists | split: "," %}
 {% for performer in performers -%}
@@ -47,14 +47,14 @@
 {% elsif {{artist.Facebook}} %}
 {% assign artist_web = {{artist.Facebook}} %}
 {% endif %}
-{% if artist_web %}<a href="{{ artist_webweb }}">{{ performer}}</a>{% else %}{{performer}}{% endif %}{%- if forloop.last -%}{% else %}, {% endif %}
+{% if artist_web %}<a href="{{ artist_web }}">{{ performer}}</a>{% else %}{{performer}}{% endif %}{%- if forloop.last -%}{% else %}, {% endif %}
 {% endfor %}
 </td>
 {% if page.title != "Venues" and page.layout != 'venue_page'%}
 <td>{% if venue.url %}<a href="{{site.url}}{{ venue.url }}">{{ venue.Name }}</a>{% else %}{{ event.Venue }}{%endif %}</td>{% endif %}
 <td>{% if event.Cancelled == "1"  %}Cancelled{% endif %}</td>
 </tr>
-{% assign web = false %}
+{% assign artist_web = false %}
 {% endif %} <!-- in the future -->
 {% endfor %}  
 </table>
