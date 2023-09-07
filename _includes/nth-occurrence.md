@@ -1,5 +1,5 @@
 {% assign TDTD = false %}
-{% assign dateToday = site.time %}
+{% assign dateToday = include.dateToday %}
 {% assign dayToday = dateToday | date: "%d" | plus:0 %}
 {% assign firstDOM = dateToday | truncate: 8, "" | append: "01"  %}
 {% assign first_DOM_as_day = firstDOM | date: "%A" %}

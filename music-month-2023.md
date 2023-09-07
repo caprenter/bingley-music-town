@@ -1,3 +1,20 @@
+---
+title: November is Music Month
+layout: listing
+cover: splashes/BMTlogo_band.jpg #No leading slash
+#image-credit: The Razerbills
+navigation: true
+---
+
+November is Music Month all across the Bradford District.
+
+Here's what's happening in Bingley Music Town
+
+{% assign events = site.data.events | sort: "Date"  %}
+{% assign artists = site.data.artists %}
+{% assign venues = site.data.venues %}
+
+
 {% comment %}
 Sun = 0
 Mon = 1
@@ -8,12 +25,28 @@ Fri = 5
 Sat = 6
 {% endcomment %}
 
-{% assign weekday = "now" | date: "%A" %}
-{% assign on-this-day-as-date = "now"" | date: "%Y-%m-%d" %}
+{% assign start-day = "01-11-2023" | date: '%s' %}
 
-{% if weekday != "Friday" %}
-## Make Music Today
-Want to make your own music today ({{ weekday }})?<br>
+{% for i in (0..29) %}
+   
+{% assign seconds-to-add = 86400 | times: i %} 
+{% assign on-this-day = start-day | plus: seconds-to-add %}
+{% assign weekday = on-this-day | date: "%A" %}
+{% assign on-this-day-as-date = on-this-day | date: "%Y-%m-%d" %}
+{% assign eventYear = on-this-day | date: "%Y" %}
+{% assign eventDay = on-this-day | date: "%j" | plus: 0 %}
+<strong>{{ on-this-day  | date: "%a. %d %b" }}</strong>
+
+{% for event in events %}
+    
+{% if event.Date == on-this-day-as-date and event.Cancelled !="1" %}
+{% assign slug = event.Date | date:"%A-%d-%B-%Y" %}
+<strong>Live Music:</strong> [{{ event.Artists }}]({{ '/live#' | relative_url }}#{{ slug | downcase  }}) - 
+{% for venue in venues %} {% if venue.Name == event.Venue %}{% assign ThisVenue = site.venues | where:"Name", venue.Name | first %}[{{ venue.Name }}]( {{site.url}}{{ ThisVenue.url }} ){% endif %}{% endfor %}
+{%- endif -%}
+{%- endfor -%}
+
+
 
 {% if weekday == "Monday" %}
 {% include regular-monday.md %}
@@ -78,8 +111,6 @@ Want to make your own music today ({{ weekday }})?<br>
 {% endif %}
 {% endif %}
 
-{% else %}
-## Make Music 
-{% endif %}
-Check out our <a href="{% link regular-activities.md %}">Regular Activities page</a> to see what's on offer throughout the week.<br>
-Looking for [Music Teacher]({% link tuition.md %})? Check out our [Tuition page]({% link tuition.md %}).
+
+{% endfor %}
+
