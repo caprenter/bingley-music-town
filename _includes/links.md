@@ -5,6 +5,7 @@
 [Meet]({% link meet.md %})<br/>
 [People]({% link people.md %})<br/>
 [Music Groups]({% link groups.md %})<br/>
+[Music Month - November 2023]({% link music-month-2023.md %})<br/>
 [Regular Activities]({% link regular-activities.md %})<br/>
 [Tuition]({% link tuition.md %})<br/>
 [Instruments]({% link instruments.md %})<br/>
