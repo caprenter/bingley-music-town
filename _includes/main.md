@@ -5,6 +5,17 @@
 <section class="main-page">
 <div markdown="1">
 
+## November is Music Month
+
+<div class="row">
+ 
+<div class="col col-sm-6" markdown="1">Find about what's on in Bingley during [Music Month 2023]({% link music-month-2023.md %}) along with links to more  live music and music making activities across the Bradford District.
+</div>
+<div class="col col-sm-6" markdown="1"> [![The ArgentGrub](assets/images/music-month-2023.png)]({% link music-month-2023.md %}){:class="img-responsive"}
+</div>
+
+</div>
+
 {% include live-today.md %}
 {% include make-today.md %}
 

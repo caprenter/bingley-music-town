@@ -1,14 +1,20 @@
 ---
 title: November is Music Month
 layout: listing
-cover: splashes/BMTlogo_band.jpg #No leading slash
+cover: splashes/music-month-2023.png #No leading slash
 #image-credit: The Razerbills
 navigation: true
 ---
 
-November is Music Month all across the Bradford District.
+November is [Music Month](https://www.musicmonth.co.uk/) all across the Bradford District. There will be lots of live music to enjoy as well as workshops and activities where you can make music yourself.
 
-Here's what's happening in Bingley Music Town
+There are events throughout the region, across different locations, celebrating music of all types.
+
+You can find out more about all the events at the [Music Month Website](https://www.musicmonth.co.uk/).
+
+You can always find [live events in Bingley]({% link live.md %}) along with [regular music making activities in our district]({% link regular-activities.md %}) right here on this website. We've pulled them altogether in one long list here so that you can easily see what's happening in Bingley Music Town throughout the month.
+
+## Bingley - Music Month - November 2023
 
 {% assign events = site.data.events | sort: "Date"  %}
 {% assign artists = site.data.artists %}
