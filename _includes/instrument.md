@@ -20,13 +20,12 @@
 
 <div class="col mb-4">
 <div class="card h-100">
+  <h4 class="card-header text-white bg-dark">{{ instrument.Item }}</h4>
   {% if instrument.Image %}
   <img class="card-img-top" src="{{ site.url }}/assets/images/instruments/{{ instrument.Image}}" alt="{{ instrument.Item }}">
   {%endif %}
   <div class="card-body">
-    <h5 class="card-title">{{ instrument.Item }}</h5>
-     <h6 class="card-subtitle mb-2 text-muted">{{ effect.EffectType }}</h6>
-    <p class="card-text">{{ instrument.Description }}</p>
+    <p class="card-text"><strong>{{ instrument.Description }}</strong></p>
     <p class="card-text">{{ instrument.SpecialRequirements }}</p>
   </div>
 </div>

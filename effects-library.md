@@ -46,6 +46,15 @@ If you have unused gear that you'd like to donate to the library, please fill in
       <p class="card-text">{{ effect.Description }}</p>
       <!--<a href="{{ effect.ExternalLink }}" class="card-link">{{ effect.Effect }} on the web</a>-->
     </div>
+    {% if effect.VideoLink or effect.ExternalLink %}
+    <div class="card-footer text-muted">
+    {% if effect.VideoLink %}
+    <a href="{{ effect.VideoLink }}"><i class="bi bi-play-btn-fill p-3"></i>{{ effect.Effect }}</a>
+    {% elsif effect.ExternalLink %}
+    <a href="{{ effect.ExternalLink }}"><i class="bi bi-info-circle-fill p-3"></i>{{ effect.Effect }}</a>
+    {% endif %}
+    </div>
+    {% endif %}
     </div>
   </div>
 {% endfor %}

@@ -72,6 +72,7 @@ Show tables of instruments available and already gone
 
 {% endif %}
 
+
 ## We've distributed the following
 <div class="row row-cols-1 row-cols-md-2">
 {% for instrument in gone %}
