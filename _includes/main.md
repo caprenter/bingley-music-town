@@ -17,6 +17,8 @@
 </div>
 
 {% include live-today.md %}
+
+<p></p>
 {% include make-today.md %}
 
 ## Bingley - A Music Town
