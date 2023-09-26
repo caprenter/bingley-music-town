@@ -6,10 +6,10 @@ logo: All_Together_Now_logo.png
 type: music-group
 member: true
 short-description: 'Yorkshire Community Choir based in Baildon, Bingley, Harrogate
-  & Skipton
+  & Skipton.
 
   '
-description: "Yorkshire Community Choir based in Baildon, Bingley, Harrogate & Skipton\n\nOur
+description: "Yorkshire Community Choir based in Baildon, Bingley, Harrogate & Skipton.\n\nOur
   Weekly Singing Timetable:\n  * Monday 10.00-11.30am Bingley\n  * Monday 7.00-8.30pm
   Harrogate\n  * Tuesday 10.00-11.30am Baildon\n  * Thursday 10.00-11.30am Skipton\n
   \ * Thursday 1.30-3.00pm Bingley\n  * Thursday 7.30-9.00pm Baildon \n  * Friday

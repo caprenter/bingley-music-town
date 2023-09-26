@@ -5,8 +5,8 @@ logo: ShedPlannersLogo.jpg
 type: music-group
 member: true
 short-description: "An open mic and jam session at the Highfield, Idle, Bradford.
-  From 9pm on the second Thursday of every month.\n\nRun by Bingley musicians. PA,
-  drums and backline provided. \n"
+  From 9pm on the second Thursday of every month.\nRun by Bingley musicians. PA, drums
+  and backline provided. \n"
 description: "An open mic and jam session at the Highfield, Idle, Bradford. From 9pm
   on the second Thursday of every month.\n\nRun by Bingley musicians. PA, drums and
   backline provided. \n"

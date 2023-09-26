@@ -1,6 +1,6 @@
 {% assign organisation = site.organisations 
     | where_exp:"organisation", "organisation.name == 'The Shed Planners Association - BFD'"
     | first %}
-[{{ organisation.name }}]({{ organisation.url }})<br>
-Open mic with full band organised by Bingley musicians<br>
+[{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
+{{ organisation.short-description }}<br>
 8pm The Highfield, Idle 

@@ -27,12 +27,6 @@ Where links are available we've put them in. We appreciate that finding out more
 ### Wednesday
 {% include regular-wednesday.md %}
 
-{% assign venue = site.venues 
-    | where_exp:"venue", "venue.Name == 'Martinez Bingley Wine Shop & Wine Bar'"
-    | first %}
-Blues Night<br>
-approx 7pm, [{{ venue.Name }}]({{ venue.url }}), Bingley
-
 ### Thursday 
 {% include regular-thursday.md %}
 
