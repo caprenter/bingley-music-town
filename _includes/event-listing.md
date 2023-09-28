@@ -1,5 +1,6 @@
 <!-- PERFORMERS -->
 <div markdown="1">
+{% if event.Presents %}<h5>{{ event.Presents }}</h5>{% endif %}
 {% assign performers = event.Artists | split: "," %}
 {% for performer in performers -%}
   {%- if forloop.length > 1 -%}

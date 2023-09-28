@@ -55,6 +55,7 @@ Sat = 6
             <div class="row">
                 <div class="col-lg-9 col-md-9">
                     <div class="d-flex flex-column">
+                    {% if event.Presents %}<h5>{{ event.Presents }}</h5>{% endif %}
                         <h3 class="card-title text-capitalize mt-0">
                             <strong markdown="1">{% if event.Cancelled =="1" %}CANCELLED <br>{% endif %}[{{ event.Artists }}]({{ '/live#' | relative_url }}#{{ slug | downcase  }})</strong>                    
                         </h3>
@@ -161,7 +162,7 @@ Sat = 6
 {% endif %}
 
 {% if has-events != true %}
-We don't know of any events on this date yet. [Contact us]({% link contact.md %}) if you know of something going on.
+We don't know of any events on this date yet. [Contact ucds]({% link contact.md %}) if you know of something going on.
 {% endif %}
 {% endfor %}
 

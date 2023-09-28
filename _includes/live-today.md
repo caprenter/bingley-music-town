@@ -74,6 +74,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
                 </div>
                 <div class="col-lg-9 col-md-9">
                     <div class="d-flex flex-column">
+                    {% if event.Presents %}<h5>{{ event.Presents }}</h5>{% endif %}
                         <h3 class="card-title text-capitalize mt-0">
                             <strong markdown="1">{% if event.Cancelled =="1" %}CANCELLED <br>{% endif %}[{{ event.Artists }}]({{ '/live#' | relative_url }}#{{ slug | downcase  }})</strong>                    
                         </h3>
