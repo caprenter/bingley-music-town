@@ -21,7 +21,7 @@ Sometimes we need a little help from our friends so we've set up this community 
 </div>
 
 ## Thank you
-[Bingley Camera Club](https://www.bingleycameraclub.org.uk/) have been helping us to document music in the area, and we use those photos across this website. See the [gallery]({% link gallery.md %}) for more of their work.
+[Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} have been helping us to document music in the area, and we use those photos across this website. See the [gallery]({% link gallery.md %}) for more of their work.
 
 
 

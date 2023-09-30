@@ -1,6 +1,7 @@
 ---
 layout: default
 class: 'page-template'
+image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 ---
 <!-- < default -->
 
@@ -55,9 +56,9 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 </div>
 See our [Help Wanted page]({% link help.md %}) for more community music notices. {% endcapture %}{{ all_help | markdownify }}
 </div>
-
-
 </div>
+{% capture credit %}*Photos: [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"}*{% endcapture %}
+{{ credit | markdownify }}
 </div>
 </section>
    </article>
