@@ -91,6 +91,11 @@ collections:
     source: venues.csv
     id_key: Name
     layout: venue_page
+  help:
+    output: true
+    source: help.yml
+    id_key: slug
+    layout: help_page
 
 exclude:
   - README.md

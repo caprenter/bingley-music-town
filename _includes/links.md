@@ -3,6 +3,7 @@
 [Home]({{ site.url }})<br/>
 [Join]({% link join.md %})<br/>
 [Meet]({% link meet.md %})<br/>
+[Help]({% link help.md %})<br/>
 [People]({% link people.md %})<br/>
 [Music Groups]({% link groups.md %})<br/>
 [Music Month - November 2023]({% link music-month-2023.md %})<br/>

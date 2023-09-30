@@ -21,6 +21,18 @@
 <p></p>
 {% include make-today.md %}
 
+## Can you Help?
+Sometimes we need a little help from our friends so we've set up a [community notice board]({% link help.md %}) of requests we've received for help.
+
+{% assign helps = site.data.help | sort: "order" %}
+<div class="row row-cols-1 row-cols-md-3 d-flex align-items-stretch help">
+{% for help in helps limit:3%}
+{% include helps.md %}
+{% endfor %}
+</div>
+
+See our **[Help Wanted page]({% link help.md %})** for more community music notices. 
+
 ## Bingley - A Music Town
 Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
 

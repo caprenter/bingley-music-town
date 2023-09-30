@@ -94,6 +94,35 @@ Put the path and the link text in the venues spreadsheet, and/or in the organisa
 
 Examples of both exist. 
 
+## Generating help pages and cards
+We generate markdown for each help page by using the pagemaster plugin/gem.
+
+This creates pages from a .yml data file, in this case, help.yml, by running 
+
+    bundle exec jekyll pagemaster {collection name}
+
+In practice we use: 
+
+    bundle exec jekyll pagemaster help
+
+This command will generate markdown for views for each item in the collection under ./_{collection name}
+
+To update generated markdown delete that directory as existing files are not updated when pagemaster runs
+
+### Adding a help
+* Add the data in `_data/help.yml`
+* Use the order field to help sort the items - lower numbers are first in lists
+* Add images to `/assets/images/helps`
+* Also create a resized image of max width 310px and with .resized.jpg as part of the file name
+* Build the page with `bundle exec jekyll pagemaster help`
+
+### Updating Information about a help
+You can edit _help/<pagename> directly.
+If you want to regenerate that page from the help.yml data, delete it first then run the pagemaster script.
+
+### Helps on the Front Page
+These are limited to the first 3 in the list as order by the order field.
+
 ## Gallery
 
 Place images in '/assets/images/gallery'

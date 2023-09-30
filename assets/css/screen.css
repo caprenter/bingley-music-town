@@ -43,6 +43,11 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 .instrument-image img {
     max-height:250px;
 }
+
+.help-wanted-box {
+    padding: 2em 1em;
+    background: aliceblue;
+}
 /* Add a black background color to the top navigation */
  .topnav {
     background-color: #333;
@@ -1562,6 +1567,10 @@ body.page-template .post-title {
     -webkit-transform: translateX(-50%); /* for Safari and iOS */
     -ms-transform: translateX(-50%); /* for IE9 */
     transform: translateX(-50%);
+}
+
+.help img {
+    padding: 0;
 }
 
 figcaption {

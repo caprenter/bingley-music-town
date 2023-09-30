@@ -6,3 +6,5 @@ Why not [become a member]({{% site_url %}}/join#become-a-member) and get involve
 
 If you have an idea for music in our town, or you're already doing something, then we'd love to hear it.<br/>
 Please [contact us]({{ 'contact' | relative_url }}) and tell us all about it. 
+
+Can you help? See our [Help Wanted page]({% link help.md %}) for more opportunities to get involved. 
