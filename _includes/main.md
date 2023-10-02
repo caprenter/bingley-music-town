@@ -11,7 +11,7 @@
  
 <div class="col col-sm-6" markdown="1">Find about what's on in Bingley during [Music Month 2023]({% link music-month-2023.md %}) along with links to more  live music and music making activities across the Bradford District.
 </div>
-<div class="col col-sm-6" markdown="1"> [![The ArgentGrub](assets/images/music-month-2023.png)]({% link music-month-2023.md %}){:class="img-responsive"}
+<div class="col col-sm-6" markdown="1"> [![Music Month](assets/images/music-month-2023.png)]({% link music-month-2023.md %}){:class="img-responsive"}
 </div>
 
 </div>
@@ -48,6 +48,7 @@ Get up to speed with what we're doing...
 * [What's missing (that a Music Town might have)<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.azivrbtwiz2u){:target="_blank" rel="noopener noreferrer"}.
 
 ### News
+* [September 2023 Newsletter](https://mailchi.mp/5314b38aae49/bingley-music-town-news-september-2023){:target="_blank" rel="noopener noreferrer"}
 * [July 2023 Newsletter](https://mailchi.mp/2c3b0899ebf8/bingley-music-town-news-july){:target="_blank" rel="noopener noreferrer"}
 * [June 2023 Newsletter](https://mailchi.mp/319ca221e599/bingley-music-town-news-june-2023){:target="_blank" rel="noopener noreferrer"}
 * [May 2023 Newsletter](https://mailchi.mp/f44a81680a13/bingley-music-town-news-may-2023){:target="_blank" rel="noopener noreferrer"}
