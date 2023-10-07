@@ -14,6 +14,18 @@ You can find out more about all the events at the [Music Month Website](https://
 
 You can always find [live events in Bingley]({% link live.md %}) along with [regular music making activities in our district]({% link regular-activities.md %}) right here on this website. We've pulled them altogether in one long list here so that you can easily see what's happening in Bingley Music Town throughout the month.
 
+## Members Meet Ups in November
+
+Meet other Bingley Music Town members during music month at these events.
+
+* **Wed 1st Nov:** Pick up and Play session at the Chip N Ern, Bingley from 8pm.
+* **Mon 6th Nov:** Bingley Music Town First Birthday Party at Bingley First Monday Folk, Ryshworth Club, Crossflatts (7pm -10pm).
+* **Wed 8th Nov:** Bingley Music Town Steering Group meeting - all welcome. Cardigan House Bingley, 7pm - 8pm.
+* **Sun 12th Nov:** Buskers open mic at Martinez Wine Bar, Bingley - from 7pm.
+* **Thurs 16th Nov:** Bingley Ukulele Group, The Peacock Bar, Bingley, (group is 7 - 9, suggest we're there from 6pm).
+* **Sat 18th Nov:** Laurel Canyon Union at the Brown Cow, Bingley (meet from 8pm, music starts at 9).
+* **Wed 22nd Nov:** Blues Night Martinez Wine Bar from 7pm.
+
 ## Bingley - Music Month - November 2023
 
 {% assign events = site.data.events | sort: "Date"  %}
