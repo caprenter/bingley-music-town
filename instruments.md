@@ -74,7 +74,7 @@ Show tables of instruments available and already gone
 
 
 ## We've distributed the following
-<div class="row row-cols-1 row-cols-md-2">
+<div class="row row-cols-1 row-cols-md-3">
 {% for instrument in gone %}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% include instrument.md %}
