@@ -2552,6 +2552,10 @@ figcaption {
         max-width: 112%; /* fallback when calc doesn't work */
     }
 
+    img.card-img-top {
+        max-width: 100%;
+    }
+
     .organisation-image {
         border-radius: 25px;
     }
