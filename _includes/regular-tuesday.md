@@ -7,3 +7,10 @@
 [{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
 {{ organisation.short-description }}<br>
 7:30pm [{{ venue.Name }}]({{ site.url }}{{ venue.url }}), Bingley
+
+{% assign organisation = site.organisations 
+    | where_exp:"organisation", "organisation.name == 'Cullingworth Community Choir'"
+    | first %}
+[{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
+{{ organisation.short-description }}<br>
+6:30pm Cullingworth Village Hall, Cullingworth
