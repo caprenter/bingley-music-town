@@ -13,4 +13,4 @@
     | first %}
 [{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
 {{ organisation.short-description }}<br>
-6:30pm Cullingworth Village Hall, Cullingworth
+6:30pm Cullingworth Methodist Church, Cullingworth
