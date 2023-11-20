@@ -123,7 +123,17 @@ If you want to regenerate that page from the help.yml data, delete it first then
 ### Helps on the Front Page
 These are limited to the first 3 in the list as order by the order field.
 
-## Gallery
+## Images
+
+### Banner images
+
+Main banner images are currently 1280x800px
+
+### Gallery
+
+Gallery Images should be no wider than 1024px
+
+Thumbnails should be 400px square - see below.
 
 Place images in '/assets/images/gallery'
 
@@ -135,8 +145,15 @@ Run this script in that directory to generate Thumbnails
     
     find . \( -name '*.jpg' -or -name '*.JPG' \) -print0 |  while read -d $'\0' file ; do convert -define jpeg:size=400x400  "$file" -thumbnail 300x300^ -gravity center -extent 300x300  ../thumbnails/"$file" ; done
 
+### Help Images
 
-## Logos in the pre-footer area
+These images don't need to be wider then 350px.
+
+### Instrument Images
+
+These images don't need to be wider then 350px.
+
+### Logos in the pre-footer area
 These are included in the `index.md` file from `_include/gallery.html` and should show all the logos that we have.
 
 ## Live music, previous events listings
