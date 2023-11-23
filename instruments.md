@@ -37,6 +37,7 @@ Show tables of instruments available and already gone
 {% endcomment %}
 
 {% assign instruments = site.data.instruments %}
+{% assign instruments_onloan = site.data.instruments_onloan %}
 
 {% assign gone = "" | split: ',' %}
 {% assign available = "" | split: ',' %}
@@ -71,6 +72,15 @@ Show tables of instruments available and already gone
 {% endfor %}  
 
 {% endif %}
+
+## On Loan
+<div class="row row-cols-1 row-cols-md-3">
+{% for instrument in instruments_onloan %}
+{% assign mod2 = forloop.index | modulo: 2 %}
+{% include instrument.md %}
+{% endfor %}
+</div>
+
 
 
 ## We've distributed the following

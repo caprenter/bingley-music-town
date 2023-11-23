@@ -25,6 +25,11 @@
   <img class="card-img-top" src="{{ site.url }}/assets/images/instruments/{{ instrument.Image}}" alt="{{ instrument.Item }}">
   {%endif %}
   <div class="card-body">
+    {% if instrument.OnLoanUntil %}
+      <div class="alert alert-info" role="alert">
+         On loan until {{ instrument.OnLoanUntil }} 
+      </div>
+    {% endif %}
     <p class="card-text"><strong>{{ instrument.Description }}</strong></p>
     <p class="card-text">{{ instrument.SpecialRequirements }}</p>
   </div>
