@@ -1,6 +1,6 @@
 ### Links
 
-[Home]({{ site.url }})<br/>
+[Home](/)<br/>
 [Join]({% link join.md %})<br/>
 [Meet]({% link meet.md %})<br/>
 [Help]({% link help.md %})<br/>

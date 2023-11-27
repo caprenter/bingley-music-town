@@ -16,7 +16,7 @@
     | first %}
 <p markdown="1"><span class="activity">Pick up and Play Session</span><br>
 Join in with or just come and listen to traditional folk music played by local musicians.<br> 
-approx 8pm, [{{ venue.Name }}]({{ site.url }}{{ venue.url }}), Bingley.
+approx 8pm, [{{ venue.Name }}]({{ venue.url }}), Bingley.
 </p>
 
 {% assign venue = site.venues 
@@ -24,4 +24,4 @@ approx 8pm, [{{ venue.Name }}]({{ site.url }}{{ venue.url }}), Bingley.
     | first %}
 [Voices of Yorkshire  <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.voicesofyorkshire.com/){:target="_blank" rel="noopener noreferrer" class="activity"}<br>
 A fun, friendly and relaxed choir. We welcome all abilities.<br>
-8-9pm, [{{ venue.Name }}]({{ site.url }}{{ venue.url }})
+8-9pm, [{{ venue.Name }}]({{ venue.url }})
