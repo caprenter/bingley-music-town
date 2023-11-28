@@ -1,0 +1,19 @@
+# Jekyll generated files #
+######################
+jeykll/_site
+jeykll/vendor
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.env
+__pycache__
+behat.yml
+*.feature
+hosts
