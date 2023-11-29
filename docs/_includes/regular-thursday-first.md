@@ -6,4 +6,4 @@
     | first %}
 [{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
 {{ organisation.short-description }}<br>
-7pm - 9pm [{{ venue.Name }}]({{ site.url }}{{ venue.url }}).
+7pm - 9pm [{{ venue.Name }}]({{ venue.url }}).

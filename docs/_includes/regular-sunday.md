@@ -6,4 +6,4 @@
     | first %}
 [{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
 {{ organisation.short-description }}<br>
-9.45-10.30am [{{ venue.Name }}]({{ site.url }}{{ venue.url }}), Bingley
+9.45-10.30am [{{ venue.Name }}]({{ venue.url }}), Bingley

@@ -14,7 +14,7 @@ approx 8pm, Chip 'n' Ern, Bingley
     | first %}
 [Bingley Handbell Ringers <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyhandbells.org.uk/diary){:target="_blank" rel="noopener noreferrer" class="activity"}<br>
 If you would like to try Handbell Ringing come along to a practice night or contact the group to find out more.<br>
-7 - 9pm, [{{ venue.Name }}]({{ site.url }}{{ venue.url }}), Bingley.
+7 - 9pm, [{{ venue.Name }}]({{ venue.url }}), Bingley.
 
 {% assign venue = site.venues 
     | where_exp:"venue", "venue.Name == 'Martinez Bingley Wine Shop & Wine Bar'"

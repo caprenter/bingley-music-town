@@ -11,7 +11,7 @@
 {{ instrument.SpecialRequirements }}
 </div>
 <div class="col-3 instrument-image">
-{% if instrument.Image %}<img src="{{ site.url }}/assets/images/instruments/{{ instrument.Image }}" alt="{{ instrument.Item }}"/>{% endif %}
+{% if instrument.Image %}<img src="/assets/images/instruments/{{ instrument.Image }}" alt="{{ instrument.Item }}"/>{% endif %}
 </div>
 </div>
 </div>
@@ -22,7 +22,7 @@
 <div class="card h-100">
   <h4 class="card-header text-white bg-dark">{{ instrument.Item }}</h4>
   {% if instrument.Image %}
-  <img class="card-img-top" src="{{ site.url }}/assets/images/instruments/{{ instrument.Image}}" alt="{{ instrument.Item }}">
+  <img class="card-img-top" src="/assets/images/instruments/{{ instrument.Image}}" alt="{{ instrument.Item }}">
   {%endif %}
   <div class="card-body">
     {% if instrument.OnLoanUntil %}

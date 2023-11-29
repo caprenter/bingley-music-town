@@ -57,7 +57,7 @@ Support: {% continue %}{% endif %}
 {% for venue in venues %}
 {% if venue.Name == event.Venue %}
 {% assign ThisVenue = site.venues | where:"Name", venue.Name | first %}
-**[{{ venue.Name }}]( {{site.url}}{{ ThisVenue.url }} )**
+**[{{ venue.Name }}]( {{ ThisVenue.url }} )**
 {: class="venue-name" }
 *{{ venue.Area }}*<br>
 {{ venue.Address }}{% if venue.Postcode %}, {{ venue.Postcode }}{% endif %}
