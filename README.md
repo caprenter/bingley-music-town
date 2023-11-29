@@ -4,7 +4,7 @@
 This is a static site that displays at http://bingleymusictown.org.uk/
 
 ## Deployment
-It is deployed via the main branch of this repo using Github Pages.
+It is deployed via the docs directory of the main branch of this repo using Github Pages.
 
 ### Cron update
 We rebuild the site once a day using the GitHub API and [gh-cli](https://cli.github.com/) tool, using a cron job on another server (David's). 
@@ -20,12 +20,36 @@ to set up a cron job. The job is logged in a jekyll_update.log file locally.
 This requires a GitHub authentication token which expires every now and again. If you need to replace that token you do it on the server that is running the cron job in the above file.
 
 ## Local Development
-To run this locally
+
+If you set up your local development environment with Docker, then you also have access to a suite of Behat tests for testing both the live and your local development site.
+
+Alternatively you can just work on the site as you would with a general Jekyll project
 
 Clone the repository
 
 	cd bingley-music-town
-	bundle exec jekyll serve
+
+### With Docker
+
+    docker-compose up
+    # NB running it without the -d flag allows to watch jekyll rebuild and see any errors as you work
+    # The site will be up on 0.0.0.0:4000
+
+#### Bring down the testing stack 
+
+      docker-compose down
+
+### Without Docker
+	
+    cd docs/
+    # First run only
+    bundle install 
+    # Bring the site up
+    bundle exec jekyll serve
+    # The site should be up on 127.0.0.0:4000
+
+
+# General Site Building
 
 ## Generating individual organisation pages
 We generate markdown for each organisation page by using the pagemaster plugin/gem.
@@ -37,6 +61,8 @@ This creates pages from a .yml data file, in this case, organisations.yml, by ru
 In practice we use: 
 
     bundle exec jekyll pagemaster organisations
+    ## OR with docker:
+    docker exec -it jekyll /bin/bash -c 'bundle exec jekyll pagemaster organisations'
 
 This command will generate markdown for views for each item in the collection under ./_{collection name}
 
@@ -70,6 +96,8 @@ This creates pages from a .yml data file, in this case, venues.yml, by running
 In practice we use: 
 
     bundle exec jekyll pagemaster venues
+    ## OR with docker:
+    docker exec -it jekyll /bin/bash -c 'bundle exec jekyll pagemaster venues'
 
 This command will generate markdown for views for each item in the collection under ./_{collection name}
 
@@ -180,14 +208,74 @@ We need to download the instruments sheet as a csv to update the website.
 We could make this a public sheet and automate it.
 Images are saved and named and then the filename is added to the spreadsheet
 
-## Contributing
+# Testing
+
+If you have set up your development environment with Docker then you can run the tests against your local site or the live site using Behat.
+
+We have created a network for the 3 containers (behat, selenium, jekyll), and assigned IP Addresses to each so that the local testing can find the Jekyll site.
+
+The `behat.yml` file contains configuration for the live URL, the local network,and other stuff.
+
+##  Run the tests 
+
+By default the tests will run against a site live on the web as configured in `behat.yml`.
+
+To run against a local development site use the `profile` flag:
+ 
+    --profile=local 
+
+### Optional: Set up a bash alias
+
+Add line to your terminal profile file on your local machine: 
+  
+     alias behat='docker exec -it behat behat --colors "$@"'
+
+Either reload terminal session or refresh session to make the alias permanent across sessions
+
+### Examples: 
+**NB** the examples assume you have set up an alias (see above)
+    
+    # Get version information
+    behat --version 
+
+    # Run all available tests against a LIVE site
+    behat 
+
+    # Run all available tests against a local development site
+    behat --profile=local 
+
+
+#### Partial tests
+
+    # Run all tests tagged 'subsection'
+    behat --tags @subsection  
+
+    # Run all tests tagged 'javascript' with a javascript enabled browser against a LIVE site.
+    behat --tags @javascript  
+
+    # Run all tests tagged 'javascript' with a javascript enabled browser against a LOCAL site.
+    behat --profile=local --tags @javascript
+
+
+## Watch the tests 
+
+You can launch a vnc browser instance in Chrome/Chromium to watch Selenium tests at
+
+     http://localhost:7900 - the password is "secret"
+
+## Writing and contributing tests
+
+Everything is in the `testing` directory. See the Behat docs for more help.
+
+
+# Contributing
 Please fork the repo,and make pull requests from your clone to this one.
 
-### Branches
+## Branches
 - `main` holds the most recently deployed code
 - `(number)-(name)` branches are working branches where (number) is an issue number and (name) is made up, but has some relation to the issue
 
-### Workflow
+## Workflow
 * Pick (or create an issue)
 * Create a branch (from main if practical) - name the branch (issue number)-(suitable name) e.g. 23-fix-the-footer
 * Work on the branch.
