@@ -35,8 +35,8 @@ services:
       image: jekyll/jekyll:3.8
       container_name: jekyll
       volumes:
-          - ./jeykll:/srv/jekyll
-          - ./jeykll/vendor/bundle:/usr/local/bundle
+          - ./doc:/srv/jekyll
+          - ./doc/vendor/bundle:/usr/local/bundle
       ports:
           - 4000:4000
       command: jekyll serve
