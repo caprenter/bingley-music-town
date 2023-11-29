@@ -1,7 +1,7 @@
 # Jekyll generated files #
 ######################
-jeykll/_site
-jeykll/vendor
+doc/_site
+doc/vendor
 
 # OS generated files #
 ######################
