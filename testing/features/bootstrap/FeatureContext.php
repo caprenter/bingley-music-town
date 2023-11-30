@@ -5,6 +5,9 @@ use Behat\Behat\Context\Context;
 use Behat\Gherkin\Node\PyStringNode;
 use Behat\Gherkin\Node\TableNode;
 use Drupal\DrupalExtension\Context\MinkContext;
+use Drupal\DrupalExtension\Selector\RegionSelector;
+use Behat\Mink\Selector\SelectorInterface;
+use Behat\Mink\Selector\CssSelector;
 //use Behat\MinkExtension\Context\MinkContext;
 
 /**
@@ -26,19 +29,19 @@ class FeatureContext extends MinkContext implements Context
 
 private function assetChecker($assetType, $assetSource, $assetCode){
 			
-			$assetElements = $this->getSession()->getPage()->findAll('css',$assetType);
-			foreach($assetElements as $asset){
-			  $assetUrl = ($asset->getAttribute($assetSource));
+    $assetElements = $this->getSession()->getPage()->findAll('css',$assetType);
+    foreach($assetElements as $asset){
+        $assetUrl = ($asset->getAttribute($assetSource));
 
-				// need to remove mailto links
-				if (!str_contains(strval($assetUrl), 'mailto')){
-					$this->visit($assetUrl);
-					print($assetUrl . "\n");
-					$this->assertResponseStatusIsNot($assetCode);
-					$this->getSession()->back();
-				}
-			}
-		}
+        // need to remove mailto links
+        if (!str_contains(strval($assetUrl), 'mailto')){
+            $this->visit($assetUrl);
+            print($assetUrl . "\n");
+            $this->assertResponseStatusIsNot($assetCode);
+            $this->getSession()->back();
+        }
+    }
+}
 
     /**
      * @Then the images should not return :arg1
@@ -55,6 +58,37 @@ private function assetChecker($assetType, $assetSource, $assetCode){
     {
 			$this->assetChecker('a', 'href', $code);
     }
+
+
+    /**
+     * @Then I should see the :arg1 logo in the :arg2 region
+     */
+    public function iShouldSeeTheLogoInTheRegion($arg1, $region)
+    {
+
+        $regionObj = $this->getRegion($region);
+
+        // Find the link within the region
+        $linkObj = $regionObj->find('xpath', '//img[@alt="'.$arg1.'"]');
+        if (empty($linkObj)) {
+            throw new \Exception(sprintf('The link "%s" was not found in the region "%s" on the page %s', $arg1, $region, $this->getSession()->getCurrentUrl()));
+        }
+        //$linkObj->click();
+    }
+    // {
+    //     $session = $this->getSession();
+    //     // $element = $session->getPage()->find(
+    //     //     'xpath',
+    //     //     $session->getSelectorsHandler()->selectorToXpath('xpath', '//img[@alt="'.$arg1.'"]')
+    //     // );
+
+    //     // if (null === $element) {
+    //     //     throw new \InvalidArgumentException(sprintf('Cannot find the logo: "%s"', $arg1));
+    //     // }
+
+    //     //$region = new Drupal\DrupalExtension\Context\MinkContext;
+    //     $region = $this->getRegion($arg2);
+    // }
     
     //ATTEMPT 1
     //From: https://gist.github.com/acouch/9784746

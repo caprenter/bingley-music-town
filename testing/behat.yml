@@ -27,8 +27,8 @@ default:
         navigation: "#navbarSupportedContent"
         # header: ".wp-block-navigation"
         # content: ".content"
-        # footer: ".footer"
-        # pre_footer: "#pre-footer"
+        footer: ".footer"
+        supported_by: ".supported-by"
         # # Home page 
         # home_page_before_you_set_off: "#block-beforeyousetoff"
         # home_page_incidents: "#block-views-block-incidents-block-1"
