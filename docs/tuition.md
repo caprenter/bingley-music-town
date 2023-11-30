@@ -6,7 +6,11 @@ image-credit: "Photo: Martin Singleton"
 navigation: true
 ---
 
-Professionals who can help you to play and sing.
+We've got some great teachers in the area.
+
+We've also had funding from the 1887 Alfred Sharp Fund for a project for the Musical Education of Bingley residents which we are carrying out with local music teachers. We will be supporting ten students with their costs to progress their musical education.  
+
+He're a list of all the professionals who can help you to play and sing.
 
 <div class="container logos">
 {% for organisation in site.organisations %}
