@@ -65,12 +65,12 @@ Show tables of instruments available and already gone
 
 {% if has-reserved %}
 ## Reserved for Collection
-
+<div class="row row-cols-1 row-cols-md-3">
 {% for instrument in reserved %}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% include instrument.md %}
 {% endfor %}  
-
+</div>
 {% endif %}
 
 ## On Loan
