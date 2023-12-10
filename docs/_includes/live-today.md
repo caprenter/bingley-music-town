@@ -11,19 +11,6 @@
 
 ## Live Music
 Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
-{% if weekday == "Sunday" %}
-{% assign organisation = site.organisations 
-    | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
-    | first %}
-9:45am - 10:30am - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for the Sunday service.
-{% endif %}
-
-{% if weekday == "Tuesday" %}
-{% assign organisation = site.organisations 
-    | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
-    | first %}
-7:30pm - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for practice.
-{% endif %}
 
 {% for event in events %}
 {% assign eventYear = event.Date | date: "%Y" %}
@@ -37,6 +24,22 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 
 ### Today
 {{ event.Date | date: "%A %d %B %Y" }}
+
+{% if weekday == "Sunday" %}
+{% assign organisation = site.organisations 
+    | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
+    | first %}
+### Church Bells
+9:45am - 10:30am - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for the Sunday service.
+{% endif %}
+
+{% if weekday == "Tuesday" %}
+{% assign organisation = site.organisations 
+    | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
+    | first %}
+### Church Bells
+7:30pm - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for practice.
+{% endif %}
 
 <div class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}" markdown="1">
 <div class="row">

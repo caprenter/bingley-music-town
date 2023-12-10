@@ -5,17 +5,6 @@
 <section class="main-page">
 <div markdown="1">
 
-## November is Music Month
-
-<div class="row">
- 
-<div class="col col-sm-6" markdown="1">Find about what's on in Bingley during [Music Month 2023]({% link music-month-2023.md %}) along with links to more live music and music making activities across the Bradford District.<br>We've also got a load of [BMT Member Meet Ups]({{ '/music-month-2023#members-meet-ups-in-november' | relative_url }}) and we're celebrating our [First Birthday with Bingley First Monday Folk on Monday the 6th Nov]({{ '/live#monday-06-november-2023' | relative_url }}).
-</div>
-<div class="col col-sm-6" markdown="1"> [![Music Month](assets/images/music-month-2023.png)]({% link music-month-2023.md %}){:class="img-responsive"}
-</div>
-
-</div>
-
 {% include live-today.md %}
 
 <p></p>
