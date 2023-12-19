@@ -8,7 +8,13 @@
 {% include live-today.md %}
 
 <p></p>
+{% comment %}
+Only show make music today on days that are not holidays! dateToday comes from live-today.md
+{% endcomment %}
+{% assign specialDates = "2023-12-25,2023-12-26,2024-01-01" | split:"," %}
+{% unless specialDates contains dateToday %}
 {% include make-today.md %}
+{% endunless %}
 
 ## Can you Help?
 Sometimes we need a little help from our friends so we've set up a [community notice board]({% link help.md %}) of requests we've received for help.
