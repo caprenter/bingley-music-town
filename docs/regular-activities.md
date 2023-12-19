@@ -21,8 +21,10 @@ Where links are available we've put them in. We appreciate that finding out more
 ### Tuesday
 {% include regular-tuesday.md %}
 
+{% comment %}
 #### Third Tuesday of the month
 {% include regular-tuesday-third.md %}
+{% endcomment %}
 
 ### Wednesday
 {% include regular-wednesday.md %}

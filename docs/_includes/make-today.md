@@ -35,11 +35,13 @@ Want to make your own music today ({{ weekday }})?<br>
 
 {% if weekday == "Tuesday" %}
 {% include regular-tuesday.md %}
+{% comment %}
 {% include nth-occurrence.md nth_occurrence=3 day_of_week=2 dateToday=on-this-day-as-date %}
 {% if TDTD %}
 **Every Third Tuesday of the month**<br>
 {% include regular-tuesday-third.md %}
 {% endif %}
+{% endcomment %}
 {% endif %}
 
 {% if weekday == "Wednesday" %}
