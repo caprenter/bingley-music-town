@@ -19,7 +19,7 @@ When visiting the homepage
 	@intro
 	Scenario: I am not logged on I should see the introductory text
   	Given I am on "/"
-		Then I should see "Find about what’s on in Bingley during Music Month 2023 along with links to more live music and music making activities across the Bradford District."
+		Then I should see "Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future."
 
  @footer_menu
 	Scenario: I am not logged on I should see the footer menu.
