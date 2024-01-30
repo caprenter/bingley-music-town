@@ -1,5 +1,6 @@
 ---
 name: Little House Guitars
+logo: BMT_logo_blue_Member.png
 type: music-group
 member: true
 short-description: 'Little House Guitars is a guitar group for beginners that meets
