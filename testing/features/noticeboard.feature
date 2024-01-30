@@ -1,5 +1,5 @@
 Feature:
-When visiting the Instrument page
+When visiting the Noticeboard page
 
   @headings
    Scenario Outline: I should see the page split into the following sections:.
@@ -8,12 +8,4 @@ When visiting the Instrument page
 
 	Examples:
 	  | named |
-	  | "Shop" |
-	  | "Re-home" |
-    | "Effects Library" |
-    | "Donate an instrument" |
-    | "Request an instrument" |
-    | "Available Instruments" |
-    | "Reserved for Collection" |
-    | "On Loan" |
-    | "We’ve distributed the following" |
+	  | "Noticeboards" |

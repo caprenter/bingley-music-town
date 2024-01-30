@@ -7,7 +7,7 @@ wget --no-check-certificate --output-document=../_data/venues.csv "https://docs.
 #Artists
 wget --no-check-certificate --output-document=../_data/artists.csv "https://docs.google.com/spreadsheets/d/1-Eugy7Wfl0O2dSach2D2dOoE8JEW2tI3sqChuCvLUYg/export?format=csv&gid=370499827"
 #Noticeboards
-wget --no-check-certificate --output-document=../_data/noticeboards.csv "https://docs.google.com/spreadsheets/d/1-Eugy7Wfl0O2dSach2D2dOoE8JEW2tI3sqChuCvLUYg/export?format=csv&gid=1191996851"
+wget --no-check-certificate --output-document=../_data/noticeboards.csv "https://docs.google.com/spreadsheets/d/1gFoIK0H3zuTZ1uGm4yngbIMqyPRhcwRW12xzx3-KZf4/export?format=csv&gid=506723206"
 
 echo $1
 echo $2
