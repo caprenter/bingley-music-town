@@ -5,6 +5,20 @@
 <section class="main-page">
 <div markdown="1">
 
+<div class="container logos">
+<div class="row"> 
+<div class="column-8" markdown="1">
+# Five Rise Locks 250th Anniversary
+**Saturday 23rd March 2024**<br>
+Live music throughout the town as part of the [Five Rise Locks 250th Anniversary]({% link canal-2024.md %}). Music starts at 9:45. See the <a href="{% link canal-2024.md %}">full schedule and find out more on our dedicated page</a>.
+
+</div>
+<div class="column-4 organisation-image">
+<a href="{% link canal-2024.md %}"><img class="card-img-top" src="{{ site.url }}/assets/images/splashes/canal-splash.jpg" alt="Old image of Five Rise Locks"></a>
+</div>
+</div>
+</div>
+
 {% include live-today.md %}
 
 <p></p>
