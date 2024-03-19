@@ -8,20 +8,20 @@ navigation: true
 
 ## Upcoming Meetings
 
-We're out and about in November meeting up with people at music events in the area. Check the [Music Month 2023]({% link music-month-2023.md %}) page to find out more.
-
 ### Steering Group Meetings
 
-* Wednesday November 8th 2023
-* December, Jan , Feb to to confirmed
-
-
-We meet at 7pm - 8pm, at Cardigan House, Ferncliffe Rd, Bingley BD16 2TA
+We meet at 6:30pm - 7:30pm, at Cardigan House, Ferncliffe Rd, Bingley BD16 2TA, on the **second Wednesday of the month**.
 
 All are welcome, come along and help us get through the usual business and hatch new plans!
 
 Let us know if you're planning on coming down.
 
+* Wednesday April 10th 2024
+* Wednesday May 8th 2024
+* Wednesday June 12th 2024
+* Wednesday July 10th 2024
+* Wednesday August 14th 2024
+ 
 ## About Meetings
 * Steering group meetings are usually on the second Wednesday of the month
 * [Notes from our meetings](https://drive.google.com/drive/u/0/folders/1OFAW25umzovP2qbcFDrZuMMLmiOe6CIM) are available to members via Google Drive (you may need to request access. Also check our [Privacy Policy](({{ site_url }}/privacy#your-privacy-and-google-documents)))
