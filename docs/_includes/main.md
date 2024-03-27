@@ -5,20 +5,6 @@
 <section class="main-page">
 <div markdown="1">
 
-<div class="container logos">
-<div class="row"> 
-<div class="column-8" markdown="1">
-# Five Rise Locks 250th Anniversary
-**Saturday 23rd March 2024**<br>
-Live music throughout the town as part of the [Five Rise Locks 250th Anniversary]({% link canal-2024.md %}). Music starts at 9:45. See the <a href="{% link canal-2024.md %}">full schedule and find out more on our dedicated page</a>.
-
-</div>
-<div class="column-4 organisation-image">
-<a href="{% link canal-2024.md %}"><img class="card-img-top" src="{{ site.url }}/assets/images/splashes/canal-splash.jpg" alt="Old image of Five Rise Locks"></a>
-</div>
-</div>
-</div>
-
 {% include live-today.md %}
 
 <p></p>
@@ -41,6 +27,20 @@ Sometimes we need a little help from our friends so we've set up a [community no
 </div>
 
 See our **[Help Wanted page]({% link help.md %})** for more community music notices. 
+
+<div class="container logos">
+<div class="row"> 
+<div class="column-8" markdown="1">
+## Five Rise Locks 250th Anniversary
+
+On **Saturday 23rd March 2024** we helped organise live music throughout the town as part of the [Five Rise Locks 250th Anniversary]({% link canal-2024.md %}).
+
+</div>
+<div class="column-4 organisation-image">
+<a href="{% link canal-2024.md %}"><img class="card-img-top" src="{{ site.url }}/assets/images/splashes/canal-splash.jpg" alt="Old image of Five Rise Locks"></a>
+</div>
+</div>
+</div>
 
 ## Bingley - A Music Town
 Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.

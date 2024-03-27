@@ -6,22 +6,22 @@ cover: splashes/canal-splash.jpg #No leading slash
 navigation: true
 ---
 
-A whole bunch of family-friendly events will be happening in Bingley on Saturday 23rd March 2024 to commemorate the 250th anniversary of Bingley Five Rise Locks and Bingley Three Rise Locks on the Leeds & Liverpool Canal.
+A whole bunch of family-friendly events took place in Bingley on Saturday 23rd March 2024 to commemorate the 250th anniversary of Bingley Five Rise Locks and Bingley Three Rise Locks on the Leeds & Liverpool Canal.
 
-There will be lots of things happening in the town, around the canal, and at Damart.
+Events took place in the town, around the canal, and at Damart.
 
-See the [Bingley Five Rise Locks 250-year celebration](https://canalrivertrust.org.uk/things-to-do/events/canal-events-canal-festivals/2024-03-23-bingley-five-rise-locks-250-year-celebration) on the Canal River's Trust website to book activities and to find a full programme of all the day's events.
+The Canal River's Trust website had an event: [Bingley Five Rise Locks 250-year celebration](https://canalrivertrust.org.uk/things-to-do/events/canal-events-canal-festivals/2024-03-23-bingley-five-rise-locks-250-year-celebration) with a a full programme of all the day's events.
 
-Bingley Music Town volunteers are looking after the live music in the square, with funding for the artists and additional support coming from [Bingley Town Council](https://bingleytowncouncil.gov.uk/). The line up is below.
+Bingley Music Town volunteers ran the live music in the town square. Funding for the artists and additional support came from [Bingley Town Council](https://bingleytowncouncil.gov.uk/). The line up is below.
 
-There are also a number of other musical events in the town on the day and those are also gathered on this page.
+There were also a number of other musical events in the town on the day and those are also gathered on this page.
 
 
 # Music in the Town Square
 
-There will be music all day in the Town Square with Morris Dancing in and around the live music. You wil also find live music in pubs, and some of the shops.
+The music ran all day in the Town Square with Morris Dancing in and around the live music. There was also live music in pubs, and some of the shops.
 
-The schedule of live acts in the square is below, with information about the artists further down the page.  
+The live acts in the square was as follows, with information about the artists further down the page.  
 
 * 09:45 - 10:30: Nat & Mike (from Playing For Kicks)
 * 10:45 - 11:30: Fiddle & Feet
@@ -34,24 +34,23 @@ The schedule of live acts in the square is below, with information about the art
 
 ## Church Bells
 
-All Saints' Bells, Main Street, Bingley were rung 250 years ago to celebrate the opening of the 5 Rise Locks and they will be ringing again between 12.30 and 2.30pm on 23rd March 2024. Please feel free to come to the bottom of the bell tower steps if you would like to watch us ring. A small voluntary donation, from visitors, toward the upkeep of the bells would be welcome.
+All Saints' Bells, Main Street, Bingley were rung 250 years ago to celebrate the opening of the 5 Rise Locks and they rang again between 12.30 and 2.30pm on 23rd March 2024.
 
 ## Five Rise Locks
 
-Events at the locks will open with a specially com
-A brass band fanfare marks opening of the celebrations at 10am at Five Rise locks.
+A brass band fanfare marked the opening of the celebrations at 10am at Five Rise locks.
 
 ## Chip 'n Ern
 
-Fiddle & Feet will probably end up in the Chip n Ern at some point in the afternoon playing  a few tunes.
+Fiddle & Feet will and Rum Doodle end up in the Chip n Ern in the afternoon playing a few tunes.
 
 ## Hedgehog Organics
 
-Liz and Chris will be performing acoustic music around 1pm.
+Liz and Chris will performed acoustic music in the shop from around 1pm.
 
 ## Five Rise Records
 
-The Wholehearted, a three piece indie-folk band from West Yorkshire, UK will be playing live in [Five Rise Records]({% link _venues/five_rise_records.md %}).
+The Wholehearted, a three piece indie-folk band from West Yorkshire, UK played live in [Five Rise Records]({% link _venues/five_rise_records.md %}).
 
 # The Bands
 
