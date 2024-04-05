@@ -1,0 +1,27 @@
+- name: TSO Promotions
+  website: https://linktr.ee/tsopromotions
+  logo: tso.png
+  #image:
+  type: [promoter,music-group]
+  member: true
+  short-description: |
+    Music Agency and Events Organiser putting on events and working with Bingley musicians.
+  
+  description: |
+    Music Agency and Events Organiser putting on events and working with Bingley musicians.
+
+- name: Little House Guitars
+  #website: 
+  logo: BMT_logo_blue_Member.png
+  #image:
+  type: music-group
+  member: true
+  short-description: |
+    Little House Guitars is a guitar group for beginners that meets once a week in Bingley.
+
+  description: |
+    Little House Guitars is a guitar group for beginners that meets once a week in Bingley.
+
+    The group pays the costs of the room hire between them.  
+
+    Every Wednesday, 10:15-11:15.

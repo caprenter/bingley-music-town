@@ -1,11 +1,4 @@
 {% assign organisation = site.organisations 
-    | where_exp:"organisation", "organisation.name == 'Little House Guitars'"
-    | first %}
-[{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
-{{ organisation.short-description }}<br>
-10:15 - 11:15, Little House, Bingley
-
-{% assign organisation = site.organisations 
     | where_exp:"organisation", "organisation.name == 'Bingley Singing For Fun'"
     | first %}
 [{{ organisation.name }}]({{ organisation.url }}){: class="activity" }<br>
