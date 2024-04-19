@@ -1,0 +1,37 @@
+- name: The Loft
+  website: https://www.theloftcafebingley.co.uk/
+  #facebook: bradfordairedaleyouthchoir
+  #instagram: bradfordairedaleyouthchoir
+  #twitter: BAYCYouthChoir
+  #email: baycstaff@gmail.com
+  logo: the_loft.png
+  #image:
+  #type: music-group
+  #member: true
+  #short-description: |
+  #   An exciting group of contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
+  # description: |
+  #   An exciting group of contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
+
+  #   Our mission? To make excellent vocal training fun, affordable and accessible to every young person with singing potential - because opportunities in music can change lives. 
+
+  #   With over 50 members, we always have room for more.
+  #   Everyone who loves to sing has a place at BAYC.
+
+
+- name: Martinez Wine Bar
+  website: https://martinez.co.uk/
+  #facebook: 
+  # twitter: MyrtlePrimary
+  # logo: Myrtle_Park_Primary_School.png
+  # email: office@myrtlepark.bradford.sch.uk
+  logo: martinez.png
+  # type: school
+  # member: true
+  # short-description: |
+  #   A primary school where we know and value every child and family.
+
+  # description: |
+  #   A primary school where we know and value every child and family.
+
+  #   We are committed to providing an inspirational environment, through a culture of success and achievement, in which individuals can flourish as confident, happy learners.

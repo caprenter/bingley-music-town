@@ -2,7 +2,7 @@
   slug: eldwick_church_organist
   #contact: 
   image: helps1.jpg
-  order: 30
+  order: 10
   external_link: https://www.eldwickchurch.org.uk/
   short-description: |
     Eldwick Church is looking for someone to play piano for hymns on Sunday mornings. 
@@ -16,11 +16,11 @@
 
     They may also be able to provide a DBS-checked driver to pick up the accompanist and take them home again afterwards, if needs be.
 
-- title: Christmas Eve Musicians
+- title: Christmas Eve
   slug: eldwick_memorial_hall_christmas 
   contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
   image: helps2.jpg
-  order: 20
+  order: 30
   #external_link: 
   short-description: |
     Eldwick Memorial Hall is looking for musicians to help with a Christmas Eve Sing-a-long which involves both carols and music songs between 6pm and 7pm.
@@ -32,7 +32,7 @@
 - title: Join the Steering Group
   slug: bmt_steering_group
   #contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
-  order: 40
+  order: 12
   #external_link: 
   image: helps3.jpg
   short-description: |
@@ -44,11 +44,11 @@
 
     For an informal chat, with no strings attached, just get in touch.
 
-- title: Pianist or Viola Player Wanted
+- title: Pianist or Viola Player
   slug: pianist_viola
   #contact: 
   image: helps4.jpg
-  order: 10
+  order: 20
   #external_link: https://www.eldwickchurch.org.uk/
   short-description: |
     Are you a diploma level pianist or viola player? Would you like play with other people?  
@@ -57,11 +57,11 @@
 
     Let us know if you are interested and we can pass your details onto him.
 
-- title: Play Perform Bingley
+- title: Sounds In Town
   slug: play_perform_bingley
   #contact: 
   image: helps5.jpg
-  order: 15
+  order: 5
   #external_link: https://www.eldwickchurch.org.uk/
   short-description: |
     Volunteers are needed for a new group that wants to give amateur musicians the chance to perform in a friendly supportive setting.   
@@ -70,10 +70,15 @@
 
     A similar opportunity can be found at the Bradford Music Club
 
-    <h3>Play Perform Bingley would:</h3>
-    <ul>
-    <li>Meet once a month somewhere in the Bingley District</li>
-    </ul>
+    <h2>Pilot Event</h2>
+  
+    There is a [pilot event]({% link sounds_in_town.md %}) at [Cullingworth Methodist Church]({% link _venues/cullingworth_methodist_church.md %}) on 14th May 2024
+    
+    <h3>Going Forward</h3>
+
+    We think that music groups could host each event, as part of their normal routine. i.e.on the same day/evening that they rehearse.
+ 
+    <strong>The idea is to:</strong> 
     Provide an appreciative sympathetic audience
     Not expect performances to be 'professional'
     Be a mix of musicians and non-performing audience

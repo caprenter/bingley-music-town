@@ -41,15 +41,15 @@ Support: {% continue %}{% endif %}
 <div class="performer-links" markdown="1">
 {%- if forloop.length > 1 -%}* {{artist.Name }}:{% endif %}
 {% if event.Cancelled !="1"  %}
-{% if event.Link %}* <i class="fa fa-globe"></i> [Event Info]({{ event.Link }}){% endif %}
+{% if event.Link %}* <i class="fa-solid fa-globe"></i> [Event Info]({{ event.Link }}){% endif %}
 {% else %} <!-- is cancelled -->
-{% if event.CancelledLink %}* <i class="fa fa-globe"></i> [Cancellation Info]({{ event.CancelledLink }}){% endif %}
+{% if event.CancelledLink %}* <i class="fa-solid fa-globe"></i> [Cancellation Info]({{ event.CancelledLink }}){% endif %}
 {% endif %} <!-- not cancelled -->
 
-{% if artist.Web %}* <i class="fa fa-globe"></i> [Website]({{ artist.Web }}){% endif %}
-{% if artist.Facebook %}* <i class="fa fa-facebook"></i> [Facebook]({{ artist.Facebook }}){% endif %}
-{% if artist.Twitter %}* <i class="fa fa-twitter"></i> [Twitter]({{ artist.Twitter }}){% endif %}
-{% if artist.Instagram %}* <i class="fa fa-instagram"></i> [Instagram]({{ artist.Instagram }}){% endif %}
+{% if artist.Web %}* <i class="fa-solid fa-globe"></i> [Website]({{ artist.Web }}){% endif %}
+{% if artist.Facebook %}* <i class="fa-brands fa-facebook"></i> [Facebook]({{ artist.Facebook }}){% endif %}
+{% if artist.Twitter %}* <i class="fa-brands fa-twitter"></i> [Twitter]({{ artist.Twitter }}){% endif %}
+{% if artist.Instagram %}* <i class="fa-brands fa-instagram"></i> [Instagram]({{ artist.Instagram }}){% endif %}
 </div>
 {% endfor %}
 
@@ -63,8 +63,8 @@ Support: {% continue %}{% endif %}
 {{ venue.Address }}{% if venue.Postcode %}, {{ venue.Postcode }}{% endif %}
 {: class="description" }
 <div class="performer-links" markdown="1">
-{% if venue.Web %}* <i class="fa fa-globe"></i> [Website]({{ venue.Web }}){% endif %}
-{% if venue.Facebook %}* <i class="fa fa-facebook"></i> [Facebook]({{ venue.Facebook }}){% endif %}
+{% if venue.Web %}* <i class="fa-solid fa-globe"></i> [Website]({{ venue.Web }}){% endif %}
+{% if venue.Facebook %}* <i class="fa-brands fa-facebook"></i> [Facebook]({{ venue.Facebook }}){% endif %}
 </div>
 {% endif %}
 {% endfor %}

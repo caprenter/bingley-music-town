@@ -1,8 +1,8 @@
 ---
-title: Pianist or Viola Player Wanted
+title: Pianist or Viola Player
 slug: pianist_viola
 image: helps4.jpg
-order: 10
+order: 20
 short-description: "Are you a diploma level pianist or viola player? Would you like
   play with other people?  \n"
 description: |

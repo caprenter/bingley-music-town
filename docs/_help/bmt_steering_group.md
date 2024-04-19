@@ -1,7 +1,7 @@
 ---
 title: Join the Steering Group
 slug: bmt_steering_group
-order: 30
+order: 12
 image: helps3.jpg
 short-description: 'Shape the direction and priorities of Bingley Music Town.
 

@@ -1,6 +1,6 @@
 ---
 title: Pianist/Organist Wanted
-slug: eldwick church organist
+slug: eldwick_church_organist
 image: helps1.jpg
 order: 10
 external_link: https://www.eldwickchurch.org.uk/

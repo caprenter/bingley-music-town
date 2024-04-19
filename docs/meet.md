@@ -16,7 +16,6 @@ All are welcome, come along and help us get through the usual business and hatch
 
 Let us know if you're planning on coming down.
 
-* Wednesday April 10th 2024
 * Wednesday May 8th 2024
 * Wednesday June 12th 2024
 * Wednesday July 10th 2024

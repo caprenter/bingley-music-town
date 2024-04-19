@@ -1,9 +1,9 @@
 ---
-title: Christmas Eve Musicians
-slug: eldwick memorial hall christmas
+title: Christmas Eve
+slug: eldwick_memorial_hall_christmas
 contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
 image: helps2.jpg
-order: 20
+order: 30
 short-description: 'Eldwick Memorial Hall is looking for musicians to help with a
   Christmas Eve Sing-a-long which involves both carols and music songs between 6pm
   and 7pm.
