@@ -9,8 +9,10 @@ Lat:
 Lng: 
 Member: 'no'
 Description: 
-splash: 
-image-credit: 
+splash: martinez-splash.jpg
+image-credit: 'Photo: Bingley Camera Club'
+internal-link: 
+internal-link-text: 
 LastUpdated: '2023-03-08'
 permalink: "/venues/martinez_bingley_wine_shop__wine_bar.html"
 layout: venue_page
