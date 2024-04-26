@@ -124,6 +124,18 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
     background: rgba(0,0,0,0.5);
   }
 
+  .exhibition p.img-responsive {
+    margin-bottom: 0;
+  }
+  .photographer, .exhibit-title {
+    margin:0;
+  }
+  .exhibit-description p {
+    margin: 0;
+    padding: 0 1em;
+    margin-bottom:2em;
+  }
+
   .footer, .footer h2, .footer h3 {
         background-color: rgb(0,0,0);
         color: #fff;
