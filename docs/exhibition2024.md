@@ -1,13 +1,13 @@
 ---
-title: Music Is Necessary
+title: Bingley Makes Music
 layout: listing
-cover: splashes/BMTlogoSplash.jpg #No leading slash
-#image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
+cover: exhibition2024/20231108-IMG_6465-Edit-7.jpg #No leading slash
+image-credit: "Photo: Marcus Rattray (Bingley Camera Club)"
 navigation: true
 ---
 
 An exhibition of photographs celebrating music in the Bingley district taken by members of Bingley Camera Club. 
-### May 16th - June 23rd 2024
+### May 16th - June 29th 2024
 at Bingley Arts Centre
 
 
