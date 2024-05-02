@@ -25,11 +25,11 @@ We've also had some sponsorship to feed and water our volunteers over the two da
 
 </main>
 
-# Line up
+# Bandstand Line Up
 
 There will be music both days from 12 noon until 9pm, with a new act starting every hour on the hour. The last act will be on stage at 8pm.
 
-We've got 18 acts over the two days. More details to follow.
+We've got 18 acts over the two days. Be sure to check back to this page for the latest details.
 
 | Time | Saturday 25th May | Sunday 26th May |
 | --- | --- | --- |
