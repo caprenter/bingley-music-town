@@ -90,7 +90,7 @@ From the underground to the forefront. No apologies, no compromises – just pur
 Young Bingley producer Harry Speight.
 
 ## Havoc City
-**Sunday 12 noon**
+**Saturday 12 noon**
 
 A Young four piece band
 
