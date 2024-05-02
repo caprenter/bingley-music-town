@@ -127,8 +127,14 @@ This is the first date of her UK tour
 
 ## Playing For Kicks
 **Saturday 6pm**
+<div class="row">
+<div class="col-md-6" markdown="1">
+[Playing for Kicks<i class="fa fa-external-link" aria-hidden="true"></i>](https://playingforkicks.co.uk/) play songs you know and love from Tina Turner to Divine Comedy and Deacon Blue to B52’s. There’s something for everyone.
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Playing for Kicks](assets/images/challenge/challenge2024/pfk.jpg)
+</div>
+</div>
 
-[Playing for Kicks<i class="fa fa-external-link" aria-hidden="true"></i>](https://playingforkicks.co.uk/) play songs you know and love from ELO to Divine Comedy and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.
 
 ## Sabrina Piggott
 **Saturday 2pm**
