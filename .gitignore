@@ -12,3 +12,8 @@ docs/vendor
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Other stuff #
+*Original
+*outputdir
+*.bak
