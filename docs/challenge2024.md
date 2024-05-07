@@ -129,8 +129,13 @@ Young Bingley producer Harry Speight.
 
 ## Havoc City
 **Saturday 12 noon**
-
-A Young four piece band
+<div class="row">
+<div class="col-md-6" markdown="1">
+A young, local, energetic rock band.
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City](assets/images/challenge/challenge2024/HavocCity.jpg)
+</div>
+</div>
 
 ## Liz Narey
 **Sunday 2pm**
