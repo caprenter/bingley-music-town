@@ -3,7 +3,7 @@
     {% assign indexmod4 = forloop.index | modulo: 4 %}
     {% if indexmod4 == 1 %}<div class="row">{% endif %}
     <div class="column">
-        <a href="{{ organisation.url }}"><img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" /></a>        
+        <a href="{{ organisation.url }}"><img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" style="object-fit: contain;"/></a>        
         <div>
             <a href="{{ organisation.url }}" class="org-link">
             {{ organisation.name }}

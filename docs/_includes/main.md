@@ -34,6 +34,19 @@ If you want to perform, [get in touch]({% link contact.md %}). We're booking per
 </div>
 
 
+## Bingley Makes Music Photography Exhibition 
+
+**16th May - June 26th 2024**
+
+![Cornell Daley live at Martinez](assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}
+ 
+Bingley Makes Music, a new photographic exhibition by [Bingley Camera club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/) will soon appeared on this website, in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/).
+
+The photographs were taken over the past year to celebrate and showcase the diversity and joy of music in Bingley.
+
+The exhibition runs from 16th May - 26th June on seven windows on Main Street, Bingley with twenty prints on display inside the [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/) that opens Monday - Friday 10-1 pm.
+
+
 {% include live-today.md %}
 
 <p></p>

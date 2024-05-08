@@ -8,7 +8,7 @@ navigation: true
 
 We're grateful to [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} for taking pictures of Bingley Music Town.<br>A selection of the images they have captured are shown here. 
 
-The full photo collection is in the [Bingley Music Town Google Photo Album<i class="fa fa-external-link" aria-hidden="true"></i>](https://photos.google.com/share/AF1QipMvgyPBDy7_0xUx4WP9oIz6ODEN2MAnl4He8_9KkXPWzrb0LD8GAE-9dxyPrMbQKA){:target="_blank" rel="noopener noreferrer"}. 
+
 <!-- Gallery -->
 <div class="container gallery">
 {% assign image_files = site.static_files | where: "image", true | reverse %}
