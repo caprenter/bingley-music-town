@@ -40,11 +40,11 @@ If you want to perform, [get in touch]({% link contact.md %}). We're booking per
 
 ![Cornell Daley live at Martinez](assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}
  
-Bingley Makes Music, a new photographic exhibition by [Bingley Camera club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/) will soon appeared on this website, in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/).
+Bingley Makes Music, a new photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} will soon appeared on this website, in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}.
 
 The photographs were taken over the past year to celebrate and showcase the diversity and joy of music in Bingley.
 
-The exhibition runs from 16th May - 26th June on seven windows on Main Street, Bingley with twenty prints on display inside the [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/) that opens Monday - Friday 10-1 pm.
+The exhibition runs from 16th May - 26th June on seven windows on Main Street, Bingley with twenty prints on display inside the [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"} that opens Monday - Friday 10-1 pm.
 
 
 {% include live-today.md %}
@@ -99,6 +99,7 @@ Get up to speed with what we're doing...
 * [What's missing (that a Music Town might have)<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.azivrbtwiz2u){:target="_blank" rel="noopener noreferrer"}.
 
 ### News
+* [May 2024 Newsletter<i class="fa fa-external-link" aria-hidden="true"></i>](https://mailchi.mp/c1db62102c09/bingley-music-town-news-may-2024{:target="_blank" rel="noopener noreferrer"}
 * [March 2024 Newsletter<i class="fa fa-external-link" aria-hidden="true"></i>](https://mailchi.mp/88d956286bf5/bingley-music-town-news-march24){:target="_blank" rel="noopener noreferrer"}
 * [December 2023 Newsletter<i class="fa fa-external-link" aria-hidden="true"></i>](https://mailchi.mp/8a7c4939f293/bingley-music-town-news-dec-2023){:target="_blank" rel="noopener noreferrer"}
 * [October/November 2023 Newsletter<i class="fa fa-external-link" aria-hidden="true"></i>](https://mailchi.mp/9b578095b051/bingley-music-town-news-oct-nov-2023){:target="_blank" rel="noopener noreferrer"}
