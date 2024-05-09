@@ -21,7 +21,7 @@ I am a local folk singer,songwriter, guitar player, and teacher. I run [Bingley 
 #### Mike Wheatley 
 I have been playing in [Playing For Kicks]({% link _organisations/playing_for_kicks.md %}) covers band since 2010 and also organise a monthly [Open Mic]({% link _organisations/the_shed_planners_association_-_bfd.md %}) night. I’ve lived in Bingley for 16 years. I want more people to know about all the great music that’s already happening, and encourage more music events in our town.
 
-#### Patrick Grey
+#### Patrick Gray
 I have been living in Bingley for 25 years and have played piano and flute over that time. I enjoy all genres of music and playing with other people. Because of Bingley Music Town I have helped out at First Monday Folk, Make Music Days, and started to play flute with the Bingley Ukulele Group and at the Chip 'n' Ern. Music has helped me throughout my life and I want to promote it in Bingley in any way I can.
 
 <!--#### Becs Leighton (Secretary)
