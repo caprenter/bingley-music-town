@@ -13,7 +13,7 @@
 
 Find out more about our involvement in [Challenge Festival]({% link challenge2024.md %}).
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Challenge Festival](assets/images/challenge.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Challenge Festival](/assets/images/challenge.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
 </div>
 
 </div>
@@ -28,7 +28,7 @@ Find out more about our involvement in [Challenge Festival]({% link challenge202
 
 If you want to perform, [get in touch]({% link contact.md %}). We're booking performances in 10 minute slots. I'm told there may be cake!
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](assets/images/sounds-in-town-may24.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](/assets/images/sounds-in-town-may24.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
 </div>
 
 </div>
@@ -38,7 +38,7 @@ If you want to perform, [get in touch]({% link contact.md %}). We're booking per
 
 **16th May - June 26th 2024**
 
-![Cornell Daley live at Martinez](assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}
+![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}
  
 Bingley Makes Music, a new photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} will soon appeared on this website, in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}.
 
