@@ -31,17 +31,28 @@ There will be music from 12 noon until 9pm on Saturday and from 12 noon until 8p
 
 We've got 18 acts over the two days. Be sure to check back to this page for the latest details.
 
-| Time | Saturday 25th May | Sunday 26th May |
-| --- | --- | --- |
-| 12 noon | [Havoc City](#havoc-city) | [Albatross](#albatross) |
-| 1pm | [Nathan Harrison](#nathan-harrison) | [Bethany Gibson](#bethany-gibson) |
-| 2pm | [Sabrina Piggott](#sabrina-piggott) | [Liz Narey](#liz-narey) |
-| 3pm | [Fiddle n Feet](#fiddle-n-feet) | TBC |
-| 4pm | [Ben Greenwell & The Spirit Guides](#ben-greenwell--the-spirit-guides) | [Alice Gilmour](#alice-gilmour) |
-| 5pm | [Wilko Wilkes](#wilko-wilkes) | [Super Strut](#super-strut) |
-| 6pm | [Playing For Kicks](#playing-for-kicks) | TBC |
-| 7pm | [Gevaudan Dogs](#gevaudan-dogs) | [Augustin Bousfield](#augustin-bousfield) |
-| 8pm | [Miriam - The First Lady of Folk](#miriam---the-first-lady-of-folk) | Event Ends |
+| Time | Saturday 25th May |
+| --- | --- |
+| 12 noon | [Havoc City](#havoc-city) |
+| 1pm | [Nathan Harrison](#nathan-harrison) |
+| 2pm | [Sabrina Piggott](#sabrina-piggott) |
+| 3pm | [Fiddle n Feet](#fiddle-n-feet) |
+| 4pm | [Ben Greenwell & The Spirit Guides](#ben-greenwell--the-spirit-guides) |
+| 5pm | [Wilko Wilkes](#wilko-wilkes) |
+| 6pm | [Playing For Kicks](#playing-for-kicks) |
+| 7pm | [Gevaudan Dogs](#gevaudan-dogs) |
+| 8pm | [Miriam - The First Lady of Folk](#miriam---the-first-lady-of-folk) |
+
+| Time | Sunday 26th May |
+| ---  | --- |
+| 12 noon | [Albatross](#albatross) |
+| 1pm | [Bethany Gibson](#bethany-gibson) |
+| 2pm | [Liz Narey, Stan Greenwood, Chris Grayston](#liz-narey-stan-greenwood-chris-grayston) |
+| 3pm | TBC |
+| 4pm | TBC |
+| 5pm | [Super Strut](#super-strut) |
+| 6pm | TBC |
+| 7pm | [Augustin Bousfield](#augustin-bousfield) |
 
 
 # Bandstand Performers A-Z
@@ -52,12 +63,12 @@ We've got 18 acts over the two days. Be sure to check back to this page for the 
 A young, all female band.
 
 ## Alice Gilmour
-**Sunday 4pm**
+**Cancelled**
 <div class="row">
 <div class="col-md-6" markdown="1">
-Expect mesmerising live violin loops, samples, and beats from local musician and sound artist, [Alice Gilmour<i class="fa fa-external-link" aria-hidden="true"></i>](https://alicegilmour.com/).
+Unfortunately [Alice<i class="fa fa-external-link" aria-hidden="true"></i>](https://alicegilmour.com/){:target="_blank" rel="noopener noreferrer"} can no longer play at the festival. 
 
-When not performing solo, Alice plays the violin in musicals for professional and amateur companies in the Yorkshire area. She also supplies violin samples and solos to all sort of projects.
+We were expect mesmerising live violin loops, samples, and beats from this local musician and sound artist. When not performing solo, Alice plays the violin in musicals for professional and amateur companies in the Yorkshire area. She also supplies violin samples and solos to all sort of projects.
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour](assets/images/challenge/challenge2024/AliceGilmour.jpeg)
 </div>
@@ -67,17 +78,22 @@ When not performing solo, Alice plays the violin in musicals for professional an
 **Sunday 7pm**
 <div class="row">
 <div class="col-md-6" markdown="1">
-[Augustin Bousfield<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.augustinbousfield.com/) is a musician, composer, and producer from Bradford. He'll be bringing his own brand of wonky electro synthypop to the bandstand.
+[Augustin Bousfield<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.augustinbousfield.com/){:target="_blank" rel="noopener noreferrer"} is a musician, composer, and producer from Bradford. He'll be bringing his own brand of wonky electro synthypop to the bandstand.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour](assets/images/challenge/challenge2024/AugustinBousfield.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Augustin Bousfield](assets/images/challenge/challenge2024/AugustinBousfield.jpg)
 </div>
 </div>
 
 
 ## Ben Greenwell & The Spirit Guides
 **Saturday 4pm**
-
-A laid back folk blues band from Riddlesden's Ben Greenwell and friends.
+<div class="row">
+<div class="col-md-6" markdown="1">
+A laid back folk blues band from Riddlesden's Ben Greenwell and friends. Videos, links and more information on [Ben Greenwell's LinkTree<i class="fa fa-external-link" aria-hidden="true"></i>](https://linktr.ee/BenGreenwellMusic){:target="_blank" rel="noopener noreferrer"}
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Ben Greenwell & The Spirit Guides](assets/images/challenge/challenge2024/Spiritguides.jpg)
+</div>
+</div>
 
 ## Bethany Gibson
 **Sunday 1pm**
@@ -107,7 +123,7 @@ Cornell is one of Bingley's great musical treasures.
 **Saturday 7pm**
 <div class="row">
 <div class="col-md-6" markdown="1">
-[Gevaudan Dogs<i class="fa fa-external-link" aria-hidden="true"></i>](https://gevaudandogs.com/) is a punk rock ensemble. Brainchild of songwriter and guitarist Vince Cayo, the four-piece bring a powerhouse of energetic and impactful punk sounds similar to acts like Social Distortion, Stiff Little Fingers and The Clash.
+[Gevaudan Dogs<i class="fa fa-external-link" aria-hidden="true"></i>](https://gevaudandogs.com/){:target="_blank" rel="noopener noreferrer"} is a punk rock ensemble. Brainchild of songwriter and guitarist Vince Cayo, the four-piece bring a powerhouse of energetic and impactful punk sounds similar to acts like Social Distortion, Stiff Little Fingers and The Clash.
 
 "A punk sound that takes it all the way back to the bones of why we love it so much." – Mark Cartwright, The Punk Site
 
@@ -137,11 +153,13 @@ A young, local, energetic rock band.
 </div>
 </div>
 
-## Liz Narey
+## Liz Narey, Stan Greenwood, Chris Grayston
 **Sunday 2pm**
 <div class="row">
 <div class="col-md-6" markdown="1">
-Local folk legend Liz is usually putting events for other people to sing, so it's a great treat that we'll be hearing her sing some of her own material. Expect some special guest. 
+Local folk legend Liz is usually putting on events for other people to sing at like Bingley First Monday Folk and Singing For Fun, so it's a great treat that we'll be hearing her sing some of her own material. 
+
+She'll be joined on stage by Chris Grayston, and local legend [Stan Greenwood<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/StanGreenwood69){:target="_blank" rel="noopener noreferrer"}, guitarist and founder member of the Skeletal Family. 
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em">
 <figure class="image">
@@ -165,7 +183,7 @@ You can usually find the musicians in the Brown Cow (Monday nights) and the Chip
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-We're delighted that legendary folk singer from the 70s, [Miriam Backhouse<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/MiriamBackhouseErasmus), who will be closing the day on Saturday.
+We're delighted that legendary folk singer from the 70s, [Miriam Backhouse<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/MiriamBackhouseErasmus){:target="_blank" rel="noopener noreferrer"}, who will be closing the day on Saturday.
 
 Miriam became one of the most in demand folk singers of her generation with appearances on radio, TV, and at many leading Festivals including
 both Cambridge and Edinburgh. 
@@ -180,7 +198,7 @@ This is the first date of her UK tour
 **Saturday 6pm**
 <div class="row">
 <div class="col-md-6" markdown="1">
-[Playing for Kicks<i class="fa fa-external-link" aria-hidden="true"></i>](https://playingforkicks.co.uk/) play songs you know and love from Tina Turner to Divine Comedy and Deacon Blue to B52’s. There’s something for everyone.
+[Playing for Kicks<i class="fa fa-external-link" aria-hidden="true"></i>](https://playingforkicks.co.uk/){:target="_blank" rel="noopener noreferrer"} play songs you know and love from Tina Turner to Divine Comedy and Deacon Blue to B52’s. There’s something for everyone.
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Playing for Kicks](assets/images/challenge/challenge2024/pfk.jpg)
 </div>
@@ -191,7 +209,7 @@ This is the first date of her UK tour
 **Saturday 2pm**
 <div class="row">
 <div class="col-md-6" markdown="1">
-[Sabrina<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.sabrinapiggott.com)'s songs are full of a sense of open spaces and possibilities; she has taken her rich traditional music background from her ancestral home in the countryside of Cork, Southern Ireland and fused it with modern industrial city sounds of her adopted
+[Sabrina<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.sabrinapiggott.com){:target="_blank" rel="noopener noreferrer"}'s songs are full of a sense of open spaces and possibilities; she has taken her rich traditional music background from her ancestral home in the countryside of Cork, Southern Ireland and fused it with modern industrial city sounds of her adopted
 Leeds and Yorkshire.
 
 Her distinctive rippling, almost Philip Glass evoking, acoustic guitar style sets the tone for a heart melting voice with a Celtic timbre that pulls the emotion out of the lyric. This can be heard in her debut album Roots & Wings, released in 2019.
@@ -205,7 +223,7 @@ Her distinctive rippling, almost Philip Glass evoking, acoustic guitar style set
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-[Super Strut<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.superstrut.co.uk/) are an upbeat Funk, Soul and Disco band, with a line-up including some of Yorkshire's most exciting professional musicians. Fronted by an outstanding female vocalist, accompanied by sweet-sounding harmonies and backed by a powerful horn section, we are renowned for our energetic stage presence, feel good delivery and extraordinary musical talent. We will pack out a dance floor wherever we perform! 
+[Super Strut<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.superstrut.co.uk/){:target="_blank" rel="noopener noreferrer"} are an upbeat Funk, Soul and Disco band, with a line-up including some of Yorkshire's most exciting professional musicians. Fronted by an outstanding female vocalist, accompanied by sweet-sounding harmonies and backed by a powerful horn section, we are renowned for our energetic stage presence, feel good delivery and extraordinary musical talent. We will pack out a dance floor wherever we perform! 
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Super Strut](assets/images/challenge/challenge2024/superstrut.jpg)
 </div>
@@ -216,7 +234,7 @@ Her distinctive rippling, almost Philip Glass evoking, acoustic guitar style set
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-A songwriter, music producer and rap workshop facilitator, [Wilko Wilkes<i class="fa fa-external-link" aria-hidden="true"></i>](https://wilkowilkes.com) is an artist on a mission to leave a positive mark on the world. His tongue-twisting tracks have gained streams and radio play worldwide. His acclaimed live set has seen him play headline gigs and open for music legends Arrested Development. 
+A songwriter, music producer and rap workshop facilitator, [Wilko Wilkes<i class="fa fa-external-link" aria-hidden="true"></i>](https://wilkowilkes.com){:target="_blank" rel="noopener noreferrer"} is an artist on a mission to leave a positive mark on the world. His tongue-twisting tracks have gained streams and radio play worldwide. His acclaimed live set has seen him play headline gigs and open for music legends Arrested Development. 
 
 He is also the founder of social enterprise Rap for Good, as well as a video producer, mental health advocate and community volunteer.
 </div>
