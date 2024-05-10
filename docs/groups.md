@@ -31,8 +31,9 @@ Places where you can play and sing.
 {% if organisation.image %}
 <img src="{{ '/assets/images/organisations' | relative_url }}/{{ organisation.image }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
 {% endif %}
-<img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" />
-
+{% if organisation.logo %}
+<img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}" />
+{% endif %}
 </div>
 
 </div>
