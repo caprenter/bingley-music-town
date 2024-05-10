@@ -48,10 +48,10 @@ We've got 18 acts over the two days. Be sure to check back to this page for the 
 | 12 noon | [Albatross](#albatross) |
 | 1pm | [Bethany Gibson](#bethany-gibson) |
 | 2pm | [Liz Narey, Stan Greenwood, Chris Grayston](#liz-narey-stan-greenwood-chris-grayston) |
-| 3pm | TBC |
+| 3pm | [Otra](#otra) |
 | 4pm | TBC |
 | 5pm | [Super Strut](#super-strut) |
-| 6pm | TBC |
+| 6pm | [Harry Speight](#harry-speight) |
 | 7pm | [Augustin Bousfield](#augustin-bousfield) |
 
 
@@ -119,6 +119,14 @@ Cornell is one of Bingley's great musical treasures.
 </div>
 </div>
 
+## Fiddle n Feet
+**Saturday 3pm**
+
+Fiddle n Feet play traditional Appalachian dance music, and they'll have their dancers with them.
+Fiddle 'n' Feet are an Appalachian dance group that is run from Bingley and rehearses in Shipley. They play traditional Appalachian dance music, and they'll have their dancers with them.
+
+You can usually find the musicians in the Brown Cow (Monday nights) and the Chip n Ern (Wednesday nights), so if you like what you hear it's not hard to hear more!. 
+
 ## Gevaudan Dogs
 **Saturday 7pm**
 <div class="row">
@@ -137,11 +145,12 @@ From the underground to the forefront. No apologies, no compromises – just pur
 </div>
 </div>
 
-
 ## Harry Speight
-**Time TBC**
+**Sunday 6pm**
 
-Young Bingley producer Harry Speight.
+Bingley musician, producer, and DJ, [Harry Speight<i class="fa fa-external-link" aria-hidden="true"></i>](https://itsharryspeight.bandcamp.com){:target="_blank" rel="noopener noreferrer"} will bring you the first ever DJ set live from the Bandstand in Myrtle Park. We're all about people playing instruments, but we'll make an exception for one of the most talented young musicians this region of the country has produced. 
+
+Check out [Harry Speight on Bandcamp<i class="fa fa-external-link" aria-hidden="true"></i>](https://itsharryspeight.bandcamp.com){:target="_blank" rel="noopener noreferrer"}
 
 ## Havoc City
 **Saturday 12 noon**
@@ -169,15 +178,6 @@ She'll be joined on stage by Chris Grayston, and local legend [Stan Greenwood<i 
 </div>
 </div>
 
-## Fiddle n Feet
-**Saturday 3pm**
-
-Fiddle n Feet play traditional Appalachian dance music, and they'll have their dancers with them.
-Fiddle 'n' Feet are an Appalachian dance group that is run from Bingley and rehearses in Shipley. They play traditional Appalachian dance music, and they'll have their dancers with them.
-
-You can usually find the musicians in the Brown Cow (Monday nights) and the Chip n Ern (Wednesday nights), so if you like what you hear it's not hard to hear more!. 
-
-
 ## Miriam - The First Lady of Folk
 **Saturday 8pm**
 
@@ -193,6 +193,13 @@ This is the first date of her UK tour
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Miriam](assets/images/challenge/challenge2024/miriam.png)
 </div>
 </div>
+
+## Otra
+**Sunday 3pm**
+
+Folk with feeling from an acoustic duo with a repertoire of original, folk-style songs by lesser known songwriters. [Otra<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/otramusic/){:target="_blank" rel="noopener noreferrer"} are well known in the Bradford area, and heavily involved in the Topic Folk club.
+
+
 
 ## Playing For Kicks
 **Saturday 6pm**
