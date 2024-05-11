@@ -34,7 +34,7 @@ We've got 18 acts over the two days. Be sure to check back to this page for the 
 | Time | Saturday 25th May |
 | --- | --- |
 | 12 noon | [Havoc City](#havoc-city) |
-| 1pm | [Nathan Harrison](#nathan-harrison) |
+| 1pm | [Cornell Daley](#cornell-daley) |
 | 2pm | [Sabrina Piggott](#sabrina-piggott) |
 | 3pm | [Fiddle n Feet](#fiddle-n-feet) |
 | 4pm | [Ben Greenwell & The Spirit Guides](#ben-greenwell--the-spirit-guides) |
@@ -106,10 +106,12 @@ Bethany's influences are Gregory Alan Isakov, Taylor Swift and Olivia Rodrigo. S
 </div>
 
 ## Cornell Daley
-**Time to be Confirmed**
+**Saturday 1pm**
 <div class="row">
 <div class="col-md-6" markdown="1">
 Cornell is one of Bingley's great musical treasures. 
+
+He organises the popular [Buskers Night<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/groups/824997727607702) at [Martinez Wine Bar]({% link _venues/martinez_bingley_wine_shop__wine_bar.md %}) in Bingley, and can be found singing and playing regularly around the district.
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em">
 <figure class="image">
@@ -198,7 +200,6 @@ This is the first date of her UK tour
 **Sunday 3pm**
 
 Folk with feeling from an acoustic duo with a repertoire of original, folk-style songs by lesser known songwriters. [Otra<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/otramusic/){:target="_blank" rel="noopener noreferrer"} are well known in the Bradford area, and heavily involved in the Topic Folk club.
-
 
 
 ## Playing For Kicks
