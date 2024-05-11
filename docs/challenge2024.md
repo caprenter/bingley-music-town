@@ -123,11 +123,16 @@ He organises the popular [Buskers Night<i class="fa fa-external-link" aria-hidde
 
 ## Fiddle n Feet
 **Saturday 3pm**
-
+<div class="row">
+<div class="col-md-6" markdown="1">
 Fiddle n Feet play traditional Appalachian dance music, and they'll have their dancers with them.
 Fiddle 'n' Feet are an Appalachian dance group that is run from Bingley and rehearses in Shipley. They play traditional Appalachian dance music, and they'll have their dancers with them.
 
-You can usually find the musicians in the Brown Cow (Monday nights) and the Chip n Ern (Wednesday nights), so if you like what you hear it's not hard to hear more!. 
+You can usually find the musicians in the Brown Cow (Monday nights) and the Chip n Ern (Wednesday nights), so if you like what you hear it's not hard to hear more!
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Fiddle 'N' Feet](assets/images/challenge/challenge2024/fiddle-n-feet.jpg)
+</div>
+</div>
 
 ## Gevaudan Dogs
 **Saturday 7pm**
