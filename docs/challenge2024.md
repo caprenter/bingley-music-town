@@ -59,8 +59,17 @@ We've got 18 acts over the two days. Be sure to check back to this page for the 
 
 ## Albatross
 **Sunday 12 noon**
+<div class="row">
+<div class="col-md-6" markdown="1">
+Albatross is a 5 piece all girl indie-rock band.
 
-A young, all female band.
+As a friendship group they began to experiment with instruments together and found their passion for music which continued to develop through secondary school, where they participated in school performances. 
+
+The Challenge Festival is their debut pubic performance. One not to miss.
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour](assets/images/challenge/challenge2024/albatross.jpg)
+</div>
+</div>
 
 ## Alice Gilmour
 **Cancelled**
@@ -154,10 +163,15 @@ From the underground to the forefront. No apologies, no compromises – just pur
 
 ## Harry Speight
 **Sunday 6pm**
-
+<div class="row">
+<div class="col-md-6" markdown="1">
 Bingley musician, producer, and DJ, [Harry Speight<i class="fa fa-external-link" aria-hidden="true"></i>](https://itsharryspeight.bandcamp.com){:target="_blank" rel="noopener noreferrer"} will bring you the first ever DJ set live from the Bandstand in Myrtle Park. We're all about people playing instruments, but we'll make an exception for one of the most talented young musicians this region of the country has produced. 
 
 Check out [Harry Speight on Bandcamp<i class="fa fa-external-link" aria-hidden="true"></i>](https://itsharryspeight.bandcamp.com){:target="_blank" rel="noopener noreferrer"}
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City](assets/images/challenge/challenge2024/harry.jpg)
+</div>
+</div>
 
 ## Havoc City
 **Saturday 12 noon**
@@ -203,9 +217,13 @@ This is the first date of her UK tour
 
 ## Otra
 **Sunday 3pm**
-
-Folk with feeling from an acoustic duo with a repertoire of original, folk-style songs by lesser known songwriters. [Otra<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/otramusic/){:target="_blank" rel="noopener noreferrer"} are well known in the Bradford area, and heavily involved in the Topic Folk club.
-
+<div class="row">
+<div class="col-md-6" markdown="1">
+[Otra<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/otramusic/){:target="_blank" rel="noopener noreferrer"}  are Rahel Guzelian and Tony Charnock, an acoustic duo with a repertoire of original songs and folk-style covers with guitar, whistle and fiddle accompaniment. They have been performing around the Bradford area and beyond for the past 20 years.
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Otra](assets/images/challenge/challenge2024/Otra.jpg)
+</div>
+</div>
 
 ## Playing For Kicks
 **Saturday 6pm**
