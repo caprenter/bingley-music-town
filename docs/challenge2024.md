@@ -49,7 +49,7 @@ We've got 18 acts over the two days. Be sure to check back to this page for the 
 | 1pm | [Bethany Gibson](#bethany-gibson) |
 | 2pm | [Liz Narey, Stan Greenwood, Chris Grayston](#liz-narey-stan-greenwood-chris-grayston) |
 | 3pm | [Otra](#otra) |
-| 4pm | TBC |
+| 4pm | [Reuben and The Bridge](#reuben-and-the-bridge) |
 | 5pm | [Super Strut](#super-strut) |
 | 6pm | [Harry Speight](#harry-speight) |
 | 7pm | [Augustin Bousfield](#augustin-bousfield) |
@@ -234,6 +234,10 @@ This is the first date of her UK tour
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Playing for Kicks](assets/images/challenge/challenge2024/pfk.jpg)
 </div>
 </div>
+
+## Reuben and The Bridge
+
+[Reuben and The Bridge<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/folkmusicland){:target="_blank" rel="noopener noreferrer"} are an Acoustic/Folk duo, playing guitar and fiddle. Interesting covers and originals played with style.
 
 
 ## Sabrina Piggott
