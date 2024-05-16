@@ -18,20 +18,7 @@ Find out more about our involvement in [Challenge Festival]({% link challenge202
 
 </div>
 
-## Sounds In Town - 14th May 2024
 
-<div class="row">
- 
-<div class="col col-md-6" markdown="1">We're helping with a new event that gives musicians a chance to perform to a supportive audience. 
-
-[Sounds In Town]({% link sounds_in_town.md %}) is aimed more towards unamplified musicians (think 'orchestra' type), but we'll have [Cullingworth Community Choir]({% link _organisations/cullingworth_community_choir.md %}) there, and hopefully [Wilko Wilkes<i class="fa fa-external-link" aria-hidden="true"></i>](https://wilkowilkes.com/){:target="_blank" rel="noopener noreferrer"}
-
-If you want to perform, [get in touch]({% link contact.md %}). We're booking performances in 10 minute slots. I'm told there may be cake!
-</div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](/assets/images/sounds-in-town-may24.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
-</div>
-
-</div>
 
 
 ## Bingley Makes Music Photography Exhibition 
@@ -46,6 +33,20 @@ The photographs were taken over the past year to celebrate and showcase the dive
 
 The exhibition runs from 16th May - 26th June on seven windows on Main Street, Bingley with twenty prints on display inside the [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"} that opens Monday - Friday 10-1 pm.
 
+<!--## Sounds In Town - 14th May 2024
+
+<div class="row">
+ 
+<div class="col col-md-6" markdown="1">We're helping with a new event that gives musicians a chance to perform to a supportive audience. 
+
+[Sounds In Town]({% link sounds_in_town.md %}) is aimed more towards unamplified musicians (think 'orchestra' type), but we'll have [Cullingworth Community Choir]({% link _organisations/cullingworth_community_choir.md %}) there, and hopefully [Wilko Wilkes<i class="fa fa-external-link" aria-hidden="true"></i>](https://wilkowilkes.com/){:target="_blank" rel="noopener noreferrer"}
+
+If you want to perform, [get in touch]({% link contact.md %}). We're booking performances in 10 minute slots. I'm told there may be cake!
+</div>
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](/assets/images/sounds-in-town-may24.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+</div>
+
+</div>-->
 
 {% include live-today.md %}
 
