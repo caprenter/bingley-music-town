@@ -38,9 +38,9 @@ If you want to perform, [get in touch]({% link contact.md %}). We're booking per
 
 **16th May - June 26th 2024**
 
-![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}
+[![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg)]({% link exhibition2024.md %}){:class="img-responsive"}
  
-Bingley Makes Music, a new photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} will soon appeared on this website, in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}.
+[Bingley Makes Music]({% link exhibition2024.md %}) is a new photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}, and on the [Bingley Makes Music page of this website]({% link exhibition2024.md %}).
 
 The photographs were taken over the past year to celebrate and showcase the diversity and joy of music in Bingley.
 
