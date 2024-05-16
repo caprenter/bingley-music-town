@@ -237,8 +237,15 @@ This is the first date of her UK tour
 </div>
 
 ## Reuben and The Bridge
+<div class="row">
+<div class="col-md-6" markdown="1">
+[Reuben and The Bridge<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/folkmusicland){:target="_blank" rel="noopener noreferrer"} are an Acoustic/Folk duo, playing guitar and fiddle. 
 
-[Reuben and The Bridge<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/folkmusicland){:target="_blank" rel="noopener noreferrer"} are an Acoustic/Folk duo, playing guitar and fiddle. Interesting covers and originals played with style.
+Reuben brings his guitar and warm and powerful lead vocals, while Bridget brings her own style of both lyrical and fiery fiddle playing, as well as haunting harmony vocals. Reworkings of classic rock and pop songs is their forte, but they also perform original compositions. Expect diversity!
+</div>
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Reuben and The Bridge](assets/images/challenge/challenge2024/reuben.jpg)
+</div>
+</div>
 
 
 ## Sabrina Piggott
