@@ -66,7 +66,7 @@ Albatross is a 5 piece all girl indie-rock band.
 
 As a friendship group they began to experiment with instruments together and found their passion for music which continued to develop through secondary school, where they participated in school performances. 
 
-The Challenge Festival is their debut pubic performance. One not to miss.
+The Challenge Festival is their debut public performance. One not to miss.
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour](assets/images/challenge/challenge2024/albatross.jpg)
 </div>
