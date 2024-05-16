@@ -43,14 +43,15 @@ We've got 18 acts over the two days. Be sure to check back to this page for the 
 | 7pm | [Gevaudan Dogs](#gevaudan-dogs) |
 | 8pm | [Miriam - The First Lady of Folk](#miriam---the-first-lady-of-folk) |
 
+
 | Time | Sunday 26th May |
-| ---  | --- |
+| --- | --- |
 | 12 noon | [Albatross](#albatross) |
 | 1pm | [Bethany Gibson](#bethany-gibson) |
 | 2pm | [Liz Narey, Stan Greenwood, Chris Grayston](#liz-narey-stan-greenwood-chris-grayston) |
 | 3pm | [Otra](#otra) |
 | 4pm | [Reuben and The Bridge](#reuben-and-the-bridge) |
-| 5pm | [Super Strut](#super-strut) |
+| 5pm | [Superstrut 5](#superstrut-5) |
 | 6pm | [Harry Speight](#harry-speight) |
 | 7pm | [Augustin Bousfield](#augustin-bousfield) |
 
@@ -177,7 +178,7 @@ Check out [Harry Speight on Bandcamp<i class="fa fa-external-link" aria-hidden="
 **Saturday 12 noon**
 <div class="row">
 <div class="col-md-6" markdown="1">
-A young, local, energetic rock band.
+Formed in 2023, Havoc City are a young, energetic rock band that are making their mark in the West Yorkshire rock scene. They blend the hard rock and roll from the 80s and 90s with the modern indie of the 21st century. This is a great chance to check them out live on stage early in their career. Expect an electrifying attitude and emotion and passion for their music. Watch out for their debut EP, coming soon.
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City](assets/images/challenge/challenge2024/HavocCity.jpg)
 </div>
@@ -253,14 +254,18 @@ Her distinctive rippling, almost Philip Glass evoking, acoustic guitar style set
 </div>
 </div>
 
-## Super Strut
+## Superstrut 5
 **Sunday 5pm**
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-[Super Strut<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.superstrut.co.uk/){:target="_blank" rel="noopener noreferrer"} are an upbeat Funk, Soul and Disco band, with a line-up including some of Yorkshire's most exciting professional musicians. Fronted by an outstanding female vocalist, accompanied by sweet-sounding harmonies and backed by a powerful horn section, we are renowned for our energetic stage presence, feel good delivery and extraordinary musical talent. We will pack out a dance floor wherever we perform! 
+[Supersrut 5<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.superstrut.co.uk/){:target="_blank" rel="noopener noreferrer"}, is a five-piece groove machine that will take you on a musical journey spanning decades! 
+
+They will be bringing the party to the bandstand on Sunday, with a lineup featuring a dynamic female vocalist, funky bass guitar, soulful guitar riffs, vibrant keys, and a drummer keeping the beat strong, 
+
+From the timeless classics of the 60s to rock classics to the chart-toppers of today, their repertoire covers a wide range of genres and eras. Whether you're into the infectious rhythms of funk and soul or the disco beats that keep you on your feet, there's something for everyone.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Super Strut](assets/images/challenge/challenge2024/superstrut.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Superstrut 5](assets/images/challenge/challenge2024/superstrut5.jpeg)
 </div>
 </div>
 
