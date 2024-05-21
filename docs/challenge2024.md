@@ -19,7 +19,7 @@ We will try to update this page as quickly as we can, but we are also putting up
 # Volunteer
 
 If you'd like to help us organise and run the event, [please get in touch](({% link contact.md %})).
-
+-->
 # Sponsors
 
 Thanks to all of our sponsors.
@@ -32,6 +32,7 @@ We've also had some sponsorship to feed and water our volunteers over the two da
 
 </main>
 
+<!--
 # Bandstand Line Up
 
 There will be music from 12 noon until 9pm on Saturday and from 12 noon until 8pm, with a new act starting every hour on the hour. The last act will be on stage at 8pm (Sat) and 7pm (Sun).
