@@ -5,13 +5,16 @@
 <section class="main-page">
 <div markdown="1">
 
-## Bingley Music Town & The Challenge Festival
+## CANCELLED Challenge Festival
 
 <div class="row">
  
-<div class="col col-md-6" markdown="1">Bingley Music Town is running the Bandstand Stage for the [Challenge Festival]({% link challenge2024.md %}) that takes place in Myrtle Park on 25th and 26th May 2024.
+<div class="col col-md-6" markdown="1">
+[Challenge Festival](https://challengefestival.co.uk/) which was due to take place in Myrtle Park on 25th and 26th May 2024 [has been cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/).
 
-Find out more about our involvement in [Challenge Festival]({% link challenge2024.md %}).
+We're still working out what this means and if anything can be done.
+
+We will try to update our [Challenge Festival & Bingley Music Town page]({% link challenge2024.md %}) as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/).
 </div>
 <div class="col col-md-6" markdown="1" style="text-align:center"> [![Challenge Festival](/assets/images/challenge.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
 </div>

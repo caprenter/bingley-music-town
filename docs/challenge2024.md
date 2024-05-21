@@ -7,8 +7,15 @@ navigation: true
 ---
 <main id="content" class="content" role="main" markdown="1">
 
-Bingley Music Town is running the Bandstand Stage for the [Challenge Festival](https://challengefestival.co.uk/) that takes place in Myrtle Park on 25th and 26th May 2024.
+# CANCELLED
 
+[Challenge Festival](https://challengefestival.co.uk/) which was due to take place in Myrtle Park on 25th and 26th May 2024 [has been cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/).
+
+We're still working out what this means and if anything can be done.
+
+We will try to update this page as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/). 
+
+<!--
 # Volunteer
 
 If you'd like to help us organise and run the event, [please get in touch](({% link contact.md %})).
@@ -288,3 +295,5 @@ He is also the founder of social enterprise Rap for Good, as well as a video pro
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Wilko Wilkes](assets/images/challenge/challenge2024/wilko.jpg)
 </div>
 </div>
+
+-->
