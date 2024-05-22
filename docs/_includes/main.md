@@ -5,24 +5,26 @@
 <section class="main-page">
 <div markdown="1">
 
-## CANCELLED Challenge Festival
+## Live Music in Bingley 25th/26th May 
 
+### Mini-Fest - There will be live music in Bingley this weekend.
 <div class="row">
  
 <div class="col col-md-6" markdown="1">
-[Challenge Festival](https://challengefestival.co.uk/) which was due to take place in Myrtle Park on 25th and 26th May 2024 [has been cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/).
+The [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) has stepped in to save the music that would have been on the bandstand this weekend, to provide a smaller, indoor, mini-festival on Saturday and Sunday. (There will also be music in the Market Square and in pubs and clubs).
 
-We're still working out what this means and if anything can be done.
+The mini-fest will run the [same artists at the same time, on the same days]({% link challenge2024.md %}), just at a different place.
+
+The event will start at 12 noon on Saturday 25th May, indoors at the rugby club, with acts throughout the day and again on Sunday 26th May.
+
+We're running fast to catch up here after the larger [Challenge Festival](https://challengefestival.co.uk/) was [cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/) on Tuesday.
 
 We will try to update our [Challenge Festival & Bingley Music Town page]({% link challenge2024.md %}) as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/).
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Challenge Festival](/assets/images/challenge.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Cath says Its Still On](/assets/images/still_on.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
 </div>
 
 </div>
-
-
-
 
 ## Bingley Makes Music Photography Exhibition 
 

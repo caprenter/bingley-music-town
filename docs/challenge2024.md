@@ -7,19 +7,28 @@ navigation: true
 ---
 <main id="content" class="content" role="main" markdown="1">
 
-# CANCELLED
+# Mini-Fest at the Rugby Club 
 
-[Challenge Festival](https://challengefestival.co.uk/) which was due to take place in Myrtle Park on 25th and 26th May 2024 [has been cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/).
-
-We're still working out what this means and if anything can be done.
+The [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) has stepped in to save the music that would have been on the bandstand this weekend, to provide a smaller, indoor, mini-festival on Saturday and Sunday. (There will also be music in the Market Square and in pubs and clubs).
 
 We will try to update this page as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/). 
 
-<!--
+## Please Note
+* This will be an indoor festival
+* It is not the full Challenge Festival line up it is ONLY the acts that were going to be playing on the bandstand.
+* The mini-fest will run the same artists at the same time, on the same days, just at a different place (BUT check back for any last minute changes!)
+* The bar at the Rugby Club is a card only bar
+
+## Why the last minute change?
+
+We're running fast to catch up here after the larger [Challenge Festival](https://challengefestival.co.uk/) was [cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/) on Tuesday.
+
+We're grateful for the offers of help and support that we've had, and to the [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) for stepping in.
+
 # Volunteer
 
-If you'd like to help us organise and run the event, [please get in touch](({% link contact.md %})).
--->
+If you'd like to help us, and the club, organise and run the event, [please get in touch](({% link contact.md %})).
+
 # Sponsors
 
 Thanks to all of our sponsors.
@@ -30,14 +39,20 @@ This is not-for-profit festival, but getting your band together to play still co
 
 We've also had some sponsorship to feed and water our volunteers over the two days.
 
+# Venue
+
+[Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}), Club Wagon Lane, Bingley, BD16 1LT.
+
 </main>
 
-<!--
-# Bandstand Line Up
+
+# Line Up
 
 There will be music from 12 noon until 9pm on Saturday and from 12 noon until 8pm, with a new act starting every hour on the hour. The last act will be on stage at 8pm (Sat) and 7pm (Sun).
 
-We've got 18 acts over the two days. Be sure to check back to this page for the latest details.
+We've got 18 acts over the two days. Between acts we will have music provided by The Collector.
+
+Be sure to check back to this page for the latest details.
 
 | Time | Saturday 25th May |
 | --- | --- |
@@ -296,5 +311,3 @@ He is also the founder of social enterprise Rap for Good, as well as a video pro
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Wilko Wilkes](assets/images/challenge/challenge2024/wilko.jpg)
 </div>
 </div>
-
--->
