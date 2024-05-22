@@ -1,5 +1,5 @@
 ---
-title: Challenge Festival 2024
+title: Mini-Fest 2024 
 layout: page
 cover: splashes/challenge_splash.jpg #No leading slash
 image-credit: "Photo: Bingley Camera Club"

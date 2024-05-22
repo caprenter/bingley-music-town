@@ -19,7 +19,7 @@ The event will start at 12 noon on Saturday 25th May, indoors at the rugby club,
 
 We're running fast to catch up here after the larger [Challenge Festival](https://challengefestival.co.uk/) was [cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/) on Tuesday.
 
-We will try to update our [Challenge Festival & Bingley Music Town page]({% link challenge2024.md %}) as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/).
+We will try to update our [Mini-Fest page]({% link challenge2024.md %}) as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/).
 </div>
 <div class="col col-md-6" markdown="1" style="text-align:center"> [![Cath says Its Still On](/assets/images/still_on.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
 </div>
