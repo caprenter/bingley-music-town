@@ -59,7 +59,7 @@ Be sure to check back to this page for the latest details.
 | 12 noon | [Havoc City](#havoc-city) |
 | 1pm | [Cornell Daley](#cornell-daley) |
 | 2pm | [Sabrina Piggott](#sabrina-piggott) |
-| 3pm | [Fiddle n Feet](#fiddle-n-feet) |
+| 3pm | TBC |
 | 4pm | [Ben Greenwell & The Spirit Guides](#ben-greenwell--the-spirit-guides) |
 | 5pm | [Wilko Wilkes](#wilko-wilkes) |
 | 6pm | [Playing For Kicks](#playing-for-kicks) |
@@ -154,10 +154,12 @@ He organises the popular [Buskers Night<i class="fa fa-external-link" aria-hidde
 </div>
 </div>
 
-## Fiddle n Feet
-**Saturday 3pm**
+##  Fiddle n Feet
+**CANCELLED**
 <div class="row">
 <div class="col-md-6" markdown="1">
+Unfortunately, due to illness, Fiddle n Feet have had to pull out.
+ 
 Fiddle n Feet play traditional Appalachian dance music, and they'll have their dancers with them.
 Fiddle 'n' Feet are an Appalachian dance group that is run from Bingley and rehearses in Shipley. They play traditional Appalachian dance music, and they'll have their dancers with them.
 
