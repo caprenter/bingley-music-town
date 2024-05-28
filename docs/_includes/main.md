@@ -5,38 +5,33 @@
 <section class="main-page">
 <div markdown="1">
 
-## Live Music in Bingley 25th/26th May 
 
-### Mini-Fest - There will be live music in Bingley this weekend.
-<div class="row">
- 
-<div class="col col-md-6" markdown="1">
-The [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) has stepped in to save the music that would have been on the bandstand this weekend, to provide a smaller, indoor, mini-festival on Saturday and Sunday. (There will also be music in the Market Square and in pubs and clubs).
 
-The mini-fest will run the [same artists at the same time, on the same days]({% link challenge2024.md %}), just at a different place.
-
-The event will start at 12 noon on Saturday 25th May, indoors at the rugby club, with acts throughout the day and again on Sunday 26th May.
-
-We're running fast to catch up here after the larger [Challenge Festival](https://challengefestival.co.uk/) was [cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/) on Tuesday.
-
-We will try to update our [Mini-Fest page]({% link challenge2024.md %}) as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/).
-</div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Cath says Its Still On](/assets/images/still_on.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
-</div>
-
-</div>
 
 ## Bingley Makes Music Photography Exhibition 
 
 **16th May - June 26th 2024**
 
-[![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg)]({% link exhibition2024.md %}){:class="img-responsive"}
+[![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}]({% link exhibition2024.md %})
  
 [Bingley Makes Music]({% link exhibition2024.md %}) is a new photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}, and on the [Bingley Makes Music page of this website]({% link exhibition2024.md %}).
 
 The photographs were taken over the past year to celebrate and showcase the diversity and joy of music in Bingley.
 
 The exhibition runs from 16th May - 26th June on seven windows on Main Street, Bingley with twenty prints on display inside the [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"} that opens Monday - Friday 10-1 pm.
+
+## Challenge Festival became Mini-Fest
+<div class="row">
+ 
+<div class="col col-md-6" markdown="1">
+Despite Challenge Festival being cancelled at the last minute there was live music in Bingley on the 25th and 26th May when the [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) stepped in to save the music that would have been on at the bandstand. 
+
+Our mini-fest featured more or less the [same artists at the same time, on the same days]({% link challenge2024.md %}), just at a different place.
+</div>
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Cath says Its Still On](/assets/images/still_on.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+</div>
+
+</div>
 
 <!--## Sounds In Town - 14th May 2024
 

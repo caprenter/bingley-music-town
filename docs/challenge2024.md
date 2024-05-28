@@ -9,25 +9,27 @@ navigation: true
 
 # Mini-Fest at the Rugby Club 
 
-The [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) has stepped in to save the music that would have been on the bandstand this weekend, to provide a smaller, indoor, mini-festival on Saturday and Sunday. (There will also be music in the Market Square and in pubs and clubs).
+The [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) stepped in to save the music that was planned for bandstand when Challenge Festival was cancelled at the last minute.
 
-We will try to update this page as quickly as we can, but we are also putting updates on the [Bingley Music Town Facebook page](https://www.facebook.com/bingleymusictown/). 
+The page below retains some of the information for the day and updates since the event passed.
 
+<!--
 ## Please Note
 * This will be an indoor festival
 * It is not the full Challenge Festival line up it is ONLY the acts that were going to be playing on the bandstand.
 * The mini-fest will run the same artists at the same time, on the same days, just at a different place (BUT check back for any last minute changes!)
 * The bar at the Rugby Club is a card only bar
+-->
 
 ## Why the last minute change?
 
-We're running fast to catch up here after the larger [Challenge Festival](https://challengefestival.co.uk/) was [cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/) on Tuesday.
+The larger [Challenge Festival](https://challengefestival.co.uk/) was [cancelled](https://www.thetelegraphandargus.co.uk/news/24336257.challenge-festival-myrtle-park-bingley-cancelled/) on the Tuesday before the event.
 
 We're grateful for the offers of help and support that we've had, and to the [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) for stepping in.
 
 # Volunteer
 
-If you'd like to help us, and the club, organise and run the event, [please get in touch](({% link contact.md %})).
+We had about a dozen people volunteering with us on the day. If you'd like to help us organise and run similar events in the future, [please get in touch](({% link contact.md %})).
 
 # Sponsors
 
@@ -48,18 +50,18 @@ We've also had some sponsorship to feed and water our volunteers over the two da
 
 # Line Up
 
-There will be music from 12 noon until 9pm on Saturday and from 12 noon until 8pm, with a new act starting every hour on the hour. The last act will be on stage at 8pm (Sat) and 7pm (Sun).
+There was music from 12 noon until 9pm on the Saturday and from 12 noon until 8pm on the Sunday. A new act started every hour on the hour. The last act was on stage at 8pm (Sat) and 7pm (Sun).
 
-We've got 18 acts over the two days. Between acts we will have music provided by The Collector.
+There were 17 acts over the two days. Between act, music was provided by The Collector.
 
-Be sure to check back to this page for the latest details.
+<!-- Be sure to check back to this page for the latest details. -->
 
 | Time | Saturday 25th May |
 | --- | --- |
 | 12 noon | [Havoc City](#havoc-city) |
 | 1pm | [Cornell Daley](#cornell-daley) |
 | 2pm | [Sabrina Piggott](#sabrina-piggott) |
-| 3pm | TBC |
+| 3pm | [Cornell Daley & Friends](#cornell-daley) |
 | 4pm | [Ben Greenwell & The Spirit Guides](#ben-greenwell--the-spirit-guides) |
 | 5pm | [Wilko Wilkes](#wilko-wilkes) |
 | 6pm | [Playing For Kicks](#playing-for-kicks) |
@@ -70,7 +72,7 @@ Be sure to check back to this page for the latest details.
 | Time | Sunday 26th May |
 | --- | --- |
 | 12 noon | [Albatross](#albatross) |
-| 1pm | [Bethany Gibson](#bethany-gibson) |
+| 1pm | [Mike & Dave](#mike--dave) |
 | 2pm | [Liz Narey, Stan Greenwood, Chris Grayston](#liz-narey-stan-greenwood-chris-grayston) |
 | 3pm | [Otra](#otra) |
 | 4pm | [Reuben and The Bridge](#reuben-and-the-bridge) |
@@ -129,9 +131,11 @@ A laid back folk blues band from Riddlesden's Ben Greenwell and friends. Videos,
 </div>
 
 ## Bethany Gibson
-**Sunday 1pm**
+**Cancelled**
 <div class="row">
 <div class="col-md-6" markdown="1">
+Unfortunately, last minute gremlins meant that Bethany was unable to join us on the day.
+
 Bethany's influences are Gregory Alan Isakov, Taylor Swift and Olivia Rodrigo. She writes about her own experiences with relationships and friendships to create a story for her listeners. Her strong vocals and cryptic song writing skills are what entice her audience. 
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Bethany Gibson](assets/images/challenge/challenge2024/beth.jpg)
@@ -145,6 +149,8 @@ Bethany's influences are Gregory Alan Isakov, Taylor Swift and Olivia Rodrigo. S
 Cornell is one of Bingley's great musical treasures. 
 
 He organises the popular [Buskers Night<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/groups/824997727607702) at [Martinez Wine Bar]({% link _venues/martinez_bingley_wine_shop__wine_bar.md %}) in Bingley, and can be found singing and playing regularly around the district.
+
+On the day, Cornell called up a couple of friends to help fill the slot left by Fiddle n Feet when they could not perform.
 </div>
 <div class="col-md-6" markdown="1" style="padding: 0 1em">
 <figure class="image">
@@ -224,6 +230,10 @@ She'll be joined on stage by Chris Grayston, and local legend [Stan Greenwood<i 
 </figure> 
 </div>
 </div>
+
+## Mike & Dave
+
+Mike from Playing For Kicks and Dave Johnson stepped in at the last minute when Bethany Gibson was unable to perform. 
 
 ## Miriam - The First Lady of Folk
 **Saturday 8pm**
@@ -313,3 +323,30 @@ He is also the founder of social enterprise Rap for Good, as well as a video pro
 <div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Wilko Wilkes](assets/images/challenge/challenge2024/wilko.jpg)
 </div>
 </div>
+
+# Gallery
+
+We're grateful to [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} for taking pictures of the event.<br>A selection of the images they have captured are shown here. 
+
+
+<!-- Gallery -->
+<div class="container gallery">
+{% assign festival_array = "" | split: ',' %}
+{% assign image_files = site.static_files | where: "image", true | reverse %}
+{% for image in image_files %}
+  {% if image.name contains "Mini-Fest" %}
+     <!-- Push image into array -->
+     {% assign festival_array = festival_array | push: image %}
+  {% endif %}
+{% endfor %}
+
+{% for image in festival_array %}
+{% if forloop.first %}<div class="row">{% endif %}
+{% assign indexmod3 = forloop.index | modulo: 3 %}
+{% if indexmod3 == 1 %}<div class="row">{% endif %}
+{% assign altcaptitle = image.basename | replace: "_"," " | append: " - Photos by Bingley Camera Club" %}
+<a href="{{site.baseurl}}{{image.path}}" data-toggle="lightbox" data-gallery="example-gallery" data-caption="{{ altcaptitle }}" class="col-sm-4"><img src="{{site.baseurl}}{{image.path | replace: 'gallery','thumbnails'}}" alt="{{ altcaptitle }}" title="{{ altcaptitle }}" class="img-fluid" /></a>
+{% if forloop.last %}</div>{% elsif indexmod3 == 0 %}</div>{% endif %}
+{% endfor %}
+</div>
+<!-- Gallery -->
