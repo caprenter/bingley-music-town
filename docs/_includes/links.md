@@ -8,6 +8,7 @@
 [Music Groups]({% link groups.md %})<br/>
 [Music Month - November 2023]({% link music-month-2023.md %})<br/>
 [Regular Activities]({% link regular-activities.md %})<br/>
+[Sounds In Town]({% link sounds_in_town.md %})<br/>
 [Tuition]({% link tuition.md %})<br/>
 [Instruments]({% link instruments.md %})<br/>
 [Effects Library]({% link effects-library.md %})<br/>
