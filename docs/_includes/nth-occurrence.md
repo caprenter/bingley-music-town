@@ -12,8 +12,18 @@
 {% assign first_occurrence = 8 |plus: additional_days %}
 {% endif %}
 {% assign nth_occurrence = include.nth_occurrence %}
+{% if nth_occurrence == "last" %}
+{% assign days = 7 | times: 86400 %}
+{% assign next-week =  "now" | date: "%s" | plus: days | date: "%Y, %m, %-d" %}
+{% assign month-now = dateToday | date: "%b" %}
+{% assign month-next-week = next-week | date: "%b" %}
+{% if month-now != month-next-week %}
+{% assign TDTD = true %}
+{% endif %}
+{% else %}
 {% assign weeks_to_add = nth_occurrence | minus:1 | times: 7 %}
 {% assign date_we_want_day = weeks_to_add | plus: first_occurrence %}
 {% if date_we_want_day == dayToday %}
 {% assign TDTD = true %}
+{% endif %}
 {% endif %}

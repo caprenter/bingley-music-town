@@ -15,8 +15,10 @@ Where links are available we've put them in. We appreciate that finding out more
 #### First Monday of the month
 {% include regular-monday-first.md %}
 
+{% comment %}
 #### Third Monday  of the month
 {% include regular-monday-third.md %}
+{% endcomment %}
 
 ### Tuesday
 {% include regular-tuesday.md %}
@@ -38,18 +40,27 @@ Where links are available we've put them in. We appreciate that finding out more
 #### First Thursday of the month
 {% include regular-thursday-first.md %}
 
+{% comment %}
 #### Second Thursday of the month
 {% include regular-thursday-second.md %}
+{% endcomment %}
 
 #### Third Thursday of the month
 {% include regular-thursday-third.md %}
 
+
+{% comment %}
 ### Saturday
 
 #### First Saturday of the month
 {% include regular-saturday-first.md %}
+{% endcomment %}
 
 ### Sunday
 {% include regular-sunday.md %}
+
 #### Second Sunday of the month
 {% include regular-sunday-second.md %}
+
+#### Last Sunday of the month
+{% include regular-sunday-last.md %}

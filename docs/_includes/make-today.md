@@ -8,8 +8,8 @@ Fri = 5
 Sat = 6
 {% endcomment %}
 
-{% assign weekday = "now" | date: "%A" %}
-{% assign on-this-day-as-date = "now"" | date: "%Y-%m-%d" %}
+{% assign weekday = "2024-06-30" | date: "%A" %}
+{% assign on-this-day-as-date = "2024-06-30"" | date: "%Y-%m-%d" %}
 
 {% if weekday != "Friday" %}
 ## Make Music Today
@@ -17,7 +17,7 @@ Sat = 6
 {% if beCarefulDates contains on-this-day-as-date %}
 <strong>Because of the holiday season these events may or may not be on. Check in advance.</strong>
 {% endif %}
-Want to make your own music today ({{ weekday }})?<br>
+Want to make your own music today ({{ weekday }}) {{on-this-day-as-date}}?<br>
 
 {% if weekday == "Monday" %}
 {% include regular-monday.md %}
@@ -81,6 +81,11 @@ Want to make your own music today ({{ weekday }})?<br>
 {% if TDTD %}
 **Every Second Sunday of the month**<br>
 {% include regular-sunday-second.md %}
+{% endif %}
+{% include nth-occurrence.md nth_occurrence="last" day_of_week=0 dateToday=on-this-day-as-date %}
+{% if TDTD %}
+**Every Last Sunday of the month**<br>
+{% include regular-sunday-last.md %}
 {% endif %}
 {% endif %}
 
