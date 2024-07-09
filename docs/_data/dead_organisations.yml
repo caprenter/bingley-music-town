@@ -25,3 +25,19 @@
     The group pays the costs of the room hire between them.  
 
     Every Wednesday, 10:15-11:15.
+
+- name: The Shed Planners Association - BFD
+  #website: shedplannersbfd/
+  facebook: shedplannersbfd
+  logo: ShedPlannersLogo.jpg  
+  #image:
+  type: music-group
+  member: true
+  short-description: | 
+    An open mic and jam session at the Highfield, Idle, Bradford. From 9pm on the second Thursday of every month.
+    Run by Bingley musicians. PA, drums and backline provided. 
+  
+  description: | 
+    An open mic and jam session at the Highfield, Idle, Bradford. From 9pm on the second Thursday of every month.
+    
+    Run by Bingley musicians. PA, drums and backline provided. 
