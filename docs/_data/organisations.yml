@@ -82,22 +82,6 @@
     Looking for a band for an event, function or your music venue? <br>    
     Come along to one of our gigs to check us out, and/or contact us to check our availability.
 
-- name: The Shed Planners Association - BFD
-  #website: shedplannersbfd/
-  facebook: shedplannersbfd
-  logo: ShedPlannersLogo.jpg  
-  #image:
-  type: music-group
-  member: true
-  short-description: | 
-    An open mic and jam session at the Highfield, Idle, Bradford. From 9pm on the second Thursday of every month.
-    Run by Bingley musicians. PA, drums and backline provided. 
-  
-  description: | 
-    An open mic and jam session at the Highfield, Idle, Bradford. From 9pm on the second Thursday of every month.
-    
-    Run by Bingley musicians. PA, drums and backline provided. 
-
 - name: Bingley Singing For Fun
   #website: 
   logo: Bingley_Singing_for_Fun.png
