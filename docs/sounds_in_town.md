@@ -41,7 +41,32 @@ Many and thanks go to Helen Richmond (MD of [Cullingworth Community Choir]({% li
 
 
 
-Please bring your friends, families, followers to our supportive audience.  
+# Gallery
+
+We're grateful to [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} for taking pictures of the event.<br>A selection of the images they have captured are shown here. 
+
+
+<!-- Gallery -->
+<div class="container gallery">
+{% assign festival_array = "" | split: ',' %}
+{% assign image_files = site.static_files | where: "image", true | reverse %}
+{% for image in image_files %}
+  {% if image.name contains "SoundsInTown" %}
+     <!-- Push image into array -->
+     {% assign festival_array = festival_array | push: image %}
+  {% endif %}
+{% endfor %}
+
+{% for image in festival_array %}
+{% if forloop.first %}<div class="row">{% endif %}
+{% assign indexmod3 = forloop.index | modulo: 3 %}
+{% if indexmod3 == 1 %}<div class="row">{% endif %}
+{% assign altcaptitle = image.basename | replace: "_"," " | append: " - Photos by Bingley Camera Club" %}
+<a href="{{site.baseurl}}{{image.path}}" data-toggle="lightbox" data-gallery="example-gallery" data-caption="{{ altcaptitle }}" class="col-sm-4"><img src="{{site.baseurl}}{{image.path | replace: 'gallery','thumbnails'}}" alt="{{ altcaptitle }}" title="{{ altcaptitle }}" class="img-fluid" /></a>
+{% if forloop.last %}</div>{% elsif indexmod3 == 0 %}</div>{% endif %}
+{% endfor %}
+</div>
+<!-- Gallery -->  
 
 
 

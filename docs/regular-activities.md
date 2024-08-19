@@ -62,5 +62,8 @@ Where links are available we've put them in. We appreciate that finding out more
 #### Second Sunday of the month
 {% include regular-sunday-second.md %}
 
+#### Third Sunday of the month
+{% include regular-sunday-third.md %}
+
 #### Last Sunday of the month
 {% include regular-sunday-last.md %}

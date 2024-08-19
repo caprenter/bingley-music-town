@@ -82,6 +82,11 @@ Want to make your own music today ({{ weekday }})?<br>
 **Every Second Sunday of the month**<br>
 {% include regular-sunday-second.md %}
 {% endif %}
+{% include nth-occurrence.md nth_occurrence=3 day_of_week=0 dateToday=on-this-day-as-date %}
+{% if TDTD %}
+**Every Third Sunday of the month**<br>
+{% include regular-sunday-third.md %}
+{% endif %}
 {% include nth-occurrence.md nth_occurrence="last" day_of_week=0 dateToday=on-this-day-as-date %}
 {% if TDTD %}
 **Every Last Sunday of the month**<br>
