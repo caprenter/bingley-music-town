@@ -9,8 +9,10 @@ Lat: '53.849957'
 Lng: "-1.8419507"
 Member: 'no'
 Description: 
-splash: 
-image-credit: 
+splash: TheBrownCow.jpg
+image-credit: 'Photo: Nigel Bain, Bingley Camera Club'
+internal-link: 
+internal-link-text: 
 LastUpdated: '2023-02-23'
 permalink: "/venues/the_brown_cow.html"
 layout: venue_page
