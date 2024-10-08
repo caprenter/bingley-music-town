@@ -5,7 +5,7 @@ cover: splashes/soundsintown_slashe.jpg #No leading slash
 image-credit: "Photo: Bingley Camera Club"
 navigation: true
 ---
-<main id="content" class="content" role="main" markdown="1">
+
 
 Sounds In Town is an initiative to give local (amateur) musicians and singers of any ability the chance to perform to a sympathetic, supportive and appreciative audience. 
 
@@ -31,11 +31,23 @@ Plans are under way for an event on Friday 4th October 2024 in Harden. Watch thi
 
 ## Previous Events
 
+### October 4th 2024, St Saviours Church, Harden
+
+[<i class="fa-brands fa-square-facebook"></i> Facebook Event page for Sounds In Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/events/775148254653021){:target="_blank" rel="noopener noreferrer"}
+
+The second Sounds In Town event was at [St Saviours Church]({% link _venues/st_saviours_church.md %}) on 14th May 2024
+
+Thanks to everyone that helped and took part and came along. 
+
+We had the Bingley Ukulele Group, flautists Kate and Pam who also play with [Hot Aire](https://www.hotaire.org/), Liz Narey, two fifths of Albatross singing and playing guitar supported by Bingley Guitar Studio, St Saviours Choir, A 'you could hear a pin drop' performance from George on Harmonica, Aileen and Bruce playing traditional Scottish music, and the Power Four saxophone quartet. (I think that's everything!)
+
+A few pictures below courtesy of Neil from [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"}.
+
 ### May 14th 2024, Cullingworth Methodist Church
 
 [<i class="fa-brands fa-square-facebook"></i> Facebook Event page for Sounds In Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/events/1502540836969738){:target="_blank" rel="noopener noreferrer"}
 
-Our first Sounds In Town event will took place at at [Cullingworth Methodist Church]({% link _venues/cullingworth_methodist_church.md %}) on 14th May 2024
+Our first Sounds In Town event took place at [Cullingworth Methodist Church]({% link _venues/cullingworth_methodist_church.md %}) on 14th May 2024
 
 Many and thanks go to Helen Richmond (MD of [Cullingworth Community Choir]({% link _organisations/cullingworth_community_choir.md %})) for agreeing to host the first event.  Sounds in Town also featured her Choir as one of the performers.  
 
@@ -67,9 +79,3 @@ We're grateful to [Bingley Camera Club<i class="fa fa-external-link" aria-hidden
 {% endfor %}
 </div>
 <!-- Gallery -->  
-
-
-
-[![Sounds In Town Event](assets/images/sounds-in-town-may24_full.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
-
-</main>
