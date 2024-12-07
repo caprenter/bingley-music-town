@@ -12,6 +12,7 @@
 ## Live Music
 Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 
+{% assign eventstoday = 0 %}
 {% for event in events %}
 {% assign eventYear = event.Date | date: "%Y" %}
 {% assign eventDay = event.Date | date: "%j" | plus: 0 %}
@@ -20,8 +21,10 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 {%- endif -%}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Date == dateToday  %}
+{% assign eventstoday = eventstoday| plus: 1 %}
 {% assign date = event.Date %}
 
+{% if eventstoday == 1  %}<!-- If there is more than one than one event, only print this once-->
 ### Today
 {{ event.Date | date: "%A %d %B %Y" }}
 
@@ -40,6 +43,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 ### Church Bells
 7:30pm - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for practice.
 {% endif %}
+{% endif %}<!-- End Only print this once section -->
 
 <div class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}" markdown="1">
 <div class="row">
