@@ -1,5 +1,5 @@
 - title: Pianist/Organist Wanted
-  slug: eldwick_church_organist
+  slug: help/eldwick_church_organist
   #contact: 
   image: helps1.jpg
   order: 10
@@ -16,21 +16,21 @@
 
     They may also be able to provide a DBS-checked driver to pick up the accompanist and take them home again afterwards, if needs be.
 
-- title: Christmas Eve
-  slug: eldwick_memorial_hall_christmas 
-  contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
-  image: helps2.jpg
-  order: 30
-  #external_link: 
-  short-description: |
-    Eldwick Memorial Hall is looking for musicians to help with a Christmas Eve Sing-a-long which involves both carols and music songs between 6pm and 7pm.
-  description: |
-    Eldwick Memorial Hall is looking for musicians to help with a Christmas Eve Sing-a-long which involves both carols and music songs between 6pm and 7pm.
+# - title: Christmas Eve
+#   slug: help/eldwick_memorial_hall_christmas 
+#   contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
+#   image: helps2.jpg
+#   order: 30
+#   #external_link: 
+#   short-description: |
+#     Eldwick Memorial Hall is looking for musicians to help with a Christmas Eve Sing-a-long which involves both carols and music songs between 6pm and 7pm.
+#   description: |
+#     Eldwick Memorial Hall is looking for musicians to help with a Christmas Eve Sing-a-long which involves both carols and music songs between 6pm and 7pm.
 
-    If you think you can help, contact Alan or let us know and we can put you in touch. 
+#     If you think you can help, contact Alan or let us know and we can put you in touch. 
 
 - title: Join the Steering Group
-  slug: bmt_steering_group
+  slug: help/bmt_steering_group
   #contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
   order: 12
   #external_link: 
@@ -45,7 +45,7 @@
     For an informal chat, with no strings attached, just get in touch.
 
 - title: Pianist or Viola Player
-  slug: pianist_viola
+  slug: help/pianist_viola
   #contact: 
   image: helps4.jpg
   order: 20
@@ -58,13 +58,13 @@
     Let us know if you are interested and we can pass your details onto him.
 
 - title: Sounds In Town
-  slug: play_perform_bingley
+  slug: sounds_in_town
   #contact: 
   image: helps5.jpg
   order: 5
   #external_link: https://www.eldwickchurch.org.uk/
   short-description: |
-    Volunteers are needed for a new group that wants to give amateur musicians the chance to perform in a friendly supportive setting.   
+    Volunteers and Performers are needed for a new group that wants to give amateur musicians the chance to perform in a friendly supportive setting.   
   description: |
     Volunteers are needed for a new group that wants to give amateur musicians the chance to perform in a friendly supportive setting, with an emphasis on instruments that you might associate with an orchestra.  
 
@@ -118,7 +118,7 @@
     Find some people that might volunteer to help at events, even though they may not want to be more involved. Would you volunteer at an event to setup the room, meet and greet people, organise a performance running order, etc
 
 - title: Re-home an instrument
-  slug: rehome
+  slug: help/rehome
   #contact: 
   image: helps6.jpg
   order: 100

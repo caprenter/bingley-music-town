@@ -8,7 +8,7 @@
       <!--<a href="{{ help.ExternalLink }}" class="card-link">{{ help.title }} on the web</a>-->
     </div>
     <div class="card-footer text-muted">
-    <a href="/help/{{ help.slug }}"><i class="bi bi-info-circle-fill p-3"></i>More about {{ help.title }}</a>
+    <a href="/{{ help.slug }}"><i class="bi bi-info-circle-fill p-3"></i>More about {{ help.title }}</a>
     </div>
     </div>
   </div>
