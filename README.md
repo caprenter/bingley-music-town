@@ -218,12 +218,26 @@ Fetch the data with the script:
 
 We use the data to build a live listing page, a previous events page, and to populate the front page with live events today.
 
+## Regular activities
+
+The Regular activities page is generated from a bunch of individual files that give information about an activity on a certain day of the week.
+
+We have individual files for the first week of the month, third thursday and so on.
+
+These are pulled together with scripts.
+
+To add or remove a listing you need to check:
+* includes/regular-<day>-<optionally-occurance>.md
+* make-today.md
+* regular-activities.md
+
 ## Make Music Listing (front page)
 
-These ar generated from lots of small includes files that contain data about activities that happen on each individual day of the week.
+These are generated from lots of small includes files that contain data about activities that happen on each individual day of the week.
 
-### Christmas etc
+### Christmas / Be Careful Dates etc
 
+`make-today.md` contains a list of dates that can be set to flag a warning on days when regular activities might not happen e.g. Christmas
 
 ## Instruments
 Data is held in a google spreadsheet. Google forms collect the basic info.

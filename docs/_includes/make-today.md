@@ -67,13 +67,13 @@ Want to make your own music today ({{ weekday }})?<br>
 {% endif %}
 {% endif %}
 
-{% if weekday == "Saturday" %}
+<!-- {% if weekday == "Saturday" %}
 {% include nth-occurrence.md nth_occurrence=1 day_of_week=6 dateToday=on-this-day-as-date %}
 {% if TDTD %}
 **Every First Saturday of the month**<br>
 {% include regular-saturday-first.md %}
 {% endif %}
-{% endif %}
+{% endif %} -->
 
 {% if weekday == "Sunday" %}
 {% include regular-sunday.md %}
