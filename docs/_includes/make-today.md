@@ -13,7 +13,7 @@ Sat = 6
 
 {% if weekday != "Friday" %}
 ## Make Music Today
-{% assign beCarefulDates = "2023-12-27,2023-12-28,2023-12-29,2024-01-02,2024-01-03,2024-01-04" | split:"," %}
+{% assign beCarefulDates = "2024-12-25,2024-12-26,2024-12-27,2024-12-28,2024-12-29,2024-12-30,2024-12-31,2025-01-01,2025-01-02,2024-01-03" | split:"," %}
 {% if beCarefulDates contains on-this-day-as-date %}
 <strong>Because of the holiday season these events may or may not be on. Check in advance.</strong>
 {% endif %}
