@@ -8,14 +8,14 @@
 ## Bingley 2025 
 
 <div class="row"> 
-<div class="col col-md-6" markdown="1">
+<div class="col-md-6" markdown="1">
  
 Bingley is getting geared up for 2025, and Bingley Music Town will be playing it's part.
 
 See our dedicated [Bradford 2025 page]({% link bradford2025.md %}), where you can see a planning calendar of events that we think will be taking place locally in 2025. We're pleased to be helping out the Bingley 2025 organisers where we can.
 
 </div>
-<div class="col col-md-6" style="text-align:center">
+<div class="col-md-6" style="text-align:center">
 
 <a href="{% link bradford2025.md %}"><svg width="250" height="250" viewBox="0 0 64 63" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M27.354 5.15894L24.779 7.73894L7.73796 24.7789L5.15796 27.3589L7.73796 29.9389L32.446 54.6429L35.023 57.2199L37.603 54.6459L38.462 53.7889C38.462 53.7889 55.587 36.7079 55.743 36.5499C58.5646 33.7386 60.2117 29.9597 60.3507 25.979C60.4896 21.9983 59.1098 18.1138 56.491 15.1126C53.8723 12.1114 50.2104 10.2182 46.2476 9.81663C42.2848 9.41505 38.3176 10.5352 35.15 12.9499L29.934 7.73894L27.354 5.15894Z" fill="#45D108"/>
@@ -64,32 +64,27 @@ Sometimes we need a little help from our friends so we've set up a [community no
 See our **[Help Wanted page]({% link help.md %})** for more community music notices. 
 
 ## Bingley Makes Music Photography Exhibition 
-
-
-
 <div class="row"> 
-<div class="col col-md-6" markdown="1">
- 
-[Bingley Makes Music]({% link exhibition2024.md %}) was a photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}, and on the [Bingley Makes Music page of this website]({% link exhibition2024.md %}).
+<div class="col-md-6" markdown="1">
+ [Bingley Makes Music]({% link exhibition2024.md %}) was a photographic exhibition by [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"} in window displays on Bingley Main Street, and in [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}, and on the [Bingley Makes Music page of this website]({% link exhibition2024.md %}).
 
 The photographs were taken over the first 18 months of Bingley Music Town's existence to celebrate and showcase the diversity and joy of music in Bingley.
 
 The exhibition ran from 16th May - 26th June 2024 on seven windows on Main Street, Bingley with twenty prints on display inside the [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"}.
-
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:right">[![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}]({% link exhibition2024.md %})
+<div class="col-md-6" markdown="1" style="text-align:right">[![Cornell Daley live at Martinez](/assets/images/cornell-daley-at-martinez.jpg){:class="img-responsive"}]({% link exhibition2024.md %})
 </div>
 </div>
 
 ## Challenge Festival became Mini-Fest
 <div class="row">
  
-<div class="col col-md-6" markdown="1">
+<div class="col-md-6" markdown="1">
 Despite Challenge Festival being cancelled at the last minute there was live music in Bingley on the 25th and 26th May when the [Bradford And Bingley Rugby Club]({% link _venues/bradford_and_bingley_rugby_club.md %}) stepped in to save the music that would have been on at the bandstand. 
 
 Our mini-fest featured more or less the [same artists at the same time, on the same days]({% link challenge2024.md %}), just at a different place.
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:right"> [![Cath says Its Still On](/assets/images/still_on.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+<div class="col-md-6" markdown="1" style="text-align:center"> [![Cath says Its Still On](/assets/images/still_on.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
 </div>
 
 </div>
@@ -97,12 +92,11 @@ Our mini-fest featured more or less the [same artists at the same time, on the s
 
 ## Five Rise Locks 250th Anniversary
 <div class="row"> 
-<div class="col col-md-6" markdown="1">
+<div class="col-md-6" markdown="1">
 On **Saturday 23rd March 2024** we helped organise live music throughout the town as part of the [Five Rise Locks 250th Anniversary]({% link canal-2024.md %}).
-
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:right">
-<a href="{% link canal-2024.md %}"><img class="card-img-top" src="{{ site.url }}/assets/images/splashes/canal-splash.jpg" alt="Old image of Five Rise Locks"></a>
+<div class="col-md-6" markdown="1" style="text-align:right">
+<a href="{% link canal-2024.md %}" class="img-responsive"><img class="card-img-top" src="{{ site.url }}/assets/images/splashes/canal-splash.jpg" alt="Old image of Five Rise Locks"></a>
 </div>
 </div>
 
