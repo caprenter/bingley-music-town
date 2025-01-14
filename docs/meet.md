@@ -14,13 +14,8 @@ We meet at 6:30pm - 7:30pm, at Cardigan House, Ferncliffe Rd, Bingley BD16 2TA, 
 
 All are welcome, come along and help us get through the usual business and hatch new plans!
 
-Let us know if you're planning on coming down.
+[Let us know]({% link contact.md %}) if you're planning on coming down.
 
-* Wednesday May 8th 2024
-* Wednesday June 12th 2024
-* Wednesday July 10th 2024
-* Wednesday August 14th 2024
- 
 ## About Meetings
 * Steering group meetings are usually on the second Wednesday of the month
 * [Notes from our meetings](https://drive.google.com/drive/u/0/folders/1OFAW25umzovP2qbcFDrZuMMLmiOe6CIM) are available to members via Google Drive (you may need to request access. Also check our [Privacy Policy](({{ site_url }}/privacy#your-privacy-and-google-documents)))
