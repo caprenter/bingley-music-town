@@ -11,7 +11,7 @@ We are an organisation that is run by it's members. The membership set the prior
 
 ## Annual Reports
 
-* [Bingley Music Town Annual Report 2024 (pdf)]({% link cd assets/downloads/BMT Annual Report 2024_final.pdf %})
+* [Bingley Music Town Annual Report 2024 (pdf)]({% link cd assets/downloads/BMT_Annual_Report_2024_final.pdf %})
 * [Bingley Music Town Annual Report 2023 (pdf)]({% link assets/downloads/BMT_Annual_Report_2023_v1.0-1.pdf %})
 
 ## Become a member
