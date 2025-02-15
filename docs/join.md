@@ -9,9 +9,10 @@ Bingley Music Town was formally constituted on 9th November 2022.
 
 We are an organisation that is run by it's members. The membership set the priorities and the direction of the group.
 
-## Annual Report
+## Annual Reports
 
-Read our [Bingley Music Town Annual Report 2023 (pdf)]({% link assets/downloads/BMT_Annual_Report_2023_v1.0-1.pdf %})
+* [Bingley Music Town Annual Report 2024 (pdf)]({% link cd assets/downloads/BMT Annual Report 2024_final.pdf %})
+* [Bingley Music Town Annual Report 2023 (pdf)]({% link assets/downloads/BMT_Annual_Report_2023_v1.0-1.pdf %})
 
 ## Become a member
 Our members run the organisation.
