@@ -63,6 +63,12 @@ Sometimes we need a little help from our friends so we've set up a [community no
 
 See our **[Help Wanted page]({% link help.md %})** for more community music notices. 
 
+## Did you see...?
+<div class="blog p0">    
+{% include blog.md %}
+</div>
+
+<!-- 
 ## Bingley Makes Music Photography Exhibition 
 <div class="row"> 
 <div class="col-md-6" markdown="1">
@@ -98,10 +104,10 @@ On **Saturday 23rd March 2024** we helped organise live music throughout the tow
 <div class="col-md-6" markdown="1" style="text-align:right">
 <a href="{% link canal-2024.md %}" class="img-responsive"><img class="card-img-top" src="{{ site.url }}/assets/images/splashes/canal-splash.jpg" alt="Old image of Five Rise Locks"></a>
 </div>
-</div>
+</div> -->
 
 
-
+<br>
 ## Bingley - A Music Town
 Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
 
