@@ -1,6 +1,6 @@
 ---
 title: Help Wanted
-layout: listing
+layout: page
 cover: splashes/BMTlogoSplash.jpg #No leading slash
 #image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 navigation: true

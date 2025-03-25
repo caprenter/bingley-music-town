@@ -2678,6 +2678,11 @@ figcaption {
     .logos .column {
         width: 100%
       }
+    
+    .image-credit {
+        padding:0.4em;
+        font-size: 0.6em;
+    }
 
 }
 

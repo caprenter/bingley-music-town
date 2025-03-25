@@ -43,7 +43,7 @@ Fri = 5
 Sat = 6
 {% endcomment %}
 
-{% assign start-day = "01-11-2023" | date: '%s' %}
+{% assign start-day = "01-05-2025" | date: '%s' %}
 
 {% for i in (0..29) %}
    

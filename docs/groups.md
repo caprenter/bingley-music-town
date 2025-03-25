@@ -1,6 +1,6 @@
 ---
 title: Music Groups
-layout: listing
+layout: page
 cover: splashes/BMTlogo_SingingForFun.jpg #No leading slash
 image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 navigation: true
