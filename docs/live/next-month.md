@@ -8,7 +8,7 @@ navigation: true
 {% assign currentYear = site.time | date: '%Y' %}
 {% assign currentMonthNumber = site.time | date: '%m' %}
 
-{% if currentMonthNumber == 12 %}
+{% if currentMonthNumber == "12" %}
     {% assign nextMonthNumber = 1 %}
     {% assign currentYear = currentYear | plus: 1 %}
 {% else %}
