@@ -21,6 +21,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 {%- endif -%}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Date == dateToday  %}
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 {% assign eventstoday = eventstoday| plus: 1 %}
 {% assign date = event.Date %}
 
@@ -54,6 +55,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 </div>
 </div>
 {% endif %}
+{% endif %}
 {% endfor %}
 
 {% if week-date %}
@@ -63,7 +65,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 <div class="col-md-12">
 
 {% for event in events %}
-    
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 {% assign eventYear = event.Date | date: "%Y" %}
 {% assign eventDay = event.Date | date: "%j" | plus: 0 %}
 
@@ -106,6 +108,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
     </div>
 </div>
 {% assign week-date = event.Date %}
+{%- endif -%}
 {%- endif -%}
 {%- endfor -%}
 </div>

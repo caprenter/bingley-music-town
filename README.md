@@ -218,6 +218,17 @@ Fetch the data with the script:
 
 We use the data to build a live listing page, a previous events page, and to populate the front page with live events today.
 
+### Events code
+
+This is a bit of a mess. Recently to add a check that and Artists value exists in the data I had to change:
+* docs/_data/events.csv
+* docs/_includes/live-today.md
+* docs/_includes/previous-events.md
+* docs/_includes/upcoming-events.md
+* docs/_layouts/venue_page.html
+* docs/live/next-month.md
+* docs/live/this-month.md
+
 ## Regular activities
 
 The Regular activities page is generated from a bunch of individual files that give information about an activity on a certain day of the week.

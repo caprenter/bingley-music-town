@@ -9,6 +9,7 @@
 {% for event in events %}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Date >= dateToday  %}
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 
 <!-- GROUP EVENTS BY DATE -->
 {% if forloop.first %}
@@ -36,6 +37,7 @@
 
 </div>
 </div>
+{% endif %} <!-- if no artists -->
 {% endif %} <!-- in the future -->
 {% endfor %}
 

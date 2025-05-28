@@ -23,6 +23,7 @@
 {% for event in events %}
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Date < dateToday  %}
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 
 {% comment %}
   If this is a venue page, we only want events that happened at that venue.
@@ -55,6 +56,7 @@
 <td>{% if event.Cancelled == "1"  %}Cancelled{% endif %}</td>
 </tr>
 {% assign artist_web = false %}
+{% endif %} <!-- Artist field not empty -->
 {% endif %} <!-- in the future -->
 {% endfor %}  
 </table>

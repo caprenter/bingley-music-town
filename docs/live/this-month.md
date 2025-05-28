@@ -24,6 +24,7 @@ Don't forget to checkout out the [regular music making activities]({% link regul
 
 {% assign events = '' | split: '' %}
 {% for event in allEvents %}
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 {% assign eventMonth = event.Date | date: "%m" %}
 {% assign eventYear = event.Date | date: "%Y" %}
   {% if eventMonth == currentMonthNumber %}
@@ -31,6 +32,7 @@ Don't forget to checkout out the [regular music making activities]({% link regul
      {% assign events = events | push: event %}
   {% endif %}
   {% endif %}
+{% endif %}
 {% endfor %}
 
 

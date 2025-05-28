@@ -90,6 +90,7 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Venue == page.Name  %}
 {% if event.Date >= dateToday  %}
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 {% assign HasEvents = 'yes %' %}
 
 <!-- GROUP EVENTS BY DATE -->
@@ -177,7 +178,8 @@ Support: {% continue %}{% endif %}
 </div>
 {% else %} <!-- in the future -->
 {% assign HasPastEvents = 'yes' %}
-{% endif %}
+{% endif %}<!-- Artist exists -->
+{% endif %}<!-- future date -->
 {% endif %} <!-- at this Venue -->
 {% endfor %}
 
