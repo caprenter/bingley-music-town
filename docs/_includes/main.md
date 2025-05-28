@@ -5,8 +5,26 @@
 <section class="main-page">
 <div markdown="1">
 
-## Bingley 2025 
+ 
+## Bandstand Gigs
 
+<div class="row">
+ 
+<div class="col col-md-6" markdown="1">Every week throughout the Summer there will be live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}). 
+
+Brass Band Concerts are on **every Sunday from 2pm - 4pm**
+
+There will also be live amplified music from **various artists** at **various times**.
+
+**Check the [Myrtle Park]({% link _venues/myrtle_park.md %}) page** for the latest listings.
+
+Brought to you by the Friends of Myrtle Park, Bingley Town Council, Bradford Parks, and ourselves. 
+</div>
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Bandstand in Myrtle Park](/assets/images/myrtle_park.jpg)]({% link _venues/myrtle_park.md %}){:class="img-responsive"}
+</div>
+
+</div>
+## Bingley 2025
 <div class="row"> 
 <div class="col-md-6" markdown="1">
  
