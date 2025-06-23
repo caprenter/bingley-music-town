@@ -176,9 +176,10 @@ Support: {% continue %}{% endif %}
 
 </div>
 </div>
-{% else %} <!-- in the future -->
-{% assign HasPastEvents = 'yes' %}
 {% endif %}<!-- Artist exists -->
+{% else %} <!-- in the future -->
+{% assign HasPastEvents = "yes" %}
+{{HasEvents}}
 {% endif %}<!-- future date -->
 {% endif %} <!-- at this Venue -->
 {% endfor %}
@@ -190,9 +191,14 @@ Support: {% continue %}{% endif %}
 {% endif %}
 
 {% if HasPastEvents %}
+{{HasPastEvents}}
 <h2>Previous Events</h2>
+
 {% include previous-events.md %}
+
+
 {% endif %}
+
 {% capture AboutThisPage %}
 {% include about-this-page.md %}
 {% endcapture %}

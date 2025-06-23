@@ -23,7 +23,9 @@
 {% for event in events %}
 {% if event.Venue == ThisVenue  %}
 {% if event.Date >= dateToday  %}
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 {% assign HasEvents = 'yes' %}
+{% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -44,6 +46,7 @@
 {% continue %}
 {% endif %}
 
+{% if event.Artists and event.Artists != nil and event.Artists != "" %}
 {% assign venue = site.venues | where:"Name", ThisVenue | first %}
 
 <tr class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}">
@@ -63,6 +66,7 @@
 <td>{% if event.Cancelled == "1"  %}Cancelled{% endif %}</td>
 </tr>
 {% assign web = false %}
+{% endif %} <!-- Artist not empty -->
 {% endif %} <!-- in the future -->
 {% endfor %}  
 </table>

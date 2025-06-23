@@ -17,7 +17,6 @@ When visiting the Groups page
     | "Bradford Airedale Youth Choir" |
     | "Cullingworth Community Choir" |
     | "Cullingworth Ukulele Group" |
-    | "The Shed Planners Association - BFD" |
     | "Voices of Yorkshire" |
 
   @headings
@@ -29,3 +28,4 @@ When visiting the Groups page
 	  | named |
 	  | "Little House Guitars" |
     | "TSO Promotions" |
+    | "The Shed Planners Association - BFD" |
