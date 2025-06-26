@@ -8,5 +8,5 @@
 -->
 **Open Mic At the The Glen**<br>
 Musicians of all abilities welcome.<br>
-From 6:30pm [The Glen]({% link _venues/the_glen.md %}), Gilstead
+From 7:30pm - 9:30 [The Glen]({% link _venues/the_glen.md %}), Gilstead
 
