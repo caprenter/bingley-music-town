@@ -98,6 +98,7 @@ In practice we use:
     bundle exec jekyll pagemaster venues
     ## OR with docker:
     docker exec -it jekyll /bin/bash -c 'bundle exec jekyll pagemaster venues'
+    docker exec -it bingleymusictown-jekyll-1 /bin/bash -c 'bundle exec jekyll pagemaster venues'
 
 This command will generate markdown for views for each item in the collection under ./_{collection name}
 
@@ -291,6 +292,7 @@ Either reload terminal session or refresh session to make the alias permanent ac
 
     # Run all available tests against a local development site
     behat --profile=local 
+    docker exec -it  bingleymusictown-behat-1 behat --profile=local
 
 
 #### Partial tests
@@ -303,6 +305,9 @@ Either reload terminal session or refresh session to make the alias permanent ac
 
     # Run all tests tagged 'javascript' with a javascript enabled browser against a LOCAL site.
     behat --profile=local --tags @javascript
+
+    # Run all tests tagged 'javascript' with a javascript enabled browser against a LOCAL site.
+    behat --profile=local features/<name of feature>.feature
 
 
 ## Watch the tests 

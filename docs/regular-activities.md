@@ -34,6 +34,9 @@ Where links are available we've put them in. We appreciate that finding out more
 #### Third Wednesday of the month
 {% include regular-wednesday-third.md %}
 
+#### Last Wednesday of the month
+{% include regular-wednesday-last.md %}
+
 ### Thursday 
 {% include regular-thursday.md %}
 
@@ -56,7 +59,7 @@ Where links are available we've put them in. We appreciate that finding out more
 {% include regular-saturday-first.md %}
 {% endcomment %}
 
-### Sunday
+### Wednesday
 {% include regular-sunday.md %}
 
 #### Second Sunday of the month

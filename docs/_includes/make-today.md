@@ -46,6 +46,11 @@ Want to make your own music today ({{ weekday }})?<br>
 
 {% if weekday == "Wednesday" %}
 {% include regular-wednesday.md %}
+{% include nth-occurrence.md nth_occurrence="last" day_of_week=3 dateToday=on-this-day-as-date %}
+{% if TDTD %}
+**Every Last Wednesday of the month**<br>
+{% include regular-wednesday-last.md %}
+{% endif %}
 {% endif %}
 
 {% if weekday == "Thursday" %}

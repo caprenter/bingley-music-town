@@ -14,7 +14,7 @@
 {% assign nth_occurrence = include.nth_occurrence %}
 {% if nth_occurrence == "last" %}
 {% assign days = 7 | times: 86400 %}
-{% assign next-week =  "now" | date: "%s" | plus: days | date: "%Y, %m, %-d" %}
+{% assign next-week =  "now" | date: "%s" | plus: days | date: "%Y-%m-%d" %}
 {% assign month-now = dateToday | date: "%b" %}
 {% assign month-next-week = next-week | date: "%b" %}
 {% if month-now != month-next-week %}
