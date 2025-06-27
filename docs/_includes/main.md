@@ -81,10 +81,9 @@ Sometimes we need a little help from our friends so we've set up a [community no
 
 See our **[Help Wanted page]({% link help.md %})** for more community music notices. 
 
-## Did you see...?
+<!-- ## Did you see...?
 <div class="blog p0">    
-{% include blog.md %}
-</div>
+</div> -->
 
 <!-- 
 ## Bingley Makes Music Photography Exhibition 
@@ -126,19 +125,6 @@ On **Saturday 23rd March 2024** we helped organise live music throughout the tow
 
 
 <br>
-## Bingley - A Music Town
-Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
-
-There's already so much going on, and there's also loads of ideas about what else could happen in our town and district.
-
-We're working on a plan to make things happen, you're welcome to [join us]({{% site_url %}}/join#become-a-member).
-
-Get up to speed with what we're doing...
-
-### Background Documents
-* [Bingley - A Music Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit){:target="_blank" rel="noopener noreferrer"}
-* [What we've got already<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.5vdluu5s24cx){:target="_blank" rel="noopener noreferrer"}
-* [What's missing (that a Music Town might have)<i class="fa fa-external-link" aria-hidden="true"></i>](https://docs.google.com/document/d/1cIwYgCtF7vX98hy2NKenFRFFM3cwq3fK3-6qjdclAss/edit#heading=h.azivrbtwiz2u){:target="_blank" rel="noopener noreferrer"}.
 
 ### News
 * [November 2024 Newsletter<i class="fa fa-external-link" aria-hidden="true"></i>](https://mailchi.mp/7925433b3faa/bingley-music-town-news-november-2024){:target="_blank" rel="noopener noreferrer"}

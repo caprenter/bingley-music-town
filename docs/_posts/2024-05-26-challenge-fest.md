@@ -1,7 +1,8 @@
 ---
 image-title: "Cath the drummer" 
 title: Mini-Fest 2024 
-layout: page
+layout: page_v2
+sub-title: FIX ME
 cover: splashes/challenge_splash.jpg #No leading slash
 image-credit: "Photo: Bingley Camera Club"
 navigation: true

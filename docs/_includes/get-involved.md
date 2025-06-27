@@ -1,6 +1,6 @@
 ### Get involved
 
-Why not [become a member]({{% site_url %}}/join#become-a-member) and get involved to make a difference?
+Why not [become a member]({{% site_url %}}/membership#become-a-member) and get involved to make a difference?
 
 [Sign up to our mailing list]({{% site_url %}}/contact#mailing-list) to stay informed about what's happening.
 

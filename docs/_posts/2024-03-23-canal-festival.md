@@ -1,6 +1,7 @@
 ---
 image-title: "Canal Festival" 
-layout: page
+layout: page_v2
+sub-title: FIX ME
 #image-credit: "Photo: Bingley Camera Club"
 navigation: true
 title: Five Rise Locks 250th Anniversary

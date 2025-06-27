@@ -1,6 +1,7 @@
 ---
 title: Help Wanted
-layout: page
+layout: page_v2
+sub-title: FIX ME
 cover: splashes/BMTlogoSplash.jpg #No leading slash
 #image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 navigation: true

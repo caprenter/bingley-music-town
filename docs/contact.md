@@ -1,8 +1,10 @@
 ---
 title: Contact
-layout: page
-cover: PFK2.jpg #no leading slash
-image-credit: Playing For Kicks
+layout: page_v2
+sub-title: We'd love to hear from you
+# cover: PFK2.jpg #no leading slash
+cover: exhibition2024/524A9857-20.jpg
+# image-credit: Playing For Kicks
 navigation: true
 ---
 

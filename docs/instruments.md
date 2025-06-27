@@ -1,6 +1,7 @@
 ---
 title: Instruments
-layout: page 
+layout: page_v2
+sub-title: FIX ME 
 cover: splashes/BMTlogo_guitar.jpg #No leading slash
 #image-credit: "Photo: Bingley Camera Club"
 navigation: true

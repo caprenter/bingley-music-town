@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page_v2
 title: Bingley Music Town
+sub-title: A great place to learn,<br> make, and experience music 
 class: 'home-template'
 navigation: True
 #logo: /assets/images/splashes/BMTlogoSplash.jpg
@@ -9,23 +10,9 @@ current: home
 # we use {% assign film = site.data.films | where:"our-id", page.our-id | first  %}
 # in _includes/head.html to make use of the data below using e.g. film.main-image
 # Defaults to use if no 'next film'
-cover: splashes/BMTlogoSplash.jpg
-
+# cover: splashes/BMTlogoSplash.jpg
+cover: splashes/QoH.jpg
 ---
-<!-- < default -->
-<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
-<!-- The big featured header  -->
-<header class="main-header" style="background-image: url({{ site.baseurl }}/assets/images/{{ page.cover }})">
-
-    <div class="vertical">
-        <div class="main-header-content inner">
-           <!-- <h1 class="page-title">Bingley Music Town</h1>-->
-        </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
-
-</header>
-
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main" markdown="1">
 {% include main.md %}

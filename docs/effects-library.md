@@ -1,6 +1,7 @@
 ---
 title: Effects Library
-layout: page 
+layout: page_v2
+sub-title: FIX ME 
 cover: splashes/BMT_Effects.jpg #No leading slash
 #image-credit: "Photo: Bingley Camera Club"
 navigation: true

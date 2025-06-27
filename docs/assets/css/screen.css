@@ -386,7 +386,7 @@ a:active, a:hover { outline: 0; }
 abbr[title] { border-bottom: 1px dotted; }
 b, strong { font-weight: bold; }
 dfn { font-style: italic; }
-h1 { font-size: 2em; margin: 0.67em 0; }
+/* h1 { font-size: 2em; margin: 0.67em 0; } */
 mark { background: #ff0; color: #000; }
 small { font-size: 80%; }
 sub, sup {
@@ -907,7 +907,8 @@ button {
     position: relative;
     width: 80%;
     max-width: 710px;
-    margin: 0 auto;
+    margin: 3rem;
+    text-align: left;
 }
 
 /* Centres vertically yo. (IE8+) */
@@ -956,6 +957,8 @@ body.nav-opened .site-wrapper {
 
 .main-header .inner {
     width: 80%;
+    text-align: left;
+    vertical-align: top;
 }
 
 .main-nav {
@@ -1324,7 +1327,7 @@ div.blog-logo {
 
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
-    margin: 10px 0 10px 0;
+    margin: 3rem 0;
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
@@ -1332,11 +1335,14 @@ div.blog-logo {
     color: #fff;
 }
 
-.next-film h1 {
-    margin: 4rem 0 2rem 0;
-    font-size: 6rem;
+.main-header-content .page-title {
+    font-size: 10rem;
+}
+
+.main-header-content .page-sub-title {
+    font-size: 3rem;
     letter-spacing: -1px;
-    font-weight: 700;
+    font-weight: 600;
     font-family: "Open Sans", sans-serif;
     color: #fff;
 }
@@ -1422,7 +1428,7 @@ p.page-description {
 }
 
 body:not(.post-template) .post-title {
-    font-size: 3.6rem;
+    /* font-size: 3.6rem; */
 }
 
 body.page-template .post-title {
@@ -2249,7 +2255,7 @@ figcaption {
         padding: 4px 0;
     }
 
-    .page-title {
+    .page-title, .main-header-content .page-title {
         font-size: 4rem;
         letter-spacing: -1px;
     }
@@ -2473,7 +2479,7 @@ figcaption {
     .inner,
     .pagination {
         width: auto;
-        margin: 2rem auto;
+        margin: 1rem auto;
     }
 
     .post {
@@ -2509,8 +2515,11 @@ figcaption {
         margin: 0 0 2.5rem 0;
     }
 
-    .page-title {
-        font-size: 3rem;
+    .page-title, .main-header-content .page-title {
+        font-size: 4rem;
+    }
+    .main-header-content .page-sub-title {
+        font-size: 2rem;
     }
 
     .post-excerpt p {

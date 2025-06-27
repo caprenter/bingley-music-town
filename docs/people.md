@@ -1,8 +1,10 @@
 ---
 title: People
-layout: page 
-cover: splashes/BMTlogo_BradfordAccordionBand.jpg #No leading slash
-image-credit: Bradford Accordion Band
+sub-title: Because music only matters if people matter
+layout: page_v2
+# cover: splashes/BMTlogo_BradfordAccordionBand.jpg #No leading slash
+cover: exhibition2024/20240326-IMG_1313-Enhanced-NR-14.jpg
+# image-credit: Bradford Accordion Band
 navigation: true
 ---
 

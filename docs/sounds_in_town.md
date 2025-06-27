@@ -1,6 +1,7 @@
 ---
 title: Sounds In Town
-layout: page
+layout: page_v2
+sub-title: FIX ME
 cover: splashes/soundsintown_slashe.jpg #No leading slash
 image-credit: "Photo: Bingley Camera Club"
 navigation: true

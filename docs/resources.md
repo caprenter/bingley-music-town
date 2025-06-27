@@ -1,6 +1,7 @@
 ---
 title: Resources
-layout: page 
+layout: page_v2
+sub-title: FIX ME 
 cover: splashes/BMTlogo_flutes.jpg #No leading slash
 #image-credit: Becs Leighton Music
 navigation: true

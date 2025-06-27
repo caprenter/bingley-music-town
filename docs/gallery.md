@@ -1,6 +1,7 @@
 ---
 title: Gallery
-layout: page 
+layout: page_v2
+sub-title: FIX ME 
 cover: splashes/BMT_RecordStoreDay23.jpg #No leading slash
 image-credit: "Photo: Bingley Camera Club"
 navigation: true

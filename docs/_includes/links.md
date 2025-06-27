@@ -1,7 +1,9 @@
 ### Links
 
 [Home](/)<br/>
-[Join]({% link join.md %})<br/>
+[Blog]({% link blog.md %})<br/>
+[Purpose]({% link purpose.md %})<br/>
+[Membership]({% link membership.md %})<br/>
 [Meet]({% link meet.md %})<br/>
 [Help]({% link help.md %})<br/>
 [People]({% link people.md %})<br/>

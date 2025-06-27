@@ -7,31 +7,41 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item px-3">
-          <a class="nav-link" href="{{ '/' | relative_url }}">Home</a>
+        <li class="nav-item px-3 dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            About
+          </a>
+          <!-- <a class="nav-link" href="{{ '/' | relative_url }}">Home</a> -->
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="{{ '/purpose' | relative_url }}">Purpose</a></li>
+            <li><a class="dropdown-item" href="{{ '/membership' | relative_url }}">Membership</a></li>
+            <li><a class="dropdown-item" href="{{ '/meet' | relative_url }}">Meet</a></li>
+            <li><a class="dropdown-item" href="{{ '/people' | relative_url }}">People</a></li>
+          </ul>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="{{ '/join' | relative_url }}">Join</a>
+          <a class="nav-link" href="{{ '/blog' | relative_url }}">Blog</a>
         </li>
-        <li class="nav-item px-3">
+        <!-- <li class="nav-item px-3">
           <a class="nav-link" href="{{ '/meet' | relative_url }}">Meet</a>
-        </li>
+        </li> -->
         <li class="nav-item px-3">
           <a class="nav-link" href="{{ '/help' | relative_url }}">Help</a>
         </li>
-        <li class="nav-item px-3">
+        <!-- <li class="nav-item px-3">
           <a class="nav-link" href="{{ '/people' | relative_url }}">People</a>
-        </li>
+        </li> -->
         <li class="nav-item px-3 dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Sing & Play
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="{{ '/groups' | relative_url }}">Music Groups</a></li>
-            <li><a class="dropdown-item" href="{{ '/regular-activities' | relative_url }}">Regular Activities</a>
-            <li><a class="dropdown-item" href="{{ '/sounds_in_town.html' | relative_url }}">Sounds In Town</a>
-            <li><a class="dropdown-item" href="{{ '/tuition' | relative_url }}">Tuition</a>
-            <li><a class="dropdown-item" href="{{ '/instruments' | relative_url }}">Instruments</a>
-            <li><a class="dropdown-item" href="{{ '/effects-library' | relative_url }}">Effects Library</a>
+            <li><a class="dropdown-item" href="{{ '/regular-activities' | relative_url }}">Regular Activities</a></li>
+            <li><a class="dropdown-item" href="{{ '/sounds_in_town.html' | relative_url }}">Sounds In Town</a></li>
+            <li><a class="dropdown-item" href="{{ '/tuition' | relative_url }}">Tuition</a></li>
+            <li><a class="dropdown-item" href="{{ '/instruments' | relative_url }}">Instruments</a></li>
+            <li><a class="dropdown-item" href="{{ '/effects-library' | relative_url }}">Effects Library</a></li>
             <!--<li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>-->
           </ul>
