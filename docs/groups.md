@@ -1,9 +1,9 @@
 ---
 title: Music Groups
 layout: page_v2
-sub-title: FIX ME
-cover: splashes/BMTlogo_SingingForFun.jpg #No leading slash
-image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
+sub-title: It's good to make music with other people
+cover: splashes/splash_groups.jpg #No leading slash
+# image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 navigation: true
 ---
 

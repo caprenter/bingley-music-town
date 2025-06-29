@@ -1,4 +1,4 @@
-### Get involved
+## Get involved
 
 Why not [become a member]({{% site_url %}}/membership#become-a-member) and get involved to make a difference?
 

@@ -1,9 +1,9 @@
 ---
 title: Sounds In Town
 layout: page_v2
-sub-title: FIX ME
-cover: splashes/soundsintown_slashe.jpg #No leading slash
-image-credit: "Photo: Bingley Camera Club"
+sub-title: Give us a tune
+cover: splashes/soundsintown_splash.jpg #No leading slash
+# image-credit: "Photo: Bingley Camera Club"
 navigation: true
 ---
 
@@ -28,9 +28,19 @@ Tell us:
 
 ## Our Next Event
 
-Plans are under way for an event on Friday 4th October 2024 in Harden. Watch this space.
+Plans are under way for an event in September/October 2025 in Cullingworth. Watch this space.
 
 ## Previous Events
+
+### March 5th 2025, Wilsden Trinity Church, Wilsden 
+
+[<i class="fa-brands fa-square-facebook"></i> Facebook Event page for Sounds In Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/events/775148254653021){:target="_blank" rel="noopener noreferrer"}
+
+The third Sounds In Town event was at [Wilsden Trinity Church]({% link _venues/wilsden_trinity_church.md %}) on 5th March 2025, and was another wonderful team effort by everyone involved.
+
+Acts included: Wilsden Singing Group, a young grade 1 pianist, an accordion duet, 3 Chord Max ukulele group, Isla and Ava doing a piano duet, Robert Whitaker, and Pop-Up Brass.
+
+A few pictures below courtesy of Paul from [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"}.
 
 ### October 4th 2024, St Saviours Church, Harden
 

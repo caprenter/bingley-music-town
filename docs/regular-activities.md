@@ -1,9 +1,9 @@
 ---
 title: Regular Activities
 layout: page_v2
-sub-title: FIX ME 
-cover: splashes/BMTlogo_piano.jpg #No leading slash
-image-credit: Becs Leighton Music
+sub-title: Sing, play and make music everyday 
+cover: splashes/splash_regular-activities.jpg #No leading slash
+# image-credit: Becs Leighton Music
 navigation: true
 ---
 Below is a list of things we think go in in Bingley each week.

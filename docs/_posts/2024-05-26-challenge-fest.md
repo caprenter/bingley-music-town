@@ -1,10 +1,10 @@
 ---
 image-title: "Cath the drummer" 
-title: Mini-Fest 2024 
+title: Mini-Fest 2024
+sub-title: The show must go on 
 layout: page_v2
-sub-title: FIX ME
 cover: splashes/challenge_splash.jpg #No leading slash
-image-credit: "Photo: Bingley Camera Club"
+# image-credit: "Photo: Bingley Camera Club"
 navigation: true
 ---
 
@@ -98,7 +98,7 @@ As a friendship group they began to experiment with instruments together and fou
 
 The Challenge Festival is their debut public performance. One not to miss.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour](assets/images/challenge/challenge2024/albatross.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour]({{ site.baseurl }}/assets/images/challenge/challenge2024/albatross.jpg)
 </div>
 </div>
 
@@ -110,7 +110,7 @@ Unfortunately [Alice<i class="fa fa-external-link" aria-hidden="true"></i>](http
 
 We were expect mesmerising live violin loops, samples, and beats from this local musician and sound artist. When not performing solo, Alice plays the violin in musicals for professional and amateur companies in the Yorkshire area. She also supplies violin samples and solos to all sort of projects.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour](assets/images/challenge/challenge2024/AliceGilmour.jpeg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Alice Gilmour]({{ site.baseurl }}/assets/images/challenge/challenge2024/AliceGilmour.jpeg)
 </div>
 </div>
 
@@ -120,7 +120,7 @@ We were expect mesmerising live violin loops, samples, and beats from this local
 <div class="col-md-6" markdown="1">
 [Augustin Bousfield<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.augustinbousfield.com/){:target="_blank" rel="noopener noreferrer"} is a musician, composer, and producer from Bradford. He'll be bringing his own brand of wonky electro synthypop to the bandstand.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Augustin Bousfield](assets/images/challenge/challenge2024/AugustinBousfield.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Augustin Bousfield]({{ site.baseurl }}/assets/images/challenge/challenge2024/AugustinBousfield.jpg)
 </div>
 </div>
 
@@ -131,7 +131,7 @@ We were expect mesmerising live violin loops, samples, and beats from this local
 <div class="col-md-6" markdown="1">
 A laid back folk blues band from Riddlesden's Ben Greenwell and friends. Videos, links and more information on [Ben Greenwell's LinkTree<i class="fa fa-external-link" aria-hidden="true"></i>](https://linktr.ee/BenGreenwellMusic){:target="_blank" rel="noopener noreferrer"}
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Ben Greenwell & The Spirit Guides](assets/images/challenge/challenge2024/Spiritguides.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Ben Greenwell & The Spirit Guides]({{ site.baseurl }}/assets/images/challenge/challenge2024/Spiritguides.jpg)
 </div>
 </div>
 
@@ -143,7 +143,7 @@ Unfortunately, last minute gremlins meant that Bethany was unable to join us on 
 
 Bethany's influences are Gregory Alan Isakov, Taylor Swift and Olivia Rodrigo. She writes about her own experiences with relationships and friendships to create a story for her listeners. Her strong vocals and cryptic song writing skills are what entice her audience. 
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Bethany Gibson](assets/images/challenge/challenge2024/beth.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Bethany Gibson]({{ site.baseurl }}/assets/images/challenge/challenge2024/beth.jpg)
 </div>
 </div>
 
@@ -176,7 +176,7 @@ Fiddle 'n' Feet are an Appalachian dance group that is run from Bingley and rehe
 
 You can usually find the musicians in the Brown Cow (Monday nights) and the Chip n Ern (Wednesday nights), so if you like what you hear it's not hard to hear more!
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Fiddle 'N' Feet](assets/images/challenge/challenge2024/fiddle-n-feet.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Fiddle 'N' Feet]({{ site.baseurl }}/assets/images/challenge/challenge2024/fiddle-n-feet.jpg)
 </div>
 </div>
 
@@ -206,7 +206,7 @@ Bingley musician, producer, and DJ, [Harry Speight<i class="fa fa-external-link"
 
 Check out [Harry Speight on Bandcamp<i class="fa fa-external-link" aria-hidden="true"></i>](https://itsharryspeight.bandcamp.com){:target="_blank" rel="noopener noreferrer"}
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City](assets/images/challenge/challenge2024/harry.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City]({{ site.baseurl }}/assets/images/challenge/challenge2024/harry.jpg)
 </div>
 </div>
 
@@ -216,7 +216,7 @@ Check out [Harry Speight on Bandcamp<i class="fa fa-external-link" aria-hidden="
 <div class="col-md-6" markdown="1">
 Formed in 2023, Havoc City are a young, energetic rock band that are making their mark in the West Yorkshire rock scene. They blend the hard rock and roll from the 80s and 90s with the modern indie of the 21st century. This is a great chance to check them out live on stage early in their career. Expect an electrifying attitude and emotion and passion for their music. Watch out for their debut EP, coming soon.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City](assets/images/challenge/challenge2024/HavocCity.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Havoc City]({{ site.baseurl }}/assets/images/challenge/challenge2024/HavocCity.jpg)
 </div>
 </div>
 
@@ -252,7 +252,7 @@ both Cambridge and Edinburgh.
 
 This is the first date of her UK tour
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Miriam](assets/images/challenge/challenge2024/miriam.png)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Miriam]({{ site.baseurl }}/assets/images/challenge/challenge2024/miriam.png)
 </div>
 </div>
 
@@ -262,7 +262,7 @@ This is the first date of her UK tour
 <div class="col-md-6" markdown="1">
 [Otra<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/otramusic/){:target="_blank" rel="noopener noreferrer"}  are Rahel Guzelian and Tony Charnock, an acoustic duo with a repertoire of original songs and folk-style covers with guitar, whistle and fiddle accompaniment. They have been performing around the Bradford area and beyond for the past 20 years.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Otra](assets/images/challenge/challenge2024/Otra.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Otra]({{ site.baseurl }}/assets/images/challenge/challenge2024/Otra.jpg)
 </div>
 </div>
 
@@ -272,7 +272,7 @@ This is the first date of her UK tour
 <div class="col-md-6" markdown="1">
 [Playing for Kicks<i class="fa fa-external-link" aria-hidden="true"></i>](https://playingforkicks.co.uk/){:target="_blank" rel="noopener noreferrer"} play songs you know and love from Tina Turner to Divine Comedy and Deacon Blue to B52’s. There’s something for everyone.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Playing for Kicks](assets/images/challenge/challenge2024/pfk.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Playing for Kicks]({{ site.baseurl }}/assets/images/challenge/challenge2024/pfk.jpg)
 </div>
 </div>
 
@@ -283,7 +283,7 @@ This is the first date of her UK tour
 
 Reuben brings his guitar and warm and powerful lead vocals, while Bridget brings her own style of both lyrical and fiery fiddle playing, as well as haunting harmony vocals. Reworkings of classic rock and pop songs is their forte, but they also perform original compositions. Expect diversity!
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Reuben and The Bridge](assets/images/challenge/challenge2024/reuben.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Reuben and The Bridge]({{ site.baseurl }}/assets/images/challenge/challenge2024/reuben.jpg)
 </div>
 </div>
 
@@ -297,7 +297,7 @@ Leeds and Yorkshire.
 
 Her distinctive rippling, almost Philip Glass evoking, acoustic guitar style sets the tone for a heart melting voice with a Celtic timbre that pulls the emotion out of the lyric. This can be heard in her debut album Roots & Wings, released in 2019.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Sabrina Piggot](assets/images/challenge/challenge2024/sabrina.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Sabrina Piggot]({{ site.baseurl }}/assets/images/challenge/challenge2024/sabrina.jpg)
 </div>
 </div>
 
@@ -312,7 +312,7 @@ They will be bringing the party to the bandstand on Sunday, with a lineup featur
 
 From the timeless classics of the 60s to rock classics to the chart-toppers of today, their repertoire covers a wide range of genres and eras. Whether you're into the infectious rhythms of funk and soul or the disco beats that keep you on your feet, there's something for everyone.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Superstrut 5](assets/images/challenge/challenge2024/superstrut5.jpeg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Superstrut 5]({{ site.baseurl }}/assets/images/challenge/challenge2024/superstrut5.jpeg)
 </div>
 </div>
 
@@ -325,7 +325,7 @@ A songwriter, music producer and rap workshop facilitator, [Wilko Wilkes<i class
 
 He is also the founder of social enterprise Rap for Good, as well as a video producer, mental health advocate and community volunteer.
 </div>
-<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Wilko Wilkes](assets/images/challenge/challenge2024/wilko.jpg)
+<div class="col-md-6" markdown="1" style="padding: 0 1em"> ![Wilko Wilkes]({{ site.baseurl }}/assets/images/challenge/challenge2024/wilko.jpg)
 </div>
 </div>
 

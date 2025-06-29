@@ -1,6 +1,7 @@
 <div class="footer-title">
-    <h2>{{ site.name }}</h2>
-    <div class="strapline">{{ site.tagline }}</div>
+    <div>
+        <img style="max-width:200px" src="{{ '/assets/images/our_logos/BMT_logo_White.png' | relative_url }}" alt="Bingley Music Town Logo" class="img-responsive">
+    </div> 
 </div>
 
 <div class="row">
@@ -10,8 +11,12 @@
     </div>
 
     <div class="column">
-    {% capture get-involved %}{% include get-involved.md %}{% endcapture %}
-    {{ get-involved | markdownify }}
+        <h2>Photo Credits</h2>
+        <div class="mb-4">
+        <a href="https://www.bingleycameraclub.org.uk/" target="_blank" rel="noopener noreferrer">Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i></a> have been helping us to document music in the area, and they have been brilliant. We are using those photos across this website. What would a music town be without photographers? Thank you.
+        </div>
+        {% capture get-involved %}{% include get-involved.md %}{% endcapture %}
+        {{ get-involved | markdownify }}    
     </div>
 
     <div class="column">

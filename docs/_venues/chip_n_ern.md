@@ -9,11 +9,11 @@ Lat:
 Lng: 
 Member: 'no'
 Description: Bingley's favourite freehouse micropub. Come enjoy a drink with us!
-splash: 
+splash: ChipNErn.jpg
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: 
+LastUpdated: '2024-04-18'
 permalink: "/venues/chip_n_ern.html"
 layout: venue_page
 ---

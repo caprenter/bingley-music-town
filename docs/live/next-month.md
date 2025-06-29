@@ -1,7 +1,9 @@
 ---
-layout: fixed_listing
-cover: splashes/next-month.jpg #No leading slash
-image-credit: "Photo: Nigel Bain - Bingley Camera Club"
+layout: page_v2
+title: Printable Listings
+sub-title: Next month's live music
+cover: splashes/splash_BillyBilly5p.jpg #No leading slash
+# image-credit: "Photo: Nigel Bain - Bingley Camera Club"
 navigation: true
 ---
 {% assign currentMonth = site.time | date: '%B' %}

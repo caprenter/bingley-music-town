@@ -2,7 +2,7 @@
   slug: eldwick_church_organist
   #contact: 
   image: helps1.jpg
-  order: 10
+  order: 170
   external_link: https://www.eldwickchurch.org.uk/
   short-description: |
     Eldwick Church is looking for someone to play piano for hymns on Sunday mornings. 
@@ -32,7 +32,7 @@
 - title: Join the Steering Group
   slug: bmt_steering_group
   #contact: Allan Mirfield (allan.mirfield@blueyonder.co.uk)
-  order: 12
+  order: 145
   #external_link: 
   image: helps3.jpg
   short-description: |
@@ -48,7 +48,7 @@
   slug: pianist_viola
   #contact: 
   image: helps4.jpg
-  order: 20
+  order: 160
   #external_link: https://www.eldwickchurch.org.uk/
   short-description: |
     Are you a diploma level pianist or viola player? Would you like play with other people?  
@@ -121,7 +121,7 @@
   slug: rehome
   #contact: 
   image: helps6.jpg
-  order: 100
+  order: 150
   #external_link: https://www.eldwickchurch.org.uk/
   short-description: |
     We have a number of instruments looking for new homes. Can you help?   
@@ -129,3 +129,69 @@
     We have a number of instruments looking for new homes. Can you help? 
 
     See our [instruments](/instruments.html) page for more details.
+
+- title: Technicians
+  slug: techies
+  #contact: 
+  image: helps_techies.jpg
+  order: 140
+  #external_link:
+  short-description: |
+    Events don't happen without the right tech. Can you help?   
+  description: |
+     Events don't happen without the right tech. Can you help? 
+     
+     If playing with sound equipment, or sound engineering is your thing, we've got plenty of opportunities for you to get involved.
+     
+     Longer term we'd love to be able to be know as a town where there's always great sound when you come here to play, train up the next generation, and support people's employment in the industry.  
+
+- title: Live Music Events
+  slug: live-music-events
+  #contact: 
+  image: helps_lme.jpg
+  order: 100
+  #external_link: 
+  short-description: |
+    Would you like to get involved in putting on Live Music Events?   
+  description: |
+    Would you like to get involved in putting on Live Music Events?   
+
+    Plenty of people that are putting on Live Music Events locally are looking for people to help out.
+
+    One such event is [Rumble Up The Ryshworth](https://rumbleupbingley.co.uk/) which is run by Bingley Music Town volunteers and there are opportunities to learn sound engineering, being a roadie, running the door and welcoming people, booking bands, promotion, publicity, websites, and so on. 
+
+- title: The Bandstand
+  slug: bandstand
+  #contact: 
+  image: helps_bandstand.jpg
+  order: 120
+  #external_link: 
+  short-description: |
+    Can you help with the bandstand in Myrtle Park?   
+  description: |
+    Can you help with the bandstand in Myrtle Park?   
+
+    We're working hard to make sure the bandstand is alive and full of activity - especially music.
+
+    Throughout the summer volunteers are need to help on event days to put the chairs out, greet the performers, set up the electrical sockets, and generally be around to help.
+
+    There's also work to be done in the background organising the programme of events, making posters and banners, promotion and publicity, liaising with performers, and so on.
+
+    Longer term we'd like to help find funds to spruce up the bandstand itself, which probably requires quite a big funding bid to be written. Can you help?
+
+- title: Publicity and Promotion
+  slug: publicity
+  #contact: 
+  image: helps_publicity.jpg
+  order: 130
+  #external_link: 
+  short-description: |
+    It's no good having all this stuff on if no-one knows about it. Can you help?   
+  description: |
+    It's no good having all this stuff on if no-one knows about it. Can you help?    
+
+    Along with other local groups, we're doing quite a lot of 'core' work, but our promotion and publicity skills could do with bolstering.
+
+    We really need help with ideas, strategies, and people to actually do the work.
+
+    We're looking for people who understand this world to help us out and get involved.

@@ -10,9 +10,11 @@ Lng:
 Member: 'no'
 Description: An ancient church which has served the congregation and people of Bingley
   for over a thousand years.
-splash: 
-image-credit: 
-LastUpdated: '2023-03-18'
+splash: AllSaints.jpg
+image-credit: Nigel Bain
+internal-link: 
+internal-link-text: 
+LastUpdated: '2025-06-29'
 permalink: "/venues/all_saints_parish_church.html"
 layout: venue_page
 ---

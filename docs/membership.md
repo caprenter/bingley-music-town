@@ -8,18 +8,16 @@ cover: exhibition2024/20240417-IMG_1889-Enhanced-NR-15.jpg
 navigation: true
 ---
 
-We are an organisation that is run by it's members. 
-
-They decide what the priorities are, and help achieve them. 
+We are an organisation that is run by it's members. They decide what the priorities are, and help achieve them. 
 
 Membership is open to individuals (over the age of 18) and organisations that agree to work with us towards our aim:
 
-<quote>"...to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy."</quote>
+<blockquote class="blockquote m-4 w-50 fw-bold"><p>"...to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy."</p></blockquote>
 
 To become a member you can [sign up online<i class="fa fa-external-link" aria-hidden="true"></i>](https://forms.gle/h1a8oGDkBzagYnuf7){:target="_blank" rel="noopener noreferrer"} or [sign up by email](#sign-up-by-email).
 
 <p class="membership">
-    <button type="button" class="btn btn-primary">
+    <button type="button" class="btn btn-light p-4">
         <a href="https://forms.gle/h1a8oGDkBzagYnuf7" target="_blank" rel="noopener noreferrer">Sign Up Online<i class="fa fa-external-link" aria-hidden="true"></i></a>
     </button>
 </p>

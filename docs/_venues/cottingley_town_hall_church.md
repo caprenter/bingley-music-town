@@ -10,11 +10,11 @@ Lng:
 Member: 'no'
 Description: Cottingley Town Hall was built in 1865 as a community asset to provide
   a meeting place in the village.
-splash: 
-image-credit: 
+splash: CottingleyTownHall.jpg
+image-credit: Neil Horsley
 internal-link: 
 internal-link-text: 
-LastUpdated: '2023-06-07'
+LastUpdated: '2025-06-29'
 permalink: "/venues/cottingley_town_hall_church.html"
 layout: venue_page
 ---

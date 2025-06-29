@@ -8,10 +8,12 @@ Facebook:
 Lat: 
 Lng: 
 Member: 'no'
-Description: 
-splash: 
+Description: Home to the Arts in Bingley
+splash: BingleyArtsCentre.jpg
 image-credit: 
-LastUpdated: '2023-02-23'
+internal-link: 
+internal-link-text: 
+LastUpdated: '2025-06-29'
 permalink: "/venues/bingley_arts_centre.html"
 layout: venue_page
 ---

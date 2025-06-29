@@ -1,7 +1,6 @@
 ---
 layout: default
 class: 'page-template'
-image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 ---
 <!-- < default -->
 
@@ -11,26 +10,34 @@ image-credit: "Photo: Peter Kitching (Bingley Camera Club)"
 <!-- Everything inside the #post tags pulls data from the page -->
 <!-- #post -->
 {% if page.image %}
-{% capture background-image %}
-style="background-image: url({{ site.baseurl }}/assets/images/helps/{{ page.image }})"
+{% capture background-image-url %}
+{{ site.baseurl }}/assets/images/helps/{{ page.image }}
 {% endcapture %}
 {% else %}
-{% capture background-image %}
-style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSplash.jpg)"
+{% capture background-image-url %}
+{{ site.baseurl }}/assets/images/splashes/BMTlogoSplash.jpg
 {% endcapture %}
 {% endif %}
 
-<header class="main-header post-head" {{ background-image }}>
-{% if page.image-credit %}{% include image-credit.html %}{% endif %}
+<header class="main-header page" style="background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3)), url({{ background-image-url }}); background-position-y:0">
+<!-- {% if page.image-credit %}{% include image-credit.html %}{% endif %} -->
+<div class="vertical">
+    <div class="main-header-content inner">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <!-- <h2 class="page-sub-title">{% if page.sub-title %}{{ page.sub-title }}{% endif %}</h2> -->
+    </div>
+</div>
+<a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+
 </header>
 
 <main class="content" role="main">
     <article class="listing">
         <!-- Everything inside the #post tags pulls data from the post -->
 
-        <header class="post-header">
+        <!-- <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
-        </header>
+        </header> -->
 
 <section class="post-content main-page">
 <div class="row"> 

@@ -145,6 +145,11 @@ To update generated markdown delete that directory as existing files are not upd
 * Also create a resized image of max width 310px and with .resized.jpg as part of the file name
 * Build the page with `bundle exec jekyll pagemaster help`
 
+```
+# Or
+docker exec -it bingleymusictown-jekyll-1 /bin/bash -c 'bundle exec jekyll pagemaster help'
+```
+
 ### Updating Information about a help
 You can edit _help/<pagename> directly.
 If you want to regenerate that page from the help.yml data, delete it first then run the pagemaster script.
@@ -157,6 +162,11 @@ These are limited to the first 3 in the list as order by the order field.
 ### Banner images
 
 Main banner images are currently 1280x800px
+
+Resize with
+```
+find . -name '*.jpg' -size +100k  -print0 | while read -d $'\0' file ; do smartresize "$file" 1280 . ; done
+```
 
 ### Gallery
 

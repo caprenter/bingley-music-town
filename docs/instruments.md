@@ -1,7 +1,7 @@
 ---
 title: Instruments
 layout: page_v2
-sub-title: FIX ME 
+sub-title: Making sure people have instruments to play  
 cover: splashes/BMTlogo_guitar.jpg #No leading slash
 #image-credit: "Photo: Bingley Camera Club"
 navigation: true
@@ -19,10 +19,7 @@ Got an instrument you no longer need? Need an instrument?
 
 We've found ourselves finding good homes for instruments people no longer need, and we're happy to keep on doing so.
 
-This service is run voluntarily by Dave Johnson at [Bingley Guitar Studio]({% link _organisations/bingley_guitar_studio.md %}), First Floor 122-124 Main Street (above Ison Harrison Solicitors), Bingley, BD16 2HL
-
-#### Effects Library
-We've also go an [effects library]({% link effects-library.md %}) where you can borrow guitar effects pedals.
+This service is run voluntarily by Dave Johnson at [Bingley Guitar Studio]({% link _organisations/bingley_guitar_studio.md %}), First Floor 122-124 Main Street (above Ison Harrison Solicitors), Bingley, BD16 2HL.
 
 ## Donate an instrument
 
@@ -32,6 +29,8 @@ Fill in our [Donate an Instrument form](https://docs.google.com/forms/d/e/1FAIpQ
 
 Fill in our [Request an Instrument form](https://docs.google.com/forms/d/e/1FAIpQLSfgOb9AqzPsfuYIa1MiFecc6Fuw5kwAUicM_X0914f5r9BMdQ/viewform), and we'll be in touch.
 
+## Effects Library
+We've also go an [effects library]({% link effects-library.md %}) where you can borrow guitar effects pedals.
 
 {% comment %}
 Show tables of instruments available and already gone

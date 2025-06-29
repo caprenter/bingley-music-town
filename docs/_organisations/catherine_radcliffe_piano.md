@@ -1,5 +1,5 @@
 ---
-name: Catherine Radcliffe Piano Tuition
+name: Catherine Radcliffe Piano
 website: http://catherineradcliffepiano.weebly.com
 facebook: catherineradcliffepiano
 twitter: pianocat5
@@ -10,8 +10,10 @@ short-description: 'One to one piano and theory lessons for beginners and improv
   children and adults all welcome. In person and online lessons available.
 
   '
-description: One to one piano and theory lessons for beginners and improvers, children
+description: 'One to one piano and theory lessons for beginners and improvers, children
   and adults all welcome. In person and online lessons available.
-permalink: "/organisations/catherine_radcliffe_piano_tuition.html"
+
+  '
+permalink: "/organisations/catherine_radcliffe_piano.html"
 layout: org_page
 ---

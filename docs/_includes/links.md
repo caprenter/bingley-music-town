@@ -19,7 +19,7 @@
 [Venues]({% link venues.md %})<br/>
 [Resources]({% link resources.md %})<br/>
 [Noticeboards]({% link noticeboards.md %})<br/>
-[Gallery]({% link gallery.md %})<br/>
+<!-- [Gallery]({% link gallery.md %})<br/> -->
 [Contact]({% link contact.md %})<br/>
 <!--[Bingley Music Town on Facebook<i class="fa fa-external-link" aria-hidden="true"></i>](https://facebook.com/bingleymusictown){:target="_blank" rel="noopener noreferrer"}-->
 

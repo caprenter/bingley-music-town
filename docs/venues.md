@@ -1,11 +1,11 @@
 ---
 title: Venues
-layout: listing
-cover: splashes/BMTlogo_FiveRiseRecords.jpg #No leading slash
-image-credit: "Photo: Neil Horsley, Bingley Camera Club"
+sub-title: Places to play, watch, listen, dance, sing...
+layout: page_v2
+cover: splashes/splash_venue_default.jpg #No leading slash
+# image-credit: "Photo: Neil Horsley, Bingley Camera Club"
 navigation: true
 ---
-
 This is a list of places in our district where live music takes place.
 
 Check out our [live music events listing]({% link live.md %}).

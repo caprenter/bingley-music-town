@@ -2,7 +2,7 @@
 title: Pianist/Organist Wanted
 slug: eldwick_church_organist
 image: helps1.jpg
-order: 10
+order: 170
 external_link: https://www.eldwickchurch.org.uk/
 short-description: "Eldwick Church is looking for someone to play piano for hymns
   on Sunday mornings. \n"

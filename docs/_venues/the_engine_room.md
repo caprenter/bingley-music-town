@@ -9,15 +9,15 @@ Lat:
 Lng: 
 Member: 
 Description: |-
-  a welcoming and friendly atmosphere with cheap but quality drinks
+  A welcoming and friendly atmosphere with cheap but quality drinks
   Open 10am-12am
   Seating out the front AND the back.
   Dogs welcome on leads
-splash: 
-image-credit: 
+splash: The-Engine-Room.jpg
+image-credit: Nigel Bain
 internal-link: 
 internal-link-text: 
-LastUpdated: '2025-03-28'
+LastUpdated: '2025-06-29'
 permalink: "/venues/the_engine_room.html"
 layout: venue_page
 ---

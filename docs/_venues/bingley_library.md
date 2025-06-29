@@ -8,12 +8,12 @@ Facebook:
 Lat: 
 Lng: 
 Member: 'no'
-Description: 
-splash: 
-image-credit: 
+Description: Our great little local library that supports music and musicians
+splash: BingleyLibrary.jpg
+image-credit: Nigel Bain
 internal-link: 
 internal-link-text: 
-LastUpdated: '2023-06-17'
+LastUpdated: '2025-06-29'
 permalink: "/venues/bingley_library.html"
 layout: venue_page
 ---
