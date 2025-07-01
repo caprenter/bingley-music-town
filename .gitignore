@@ -2,6 +2,8 @@
 ######################
 docs/_site
 docs/vendor
+docs/.jekyll-cache/
+dcos/.jekyll-metadata
 
 # OS generated files #
 ######################
@@ -17,3 +19,4 @@ Thumbs.db
 *Original
 *outputdir
 *.bak
+archive/
