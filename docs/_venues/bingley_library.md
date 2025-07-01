@@ -14,6 +14,7 @@ image-credit: Nigel Bain
 internal-link: 
 internal-link-text: 
 LastUpdated: '2025-06-29'
+closed-date: 
 permalink: "/venues/bingley_library.html"
 layout: venue_page
 ---

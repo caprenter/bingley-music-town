@@ -15,6 +15,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2024-12-07'
+closed-date: 
 permalink: "/venues/damart_1871_restaurant.html"
 layout: venue_page
 ---

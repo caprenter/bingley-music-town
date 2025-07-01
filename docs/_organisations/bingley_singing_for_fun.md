@@ -1,10 +1,11 @@
 ---
 name: Bingley Singing For Fun
 logo: Bingley_Singing_for_Fun.png
+image: BingleySingingForFun.jpg
 type: music-group
 member: true
-short-description: 'Bingley Singing For Fun - no experience needed and all voices
-  are welcome. Meets once a week at Bingley Arts Centre.
+short-description: 'No experience needed and all voices are welcome. Meets once a
+  week at Bingley Arts Centre.
 
   '
 description: "Bingley Singing For Fun - no experience needed and all voices are welcome.

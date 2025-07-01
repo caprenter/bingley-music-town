@@ -31,9 +31,24 @@ Clone the repository
 
 ### With Docker
 
+If you want the site to regenerate fully on each change:
+
     docker-compose up
     # NB running it without the -d flag allows to watch jekyll rebuild and see any errors as you work
     # The site will be up on 0.0.0.0:4000
+
+Partial Rebuilds - useful for small changes 
+
+    docker-compose -f docker-compose-incremental.yml up
+
+Running Commands
+
+Running pagebuilder and other commands. Wherever you see:
+
+    bundle exec jekyll ....
+    ## replace with:
+    docker exec -it bingleymusictown-jekyll-1 /bin/bash -c 'bundle exec jekyll ...'
+
 
 #### Bring down the testing stack 
 
@@ -98,6 +113,7 @@ In practice we use:
     bundle exec jekyll pagemaster venues
     ## OR with docker:
     docker exec -it jekyll /bin/bash -c 'bundle exec jekyll pagemaster venues'
+    ## Our container is not normall called 'jekyll'!
     docker exec -it bingleymusictown-jekyll-1 /bin/bash -c 'bundle exec jekyll pagemaster venues'
 
 This command will generate markdown for views for each item in the collection under ./_{collection name}
@@ -161,7 +177,8 @@ These are limited to the first 3 in the list as order by the order field.
 
 ### Banner images
 
-Main banner images are currently 1280x800px
+Main banner images are currently 1280x720px - 16:9 ration
+(they used to be 1280x800px and some were just a bit random)
 
 Resize with
 ```
@@ -202,11 +219,11 @@ These scripts need to be on the page:
 
 ### Help Images
 
-These images don't need to be wider then 350px.
+These images should be 1280x720 - a 16:9 ratio
 
 ### Instrument Images
 
-These images don't need to be wider then 350px.
+These images should be a 16:9 ratio and don't really need to be bigger than 350px. Many are 600px wide.
 
 ### Logos in the pre-footer area
 These are included in the `index.md` file from `_include/gallery.html` and should show all the logos that we have.

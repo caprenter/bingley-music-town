@@ -1,6 +1,7 @@
 ---
 title: Live Music
-layout: listing
+sub-title: Get your fix
+layout: page_v2
 cover: splashes/BMTlogo_band.jpg #No leading slash
 #image-credit: The Razerbills
 navigation: true

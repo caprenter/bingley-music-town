@@ -14,6 +14,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2023-10-13'
+closed-date: 
 permalink: "/venues/amazing_finds.html"
 layout: venue_page
 ---

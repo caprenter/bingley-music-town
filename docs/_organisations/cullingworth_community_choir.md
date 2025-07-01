@@ -2,6 +2,7 @@
 name: Cullingworth Community Choir
 email: helen.richmond1@tiscali.co.uk
 logo: CCC.jpg
+image: CullingworthCommunityChoir.jpg
 type: music-group
 member: true
 short-description: 'A fun choir for anyone that wants to get involved.

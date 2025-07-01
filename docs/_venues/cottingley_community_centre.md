@@ -15,6 +15,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2023-05-23'
+closed-date: 
 permalink: "/venues/cottingley_community_centre.html"
 layout: venue_page
 ---

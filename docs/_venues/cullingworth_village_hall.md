@@ -16,6 +16,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2024-5-10'
+closed-date: 
 permalink: "/venues/cullingworth_village_hall.html"
 layout: venue_page
 ---

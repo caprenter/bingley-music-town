@@ -1,8 +1,9 @@
 ---
 title: Artists
-layout: listing
-cover: splashes/BMTlogo_Razerbills.jpg #No leading slash
-image-credit: The Razerbills  
+layout: page_v2
+sub-title: Have they ever played Bingley?
+cover: splashes/splash_artists.jpg #No leading slash
+# image-credit: The Razerbills  
 navigation: true
 ---
 
@@ -12,4 +13,3 @@ Here's an A-Z of artists who have played here or have an upcoming gig.
 
 {% capture artists %}{% include artists.md %}{% endcapture %}
 {{ artists | markdownify }}
-

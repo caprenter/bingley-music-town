@@ -10,11 +10,12 @@ Lng:
 Member: 'no'
 Description: Maverick’s offers a unique combination of a modern Cocktail and Lounge
   Bar to party until late
-splash: 
+splash: Mavericks.jpg
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: '2024-01-30'
+LastUpdated: '2025-07-01'
+closed-date: 
 permalink: "/venues/mavericks.html"
 layout: venue_page
 ---

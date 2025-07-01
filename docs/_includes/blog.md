@@ -1,19 +1,16 @@
+<div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch blog">
 {% for post in site.posts %}
-  {% assign indexmod3 = forloop.index | modulo: 3 %}
-    {% if indexmod3 == 1 %}<div class="row">{% endif %}
-            <div class="col-12 col-md-6 col-lg-4 mb-3">
-            <div class="blog-item h-100">
-              <div class="blog-teaser-img">
-                <a href="{{ post.url }}"><img src="assets/images/{{ post.cover | relative_url }}" class="img-responsive" alt="{{ post.image-title }}"/></a>
-              </div>
-              <!--<h2 class="blog"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-              <p>{{ post.date | date_to_string }}</p>-->
-              <div class="p-3">
-                <h3 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                <span class="post-date">{{ post.date | date_to_string }}</span>
-                {{ post.excerpt }}
-              </div>
-            </div>
-            </div>
-    {% if indexmod3 == 0 %}</div>{% endif %}
+<div class="col mb-4">
+  <div class="card h-100">
+      <a href="{{ post.url }}"><img class="card-img-top p-0" src="assets/images/{{ post.cover | relative_url }}" alt="{{ post.image-title }}"/></a>
+    <!--<h2 class="blog"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.date | date_to_string }}</p>-->
+    <div class="card-body">
+      <h4 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <p class="card-text m-0"><span class="post-date">{{ post.date | date_to_string }}</span></p>
+      <p class="card-text m-0">{{ post.excerpt }}</p>
+    </div>
+  </div>
+</div>
 {% endfor %}
+</div>

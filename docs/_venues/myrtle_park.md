@@ -16,6 +16,7 @@ image-credit:
 internal-link: "/organisations/friends_of_myrtle_park.html"
 internal-link-text: Friends Of Myrtle Park
 LastUpdated: '2023-03-13'
+closed-date: 
 permalink: "/venues/myrtle_park.html"
 layout: venue_page
 ---

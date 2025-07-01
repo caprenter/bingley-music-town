@@ -3,6 +3,7 @@ name: All Together Now
 facebook: atnsing
 email: admin@atnsing.co.uk
 logo: All_Together_Now_logo.png
+image: AllTogetherNow.jpg
 type: music-group
 member: true
 short-description: 'Yorkshire Community Choir based in Baildon, Bingley, Harrogate

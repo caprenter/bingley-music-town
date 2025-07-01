@@ -14,6 +14,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2025-06-26'
+closed-date: 
 permalink: "/venues/the_glen.html"
 layout: venue_page
 ---

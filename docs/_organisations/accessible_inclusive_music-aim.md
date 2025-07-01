@@ -2,11 +2,11 @@
 name: Accessible Inclusive Music-AIM
 facebook: accessibleinclusivemusic
 logo: aim.png
+image: aim.png
 type: music-group
 member: true
-short-description: 'Accessible Inclusive Music (A.I.M.) are a Shipley-based charity
-  providing fully-inclusive musical activities, with a strong commitment to ensuring
-  musical opportunities for all.
+short-description: 'A Shipley-based charity providing fully-inclusive musical activities
+  for all.
 
   '
 description: "Accessible Inclusive Music (A.I.M.) are a Shipley-based charity led

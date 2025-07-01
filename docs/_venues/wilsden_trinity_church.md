@@ -9,11 +9,12 @@ Lat:
 Lng: 
 Member: 'no '
 Description: Methodist / United Reformed Church in Wilsden
-splash: 
+splash: Wilsden-Trinity-Church.jpg
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: '2025-02-24'
+LastUpdated: '2025-07-01'
+closed-date: 
 permalink: "/venues/wilsden_trinity_church.html"
 layout: venue_page
 ---

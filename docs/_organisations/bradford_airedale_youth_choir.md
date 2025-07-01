@@ -6,10 +6,11 @@ instagram: bradfordairedaleyouthchoir
 twitter: BAYCYouthChoir
 email: baycstaff@gmail.com
 logo: BradfordAiredaleYouthChoir.png
+image: BradfordAiredaleYouthChoir.png
 type: music-group
 member: true
-short-description: "An exciting group of contemporary choirs for young people aged
-  6-26 years, rehearsing in Bingley on Monday evenings. \n"
+short-description: "Contemporary choirs for young people aged 6-26 years, rehearsing
+  in Bingley on Monday evenings. \n"
 description: "An exciting group of contemporary choirs for young people aged 6-26
   years, rehearsing in Bingley on Monday evenings. \n\nOur mission? To make excellent
   vocal training fun, affordable and accessible to every young person with singing

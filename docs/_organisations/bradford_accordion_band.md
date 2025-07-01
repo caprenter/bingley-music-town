@@ -6,10 +6,8 @@ logo: Bradford_Accordion_Band_logo.png
 image: Bradford_Accordion_Band_on_golf_course.jpg
 type: music-group
 member: true
-short-description: "Bradford Accordion Band (BAB) is a unique and diverse amateur
-  musical\ngroup whose mission is to make great music, whilst having lots of fun!
-  \nWe have been established since 1997 and our membership comprises 32\naccordion,
-  keyboard, woodwind, strings and percussion players between\nthe ages of 22 and 91.\n"
+short-description: "A unique and diverse amateur musical group whose mission is to
+  make great music, whilst having lots of fun! \n  \n"
 description: "Bradford Accordion Band (BAB) is a unique and diverse amateur musical\ngroup
   whose mission is to make great music, whilst having lots of fun! \nWe have been
   established since 1997 and our membership comprises 32\naccordion, keyboard, woodwind,

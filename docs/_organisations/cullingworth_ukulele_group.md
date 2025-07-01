@@ -3,9 +3,10 @@ name: Cullingworth Ukulele Group
 facebook: groups/326869992873872
 email: 
 logo: Cullingworth_Ukulele_Group.png
+image: CullingworthUkes.jpg
 type: music-group
 member: true
-short-description: 'Free ukulele lessons for beginners.
+short-description: 'Meets weekly and offers free ukulele lessons for beginners.
 
   '
 description: |

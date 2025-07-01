@@ -13,7 +13,8 @@ splash:
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: 
+LastUpdated: '2023-12-13'
+closed-date: 
 permalink: "/venues/prince_of_wales_park.html"
 layout: venue_page
 ---

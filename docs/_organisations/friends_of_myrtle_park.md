@@ -24,7 +24,7 @@ description: "The Friends of Myrtle Park help look after our local park and make
   river walk under the canopy of the trees leads straight into Bingley. \n\nThe park
   is a generous host to popular, events such as the Bingley Show and welcoming runners
   every Saturday morning for the 5k parkrun. \n\nIn short, it brings such diverse
-  pleasure to our lives. \n\nHelp us maintain and nurture this wonderful place!"
+  pleasure to our lives. \n\nHelp us maintain and nurture this wonderful place!\n"
 permalink: "/organisations/friends_of_myrtle_park.html"
 layout: org_page
 ---

@@ -9,11 +9,12 @@ Lat:
 Lng: 
 Member: 'no'
 Description: A garden centre that sometomes hosts events
-splash: 
+splash: Woodbank-Nursery.jpg
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: '2024-07-12'
+LastUpdated: '2025-07-01'
+closed-date: 
 permalink: "/venues/woodbank_garden_centre__nurseries.html"
 layout: venue_page
 ---

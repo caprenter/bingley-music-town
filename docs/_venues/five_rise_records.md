@@ -16,7 +16,8 @@ splash: BMTlogo_FiveRiseRecords.jpg
 image-credit: 'Photo: Neil Horsley, Bingley Camera Club'
 internal-link: 
 internal-link-text: 
-LastUpdated: '2023-03-10'
+LastUpdated: '2025-07-01'
+closed-date: 
 permalink: "/venues/five_rise_records.html"
 layout: venue_page
 ---

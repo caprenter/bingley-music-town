@@ -10,11 +10,12 @@ Lng:
 Member: 'no'
 Description: We are a small but growing congregation and are delighted to welcome
   visitors amongst us.
-splash: 
+splash: Harden-church.jpg
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: '2024-10-01'
+LastUpdated: '2025-07-01'
+closed-date: 
 permalink: "/venues/st_saviours_church.html"
 layout: venue_page
 ---

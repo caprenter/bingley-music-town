@@ -5,11 +5,11 @@
   twitter: BAYCYouthChoir
   email: baycstaff@gmail.com
   logo: BradfordAiredaleYouthChoir.png
-  #image:
+  image: BradfordAiredaleYouthChoir.png
   type: music-group
   member: true
   short-description: |
-    An exciting group of contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
+    Contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
   description: |
     An exciting group of contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
 
@@ -22,11 +22,11 @@
   #website:
   facebook: accessibleinclusivemusic
   logo: aim.png
-  #image:
+  image: aim.png
   type: music-group
   member: true
   short-description: |
-    Accessible Inclusive Music (A.I.M.) are a Shipley-based charity providing fully-inclusive musical activities, with a strong commitment to ensuring musical opportunities for all.
+    A Shipley-based charity providing fully-inclusive musical activities for all.
   description: |
     Accessible Inclusive Music (A.I.M.) are a Shipley-based charity led by specialist music practitioner Sarah Dunn. 
     They provide fully-inclusive musical activities, with a strong commitment to ensuring musical opportunities for all.
@@ -43,12 +43,8 @@
   type: music-group
   member: true
   short-description: |
-    Bradford Accordion Band (BAB) is a unique and diverse amateur musical
-    group whose mission is to make great music, whilst having lots of fun! 
-    We have been established since 1997 and our membership comprises 32
-    accordion, keyboard, woodwind, strings and percussion players between
-    the ages of 22 and 91.
-  
+    A unique and diverse amateur musical group whose mission is to make great music, whilst having lots of fun! 
+      
   description: |
     Bradford Accordion Band (BAB) is a unique and diverse amateur musical
     group whose mission is to make great music, whilst having lots of fun! 
@@ -85,11 +81,11 @@
 - name: Bingley Singing For Fun
   #website: 
   logo: Bingley_Singing_for_Fun.png
-  #image:
+  image: BingleySingingForFun.jpg
   type: music-group
   member: true
   short-description: |
-    Bingley Singing For Fun - no experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
+    No experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
 
   description: |
     Bingley Singing For Fun - no experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
@@ -103,7 +99,7 @@
   facebook: atnsing
   email: admin@atnsing.co.uk
   logo: All_Together_Now_logo.png
-  #image:
+  image: AllTogetherNow.jpg
   type: music-group
   member: true
   short-description: |
@@ -127,11 +123,11 @@
   facebook: groups/326869992873872
   email: 
   logo: Cullingworth_Ukulele_Group.png
-  #image:
+  image: CullingworthUkes.jpg
   type: music-group
   member: true
   short-description: |
-    Free ukulele lessons for beginners.
+    Meets weekly and offers free ukulele lessons for beginners.
   description: |
     Free ukulele lessons for beginners on Thursday mornings (at 10:30am) at St John's Room in Cullingworth.
     
@@ -267,12 +263,11 @@
   #twitter: 
   logo: Voices-of-Yorkshire.png
   #email:
-  #image:
+  image: Voices-of-Yorkshire.png
   type: music-group
   member: true
   short-description: |
-    Laid back, fun and completely non judgemental singing groups for everyone…….raising money for charities big and small across West Yorkshire and beyond!!! 
-
+    Laid back, fun and completely non judgemental singing groups for everyone.
   description: |
     Laid back, fun and completely non judgemental singing groups for everyone…….raising money for charities big and small across West Yorkshire and beyond!!! 
     
@@ -316,13 +311,16 @@
   facebook: groups/BingleyUG/
   email: 
   logo: Bingley_Ukulele_Group.png
-  #image:
+  image: BingleyUkes.jpg
   type: music-group
   member: true
   short-description: |
-    A fun group of like minded people who enjoy playing UKULELE. Everyone welcome.
+    A fun group of like minded people who enjoy playing ukulele.
   description: |
-    A fun group of like minded people who enjoy playing UKULELE. Everyone welcome.
+    A fun group of like minded people who enjoy playing UKULELE. 
+    
+    Everyone welcome.
+
     Other instruments and singers are also welcome.
 
     Meets at the Peacock bar in Bingley on the 1st and 3rd Thursdays of the month. 
@@ -391,13 +389,13 @@
   #twitter: pianocat5
   email: bellringers@Bingleyparish.org.uk
   logo: bingley-bell-tower-ringers.png
-  #image:
+  image: TowerBellRingers.jpg
   #internal-link:
   #internal-link-text: 
   type: music-group
   member: true
   short-description: |
-    We ring on Sundays, 9.45-10.30am for morning service and practice on Tuesday evenings, 7.30-9.00pm. We are always willing to welcome new recruits to train and become part of our team.
+    We ring on Sundays and practice on Tuesday evenings and welcome new recruits to become part of our team.
 
   description: |
     We ring on Sundays, 9.45-10.30am for morning service and practice on Tuesday evenings, 7.30-9.00pm.  
@@ -431,7 +429,7 @@
   #twitter: 
   email: helen.richmond1@tiscali.co.uk
   logo: CCC.jpg
-  #image:
+  image: CullingworthCommunityChoir.jpg
   #internal-link:
   #internal-link-text: 
   type: music-group
@@ -454,7 +452,7 @@
   #twitter: 
   email: heartsongwestyorks@companionvoices.org
   logo: Heartsong.jpg
-  #image:
+  image: Heartsong.jpg
   #internal-link:
   #internal-link-text: 
   type: music-group

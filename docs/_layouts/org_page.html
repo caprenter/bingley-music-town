@@ -10,30 +10,37 @@ class: 'page-template'
 <!-- Everything inside the #post tags pulls data from the page -->
 <!-- #post -->
 {% if page.image %}
-{% capture background-image %}
-style="background-image: url({{ site.baseurl }}/assets/images/organisations/{{ page.image }})"
+{% capture background-image-url %}
+{{ site.baseurl }}/assets/images/organisations/{{ page.image }}
 {% endcapture %}
 {% else %}
-{% capture background-image %}
-style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSplash.jpg)"
+{% capture background-image-url %}
+{{ site.baseurl }}/assets/images/splashes/splash_tuition_default.jpg
 {% endcapture %}
 {% endif %}
 
-<header class="main-header post-head" {{ background-image }}>
-{% if page.image-credit %}{% include image-credit.html %}{% endif %}
+<header class="main-header page" style="background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3)), url({{ background-image-url }}); background-position-y:0">
+<!-- {% if page.image-credit %}{% include image-credit.html %}{% endif %} -->
+<div class="vertical">
+    <div class="main-header-content inner">
+        <h1 class="page-title">{{ page.name }}</h1>
+        <!-- <h2 class="page-sub-title">{% if page.sub-title %}{{ page.sub-title }}{% endif %}</h2> -->
+    </div>
+</div>
+<a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 <main class="content" role="main">
     <article class="listing">
         <!-- Everything inside the #post tags pulls data from the post -->
 
-        <header class="post-header">
+        <!-- <header class="post-header">
             <h1 class="post-title">{{ page.name }}</h1>
-        </header>
+        </header> -->
 
 <section class="post-content main-page">
 <div class="row"> 
-<div class="column-8">
+<div class="col-lg-10 col-sm-8 col-xs-6">
 {% if page.member %}
 <div class="member-badge">
 <p>Bingley Music Town Member</p>
@@ -63,7 +70,7 @@ style="background-image: url({{ site.baseurl }}/assets/images/splashes/BMTlogoSp
 {% if page.instagram %}{% capture instagram %}* **Instagram:** [https://www.instagram.com/{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
 </div>
 </div>
-<div class="column-4 organisation-image">
+<div class="col-lg-2 col-sm-4 col-xs-6 organisation-image">
 {% if page.logo %}
 <img src="{{ '/assets/images/logos' | relative_url }}/{{ page.logo }}" alt="{{ page.name }}" title="{{ page.name }}"  class="img-responsive" />
 {% endif %}

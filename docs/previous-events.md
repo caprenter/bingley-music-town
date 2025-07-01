@@ -1,8 +1,9 @@
 ---
 title: Previous Events
-layout: listing 
+sub-title: Either you were there or ...
+layout: page_v2 
 cover: splashes/BMTlogo_Wilko.jpg #No leading slash
-image-credit: Wilko Wilkes
+# image-credit: Wilko Wilkes
 navigation: true
 ---
 

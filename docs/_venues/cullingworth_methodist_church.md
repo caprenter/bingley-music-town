@@ -9,11 +9,12 @@ Lat:
 Lng: 
 Member: 'no'
 Description: Local church with a hall avaiable to hire.
-splash: 
+splash: cullingworth-methodists.jpg
 image-credit: 
 internal-link: 
 internal-link-text: 
-LastUpdated: '2024-04-19'
+LastUpdated: '2025-07-01'
+closed-date: 
 permalink: "/venues/cullingworth_methodist_church.html"
 layout: venue_page
 ---

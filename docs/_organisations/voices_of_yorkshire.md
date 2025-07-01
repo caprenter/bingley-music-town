@@ -3,11 +3,13 @@ name: Voices of Yorkshire
 website: https://www.voicesofyorkshire.com
 facebook: profile.php?id=100057359113320
 logo: Voices-of-Yorkshire.png
+image: Voices-of-Yorkshire.png
 type: music-group
 member: true
-short-description: "Laid back, fun and completely non judgemental singing groups for
-  everyone…….raising money for charities big and small across West Yorkshire and beyond!!!
-  \n"
+short-description: 'Laid back, fun and completely non judgemental singing groups for
+  everyone.
+
+  '
 description: "Laid back, fun and completely non judgemental singing groups for everyone…….raising
   money for charities big and small across West Yorkshire and beyond!!! \n\nWeekly
   sessions in the following venues;\n\n* Bingley Monday 8-9pm\n* Pudsey Monday 8-9pm\n*

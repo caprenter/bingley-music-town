@@ -12,7 +12,10 @@ Description: Home to the Bingley Weekender festival and live music at various ti
   throughout the year.
 splash: 
 image-credit: 
+internal-link: 
+internal-link-text: 
 LastUpdated: '2023-03-16'
+closed-date: 
 permalink: "/venues/bradford_and_bingley_rugby_club.html"
 layout: venue_page
 ---

@@ -15,6 +15,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2024-05-10'
+closed-date: 
 permalink: "/venues/st_michaels_church.html"
 layout: venue_page
 ---

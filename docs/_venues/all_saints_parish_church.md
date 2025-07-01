@@ -15,6 +15,7 @@ image-credit: Nigel Bain
 internal-link: 
 internal-link-text: 
 LastUpdated: '2025-06-29'
+closed-date: 
 permalink: "/venues/all_saints_parish_church.html"
 layout: venue_page
 ---

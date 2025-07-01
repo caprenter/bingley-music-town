@@ -14,6 +14,7 @@ image-credit: 'Photo: Paul Spencer, Bingley Camera Club'
 internal-link: 
 internal-link-text: 
 LastUpdated: '2025-06-29'
+closed-date: 
 permalink: "/venues/the_potting_shed.html"
 layout: venue_page
 ---

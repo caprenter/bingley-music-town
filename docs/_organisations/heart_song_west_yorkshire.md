@@ -2,6 +2,7 @@
 name: Heart Song West Yorkshire
 email: heartsongwestyorks@companionvoices.org
 logo: Heartsong.jpg
+image: Heartsong.jpg
 type: music-group
 short-description: 'Our friendly group welcomes new singers. We learn gentle world
   songs, deep listening, and presence skills.

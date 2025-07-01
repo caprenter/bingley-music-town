@@ -15,6 +15,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2023-09-28'
+closed-date: 
 permalink: "/venues/the_birches_eldwick.html"
 layout: venue_page
 ---

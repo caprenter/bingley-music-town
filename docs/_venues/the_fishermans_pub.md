@@ -12,7 +12,10 @@ Description: The Fisherman's canal side pub and restaurant is situated on the Ou
   of Bingley on Wagon Lane.
 splash: 
 image-credit: 
+internal-link: 
+internal-link-text: 
 LastUpdated: '2023-05-11'
+closed-date: 
 permalink: "/venues/the_fishermans_pub.html"
 layout: venue_page
 ---

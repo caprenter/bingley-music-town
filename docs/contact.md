@@ -3,7 +3,8 @@ title: Contact
 layout: page_v2
 sub-title: We'd love to hear from you
 # cover: PFK2.jpg #no leading slash
-cover: exhibition2024/524A9857-20.jpg
+# cover: exhibition2024/524A9857-20.jpg
+cover: splashes/splash_george.jpg
 # image-credit: Playing For Kicks
 navigation: true
 ---

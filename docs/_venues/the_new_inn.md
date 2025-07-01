@@ -11,7 +11,10 @@ Member: 'no'
 Description: 
 splash: 
 image-credit: 
+internal-link: 
+internal-link-text: 
 LastUpdated: '2023-02-23'
+closed-date: 
 permalink: "/venues/the_new_inn.html"
 layout: venue_page
 ---

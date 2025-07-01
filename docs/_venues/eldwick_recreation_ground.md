@@ -14,6 +14,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2024-05-13'
+closed-date: 
 permalink: "/venues/eldwick_recreation_ground.html"
 layout: venue_page
 ---

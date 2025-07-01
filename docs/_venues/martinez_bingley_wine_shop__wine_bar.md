@@ -13,7 +13,8 @@ splash: martinez-splash.jpg
 image-credit: 'Photo: Bingley Camera Club'
 internal-link: 
 internal-link-text: 
-LastUpdated: '2023-03-08'
+LastUpdated: '2024-04-22'
+closed-date: 
 permalink: "/venues/martinez_bingley_wine_shop__wine_bar.html"
 layout: venue_page
 ---

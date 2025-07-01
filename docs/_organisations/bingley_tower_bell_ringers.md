@@ -3,11 +3,11 @@ name: Bingley Tower Bell Ringers
 website: https://bingleybells.chessck.co.uk/
 email: bellringers@Bingleyparish.org.uk
 logo: bingley-bell-tower-ringers.png
+image: TowerBellRingers.jpg
 type: music-group
 member: true
-short-description: 'We ring on Sundays, 9.45-10.30am for morning service and practice
-  on Tuesday evenings, 7.30-9.00pm. We are always willing to welcome new recruits
-  to train and become part of our team.
+short-description: 'We ring on Sundays and practice on Tuesday evenings and welcome
+  new recruits to become part of our team.
 
   '
 description: "We ring on Sundays, 9.45-10.30am for morning service and practice on

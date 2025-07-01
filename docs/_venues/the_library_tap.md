@@ -14,6 +14,7 @@ image-credit:
 internal-link: 
 internal-link-text: 
 LastUpdated: '2023-12-13'
+closed-date: 
 permalink: "/venues/the_library_tap.html"
 layout: venue_page
 ---

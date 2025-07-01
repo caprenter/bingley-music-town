@@ -53,6 +53,12 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
     background: none;
     border: none;
 }
+.groups .card-footer {
+    background: none;
+    color: #f07ab0 !important;
+    font-weight:700;
+}
+
 .top-stories .card-title {
     font-weight:700;
 }
@@ -132,6 +138,11 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
     margin-top:4rem;
   }
 
+  .organisation-image img {
+        /* border-radius: 25px; */
+        max-width: 250px;
+    }
+
   .topnav-right {
     float:right;
   }
@@ -208,8 +219,9 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 
   .member-badge p, .event-badge p {
     margin: 0 0 1em;
-    background: #000;
+    background: #f07ab0;
     color: #fff;
+    font-weight: 700;
     padding: 0.4em;
     width: fit-content;
     border-radius: 9px;
@@ -225,7 +237,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
   }
 
   .logos {
-    max-width: 1280px;
+    max-width: 1324px;
     margin:auto;
   }
   .logos .row {
@@ -1439,7 +1451,7 @@ p.page-description {
     max-width: 1324px;
     margin: 4rem auto;
     padding-bottom: 4rem;
-    border-bottom: #EBF2F6 1px solid;
+    /* border-bottom: #EBF2F6 1px solid; */
     word-wrap: break-word;
 }
 
@@ -1450,7 +1462,7 @@ p.page-description {
     content: "";
     width: 7px;
     height: 7px;
-    border: #E7EEF2 1px solid;
+    /* border: #E7EEF2 1px solid; */
     position: absolute;
     bottom: -5px;
     left: 50%;
@@ -1638,10 +1650,17 @@ body.page-template .post-title {
     padding: 0;
 }
 
-img.card-img-top {
+
+img.card-img-top, .groups img.card-img-top {
     max-width: 100%;
-    height: 15vw; 
+    height:unset;  
+    max-height: 240px;
     object-fit: cover;
+    overflow: hidden;
+}
+
+.venues img.card-img-top {
+     max-height: 320px;
 }
 
 figcaption {
@@ -2638,8 +2657,9 @@ figcaption {
     text-align: left;
   }
 
-    .organisation-image {
-        border-radius: 25px;
+    .organisation-image img {
+        /* border-radius: 25px; */
+        max-width: 250px;
     }
 
     .post-meta {
