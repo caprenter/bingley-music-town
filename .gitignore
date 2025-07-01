@@ -3,7 +3,7 @@
 docs/_site
 docs/vendor
 docs/.jekyll-cache/
-dcos/.jekyll-metadata
+docs/.jekyll-metadata
 
 # OS generated files #
 ######################
