@@ -10,7 +10,16 @@ class: 'page-template'
 <!-- Everything inside the #post tags pulls data from the page -->
 <!-- #post -->
 
-<header class="main-header page" style="background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3)), url({{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/{{ page.cover }}); background-position-y:0">
+<!-- ON the front page we many cover images we can use, so pick a random one
+ from the coverS frontmatter array
+ Other pages only have a single cover frontmatter-->
+{% if page.covers %}
+{% assign cover = page.covers | sample %}
+{% else %}
+{% assign cover = page.cover %}
+{% endif %}
+
+<header class="main-header page" style="background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3)), url({{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/{{ cover }}); background-position-y:0">
 {% if page.image-credit %}{% include image-credit.html %}{% endif %}
 <div class="vertical">
     <div class="main-header-content inner">

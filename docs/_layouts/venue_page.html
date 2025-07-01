@@ -130,7 +130,7 @@ class: 'page-template'
     {%- if forloop.length > 1 -%}
     {% if forloop.first %}
 ### {{ performer }}
-Support: {% continue %}{% endif %}
+Support: 
 {{ performer }}{% unless forloop.last %}, {% endunless -%}
     {% else %}
 ### {{ performer }}

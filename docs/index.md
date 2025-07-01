@@ -12,7 +12,10 @@ current: home
 # Defaults to use if no 'next film'
 # cover: splashes/BMTlogoSplash.jpg
 # cover: splashes/QoH.jpg
-cover: splashes/splash_cornell.jpg
+covers: 
+ - splashes/splash_cornell.jpg
+#  - splashes/QoH.jpg
+#  - splashes/BMTlogoSplash.jpg
 ---
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main" markdown="1">
