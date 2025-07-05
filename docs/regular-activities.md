@@ -11,63 +11,40 @@ Below is a list of things we think go in in Bingley each week.
 Where links are available we've put them in. We appreciate that finding out more information is not always easy, but probably best to try to double check before turning up.
 
 ### Monday 
-{% include regular-monday.md %}
-
-#### First Monday of the month
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch">
+ {% include regular-monday.md %}
 {% include regular-monday-first.md %}
-
-{% comment %}
-#### Third Monday  of the month
-{% include regular-monday-third.md %}
-{% endcomment %}
+</div>
 
 ### Tuesday
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch">
 {% include regular-tuesday.md %}
-
-{% comment %}
-#### Third Tuesday of the month
-{% include regular-tuesday-third.md %}
-{% endcomment %}
+</div>
 
 ### Wednesday
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch">
 {% include regular-wednesday.md %}
-
-#### Third Wednesday of the month
 {% include regular-wednesday-third.md %}
-
-#### Last Wednesday of the month
 {% include regular-wednesday-last.md %}
+</div>
 
 ### Thursday 
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch">
 {% include regular-thursday.md %}
-
-#### First Thursday of the month
 {% include regular-thursday-first.md %}
-
-{% comment %}
-#### Second Thursday of the month
-{% include regular-thursday-second.md %}
-{% endcomment %}
-
-#### Third Thursday of the month
 {% include regular-thursday-third.md %}
-
+</div>
 
 {% comment %}
 ### Saturday
 
 #### First Saturday of the month
-{% include regular-saturday-first.md %}
 {% endcomment %}
 
-### Wednesday
+### Sunday
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch">
 {% include regular-sunday.md %}
-
-#### Second Sunday of the month
 {% include regular-sunday-second.md %}
-
-#### Third Sunday of the month
 {% include regular-sunday-third.md %}
-
-#### Last Sunday of the month
 {% include regular-sunday-last.md %}
+</div>

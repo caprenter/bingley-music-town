@@ -6,6 +6,10 @@ logo: Cullingworth_Ukulele_Group.png
 image: CullingworthUkes.jpg
 type: music-group
 member: true
+meets:
+- meets-at: St John's Room in Cullingworth
+  meets-when: 10:30am
+  frequency: regular-thursday
 short-description: 'Meets weekly and offers free ukulele lessons for beginners.
 
   '

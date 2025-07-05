@@ -1,0 +1,18 @@
+frequency:
+  regular-monday-first: First Monday of the month
+  regular-monday: Mondays
+  regular-monday-third: Third Monday of the month
+  regular-saturday-first: First Saturday of the month
+  regular-sunday-last: Last Sunday of the month
+  regular-sunday: Sundays
+  regular-sunday-second: Second Sunday of the month
+  regular-sunday-third: Third Sunday of the month
+  regular-thursday-first: First Thursday of the month
+  regular-thursday: Thursdays
+  regular-thursday-second: Second Thursday of the month
+  regular-thursday-third: Third Thursday of the month
+  regular-tuesday: Tuesdays
+  regular-tuesday-third: Third Tuesday of the month
+  regular-wednesday-last: Last Wednesday of the month
+  regular-wednesday: Wednesdays
+  regular-wednesday-third: Third Wednesday of the month

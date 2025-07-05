@@ -1,17 +1,18 @@
 <div class="container logos">
+    <div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch help">
     {% for organisation in site.organisations %}
-    {% assign indexmod4 = forloop.index | modulo: 4 %}
-    {% if indexmod4 == 1 %}<div class="row">{% endif %}
-    <div class="column">
-        <a href="{{ organisation.url }}"><img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" style="object-fit: contain;"/></a>        
-        <div>
+    {% if organisation.member %}
+    <div class="col mb-4 text-center">
+        <a href="{{ organisation.url }}"><img src="{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}" alt="{{ organisation.name }}" title="{{ organisation.name }}"  class="img-responsive" style="max-width:60%"/></a>        
+        <div class="text-center">
             <a href="{{ organisation.url }}" class="org-link">
             {{ organisation.name }}
             </a>
         </div>
     </div>
-    {% if indexmod4 == 0 or forloop.last %}</div>{% endif %}
+    {% endif %}
     {% endfor %}
+    </div>
 </div>
 
 

@@ -6,6 +6,13 @@ logo: bingley-bell-tower-ringers.png
 image: TowerBellRingers.jpg
 type: music-group
 member: true
+meets:
+- meets-at: All Saints Parish Church
+  meets-when: 9:45am - 10:30pm
+  frequency: regular-sunday
+- meets-at: All Saints Parish Church
+  meets-when: 7:30pm - 9:00pm
+  frequency: regular-tuesday
 short-description: 'We ring on Sundays and practice on Tuesday evenings and welcome
   new recruits to become part of our team.
 

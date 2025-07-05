@@ -1,8 +1,8 @@
 ---
 title: Noticeboards
 layout: page_v2
-sub-title: FIX ME 
-cover: splashes/BMTlogoSplash.jpg #No leading slash
+sub-title: Getting the word out 
+cover: splashes/splash_BMTlogoColour.jpg #No leading slash
 #image-credit: "Photo: Bingley Camera Club"
 navigation: true
 ---

@@ -76,7 +76,7 @@ Want to make your own music today ({{ weekday }})?<br>
 {% include nth-occurrence.md nth_occurrence=1 day_of_week=6 dateToday=on-this-day-as-date %}
 {% if TDTD %}
 **Every First Saturday of the month**<br>
-{% include regular-saturday-first.md %}
+
 {% endif %}
 {% endif %} -->
 
@@ -100,7 +100,11 @@ Want to make your own music today ({{ weekday }})?<br>
 {% endif %}
 
 {% else %}
+
 ## Make Music 
 {% endif %}
+
+<div class="container p-4 bg-light" markdown="1">
 Check out our <a href="{% link regular-activities.md %}">Regular Activities page</a> to see what's on offer throughout the week.<br>
 Looking for [Music Teacher]({% link tuition.md %})? Check out our [Tuition page]({% link tuition.md %}).
+</div>

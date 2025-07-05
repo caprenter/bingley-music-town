@@ -8,6 +8,8 @@
   image: BradfordAiredaleYouthChoir.png
   type: music-group
   member: true
+  meets:
+  - {meets-at: Beckfoot School, meets-when: 5:35pm - 8:15pm, frequency: regular-monday }
   short-description: |
     Contemporary choirs for young people aged 6-26 years, rehearsing in Bingley on Monday evenings. 
   description: |
@@ -17,6 +19,12 @@
 
     With over 50 members, we always have room for more.
     Everyone who loves to sing has a place at BAYC.
+
+    Junior choir (6-10 year olds)  5:35pm - 6:35pm
+
+    Senior Choir (11-16 year olds)  6:40pm - 8:15pm
+
+
 
 - name: Accessible Inclusive Music-AIM
   #website:
@@ -84,15 +92,31 @@
   image: BingleySingingForFun.jpg
   type: music-group
   member: true
+  meets:
+    - {meets-at: Bingley Arts Centre, meets-when: 11:30am - 12:30pm, frequency: regular-wednesday }
   short-description: |
     No experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
 
   description: |
     Bingley Singing For Fun - no experience needed and all voices are welcome. Meets once a week at Bingley Arts Centre.
 
-    The group meets ot enjoy each other's company and to sing for fun. 
+    The group meets ot enjoy each other's company and to sing for fun.     
 
-    Every Wednesday, 11:30 -12:30.    
+- name: Bingley Handbell Ringers 
+  website: https://www.bingleyhandbells.org.uk/diary 
+  #logo: Bingley_Singing_for_Fun.png
+  image: HandBellRingers.jpg
+  type: music-group
+  member: false
+  meets:
+    - {meets-at: Church House, meets-when: 7pm - 9pm, frequency: regular-wednesday }
+  short-description: |
+    We  meet regularly to practise handbell tune ringing and we enjoy  entertaining people.
+
+  description: |
+    We  meet regularly to practise handbell tune ringing and we enjoy  entertaining people.
+    
+    New members are always welcome. Reading  music is not essential but a sense of  rhythm, fun and a good sense of humour always helps! Our practice nights are held in the  church vestry and vary between Monday and Wednesday evenings.
 
 - name: All Together Now
   #website: atnsing
@@ -102,6 +126,9 @@
   image: AllTogetherNow.jpg
   type: music-group
   member: true
+  meets:
+  - { meets-at: Bingley Methodist Church, meets-when: 10am - 11.30am, frequency: regular-monday }
+  - { meets-at: Bingley Methodist Church, meets-when: 1.30pm - 3pm, frequency: regular-thursday }
   short-description: |
     Yorkshire Community Choir based in Baildon, Bingley, Harrogate & Skipton.
   description: |
@@ -126,6 +153,8 @@
   image: CullingworthUkes.jpg
   type: music-group
   member: true
+  meets:
+  - { meets-at: "St John's Room in Cullingworth", meets-when: 10:30am, frequency: regular-thursday }
   short-description: |
     Meets weekly and offers free ukulele lessons for beginners.
   description: |
@@ -263,9 +292,11 @@
   #twitter: 
   logo: Voices-of-Yorkshire.png
   #email:
-  image: Voices-of-Yorkshire.png
+  image: Voices-of-Yorkshire.jpg
   type: music-group
   member: true
+  meets: 
+    - { meets-at: Bradford And Bingley Rugby Club, meets-when: 8pm - 9pm, frequency: regular-monday } 
   short-description: |
     Laid back, fun and completely non judgemental singing groups for everyone.
   description: |
@@ -283,7 +314,7 @@
     
     Contact Nick on 07947471851 for more information or through our website.
     
-    Come and join the fun, we’d love to see you soon!!!
+    Come and join the fun, we'd love to see you soon!!!
 
 - name: Sally Leeming
   #website: 
@@ -314,6 +345,9 @@
   image: BingleyUkes.jpg
   type: music-group
   member: true
+  meets:
+    - { meets-at: The Peacock Bar Bingley, meets-when: 7pm - 9pm, frequency: regular-thursday-first }
+    - { meets-at: The Peacock Bar Bingley, meets-when: 7pm - 9pm, frequency: regular-thursday-third }
   short-description: |
     A fun group of like minded people who enjoy playing ukulele.
   description: |
@@ -322,8 +356,6 @@
     Everyone welcome.
 
     Other instruments and singers are also welcome.
-
-    Meets at the Peacock bar in Bingley on the 1st and 3rd Thursdays of the month. 
 
 - name: Catherine Radcliffe Piano
   website: http://catherineradcliffepiano.weebly.com
@@ -394,6 +426,9 @@
   #internal-link-text: 
   type: music-group
   member: true
+  meets:
+    - {meets-at: All Saints Parish Church, meets-when: 9:45am - 10:30pm, frequency: regular-sunday }
+    - {meets-at: All Saints Parish Church, meets-when: 7:30pm - 9:00pm, frequency: regular-tuesday }
   short-description: |
     We ring on Sundays and practice on Tuesday evenings and welcome new recruits to become part of our team.
 
@@ -434,6 +469,8 @@
   #internal-link-text: 
   type: music-group
   member: true
+  meets:
+    - { meets-at: Cullingworth Methodist Church, meets-when: 6:30pm, frequency: regular-tuesday }
   short-description: |
     A fun choir for anyone that wants to get involved.
 
@@ -443,8 +480,6 @@
     Do you like singing and want to meet new people?
     Coffee and cakes every half term.
     Special events and performances - but only if you want to there is no pressure.
-
-    Every Tuesday, 6:30pm, at Cullingworth Methodist Church.
 
 - name: Heart Song West Yorkshire
   #website: 
@@ -457,6 +492,8 @@
   #internal-link-text: 
   type: music-group
   #member: false
+  meets:
+  - {meets-at: Church House, meets-when: 7:30pm - 9pm, frequency: regular-wednesday-third }
   short-description: |
     Our friendly group welcomes new singers. We learn gentle world songs, deep listening, and presence skills.
 
@@ -466,5 +503,162 @@
     We learn gentle world songs, deep listening, and presence skills. <br>
     We are part of a growing UK movement offering singing at the bedside for people nearing the end of life. <br>
     For information on our approach and songs: [www.companionvoices.org](https://www.companionvoices.org)<br>
-    For more information, please contact Ana on 07951 776 278. <br>
-    7:30pm - 9pm Church House, Bingley.
+    For more information, please contact Ana on 07951 776 278.
+
+- name: Bingley Library Acoustic Sessions Time
+  #website: 
+  #facebook: 
+  #twitter: 
+  # email: heartsongwestyorks@companionvoices.org
+  # logo: Heartsong.jpg
+  image: BLAST.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+  - {meets-at: Bingley Library, meets-when: 11:00am - 15:00pm, frequency: regular-wednesday }
+  short-description: |
+    Acoustic musicians singing and playing in the library, every week.
+
+  description: |
+    Acoustic musicians singing and playing in the library, every week.
+
+    You're welcome to join in or just watch and listen.
+
+    A great chance to get together and make some music.
+
+    Free 
+
+- name: Bingley First Monday Folk
+  #website: 
+  facebook: https://www.facebook.com/people/Bingley-First-Monday-Folk-Page/
+  #twitter: 
+  # email: heartsongwestyorks@companionvoices.org
+  # logo: Heartsong.jpg
+  image: BingleyFirstMondayFolk.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: event
+  member: false
+  meets:
+  - { meets-at: Ryshworth Club, meets-when: 7pm - 10:30pm, frequency: regular-monday-first }
+  short-description: |
+    First Monday Folk is a monthly gig night, with opportunities for people to play a tune or two before the main act.
+
+  description: |
+    Curated by the amazing Liz Narey, Bingley First Monday Folk brings the best singer songwriters to the Ryshworth Club at Crossflatts.
+
+    There are opportunities for people to play a tune two before the main act performs.
+
+    Features the "best raffle in Yorkshire" according to Serious Sam Barrett.
+
+    Free entry. Money from the raffle and donations go to the artists.
+
+- name: Pick Up and Play Session
+  #website: 
+  # facebook: 
+  #twitter: 
+  # email: heartsongwestyorks@companionvoices.org
+  # logo: Heartsong.jpg
+  image: ChipNErn.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+  - { meets-at: The Brown Cow, meets-when: 7:30pm - 10:30pm, frequency: regular-monday }
+  - { meets-at: Chip 'n' Ern, meets-when: 7:30pm - 10:30pm, frequency: regular-wednesday }
+  short-description: |
+    Traditional music in the pub. Come along and join in.
+
+  description: |
+    Traditional music in the pub. Come along and join in.
+
+    A talented, and welcoming, group of musicians meet up and play regularly around the district.
+
+    You're welcome to just watch and listen, or join in if you want. 
+
+    Free entry.
+
+- name: Buskers
+  #website: 
+  facebook: https://www.facebook.com/groups/824997727607702
+  #twitter: 
+  # email: heartsongwestyorks@companionvoices.org
+  # logo: Heartsong.jpg
+  image: buskers.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+  - { meets-at: Martinez Bingley Wine Shop & Wine Bar, meets-when: 7pm - late, frequency: regular-sunday-second }
+  short-description: |
+    An open mic platform for local artists to show us what they have.
+
+  description: |
+    An open mic platform for local artists to show us what they have. 
+    
+    Usually a 15 minute slot and you can do what you like performance wise, sing, play, tell jokes or whatever!
+
+- name: Vinyl Revival
+  #website: 
+  facebook: https://www.facebook.com/people/3rd-Sunday-Vinyl-Revival/61566812518164
+  #twitter: 
+  # email: heartsongwestyorks@companionvoices.org
+  # logo: Heartsong.jpg
+  image: VinylRevival.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+  - { meets-at: Chip 'n' Ern, meets-when: 7pm - late, frequency: regular-sunday-third }
+  short-description: |
+    We are a Bingley-based friendly open decks vinyl playing session.
+
+  description: |
+    We are a Bingley-based friendly open decks vinyl playing session.
+    
+    Come along and play your vinyl records. Any format as long as it's vinyl.
+
+    No DJ skills needed, no egos, no pressure.
+
+- name: Open Mic At the Birches
+  #website: 
+  #facebook: 
+  #twitter: 
+  # email: 
+  # logo:
+  image: open-mic.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+  - { meets-at: The Birches, meets-when: 6:30pm, frequency: regular-sunday-last }
+  short-description: |
+    Musicians of all abilities welcome.
+
+  description: |
+    Musicians of all abilities welcome.
+
+- name: Open Mic At The Glen
+  #website: 
+  # facebook:
+  #twitter: 
+  # email: 
+  # logo: 
+  image: open-mic.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+  - { meets-at: The Glen, meets-when: 7:30pm - 9:30pm, frequency: regular-wednesday-last }
+  short-description: |
+    Musicians of all abilities welcome.
+
+  description: |
+    Musicians of all abilities welcome. 

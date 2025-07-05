@@ -1,7 +1,7 @@
 <section class="main-page">
 <div markdown="1">
 
-<div class="container">
+<div class="container featured-block">
     <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
         <div class="col">
             <div class="card border-0 border-bottom h-100">
@@ -52,7 +52,7 @@
 
 If you want to perform, [get in touch]({% link contact.md %}). We're booking performances in 10 minute slots. I'm told there may be cake!
 </div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](/assets/images/sounds-in-town-may24.jpg)]({% link challenge2024.md %}){:class="img-responsive"}
+<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](/assets/images/sounds-in-town-may24.jpg)]({% link sounds_in_town.md %}){:class="img-responsive"}
 </div>
 
 </div>-->
@@ -62,7 +62,7 @@ If you want to perform, [get in touch]({% link contact.md %}). We're booking per
 <div class="col-lg-6" markdown="1">
 {% include live-today.md %}
 </div>
-<div class="col-lg-5 offset-lg-1" markdown="1">
+<div class="col-lg-5 offset-lg-1 make-today" markdown="1">
 {% comment %}
 Only show make music today on days that are not holidays! dateToday comes from live-today.md
 {% endcomment %}
@@ -94,4 +94,58 @@ Help spread the word by talking about us on social media? Use the hashtag:
 #### #bingleymusictown
 </div>
 </div>
+
+<div class="container blog-front mt-4" markdown="1">
+
+<h2>Recent Blog Posts</h2>
+  <div class="row row-cols-1 row-cols-lg-2 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch blog">
+  {% for post in site.posts limit:2 %}   
+    {% include blog.md %}
+  {% endfor %}
+  </div>
+</div>
+
+
+<div class="container photo-essays">
+    <h2 class="mt-4">Photo Booklets</h2>
+    <p markdown="1">Working together with [Bingley Camera Club<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/) we've produced a couple of photo booklets that highlight musical gems in our district. Download them below.</p>
+    <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
+        <div class="col">
+            <div class="card border-0 border-top border-bottom h-100">
+                <div class="row g-0">
+                    <div class="col-md-4 py-4">
+                        <img src="{{ site.baseurl }}/assets/images/essays/Bandstand_photo_essay.jpg" class="img-fluid rounded-start border m-0 p-0" alt="The Bandstand booklet">
+                    </div>
+                    <div class="col-md-6 offset-md-1">
+                        <div class="card-body">
+                            <h5 class="card-title">The Bandstand</h5>
+                            <p class="card-text" markdown="1">Our bandstand, in Myrtle Park, has been a meeting place for over 100 years. Photos by Paul Spencer.</p>
+                            <p class="card-text" markdown="1"><a href="{% link assets/downloads/Bandstand_photo_essay.pdf %}"><i class="fa-solid fa-file-pdf"></i> The Bandstand (A4)</a><br>
+                            <a href="{% link assets/downloads/Bandstand_photo_essay_8_page.pdf %}"><i class="fa-solid fa-file-pdf"></i> The Bandstand (A5)</a><br>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-0 border-top border-bottom h-100">
+                <div class="row g-0">
+                    <div class="col-md-4 py-4">
+                        <img src="{{ site.baseurl }}/assets/images/essays/five-rise-records.jpg" class="img-fluid rounded-start border m-0 p-0" alt="Five Rise Records booklet">
+                    </div>
+                    <div class="col-md-6 offset-md-1">
+                        <div class="card-body">
+                            <h5 class="card-title">Five Rise Records</h5>
+                            <p class="card-text" markdown="1">An in depth look at our local record shop. Photos by Ron Pengelly</p>
+                            <p class="card-text" markdown="1"><a href="{% link assets/downloads/BCC_Five_Rise_Records.pdf %}"><i class="fa-solid fa-file-pdf"></i> Five Rise Records (A4)</a><br>
+                            <a href="{% link assets/downloads/BCC_Five_Rise_Records_print.pdf %}"><i class="fa-solid fa-file-pdf"></i> Five Rise Records (A5)</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- row -->
+</div><!-- container -->
+
 </section>

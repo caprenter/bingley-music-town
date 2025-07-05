@@ -1,8 +1,9 @@
 ---
 title: Bradford 2025
-layout: listing
+layout: page_v2
+sub-title: Love Bradford
 cover: exhibition2024/AllTogetherNow.jpg #No leading slash
-image-credit: "Photo: Paul Spencer (Bingley Camera Club)"
+# image-credit: "Photo: Paul Spencer (Bingley Camera Club)"
 navigation: true
 ---
 

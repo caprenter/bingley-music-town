@@ -6,6 +6,13 @@ logo: All_Together_Now_logo.png
 image: AllTogetherNow.jpg
 type: music-group
 member: true
+meets:
+- meets-at: Bingley Methodist Church
+  meets-when: 10am - 11.30am
+  frequency: regular-monday
+- meets-at: Bingley Methodist Church
+  meets-when: 1.30pm - 3pm
+  frequency: regular-thursday
 short-description: 'Yorkshire Community Choir based in Baildon, Bingley, Harrogate
   & Skipton.
 

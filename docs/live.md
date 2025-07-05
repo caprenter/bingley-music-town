@@ -1,6 +1,6 @@
 ---
 title: Live Music
-sub-title: Get your fix
+sub-title: Upcoming Events
 layout: page_v2
 cover: splashes/BMTlogo_band.jpg #No leading slash
 #image-credit: The Razerbills
@@ -13,6 +13,7 @@ Mention us on social media, or use the **#bingleymusictown** hash tag, or send u
 
 We'll do the rest.
 
+<div class="live-listing-page" >
 {% capture upcoming-events %}{% include upcoming-events.md %}{% endcapture %}
 {{ upcoming-events | markdownify }}
-
+</div>

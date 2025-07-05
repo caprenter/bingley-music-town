@@ -24,21 +24,35 @@
         {{ newsletter | markdownify }}
     </div>
 </div> 
-<div class="row supported-by">
-        <p class="footer-txt"><br>Supported by</p>
-        <div class="column">
-        <a href="https://bingleytowncouncil.gov.uk/"><img style="max-width:200px" src="{{ '/assets/images/bingley-town-council-logo.png' | relative_url }}" alt="Bingley Town Council Logo" class="img-responsive"></a>
-        <!--<a href="https://www.cooperativeit.co.uk/"><img style="max-width:270px" src="{{ '/assets/images/ci-masthead.png' | relative_url }}" alt="Cooperative IT" class="img-responsive"></a>-->
+<!-- <div class="row g-4 supported-by"> -->
+<div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 g-4 d-flex align-items-stretch supported-by">
+        <!-- <p class="footer-txt"><br>Supported by</p> -->
+        <div class="col p-4">
+            <a href="https://bingleytowncouncil.gov.uk/"><img style="max-width:300px" src="{{ '/assets/images/city-of-bradford-logo.png' | relative_url }}" alt="Bradford Council Logo" class="img-responsive"></a>
+            <p style="max-width:250px">Thanks to The Shipley Area Committee for providing funding for some of our leaflets.</p>
         </div>
-        <div class="column">
+        <div class="col p-4">
             <h2>The 1887 Alfred Sharp Fund</h2>
             <p>Thanks to The 1887 Alfred Sharp Fund for funding our project for the Musical Education of Bingley residents.</p>
         </div>
-        <div class="column">
-            <a href="https://bingleytowncouncil.gov.uk/"><img style="max-width:250px" src="{{ '/assets/images/bradford.jpg' | relative_url }}" alt="Bradford Council Logo" class="img-responsive"></a>
-            <p style="max-width:250px">Thanks to The Shipley Area Committee for providing funding for some of our leaflets.</p>
+        <div class="col p-4 text-center">
+            <a href="https://bingleytowncouncil.gov.uk/"><img style="max-width:200px" src="{{ '/assets/images/love-bradford.png' | relative_url }}" alt="Bradford 2025" class="img-responsive"></a>
         </div>
+        <div class="col p-4 text-center">
+        <a href="https://bingleytowncouncil.gov.uk/"><img style="max-width:200px" src="{{ '/assets/images/bingley-town-council-logo.png' | relative_url }}" alt="Bingley Town Council Logo" class="img-responsive"></a>
+        <!--<a href="https://www.cooperativeit.co.uk/"><img style="max-width:270px" src="{{ '/assets/images/ci-masthead.png' | relative_url }}" alt="Cooperative IT" class="img-responsive"></a>-->
+        </div>        
     </div>
+
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+  <script>
+    addBackToTop({
+      diameter: 48,
+      innerHTML: '<svg viewBox="0 0 24 24"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>',
+      backgroundColor: 'rgb(33 37 41)',
+      textColor: '#fff'
+    })
+</script>
 <div class="copyright">
     <p>All content &copy; Bingley Music Town unless otherwise stated. <a href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/privacy">Privacy Statement</a></p>
 </div>

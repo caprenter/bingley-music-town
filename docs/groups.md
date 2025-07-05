@@ -13,7 +13,7 @@ Places where you can play and sing.
 {% for organisation in site.organisations %}
 {% if organisation.type contains "music-group" %}
 
-{% inculde organisation_grid.md %}
+{% include organisation_grid.md %}
 
 {% endif %}
 {% endfor %}

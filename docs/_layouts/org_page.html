@@ -69,6 +69,10 @@ class: 'page-template'
 {% if page.twitter %}{% capture twitter %}* **Twitter:** [https://twitter.com/{{ page.twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://twitter.com/{{ page.twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}{% endif %}
 {% if page.instagram %}{% capture instagram %}* **Instagram:** [https://www.instagram.com/{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
 </div>
+<div class="meets">
+{% assign meets = page.meets %}
+{% include meets-at.md %}
+</div>
 </div>
 <div class="col-lg-2 col-sm-4 col-xs-6 organisation-image">
 {% if page.logo %}

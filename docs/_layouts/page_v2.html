@@ -24,14 +24,14 @@ class: 'page-template'
 <div class="vertical">
     <div class="main-header-content inner">
         <h1 class="page-title">{{ page.title }}</h1>
-        <h2 class="page-sub-title">{% if page.sub-title %}{{ page.sub-title }}{% else %}{{ page.date | date: "%A %d %B %Y" }}{% endif %} </h2>
+        <h2 class="page-sub-title px-2">{% if page.sub-title %}{{ page.sub-title }}{% else %}{{ page.date | date: "%A %d %B %Y" }}{% endif %} </h2>
     </div>
 </div>
 <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 
 </header>
 
-<main class="content" role="main">
+<main class="content {{ page.title | slugify }}" role="main">
     <article class="post">
         <!-- Everything inside the #post tags pulls data from the post -->
 

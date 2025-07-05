@@ -1,9 +1,9 @@
 ---
 title: Bingley Music Town Privacy Policy
 layout: page_v2
-sub-title: FIX ME 
-cover: splashes/BMTlogoSplash.jpg #No leading slash
-image-credit: 
+sub-title: Doing our best to do the right thing 
+cover: splashes/splash_privacy-record-shop.jpg #No leading slash
+# image-credit: Neil Horsley
 navigation: true
 ---
 
@@ -23,7 +23,7 @@ Bingley Music Town collects the following data:
 * Video recordings
 * Records of permissions you grant us (e.g. to use a photograph in publicity material)
 * Attendance data at activities, events, and meetings
-* Our website tracks annonymous vists to the site, which cannot be linked to an individual
+* Our website tracks anonymous visits to the site, which cannot be linked to an individual
      
 ### How do we collect your data?
 You directly provide Bingley Music Town with most of the data we collect.

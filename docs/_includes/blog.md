@@ -1,5 +1,3 @@
-<div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch blog">
-{% for post in site.posts %}
 <div class="col mb-4">
   <div class="card h-100">
       <a href="{{ post.url }}"><img class="card-img-top p-0" src="assets/images/{{ post.cover | relative_url }}" alt="{{ post.image-title }}"/></a>
@@ -8,9 +6,7 @@
     <div class="card-body">
       <h4 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <p class="card-text m-0"><span class="post-date">{{ post.date | date_to_string }}</span></p>
-      <p class="card-text m-0">{{ post.excerpt }}</p>
+      <p class="card-text m-0">{{ post.excerpt | strip_html }}</p>
     </div>
   </div>
-</div>
-{% endfor %}
 </div>

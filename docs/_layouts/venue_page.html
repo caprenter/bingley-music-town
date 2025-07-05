@@ -19,7 +19,6 @@ class: 'page-template'
 {% endif %}
 
 <header class="main-header page" style="background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3)), url({{ background-image-url }}); background-position-y:0">
-<!-- {% if page.image-credit %}{% include image-credit.html %}{% endif %} -->
 <div class="vertical">
     <div class="main-header-content inner">
         <h1 class="page-title">{{ page.Name }}</h1>
@@ -31,12 +30,8 @@ class: 'page-template'
 </header>
 
 <main class="content" role="main">
-    <article class="listing">
-        <!-- Everything inside the #post tags pulls data from the post -->
+<article class="listing">
 
-        <!-- <header class="post-header">
-            <h1 class="post-title">{{ page.Name }}</h1>
-        </header> -->
 
 <section class="post-content main-page">
 <div class="row"> 
@@ -75,19 +70,12 @@ class: 'page-template'
 {% if page.Twitter %}{% capture twitter %}* **Twitter:** [{{ page.Twitter }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://twitter.com/{{ page.twitter }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ twitter | markdownify }}{% endif %}
 {% if page.instagram %}{% capture instagram %}* **Instagram:** [{{ page.instagram }} <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.instagram.com/{{ page.instagram }}){:target="_blank" rel="noopener noreferrer"}{% endcapture %}{{ instagram | markdownify }}{% endif %}
 </div>
-</div>
-<div class="column-4 organisation-image">
-{% if page.logo %}
-<img src="{{ '/assets/images/logos' | relative_url }}/{{ page.logo }}" alt="{{ page.name }}" title="{{ page.name }}"  class="img-responsive" />
-{% endif %}
-</div>
-</div>
-</section>
+
+
 
 {% capture EventsList %}
 
 {% assign dateToday = 'now' | date: "%Y-%m-%d" %}
-
 
 {% assign events = site.data.events | sort: "Date"  %}
 {% assign artists = site.data.artists %}
@@ -130,7 +118,7 @@ class: 'page-template'
     {%- if forloop.length > 1 -%}
     {% if forloop.first %}
 ### {{ performer }}
-Support: 
+Support: {% continue %}{% endif %}
 {{ performer }}{% unless forloop.last %}, {% endunless -%}
     {% else %}
 ### {{ performer }}
@@ -183,32 +171,72 @@ Support:
 
 </div>
 </div>
-{% endif %}<!-- Artist exists -->
-{% else %} <!-- in the future -->
+{% endif %}
+{% else %}
 {% assign HasPastEvents = "yes" %}
-{% endif %}<!-- future date -->
-{% endif %} <!-- at this Venue -->
+{% endif %}
+{% endif %}
 {% endfor %}
 
 {% endcapture %}
+
 {% if HasEvents %}
+
 <h2>Upcoming Events</h2>
 {{ EventsList | markdownify }}
+
 {% endif %}
 
 {% if HasPastEvents %}
-<h2>Previous Events</h2>
 
+<h2>Previous Events</h2>
 {% include previous-events.md %}
+
+{% endif %}
+
+</div>
+
+<div class="column-4 organisation-image regular-events py-0">
+
+{% for organisation in site.organisations %}
+
+{% if organisation.meets %}
+{% assign meets = organisation.meets %}
+
+{% for meet in meets %}
+
+{% if meet.meets-at == page.Name %}
+<h4>Regular Events</h4>
+{% include organisation_grid.md %}
+{% assign has-regular-events = true %}
+{% break %}
+{% endif %}
+
+{% endfor %}
 
 
 {% endif %}
+{% endfor %}
+
+{% if has-regular-events == nil %}
+
+{% endif %}
+
+<div class="missing-something bg-light p-4">
+    <h2>Missed something?</h2>
+    <p>Let us know if you know something happening at this venue that we don't.</p>
+    <p>Get in touch via our <a href="/contact">contact page</a></p>
+</div>
+
+</div>
+</div>
 
 {% capture AboutThisPage %}
 {% include about-this-page.md %}
 {% endcapture %}
 {{ AboutThisPage | markdownify }}
 
-   </article>
+</section>
+</article>
 </main>
 <!-- /post -->
