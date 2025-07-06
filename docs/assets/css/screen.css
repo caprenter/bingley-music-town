@@ -863,6 +863,11 @@ table.events caption{
     caption-side:top;
 }
 
+table.events caption span{
+    color: #f07ab0;
+    font-size: 2rem;
+}
+
 iframe, .fluid-width-video-wrapper {
     display: block;
     margin: 1.75em 0;

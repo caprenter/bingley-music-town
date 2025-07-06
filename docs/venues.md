@@ -55,8 +55,30 @@ Check out our [live music events listing]({% link live.md %}).
 </div>
 </div><!--column -->
 
-<div class="column-4 venue-image">
+<div class="column-4 venue-image pt-0">
 {% include upcoming-events-table.md WhichVenue=venue.Name %}
+
+{% for organisation in site.organisations %}
+
+{% if organisation.meets %}
+{% assign meets = organisation.meets %}
+{% assign regular_days = site.data.regular_days_mapping.frequency %}
+
+{% for meet in meets %}
+
+{% if meet.meets-at == venue.Name %}
+{% if has-regular-events == nil %}<h5>Regular Events</h5>{% endif %}
+<p class="card-text fs-4 fw-bold my-2"><a href="{{ organisation.url }}">{{ organisation.name }}</a>, {{ regular_days[meet.frequency] }}, {{ meet.meets-when }}</p>
+<p class="card-text m-0">{{ organisation.short-description }}</p>
+{% assign has-regular-events = true %}
+{% endif %}
+
+{% endfor %}
+
+
+{% endif %}
+{% endfor %}
+{% assign has-regular-events = nil %}
 </div><!--column -->
 
 </div>
