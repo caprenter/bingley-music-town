@@ -4,7 +4,7 @@ When visiting the pages in the Sing and Play section
   @funders
 	Scenario: I should see relevant funders acknowledged.
     Given I am on "/tuition"
-	    Then I should see the text "the 1887 Alfred Sharp Fund" in the "listings" region
+	    Then I should see the text "the 1887 Alfred Sharp Fund" in the "tuition" region
 
 @menu
 	Scenario: I am not logged on I should see everything on the SIng & PLay menu.

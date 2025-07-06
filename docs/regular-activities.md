@@ -35,6 +35,11 @@ Where links are available we've put them in. We appreciate that finding out more
 {% include regular-thursday-third.md %}
 </div>
 
+### Friday
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch">
+{% include regular-friday-third.md %}
+</div>
+
 {% comment %}
 ### Saturday
 

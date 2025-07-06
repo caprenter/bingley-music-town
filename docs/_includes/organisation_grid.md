@@ -1,11 +1,7 @@
 {% if organisation.image %}
-{% capture image-src %}
-{{ '/assets/images/organisations' | relative_url }}/{{ organisation.image }}
-{% endcapture %}
+{% capture image-src %}{{ '/assets/images/organisations' }}/{{ organisation.image }}{% endcapture %}
 {% elsif organisation.logo %}
-{% capture image-src %}
-{{ '/assets/images/logos' | relative_url }}/{{ organisation.logo }}
-{% endcapture %}
+{% capture image-src %}{{ '/assets/images/logos' }}/{{ organisation.logo }}{% endcapture %}
 {% endif %}
 
 {% assign regular_days = site.data.regular_days_mapping %}

@@ -486,7 +486,7 @@
   #facebook: 
   #twitter: 
   email: heartsongwestyorks@companionvoices.org
-  logo: Heartsong.jpg
+  #logo: Heartsong.jpg
   image: Heartsong.jpg
   #internal-link:
   #internal-link-text: 
@@ -509,8 +509,8 @@
   #website: 
   #facebook: 
   #twitter: 
-  # email: heartsongwestyorks@companionvoices.org
-  # logo: Heartsong.jpg
+  # email: 
+  # logo: 
   image: BLAST.jpg
   #internal-link:
   #internal-link-text: 
@@ -534,8 +534,8 @@
   #website: 
   facebook: https://www.facebook.com/people/Bingley-First-Monday-Folk-Page/
   #twitter: 
-  # email: heartsongwestyorks@companionvoices.org
-  # logo: Heartsong.jpg
+  # email:
+  # logo: 
   image: BingleyFirstMondayFolk.jpg
   #internal-link:
   #internal-link-text: 
@@ -559,8 +559,8 @@
   #website: 
   # facebook: 
   #twitter: 
-  # email: heartsongwestyorks@companionvoices.org
-  # logo: Heartsong.jpg
+  # email: 
+  # logo: 
   image: ChipNErn.jpg
   #internal-link:
   #internal-link-text: 
@@ -585,8 +585,8 @@
   #website: 
   facebook: https://www.facebook.com/groups/824997727607702
   #twitter: 
-  # email: heartsongwestyorks@companionvoices.org
-  # logo: Heartsong.jpg
+  # email:
+  # logo: 
   image: buskers.jpg
   #internal-link:
   #internal-link-text: 
@@ -606,8 +606,8 @@
   #website: 
   facebook: https://www.facebook.com/people/3rd-Sunday-Vinyl-Revival/61566812518164
   #twitter: 
-  # email: heartsongwestyorks@companionvoices.org
-  # logo: Heartsong.jpg
+  # email: 
+  # logo: 
   image: VinylRevival.jpg
   #internal-link:
   #internal-link-text: 
@@ -662,3 +662,24 @@
 
   description: |
     Musicians of all abilities welcome. 
+
+- name: Rumble Up The Ryshworth
+  website: https://rumbleupbingley.co.uk/
+  facebook: https://www.facebook.com/rumbleuptheryshworth
+  #twitter: 
+  # email: 
+  # logo: 
+  image: rumble.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: false
+  meets:
+    - { meets-at: Ryshworth Club, meets-when: 5pm - 11:30pm, frequency: regular-friday-third }
+  short-description: |
+    A regular gig night run by volunteers. Opportunities for roadies, sound engineers, event planners, etc. 
+
+  description: |
+    A regular gig night run by volunteers that provides opportunities for anyone that wants to learn about putting on live music events.
+    
+    If you want to help shift gear and set up the stage, sound and lights, or learn to sound engineer, or run the door and merch stalls, or simply welcome people to the events, then this is a safe place for to have a go. 

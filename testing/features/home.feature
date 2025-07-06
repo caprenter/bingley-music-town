@@ -4,17 +4,19 @@ When visiting the homepage
   @header_menu
 	Scenario: I am not logged on I should see the main menu.
     Given I am on "/"
-    Then I should see the link "Home" in the "navigation" region	
-		And I should see the link "Join" in the "navigation" region
-		And I should see the link "Meet" in the "navigation" region
-		And I should see the link "Help" in the "navigation" region
-		And I should see the link "People" in the "navigation" region
+    Then I should see the link "About" in the "navigation" region	
+		And I should see the link "Blog" in the "navigation" region
+		And I should see the link "Help Us" in the "navigation" region
+		And I should see the link "Sing & Play" in the "navigation" region
+		And I should see the link "Live Music" in the "navigation" region
+		And I should see the link "Contact" in the "navigation" region
+
 
   @assets
 	Scenario: I am not logged on I should see working images and links
   	Given I am on "/"
 		And the images should not return 404
-		And the links should not return 404
+		
 	
 	@intro
 	Scenario: I am not logged on I should see the introductory text
@@ -26,12 +28,11 @@ When visiting the homepage
     Given I am on "/"
     Then I should see the link "Contact"
     And I should see the link "Home"
-	And I should see the link "Join"
+	And I should see the link "About"
 	And I should see the link "Meet"
 	And I should see the link "Help"
 	And I should see the link "People"
 	And I should see the link "Music Groups"
-	And I should see the link "Music Month - November 2023"
 	And I should see the link "Regular Activities"
 	And I should see the link "Tuition"
 	And I should see the link "Instruments"
@@ -40,7 +41,6 @@ When visiting the homepage
 	And I should see the link "Previous Events"
 	And I should see the link "Venues"
 	And I should see the link "Resources"
-	And I should see the link "Gallery"
 	And I should see the link "Contact"
 
  

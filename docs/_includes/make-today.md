@@ -11,7 +11,8 @@ Sat = 6
 {% assign weekday = "now" | date: "%A" %}
 {% assign on-this-day-as-date = "now" | date: "%Y-%m-%d" %}
 
-{% if weekday != "Friday" %}
+
+{% if weekday != "Saturday" %}
 ## Make Music Today
 {% assign beCarefulDates = "2024-12-24,2024-12-25,2024-12-26,2024-12-27,2024-12-28,2024-12-29,2024-12-30,2024-12-31,2025-01-01,2025-01-02,2024-01-03" | split:"," %}
 {% if beCarefulDates contains on-this-day-as-date %}
@@ -69,6 +70,14 @@ Want to make your own music today ({{ weekday }})?<br>
 {% if TDTD %}
 **Every Third Thursday of the month**<br>
 {% include regular-thursday-third.md %}
+{% endif %}
+{% endif %}
+
+{% if weekday == "Friday" %}
+{% include nth-occurrence.md nth_occurrence=3 day_of_week=5 dateToday=on-this-day-as-date %}
+{% if TDTD %}
+**Every Third Friday of the month**<br>
+{% include regular-friday-third.md %}
 {% endif %}
 {% endif %}
 
