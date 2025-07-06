@@ -31,7 +31,7 @@
 {% endfor %}
 
 {% if HasEvents == "yes" %}
-<div style="overflow-x:auto;" >
+<div style="overflow-x:auto;" class="upcoming-events px-4 pb-4" >
 <table class="events m-0 mb-4">
 <caption><h5>Upcoming Events: <small><a href="{{ venue.url }}">{{ venue.Name }}</a></small></h5></caption>
 <!-- <span>Upcoming Events</span> at <a href="{{ venue.url }}">{{ venue.Name }}</a></caption> -->
@@ -67,8 +67,8 @@
 <td>{% if event.Cancelled == "1"  %}Cancelled{% endif %}</td>
 </tr>
 {% assign web = false %}
-{% endif %} <!-- Artist not empty -->
-{% endif %} <!-- in the future -->
+{% endif %}
+{% endif %} 
 {% endfor %}  
 </table>
 </div>
