@@ -209,6 +209,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
     float: left;
     width: 47%;
     padding:1.5%;
+    padding-top: 0;
   }
   .column-8 {
     float: left;
@@ -2489,6 +2490,10 @@ figcaption {
     } */
     .live-listing-page, .artists-listing {
     max-width: 75%;
+    }
+
+    .column-4 .venue-image {
+        margin-top:2rem;
     }
 
 }

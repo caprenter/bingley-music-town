@@ -216,7 +216,6 @@ These scripts need to be on the page:
     <!-- Lightbox -->
     <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
 
-
 ### Help Images
 
 These images should be 1280x720 - a 16:9 ratio
@@ -224,6 +223,10 @@ These images should be 1280x720 - a 16:9 ratio
 ### Instrument Images
 
 These images should be a 16:9 ratio and don't really need to be bigger than 350px. Many are 600px wide.
+
+### PDF images
+
+A4 portrait are 400px wide
 
 ### Logos in the pre-footer area
 These are included in the `index.md` file from `_include/gallery.html` and should show all the logos that we have.
@@ -269,6 +272,7 @@ To add or remove a listing you need to check:
 * includes/regular-<day>-<optionally-occurance>.md
 * make-today.md
 * regular-activities.md
+* _data/regular_days_mapping
 
 ## Make Music Listing (front page)
 

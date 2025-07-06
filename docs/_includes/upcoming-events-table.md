@@ -33,7 +33,8 @@
 {% if HasEvents == "yes" %}
 <div style="overflow-x:auto;" >
 <table class="events m-0 mb-4">
-<caption><span>Upcoming Events</span> at <a href="{{ venue.url }}">{{ venue.Name }}</a></caption>
+<caption><h5>Upcoming Events: <small><a href="{{ venue.url }}">{{ venue.Name }}</a></small></h5></caption>
+<!-- <span>Upcoming Events</span> at <a href="{{ venue.url }}">{{ venue.Name }}</a></caption> -->
 <tr>
 <th>Date</th>
 <th>Artist(s)</th>

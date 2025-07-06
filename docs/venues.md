@@ -55,8 +55,9 @@ Check out our [live music events listing]({% link live.md %}).
 </div>
 </div><!--column -->
 
-<div class="column-4 venue-image pt-0">
+<div class="column-4 venue-image">
 {% include upcoming-events-table.md WhichVenue=venue.Name %}
+
 
 {% for organisation in site.organisations %}
 
@@ -67,17 +68,26 @@ Check out our [live music events listing]({% link live.md %}).
 {% for meet in meets %}
 
 {% if meet.meets-at == venue.Name %}
-{% if has-regular-events == nil %}<h5>Regular Events</h5>{% endif %}
-<p class="card-text fs-4 fw-bold my-2"><a href="{{ organisation.url }}">{{ organisation.name }}</a>, {{ regular_days[meet.frequency] }}, {{ meet.meets-when }}</p>
+{% if has-regular-events == nil %}
+<div class="regular-activites-venue-page px-4">
+<h5>Regular Events: <small><a href="{{ venue.url }}">{{ venue.Name }}</a></small></h5>
+<p class="card-text fs-4 fw-bold my-2"><a href="{{ organisation.url }}">{{ organisation.name }}</a></p>
 <p class="card-text m-0">{{ organisation.short-description }}</p>
+{% assign this-org = organisation.name %}
+{% endif %}
+{% if this-org != organisation.name %}
+<p class="card-text fs-4 fw-bold my-2"><a href="{{ organisation.url }}">{{ organisation.name }}</a></p>
+<p class="card-text m-0">{{ organisation.short-description }}</p>
+{% endif %}
+<p class="card-text fs-4 fw-bold my-2">{{ regular_days[meet.frequency] }}, {{ meet.meets-when }}</p>
 {% assign has-regular-events = true %}
 {% endif %}
-
 {% endfor %}
-
-
 {% endif %}
 {% endfor %}
+{% if has-regular-events %}
+</div>
+{% endif %}
 {% assign has-regular-events = nil %}
 </div><!--column -->
 
