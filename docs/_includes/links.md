@@ -5,7 +5,7 @@
 [Purpose]({% link purpose.md %})<br/>
 [Membership]({% link membership.md %})<br/>
 [Meet]({% link meet.md %})<br/>
-[Help]({% link help.md %})<br/>
+[Help Us]({% link help.md %})<br/>
 [People]({% link people.md %})<br/>
 [Music Groups]({% link groups.md %})<br/>
 [Regular Activities]({% link regular-activities.md %})<br/>

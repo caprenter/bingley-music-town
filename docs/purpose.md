@@ -10,7 +10,7 @@ navigation: true
 
 Bingley Music Town brings together the people that care about music in our area, to make sure there are great musical opportunities for everyone now, and into the future.
 
-<blockquote class="blockquote m-4 w-50 fw-bold"><p>"We're helping to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy."</p></blockquote>
+<blockquote class="blockquote m-4 fw-bold purpose"><p>"We're helping to make Bingley a place where music is celebrated and valued as an asset that sustains our health, our wellbeing, and our economy."</p></blockquote>
 
 There's already so much going on, so we're simply connecting people, sharing ideas, and using each other to make things happen around music. 
 

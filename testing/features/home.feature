@@ -30,7 +30,7 @@ When visiting the homepage
     And I should see the link "Home"
 	And I should see the link "About"
 	And I should see the link "Meet"
-	And I should see the link "Help"
+	And I should see the link "Help Us"
 	And I should see the link "People"
 	And I should see the link "Music Groups"
 	And I should see the link "Regular Activities"

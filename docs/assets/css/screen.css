@@ -755,6 +755,10 @@ blockquote cite {
     font-weight: 700;
 }
 
+blockquote.purpose {
+    width: 50%;
+}
+
 blockquote cite a { font-weight: normal; }
 
 mark {
@@ -2437,6 +2441,10 @@ figcaption {
     }
     .author-profile .author-meta span {
         font-size: 1.6rem;
+    }
+
+    blockquote.purpose {
+        width: 90%;
     }
 
     .post-head.main-header {
