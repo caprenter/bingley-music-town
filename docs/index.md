@@ -12,8 +12,7 @@ current: home
 # Defaults to use if no 'next film'
 # cover: splashes/BMTlogoSplash.jpg
 # cover: splashes/QoH.jpg
-covers: 
- - splashes/splash_cornell.jpg
+cover: splashes/splash_cornell.jpg
 #  - splashes/QoH.jpg
 #  - splashes/BMTlogoSplash.jpg
 ---

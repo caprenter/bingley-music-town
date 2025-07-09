@@ -192,4 +192,42 @@ private function assetChecker($assetType, $assetSource, $assetCode){
       $this->getSession()->getPage()->pressButton('Log in');
   }
 
+  /**
+     * @Then the meta :property should be :value
+     */
+    public function theMetaPropertyShouldBe($property, $value)
+    {
+        $page = $this->getSession()->getPage();
+        $meta = $page->find('css', sprintf('meta[property="%s"]', $property));
+
+        if (!$meta) {
+            throw new \Exception(sprintf('Meta tag with property "%s" not found', $property));
+        }
+
+        $content = $meta->getAttribute('content');
+
+        if ($content !== $value) {
+            throw new \Exception(sprintf('Expected meta %s "%s", but got "%s"', $property, $value, $content));
+        }
+    }
+    /**
+     * @Then the meta :property should contain :value
+     */
+    public function theMetaPropertyShouldContain($property, $value)
+    {
+        $page = $this->getSession()->getPage();
+        $meta = $page->find('css', sprintf('meta[property="%s"]', $property));
+
+        if (!$meta) {
+            throw new \Exception(sprintf('Meta tag with property "%s" not found', $property));
+        }
+
+        $content = $meta->getAttribute('content');
+        
+        if (!strstr($content, $value)) {
+        // if ($content !== $value) {
+            throw new \Exception(sprintf('Expected meta %s "%s", but got "%s"', $property, $value, $content));
+        }
+    }
+
 }

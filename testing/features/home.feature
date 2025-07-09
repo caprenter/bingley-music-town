@@ -12,6 +12,13 @@ When visiting the homepage
 		And I should see the link "Contact" in the "navigation" region
 
 
+	Scenario: Verify Open Graph title on a page
+    Given I am on "/"
+        Then the meta "og:site_name" should be "Bingley Music Town"
+		Then the meta "og:image" should contain "splashes/splash_"
+
+
+
   @assets
 	Scenario: I am not logged on I should see working images and links
   	Given I am on "/"
