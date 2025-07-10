@@ -61,11 +61,6 @@ Want to make your own music today ({{ weekday }})?<br>
 **Every First Thursday of the month**<br>
 {% include regular-thursday-first.md %}
 {% endif %}
-{% include nth-occurrence.md nth_occurrence=2 day_of_week=4 dateToday=on-this-day-as-date %}
-{% if TDTD %}
-**Every Second Thursday of the month**<br>
-{% include regular-thursday-second.md %}
-{% endif %}
 {% include nth-occurrence.md nth_occurrence=3 day_of_week=4 dateToday=on-this-day-as-date %}
 {% if TDTD %}
 **Every Third Thursday of the month**<br>
