@@ -27,11 +27,6 @@ Want to make your own music today ({{ weekday }})?<br>
 **Every First Monday of the month**<br>
 {% include regular-monday-first.md %}
 {% endif %}
-{% include nth-occurrence.md nth_occurrence=3 day_of_week=1 dateToday=on-this-day-as-date %}
-{% if TDTD %}
-**Every Third Monday of the month**<br>
-{% include regular-monday-third.md %}
-{% endif %}
 {% endif %}
 
 {% if weekday == "Tuesday" %}
