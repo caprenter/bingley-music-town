@@ -1,5 +1,5 @@
 ---
-Name: The White Horse
+Name: The Old White Horse
 Area: Bingley
 Address: Old Main St, Bingley
 Postcode: BD16 2RH
@@ -16,6 +16,6 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
-permalink: "/venues/the_white_horse.html"
+permalink: "/venues/the_old_white_horse.html"
 layout: venue_page
 ---
