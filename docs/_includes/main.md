@@ -7,6 +7,21 @@
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
+                        <img src="{{ site.baseurl }}/assets/images/sound-of-music-2025.jpg" class="img-fluid rounded-start" alt="Sound Of Music 2025">
+                    </div>
+                    <div class="col-md-6 offset-md-1">
+                        <div class="card-body">
+                            <h5 class="card-title">Sound Of Music 2025</h5>
+                            <p class="card-text" markdown="1"><span class="fw-bold">July 25th - 27th 2025</span><br>Live music all weekend in Bingley's Pubs and Clubs<br>See our <a href="{% link live.md %}">Live Listings</a> for more information.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-0 border-bottom h-100">
+                <div class="row g-0">
+                    <div class="col-md-4">
                         <a href="{% link _posts/2025-05-28-bandstand-2025.md %}"><img src="{{ site.baseurl }}/assets/images/myrtle_park.jpg" class="img-fluid rounded-start" alt="The Bandstand in Myrtle Park"></a>
                     </div>
                     <div class="col-md-6 offset-md-1">
@@ -19,7 +34,7 @@
                 </div>
             </div>
         </div>
-        <div class="col">
+        <!-- <div class="col">
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -38,7 +53,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div><!-- row -->
 </div><!-- container -->
 
