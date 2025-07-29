@@ -1,5 +1,6 @@
 ---
 name: Cullingworth Ukulele Group
+title: Cullingworth Ukulele Group
 facebook: groups/326869992873872
 email: 
 logo: Cullingworth_Ukulele_Group.png

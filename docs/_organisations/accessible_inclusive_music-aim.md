@@ -1,5 +1,6 @@
 ---
 name: Accessible Inclusive Music-AIM
+title: Accessible Inclusive Music-AIM
 facebook: accessibleinclusivemusic
 logo: aim.png
 image: aim.png

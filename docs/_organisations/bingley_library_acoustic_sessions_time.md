@@ -1,5 +1,6 @@
 ---
 name: Bingley Library Acoustic Sessions Time
+title: Bingley Library Acoustic Sessions Time
 image: BLAST.jpg
 type: music-group
 member: false

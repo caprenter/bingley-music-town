@@ -1,5 +1,6 @@
 ---
 name: Five Rise Records
+title: Five Rise Records
 redirect_to: "/venues/five_rise_records.html"
 logo: five-rise-records.png
 type: venue

@@ -1,5 +1,6 @@
 ---
 name: Bees Camping
+title: Bees Camping
 website: https://www.beescamping.co.uk/
 facebook: BeesBMLcamping
 twitter: BeesCamping

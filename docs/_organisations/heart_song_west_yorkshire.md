@@ -1,7 +1,7 @@
 ---
 name: Heart Song West Yorkshire
+title: Heart Song West Yorkshire
 email: heartsongwestyorks@companionvoices.org
-logo: Heartsong.jpg
 image: Heartsong.jpg
 type: music-group
 meets:

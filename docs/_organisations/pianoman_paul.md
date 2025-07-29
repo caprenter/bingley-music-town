@@ -1,5 +1,6 @@
 ---
 name: Pianoman Paul
+title: Pianoman Paul
 website: https://www.pianomanpaul.co.uk/
 facebook: paul.jannetta.5
 logo: pianoman_paul.png

@@ -1,5 +1,6 @@
 ---
 name: Voices of Yorkshire
+title: Voices of Yorkshire
 website: https://www.voicesofyorkshire.com
 facebook: profile.php?id=100057359113320
 logo: Voices-of-Yorkshire.png

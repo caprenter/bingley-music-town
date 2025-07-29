@@ -1,5 +1,6 @@
 ---
 name: Buskers
+title: Buskers
 facebook: https://www.facebook.com/groups/824997727607702
 image: buskers.jpg
 type: music-group

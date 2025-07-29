@@ -1,4 +1,5 @@
 - name: Bradford Airedale Youth Choir
+  title: Bradford Airedale Youth Choir
   website: https://www.bradfordandairedaleyouthchoir.co.uk/
   facebook: bradfordairedaleyouthchoir
   instagram: bradfordairedaleyouthchoir
@@ -27,6 +28,7 @@
 
 
 - name: Accessible Inclusive Music-AIM
+  title: Accessible Inclusive Music-AIM
   #website:
   facebook: accessibleinclusivemusic
   logo: aim.png
@@ -44,6 +46,7 @@
     All children up to the age of 18 can join, and participate with their voice, their body, Makaton signing, voice-output devices, switches… any and all means of communicating and creating music are facilitated. 
 
 - name: Bradford Accordion Band
+  title: Bradford Accordion Band
   website: https://www.bradfordaccordionband.co.uk/
   email: bradfordaccordionband@gmail.com
   logo: Bradford_Accordion_Band_logo.png
@@ -69,6 +72,7 @@
     Instrument loan scheme available.
 
 - name: Playing For Kicks
+  title: Playing For Kicks
   website: https://playingforkicks.co.uk/
   logo: pfklogo.jpg
   #image:
@@ -87,6 +91,7 @@
     Come along to one of our gigs to check us out, and/or contact us to check our availability.
 
 - name: Bingley Singing For Fun
+  title: Bingley Singing For Fun
   #website: 
   logo: Bingley_Singing_for_Fun.png
   image: BingleySingingForFun.jpg
@@ -103,6 +108,7 @@
     The group meets ot enjoy each other's company and to sing for fun.     
 
 - name: Bingley Handbell Ringers 
+  title: Bingley Handbell Ringers 
   website: https://www.bingleyhandbells.org.uk/diary 
   #logo: Bingley_Singing_for_Fun.png
   image: HandBellRingers.jpg
@@ -119,6 +125,7 @@
     New members are always welcome. Reading  music is not essential but a sense of  rhythm, fun and a good sense of humour always helps! Our practice nights are held in the  church vestry and vary between Monday and Wednesday evenings.
 
 - name: All Together Now
+  title: All Together Now
   #website: atnsing
   facebook: atnsing
   email: admin@atnsing.co.uk
@@ -146,6 +153,7 @@
     Get in touch if you are interested in joining us. Your first session is free so you've got nothing to lose in coming along
 
 - name: Cullingworth Ukulele Group
+  title: Cullingworth Ukulele Group
   #website: atnsing
   facebook: groups/326869992873872
   email: 
@@ -165,6 +173,7 @@
     Phone Brian 0789 998 1852
 
 - name: Becs Leighton Music
+  title: Becs Leighton Music
   website: https://www.becsleightonmusic.com
   facebook: becsleightonmusic/
   logo: Becs_Leighton_Music.png
@@ -188,6 +197,7 @@
     I am also Secretary of Bingley Music Town
 
 - name: Pianoman Paul
+  title: Pianoman Paul
   website: https://www.pianomanpaul.co.uk/
   facebook: paul.jannetta.5
   logo: pianoman_paul.png
@@ -210,6 +220,7 @@
       I also offer regular (monthly) opportunities for students to perform at Live at the Lounge in Shipley which I run with two other music tutors.
 
 - name: Bingley Guitar Studio
+  title: Bingley Guitar Studio
   website: http://bingleyguitarstudio.co.uk/
   facebook: Bingley-Guitar-Studio-728490577262222/?ref=settings
   logo: Bingley_Guitar_Studio.png
@@ -236,6 +247,7 @@
     Enjoying the process is the quickest way to  success!
 
 - name: Myrtle Park Primary School
+  title: Myrtle Park Primary School
   website: https://myrtleparkprimary.org/
   #facebook: 
   twitter: MyrtlePrimary
@@ -253,6 +265,7 @@
     We are committed to providing an inspirational environment, through a culture of success and achievement, in which individuals can flourish as confident, happy learners.
   
 - name: Bingley Music School
+  title: Bingley Music School
   website: https://bingleymusicschool.co.uk
   facebook: MusicSchoolBingley/
   #twitter:
@@ -272,6 +285,7 @@
     Small group or individual lessons are available to students at all levels of playing, each tailored to provide students with the correct tools for learning their instrument.
 
 - name: Bradnum Vocals
+  title: Bradnum Vocals
   #website:
   facebook: BradnumVocals/
   #twitter: 
@@ -287,6 +301,7 @@
     Singing, Acting through song, Musical Theatre, and Vocal Coaching. Both In-person and online lessons.
 
 - name: Voices of Yorkshire
+  title: Voices of Yorkshire
   website: https://www.voicesofyorkshire.com
   facebook: profile.php?id=100057359113320
   #twitter: 
@@ -317,6 +332,7 @@
     Come and join the fun, we'd love to see you soon!!!
 
 - name: Sally Leeming
+  title: Sally Leeming
   #website: 
   #facebook: 
   #twitter: 
@@ -338,6 +354,7 @@
     Musicianship sessions also available online
 
 - name: Bingley Ukulele Group
+  title: Bingley Ukulele Group
   #website: atnsing
   facebook: groups/BingleyUG/
   email: 
@@ -358,6 +375,7 @@
     Other instruments and singers are also welcome.
 
 - name: Catherine Radcliffe Piano
+  title: Catherine Radcliffe Piano
   website: http://catherineradcliffepiano.weebly.com
   facebook: catherineradcliffepiano
   twitter: pianocat5
@@ -373,6 +391,7 @@
         One to one piano and theory lessons for beginners and improvers, children and adults all welcome. In person and online lessons available.
 
 - name: Friends of Myrtle Park 
+  title: Friends of Myrtle Park 
   #website:
   facebook: groups/friendsofmyrtlepark
   #twitter: pianocat5
@@ -404,18 +423,21 @@
         Help us maintain and nurture this wonderful place!
 
 - name: Cottingley Community Centre
+  title: Cottingley Community Centre
   redirect_to: /venues/cottingley_community_centre.html
   logo: cottingley-community-centre.png
   type: venue
   member: true
 
 - name: Five Rise Records
+  title: Five Rise Records
   redirect_to: /venues/five_rise_records.html
   logo: five-rise-records.png
   type: venue
   member: true
 
 - name: Bingley Tower Bell Ringers
+  title: Bingley Tower Bell Ringers
   website: https://bingleybells.chessck.co.uk/
   #facebook: 
   #twitter: pianocat5
@@ -442,6 +464,7 @@
     If you are interested, please pay us a visit one Tuesday, there is no obligation to learn.
 
 - name: Bees Camping
+  title: Bees Camping
   website: https://www.beescamping.co.uk/
   facebook: BeesBMLcamping
   twitter: BeesCamping
@@ -459,6 +482,7 @@
     The home of Bingley Weekender
 
 - name: Cullingworth Community Choir
+  title: Cullingworth Community Choir
   #website: 
   #facebook: 
   #twitter: 
@@ -482,6 +506,7 @@
     Special events and performances - but only if you want to there is no pressure.
 
 - name: Heart Song West Yorkshire
+  title: Heart Song West Yorkshire
   #website: 
   #facebook: 
   #twitter: 
@@ -506,6 +531,7 @@
     For more information, please contact Ana on 07951 776 278.
 
 - name: Bingley Library Acoustic Sessions Time
+  title: Bingley Library Acoustic Sessions Time
   #website: 
   #facebook: 
   #twitter: 
@@ -531,6 +557,7 @@
     Free 
 
 - name: Bingley First Monday Folk
+  title: Bingley First Monday Folk
   #website: 
   facebook: https://www.facebook.com/people/Bingley-First-Monday-Folk-Page/
   #twitter: 
@@ -556,6 +583,7 @@
     Free entry. Money from the raffle and donations go to the artists.
 
 - name: Pick Up and Play Session
+  title: Pick Up and Play Session
   #website: 
   # facebook: 
   #twitter: 
@@ -582,6 +610,7 @@
     Free entry.
 
 - name: Buskers
+  title: Buskers
   #website: 
   facebook: https://www.facebook.com/groups/824997727607702
   #twitter: 
@@ -603,6 +632,7 @@
     Usually a 15 minute slot and you can do what you like performance wise, sing, play, tell jokes or whatever!
 
 - name: Vinyl Revival
+  title: Vinyl Revival
   #website: 
   facebook: https://www.facebook.com/people/3rd-Sunday-Vinyl-Revival/61566812518164
   #twitter: 
@@ -626,6 +656,7 @@
     No DJ skills needed, no egos, no pressure.
 
 - name: Open Mic At the Birches
+  title: Open Mic At the Birches
   #website: 
   #facebook: 
   #twitter: 
@@ -645,6 +676,7 @@
     Musicians of all abilities welcome.
 
 - name: Open Mic At The Glen
+  title: Open Mic At The Glen
   #website: 
   # facebook:
   #twitter: 
@@ -664,6 +696,7 @@
     Musicians of all abilities welcome. 
 
 - name: Rumble Up The Ryshworth
+  title: Rumble Up The Ryshworth
   website: https://rumbleupbingley.co.uk/
   facebook: https://www.facebook.com/rumbleuptheryshworth
   #twitter: 

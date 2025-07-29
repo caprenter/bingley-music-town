@@ -1,5 +1,6 @@
 ---
 name: Open Mic At The Glen
+title: Open Mic At The Glen
 image: open-mic.jpg
 type: music-group
 member: false
@@ -10,7 +11,7 @@ meets:
 short-description: 'Musicians of all abilities welcome.
 
   '
-description: 'Musicians of all abilities welcome. '
+description: "Musicians of all abilities welcome. \n"
 permalink: "/organisations/open_mic_at_the_glen.html"
 layout: org_page
 ---

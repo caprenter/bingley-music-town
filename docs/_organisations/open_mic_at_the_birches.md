@@ -1,5 +1,6 @@
 ---
 name: Open Mic At the Birches
+title: Open Mic At the Birches
 image: open-mic.jpg
 type: music-group
 member: false

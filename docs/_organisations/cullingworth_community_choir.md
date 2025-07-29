@@ -1,5 +1,6 @@
 ---
 name: Cullingworth Community Choir
+title: Cullingworth Community Choir
 email: helen.richmond1@tiscali.co.uk
 logo: CCC.jpg
 image: CullingworthCommunityChoir.jpg

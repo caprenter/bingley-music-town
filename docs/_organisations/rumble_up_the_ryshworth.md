@@ -1,5 +1,6 @@
 ---
 name: Rumble Up The Ryshworth
+title: Rumble Up The Ryshworth
 website: https://rumbleupbingley.co.uk/
 facebook: https://www.facebook.com/rumbleuptheryshworth
 image: rumble.jpg

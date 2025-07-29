@@ -1,5 +1,6 @@
 ---
 name: Playing For Kicks
+title: Playing For Kicks
 website: https://playingforkicks.co.uk/
 logo: pfklogo.jpg
 type: performer

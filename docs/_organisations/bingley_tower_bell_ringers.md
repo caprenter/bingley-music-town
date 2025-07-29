@@ -1,5 +1,6 @@
 ---
 name: Bingley Tower Bell Ringers
+title: Bingley Tower Bell Ringers
 website: https://bingleybells.chessck.co.uk/
 email: bellringers@Bingleyparish.org.uk
 logo: bingley-bell-tower-ringers.png

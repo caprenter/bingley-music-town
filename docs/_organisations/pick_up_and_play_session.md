@@ -1,5 +1,6 @@
 ---
 name: Pick Up and Play Session
+title: Pick Up and Play Session
 image: ChipNErn.jpg
 type: music-group
 member: false

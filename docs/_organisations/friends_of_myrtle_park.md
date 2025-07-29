@@ -1,5 +1,6 @@
 ---
 name: Friends of Myrtle Park
+title: Friends of Myrtle Park
 facebook: groups/friendsofmyrtlepark
 email: friendsofmyrtlepark@gmail.com
 logo: FriendsOfMyrtlePark.png

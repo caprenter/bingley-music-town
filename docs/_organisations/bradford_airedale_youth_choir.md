@@ -1,5 +1,6 @@
 ---
 name: Bradford Airedale Youth Choir
+title: Bradford Airedale Youth Choir
 website: https://www.bradfordandairedaleyouthchoir.co.uk/
 facebook: bradfordairedaleyouthchoir
 instagram: bradfordairedaleyouthchoir

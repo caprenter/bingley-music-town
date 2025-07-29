@@ -1,5 +1,6 @@
 ---
 name: Sally Leeming
+title: Sally Leeming
 logo: BMT_logo_blue_Teacher_Sally.png
 email: sally.leeming@btinternet.com
 phone: '07903513252'

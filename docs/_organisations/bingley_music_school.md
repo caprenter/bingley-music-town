@@ -1,5 +1,6 @@
 ---
 name: Bingley Music School
+title: Bingley Music School
 website: https://bingleymusicschool.co.uk
 facebook: MusicSchoolBingley/
 logo: bingley-music-school.png

@@ -1,5 +1,6 @@
 ---
 name: Bradford Accordion Band
+title: Bradford Accordion Band
 website: https://www.bradfordaccordionband.co.uk/
 email: bradfordaccordionband@gmail.com
 logo: Bradford_Accordion_Band_logo.png

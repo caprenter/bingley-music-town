@@ -1,5 +1,6 @@
 ---
 name: Becs Leighton Music
+title: Becs Leighton Music
 website: https://www.becsleightonmusic.com
 facebook: becsleightonmusic/
 logo: Becs_Leighton_Music.png

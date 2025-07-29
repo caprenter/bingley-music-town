@@ -1,5 +1,6 @@
 ---
 name: Catherine Radcliffe Piano
+title: Catherine Radcliffe Piano
 website: http://catherineradcliffepiano.weebly.com
 facebook: catherineradcliffepiano
 twitter: pianocat5

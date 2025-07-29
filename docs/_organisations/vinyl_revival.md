@@ -1,5 +1,6 @@
 ---
 name: Vinyl Revival
+title: Vinyl Revival
 facebook: https://www.facebook.com/people/3rd-Sunday-Vinyl-Revival/61566812518164
 image: VinylRevival.jpg
 type: music-group

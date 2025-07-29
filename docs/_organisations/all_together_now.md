@@ -1,5 +1,6 @@
 ---
 name: All Together Now
+title: All Together Now
 facebook: atnsing
 email: admin@atnsing.co.uk
 logo: All_Together_Now_logo.png

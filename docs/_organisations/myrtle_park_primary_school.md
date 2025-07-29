@@ -1,5 +1,6 @@
 ---
 name: Myrtle Park Primary School
+title: Myrtle Park Primary School
 website: https://myrtleparkprimary.org/
 twitter: MyrtlePrimary
 logo: Myrtle_Park_Primary_School.png

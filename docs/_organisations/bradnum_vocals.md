@@ -1,5 +1,6 @@
 ---
 name: Bradnum Vocals
+title: Bradnum Vocals
 facebook: BradnumVocals/
 logo: Bradnum.png
 email: e.bradnumvocals@gmail.com

@@ -1,5 +1,6 @@
 ---
 name: Bingley Handbell Ringers
+title: Bingley Handbell Ringers
 website: https://www.bingleyhandbells.org.uk/diary
 image: HandBellRingers.jpg
 type: music-group

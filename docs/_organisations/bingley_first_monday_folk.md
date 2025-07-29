@@ -1,5 +1,6 @@
 ---
 name: Bingley First Monday Folk
+title: Bingley First Monday Folk
 facebook: https://www.facebook.com/people/Bingley-First-Monday-Folk-Page/
 image: BingleyFirstMondayFolk.jpg
 type: event

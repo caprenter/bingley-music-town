@@ -1,5 +1,6 @@
 ---
 name: Bingley Singing For Fun
+title: Bingley Singing For Fun
 logo: Bingley_Singing_for_Fun.png
 image: BingleySingingForFun.jpg
 type: music-group
