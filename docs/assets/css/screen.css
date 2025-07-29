@@ -1698,6 +1698,7 @@ img.card-img-top, .groups img.card-img-top {
 }
 
 .venues img.card-img-top, 
+.venue-page img.card-img-top,
 .make-today img.card-img-top {
      max-height: 320px;
 }
