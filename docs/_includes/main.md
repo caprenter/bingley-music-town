@@ -3,7 +3,7 @@
 
 <div class="container featured-block">
     <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
-        <div class="col">
+        <!-- <div class="col">
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="col">
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
@@ -34,7 +34,7 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="col">
+        <div class="col">
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -53,7 +53,7 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
     </div><!-- row -->
 </div><!-- container -->
 
