@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-03-28'
 closed-date: 
+title: The Fleece Inn
 permalink: "/venues/the_fleece_inn.html"
 layout: venue_page
 ---

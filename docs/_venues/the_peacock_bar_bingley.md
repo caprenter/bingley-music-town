@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-04-26'
 closed-date: 
+title: The Peacock Bar Bingley
 permalink: "/venues/the_peacock_bar_bingley.html"
 layout: venue_page
 ---

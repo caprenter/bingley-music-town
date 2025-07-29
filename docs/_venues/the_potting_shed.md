@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-06-29'
 closed-date: 
+title: The Potting Shed
 permalink: "/venues/the_potting_shed.html"
 layout: venue_page
 ---

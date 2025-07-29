@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-10-13'
 closed-date: 
+title: Amazing Finds
 permalink: "/venues/amazing_finds.html"
 layout: venue_page
 ---

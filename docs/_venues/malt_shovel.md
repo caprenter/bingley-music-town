@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2024-04-18'
 closed-date: 
+title: Malt Shovel
 permalink: "/venues/malt_shovel.html"
 layout: venue_page
 ---

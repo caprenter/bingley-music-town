@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-11-13'
 closed-date: 
+title: St Wilfrid Church
 permalink: "/venues/st_wilfrid_church.html"
 layout: venue_page
 ---

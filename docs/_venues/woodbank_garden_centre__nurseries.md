@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Woodbank Garden Centre & Nurseries
 permalink: "/venues/woodbank_garden_centre__nurseries.html"
 layout: venue_page
 ---

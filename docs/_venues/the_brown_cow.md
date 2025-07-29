@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-02-23'
 closed-date: 
+title: The Brown Cow
 permalink: "/venues/the_brown_cow.html"
 layout: venue_page
 ---

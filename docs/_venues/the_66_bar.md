@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: '2023-05-01'
+title: The 66 Bar
 permalink: "/venues/the_66_bar.html"
 layout: venue_page
 ---

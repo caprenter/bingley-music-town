@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-06-29'
 closed-date: 
+title: Cottingley Town Hall Church
 permalink: "/venues/cottingley_town_hall_church.html"
 layout: venue_page
 ---

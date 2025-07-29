@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-09'
 closed-date: 
+title: Mulligans of Bingley
 permalink: "/venues/mulligans_of_bingley.html"
 layout: venue_page
 ---

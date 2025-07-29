@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-02-23'
 closed-date: 
+title: The New Inn
 permalink: "/venues/the_new_inn.html"
 layout: venue_page
 ---

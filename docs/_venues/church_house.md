@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-03-27'
 closed-date: 
+title: Church House
 permalink: "/venues/church_house.html"
 layout: venue_page
 ---

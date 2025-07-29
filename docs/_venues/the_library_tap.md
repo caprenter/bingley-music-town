@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-12-13'
 closed-date: 
+title: The Library Tap
 permalink: "/venues/the_library_tap.html"
 layout: venue_page
 ---

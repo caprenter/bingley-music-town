@@ -18,6 +18,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Five Rise Records
 permalink: "/venues/five_rise_records.html"
 layout: venue_page
 ---

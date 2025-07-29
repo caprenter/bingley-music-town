@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-02-24'
 closed-date: 
+title: The Villager Pub
 permalink: "/venues/the_villager_pub.html"
 layout: venue_page
 ---

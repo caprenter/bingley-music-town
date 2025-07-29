@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: The Old White Horse
 permalink: "/venues/the_old_white_horse.html"
 layout: venue_page
 ---

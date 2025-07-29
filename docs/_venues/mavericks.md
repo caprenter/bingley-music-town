@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Mavericks
 permalink: "/venues/mavericks.html"
 layout: venue_page
 ---

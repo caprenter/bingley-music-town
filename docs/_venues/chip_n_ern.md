@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Chip 'n' Ern
 permalink: "/venues/chip_n_ern.html"
 layout: venue_page
 ---

@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: St Saviour's Church
 permalink: "/venues/st_saviours_church.html"
 layout: venue_page
 ---

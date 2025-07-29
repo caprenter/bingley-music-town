@@ -19,6 +19,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-06-29'
 closed-date: 
+title: The Engine Room
 permalink: "/venues/the_engine_room.html"
 layout: venue_page
 ---

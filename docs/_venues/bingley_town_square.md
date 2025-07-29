@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Bingley Town Square
 permalink: "/venues/bingley_town_square.html"
 layout: venue_page
 ---

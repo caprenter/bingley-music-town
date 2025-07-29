@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-05-11'
 closed-date: 
+title: The Fisherman's Pub
 permalink: "/venues/the_fishermans_pub.html"
 layout: venue_page
 ---

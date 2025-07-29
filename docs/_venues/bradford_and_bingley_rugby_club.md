@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2023-03-16'
 closed-date: 
+title: Bradford And Bingley Rugby Club
 permalink: "/venues/bradford_and_bingley_rugby_club.html"
 layout: venue_page
 ---

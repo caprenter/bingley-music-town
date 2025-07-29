@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Wilsden Trinity Church
 permalink: "/venues/wilsden_trinity_church.html"
 layout: venue_page
 ---

@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2024-04-22'
 closed-date: 
+title: Martinez Bingley Wine Shop & Wine Bar
 permalink: "/venues/martinez_bingley_wine_shop__wine_bar.html"
 layout: venue_page
 ---

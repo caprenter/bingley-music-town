@@ -17,6 +17,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-23'
 closed-date: 
+title: Market Square Tavern
 permalink: "/venues/market_square_tavern.html"
 layout: venue_page
 ---

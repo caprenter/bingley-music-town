@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-06-29'
 closed-date: 
+title: All Saints Parish Church
 permalink: "/venues/all_saints_parish_church.html"
 layout: venue_page
 ---

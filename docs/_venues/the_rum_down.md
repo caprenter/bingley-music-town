@@ -17,6 +17,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-23'
 closed-date: 
+title: The Rum Down
 permalink: "/venues/the_rum_down.html"
 layout: venue_page
 ---

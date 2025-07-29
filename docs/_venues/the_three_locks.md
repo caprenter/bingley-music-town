@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-23'
 closed-date: 
+title: The Three Locks
 permalink: "/venues/the_three_locks.html"
 layout: venue_page
 ---

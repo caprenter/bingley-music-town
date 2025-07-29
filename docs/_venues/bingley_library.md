@@ -15,6 +15,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-06-29'
 closed-date: 
+title: Bingley Library
 permalink: "/venues/bingley_library.html"
 layout: venue_page
 ---

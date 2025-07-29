@@ -16,6 +16,7 @@ internal-link:
 internal-link-text: 
 LastUpdated: '2025-07-01'
 closed-date: 
+title: Ryshworth Club
 permalink: "/venues/ryshworth_club.html"
 layout: venue_page
 ---
