@@ -6,7 +6,7 @@
     <div class="card-body">
       <h4 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <p class="card-text m-0"><span class="post-date">{{ post.date | date_to_string }}</span></p>
-      <p class="card-text m-0">{{ post.excerpt | strip_html }}</p>
+      <p class="card-text m-0">{{ post.excerpt | markdownify | strip_html | markdownify }}</p>
     </div>
   </div>
 </div>
