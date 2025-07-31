@@ -7,10 +7,11 @@ cover: splashes/splash_sax_bandstand.jpg #No leading slash
 # image-credit: "Photo: Nigel Bain"
 navigation: true
 ---
-<div class="row g-0">
-<div class="col-md-8" markdown="1">
+
 Why is the bandstand so full of music this year? Local Town Councillor, John Goode, explains all.
 
+<div class="row g-0">
+<div class="col-md-8" markdown="1">
 Three years ago [Bradford Council](https://www.bradford.gov.uk/) funded four free Sunday concerts in the Myrtle Park bandstand.
 
 Last year (2024) [Bingley Town Council](https://www.bingleytowncouncil.gov.uk/) agreed funding to provide  a number of extra concerts, [Bradford District Parks](https://bradforddistrictparks.org/) managed to arrange nine concerts. ([Bradford Council](https://www.bradford.gov.uk/) paid for three and the other six by [Bingley Town Council](https://www.bingleytowncouncil.gov.uk/)).
