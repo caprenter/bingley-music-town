@@ -9,7 +9,7 @@ navigation: true
 #excerpt_separator: <!--more-->
 ---
 
-If you head down to [Bingley Library](https://www.bradford.gov.uk/libraries/find-your-local-library/bingley-library/) on a Wednesday between about 11am and 3pm you should come across  Bingley Library Acoustic Session Time (BLAST). As long as it's not the third Wednesday of the month...
+If you head down to [Bingley Library](https://www.bradford.gov.uk/libraries/find-your-local-library/bingley-library/) on a Wednesday between about 11am and 3pm you should come across  Bingley Library Acoustic Session Time (BLAST). As long as it's not the third Wednesday of the month... 
 
 This is a group of people that come to sing and play together every week, and the library is more than happy to provide a space for them to do that.
 
