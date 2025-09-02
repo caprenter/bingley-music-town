@@ -2,12 +2,12 @@
 <div markdown="1">
 
 <div class="container featured-block">
-    <div style="border: 5px solid #f4accd;" class="bingley-rocks text-center p-4 mb-4">
+    <!-- <div style="border: 5px solid #f4accd;" class="bingley-rocks text-center p-4 mb-4">
     <h2>Bingley Rocks</h2>
     <h3>Friday 29th - Sunday 31st August 2025</h3>
     <p>Three days of Music and Fun at the Bradford And Bingley Sports Club</p>
     <a href="https://www.beescamping.co.uk/" target="_blank" rel="noopener noreferrer">Check the website for info and tickets<i class="fa fa-external-link" aria-hidden="true"></i></a>
-    </div>
+    </div> -->
     <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
         <!-- <div class="col">
             <div class="card border-0 border-bottom h-100">
