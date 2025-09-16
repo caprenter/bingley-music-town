@@ -8,7 +8,7 @@ cover: splashes/splash_this-is-bingley.jpg #No leading slash
 navigation: true
 ---
 
-[This is Bingley<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.youtube.com/watch?v=-x_-RAlYt_w) was launched on International Make Music Day (June 21st) at [Bingley Arts Centre](% link _venues/bingley_arts_centre.md %) where over 100 people from local schools, families and the wider community came together to celebrate the town, music making, and to hear the world premier of the song and video.
+[This is Bingley<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.youtube.com/watch?v=-x_-RAlYt_w) was launched on International Make Music Day (June 21st) at [Bingley Arts Centre]({% link _venues/bingley_arts_centre.md %}) where over 100 people from local schools, families and the wider community came together to celebrate the town, music making, and to hear the world premier of the song and video.
 
 Local rapper Wilko Wilkes worked with pupils from Beckfoot Priestthorpe Primary School, Lady Lane Park School, Eldwick Primary School, St Joseph's Catholic Primary School, Crossflatts Primary School, and Myrtle Park Primary School, to create a song that celebrates the local area. 
 

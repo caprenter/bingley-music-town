@@ -70,7 +70,7 @@ The Wholehearted, a three piece indie-folk band from West Yorkshire, UK played l
 
 ## Rum Doodle
 
-**1:15pm**<br>[Rum Doodle]((https://www.facebook.com/rumdoodle1000)) are a folk roots acoustic duo from Leeds playing their own original songs with influences as broad as Christy Moore & The Dubliners to Bob Dylan & Neil Young. A lot of the material draws its inspiration from these Islands we live in, be it about our wonderful heritage and different languages, to growing up besides the Leeds & Liverpool Canal. You may have seen them at Bingley First Monday Folk in the past.
+**1:15pm**<br>[Rum Doodle](https://www.facebook.com/rumdoodle1000) are a folk roots acoustic duo from Leeds playing their own original songs with influences as broad as Christy Moore & The Dubliners to Bob Dylan & Neil Young. A lot of the material draws its inspiration from these Islands we live in, be it about our wonderful heritage and different languages, to growing up besides the Leeds & Liverpool Canal. You may have seen them at Bingley First Monday Folk in the past.
 
 ## Izak Wilkinson
 

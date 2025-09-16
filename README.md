@@ -288,6 +288,14 @@ We need to download the instruments sheet as a csv to update the website.
 We could make this a public sheet and automate it.
 Images are saved and named and then the filename is added to the spreadsheet
 
+## Bingley Calendar
+This is taken from a google doc. it used to embedded an iframe but now it is pulled from it's source when `fetch_events_data.sh` is run. 
+
+It's processed through xmllint to grab just the body of the html.
+
+### To Update the Calendar
+It should be updated whenever we update the events data and `fetch_events_data.sh` is run (and the changes deployed)
+
 # Testing
 
 If you have set up your development environment with Docker then you can run the tests against your local site or the live site using Behat.

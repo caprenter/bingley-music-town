@@ -17,7 +17,7 @@ All are welcome, come along and help us get through the usual business and hatch
 
 [Let us know]({% link contact.md %}) if you're planning on coming down.
 
-[Notes from our meetings](https://drive.google.com/drive/u/0/folders/1OFAW25umzovP2qbcFDrZuMMLmiOe6CIM) are available to members via Google Drive (you may need to request access. Also check our [Privacy Policy](({{ site_url }}/privacy#your-privacy-and-google-documents)))
+[Notes from our meetings](https://drive.google.com/drive/u/0/folders/1OFAW25umzovP2qbcFDrZuMMLmiOe6CIM) are available to members via Google Drive (you may need to request access. Also check our [Privacy Policy]({{ site_url }})/privacy#your-privacy-and-google-documents)))
 
 ## Other Meetings
 

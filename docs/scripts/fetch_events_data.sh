@@ -12,6 +12,10 @@ wget --no-check-certificate --output-document=../_data/artists.csv "https://docs
 wget --no-check-certificate --output-document=../_data/noticeboards.csv "https://docs.google.com/spreadsheets/d/1gFoIK0H3zuTZ1uGm4yngbIMqyPRhcwRW12xzx3-KZf4/export?format=csv&gid=506723206"
 # Bandstand 2025
 wget --no-check-certificate --output-document=../_data/bandstand.csv "https://docs.google.com/spreadsheets/d/1P7JN00PAo3C1JTqqKfZimwC8tkMKo7cq3lY7Hv5p1VM/export?format=csv&gid=169288642"
+# Bingley Calendar
+wget --no-check-certificate --output-document=../_includes/bingley_calendar_download.html "https://docs.google.com/document/d/1wbSA12yo76mlj7aH6g-cFgJK3YHzyMpawmHGG3UOqtc/export?format=html"
+## Process Calendar
+xmllint --format --html --xpath '/html/body/*' ../_includes/bingley_calendar_download.html >../_includes/bingley_calendar.html 
 
 # Remove the column headers of the BAC sheet
 sed -i '1d' "../_data/BACevents.csv"
