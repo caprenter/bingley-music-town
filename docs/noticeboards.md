@@ -33,4 +33,4 @@ If you know of any other noticeboards in the district or have any corrections pl
 </table>
 </div>
 
-{% include about-this-page.md %}
+{% include about-this-page.md url="https://docs.google.com/spreadsheets/d/1gFoIK0H3zuTZ1uGm4yngbIMqyPRhcwRW12xzx3-KZf4/edit?gid=506723206#gid=506723206" %}
