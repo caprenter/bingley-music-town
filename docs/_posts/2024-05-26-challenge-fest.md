@@ -34,7 +34,7 @@ We're grateful for the offers of help and support that we've had, and to the [Br
 
 # Volunteer
 
-We had about a dozen people volunteering with us on the day. If you'd like to help us organise and run similar events in the future, [please get in touch](({% link contact.md %})).
+We had about a dozen people volunteering with us on the day. If you'd like to help us organise and run similar events in the future, [please get in touch]({% link contact.md %}).
 
 # Sponsors
 

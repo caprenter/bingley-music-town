@@ -46,7 +46,7 @@ We hope you have enjoyed our exhibition which is only possible because of the ki
 
 In particular we thank
 * [Bingley Arts Centre<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleyartscentre.co.uk/){:target="_blank" rel="noopener noreferrer"} for hosting our prints, 
-* [Bradford Council<i class="fa fa-external-link" aria-hidden="true"></i>](){:target="_blank" rel="noopener noreferrer"} for financial support from their small arts grant scheme 
+* [Bradford Council<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bradford.gov.uk/){:target="_blank" rel="noopener noreferrer"} for financial support from their small arts grant scheme 
 * Bingley Music Town for facilitation and continual support. 
 
 Thank you especially to all the creative people, community groups and venues which are helping Bingley make music: there are too many to acknowledge here. 
@@ -57,6 +57,6 @@ Spencer, Marcus Rattray, Paul Vaughan, Mick Watson and Jim Weller.
 
 If you are interested in photography, you can [find out more about Bingley Camera Club on their website<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleycameraclub.org.uk/){:target="_blank" rel="noopener noreferrer"}
 
-![Bradford Council Logo](assets/images/bradford.jpg)
+![Bradford Council Logo]({{site.baseurl}}/assets/images/bradford.jpg)
 
 
