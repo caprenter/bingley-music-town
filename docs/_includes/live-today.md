@@ -84,7 +84,8 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 {% assign organisation = site.organisations 
     | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
     | first %}
-### Church Bells
+### Church 
+<h5 class="p-0 m-0 display-8 ">TODAY</h5>
 9:45am - 10:30am - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for the Sunday service.
 {% endif %}
 
@@ -93,6 +94,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
     | where_exp:"organisation", "organisation.name == 'Bingley Tower Bell Ringers'"
     | first %}
 ### Church Bells
+<h5 class="p-0 m-0 display-8 ">TODAY</h5>
 7:30pm - All Saints Church Bells will be rung by [{{ organisation.name }}]({{ organisation.url }}) for practice.
 {% endif %}
 {% endif %}<!-- End Only print this once section -->
