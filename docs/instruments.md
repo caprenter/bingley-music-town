@@ -36,8 +36,8 @@ We've also go an [effects library]({% link effects-library.md %}) where you can 
 Show tables of instruments available and already gone
 {% endcomment %}
 
-{% assign instruments = site.data.instruments %}
-{% assign instruments_onloan = site.data.instruments_onloan %}
+{% assign instruments = site.data.instruments | sort: 'Item' %}
+{% assign instruments_onloan = site.data.instruments_onloan | sort: 'Item' %}
 
 {% assign gone = "" | split: ',' %}
 {% assign available = "" | split: ',' %}
