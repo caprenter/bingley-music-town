@@ -50,6 +50,7 @@ Support: {% continue %}{% endif %}
 {% if artist.Facebook %}* <i class="fa-brands fa-facebook"></i> [Facebook]({{ artist.Facebook }}){% endif %}
 {% if artist.Twitter %}* <i class="fa-brands fa-twitter"></i> [Twitter]({{ artist.Twitter }}){% endif %}
 {% if artist.Instagram %}* <i class="fa-brands fa-instagram"></i> [Instagram]({{ artist.Instagram }}){% endif %}
+{% if artist.Bandcamp %}* <i class="fa-brands fa-bandcamp"></i> [Bandcamp]({{ artist.Bandcamp }}){% endif %}
 </div>
 {% endfor %}
 
