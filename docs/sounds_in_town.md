@@ -28,7 +28,8 @@ Tell us:
 
 ## Our Next Event
 
-Plans are under way for an event in September/October 2025 in Cullingworth. Watch this space.
+[Sounds In Town (4)](https://www.facebook.com/events/813946434330472) takes place on October 22nd 2025 in Eldwick.
+
 
 ## Previous Events
 

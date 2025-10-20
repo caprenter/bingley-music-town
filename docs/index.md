@@ -11,8 +11,8 @@ current: home
 # in _includes/head.html to make use of the data below using e.g. film.main-image
 # Defaults to use if no 'next film'
 # cover: splashes/BMTlogoSplash.jpg
-# cover: splashes/QoH.jpg
-cover: splashes/splash_cornell.jpg
+cover: splashes/QoH.jpg
+#cover: splashes/splash_cornell.jpg
 #  - splashes/QoH.jpg
 #  - splashes/BMTlogoSplash.jpg
 ---

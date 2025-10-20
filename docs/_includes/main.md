@@ -28,22 +28,6 @@
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <a href="{% link _posts/2025-05-28-bandstand-2025.md %}"><img src="{{ site.baseurl }}/assets/images/myrtle_park.jpg" class="img-fluid rounded-start" alt="The Bandstand in Myrtle Park"></a>
-                    </div>
-                    <div class="col-md-6 offset-md-1">
-                        <div class="card-body">
-                            <h5 class="card-title"><a href="{% link _posts/2025-05-28-bandstand-2025.md %}">Bandstand Gigs 2025</a></h5>
-                            <p class="card-text" markdown="1">Live music throughout the summer on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}).</p>
-                            <p class="card-text" markdown="1">More about <a href="{% link _posts/2025-05-28-bandstand-2025.md %}">Bandstand Gigs 2025</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card border-0 border-bottom h-100">
-                <div class="row g-0">
-                    <div class="col-md-4">
                         <a href="{% link _posts/2025-03-03-bingley-2025.md %}"><svg viewBox="0 0 64 63" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M27.354 5.15894L24.779 7.73894L7.73796 24.7789L5.15796 27.3589L7.73796 29.9389L32.446 54.6429L35.023 57.2199L37.603 54.6459L38.462 53.7889C38.462 53.7889 55.587 36.7079 55.743 36.5499C58.5646 33.7386 60.2117 29.9597 60.3507 25.979C60.4896 21.9983 59.1098 18.1138 56.491 15.1126C53.8723 12.1114 50.2104 10.2182 46.2476 9.81663C42.2848 9.41505 38.3176 10.5352 35.15 12.9499L29.934 7.73894L27.354 5.15894Z" fill="#45D108"/>
                         <path d="M27.354 5.159L29.934 7.738L35.15 12.954C38.3198 10.5608 42.2788 9.45789 46.2293 9.86751C50.1799 10.2771 53.8284 12.1688 56.4397 15.1615C59.0511 18.1541 60.4311 22.0252 60.3018 25.9949C60.1725 29.9645 58.5435 33.7376 55.743 36.554C55.587 36.71 38.463 53.793 38.463 53.793L37.603 54.65L35.023 57.224L32.446 54.647L7.738 29.934L5.158 27.355L7.738 24.775L24.775 7.738L27.354 5.159ZM27.354 0L24.774 2.58L22.194 5.16L5.158 22.2L2.578 24.78L0 27.355L2.579 29.934L5.159 32.514L29.869 57.224L32.443 59.8L35.02 62.377L37.6 59.8L40.18 57.226L41.039 56.368C41.105 56.308 41.17 56.246 41.239 56.181L41.783 55.638L43.717 53.7L49.617 47.812L58.317 39.131C61.4664 35.9731 63.4282 31.8241 63.8703 27.3861C64.3124 22.9481 63.2076 18.4936 60.743 14.7765C58.2784 11.0593 54.6053 8.30781 50.3452 6.9875C46.0852 5.66719 41.4998 5.85919 37.365 7.531C36.7843 7.76633 36.2177 8.029 35.665 8.319L32.513 5.159L29.933 2.579L27.354 0Z" fill="#E0B942"/>
@@ -55,6 +39,22 @@
                             <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 2025</a></h5>
                             <p class="card-text" markdown="1">We're helping Bingley play it's part in the City Of Culture.</p>
                             <p class="card-text" markdown="1">More about <a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 2025</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-0 border-bottom h-100">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <a href="{% link _posts/2025-10-20-bandstand-2026.md %}"><img src="{{ site.baseurl }}/assets/images/bandstand-summer-2025_350.jpg" class="img-fluid rounded-start" alt="The Bandstand in Myrtle Park"></a>
+                    </div>
+                    <div class="col-md-6 offset-md-1">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="{% link _posts/2025-10-20-bandstand-2026.md %}">Bandstand Gigs 2026</a></h5>
+                            <p class="card-text" markdown="1">After a great summer of live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}) we're getting ready for 2026.</p>
+                            <p class="card-text" markdown="1">More about <a href="{% link _posts/2025-10-20-bandstand-2026.md %}">Bandstand Gigs 2026</a></p>
                         </div>
                     </div>
                 </div>
