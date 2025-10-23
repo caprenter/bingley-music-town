@@ -28,14 +28,31 @@ Tell us:
 
 ## Our Next Event
 
-[Sounds In Town (4)](https://www.facebook.com/events/813946434330472) takes place on October 22nd 2025 in Eldwick.
+We're planning things for 2026. Check back here and on Facebook for details.
 
 
 ## Previous Events
 
+### October 22nd 2025, The Eldwick Church, Eldwick
+
+[<i class="fa-brands fa-square-facebook"></i> Facebook Event page for Sounds In Town 4 <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/events/813946434330472){:target="_blank" rel="noopener noreferrer"}
+
+Sounds In Town 4 saw a packed audience enjoying music from:
+
+* Skinner & T’Witch - a folk Folk-Flamenco Duo
+* Cullingworth & Bingley Ukulele Groups
+* Lexi on piano
+* Chris Mullen - Singer -songwriter
+* Team Sax Saxophone Group
+* Matt Broadbent & Ella J - Guitar-vocals
+* BABeS - The Bradford Accordion Band Singers - a vocal harmony group
+* Windstruments Clarinet Choir
+
+It was another great evening of music, and entertainment, in a wonderful local venue.
+
 ### March 5th 2025, Wilsden Trinity Church, Wilsden 
 
-[<i class="fa-brands fa-square-facebook"></i> Facebook Event page for Sounds In Town<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/events/775148254653021){:target="_blank" rel="noopener noreferrer"}
+[<i class="fa-brands fa-square-facebook"></i> Facebook Event page for Sounds In Town 3<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/events/775148254653021){:target="_blank" rel="noopener noreferrer"}
 
 The third Sounds In Town event was at [Wilsden Trinity Church]({% link _venues/wilsden_trinity_church.md %}) on 5th March 2025, and was another wonderful team effort by everyone involved.
 
