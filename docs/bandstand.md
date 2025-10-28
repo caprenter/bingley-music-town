@@ -1,0 +1,46 @@
+---
+title: Bandstand
+sub-title: Live Music in Myrtle Park
+layout: page_v2
+cover: splashes/bandstand-summer-2025.jpg #no leading slash
+# image-credit: Becs Leighton Music
+# image-credit: "Photo: Bingley Camera Club"
+navigation: true
+---
+
+One of the highlights of the summer of 2025 was the live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}), and plans are underway for 2026. 
+
+<div class="row g-0">
+<div class="col-md-8" markdown="1">
+This was the first year in very long time that we've had so much use out of the Bandstand.
+
+There were 30 concerts between May and September in 2025.
+
+The concerts are brought to you by the [Friends of Myrtle Park<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/groups/friendsofmyrtlepark), [Bingley Town Council<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleytowncouncil.gov.uk/), [Bradford Parks<i class="fa fa-external-link" aria-hidden="true"></i>](https://bradforddistrictparks.org/), and ourselves. 
+
+## Music in 2026
+We've got the funding in place to have music every Saturday and Sunday in the Summer of 2026.
+
+If you'd like to perform, then [get in touch]({% link contact.md %})
+
+We're also interested in your feedback from the 2025 events, so again please [get in touch]({% link contact.md %})
+
+More information as we get it.
+
+**Check the [Myrtle Park]({% link _venues/myrtle_park.md %}) page** for the latest listings.
+</div>
+
+<!-- <div class="col-md-3 offset-md-1">
+<div markdown="1">
+<p class="membership">
+    <button type="button" class="btn btn-light p-4">
+        <a href="{{site.url}}/venues/myrtle_park" target="_blank" rel="noopener noreferrer">Bandstand Gig Guide<i class="fa fa-external-link" aria-hidden="true"></i></a>
+    </button>
+</p>
+</div> 
+</div> -->
+
+</div>
+
+{% include photo_gallery.md album="Bandstand2025" %}
+
