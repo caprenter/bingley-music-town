@@ -9,7 +9,6 @@
 {% assign artists = site.data.artists %}
 {% assign venues = site.data.venues %}
 
-
 ## Live Music This Week
 Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 
@@ -17,7 +16,7 @@ Check out our [Upcoming Events page]({% link live.md %}) to see all listings.
 {% for event in events %}
 {% assign eventYear = event.Date | date: "%Y" %}
 {% assign eventDay = event.Date | date: "%j" | plus: 0 %}
-{%- if currentYear == eventYear and eventDay < currentDay_plus_seven_days and eventDay >= tomorrow  -%}
+{%- if currentYear == eventYear and eventDay < currentDay_plus_seven_days and eventDay >= today  -%}
 {% assign week-date = event.Date %}
 {%- endif -%}
 {% assign mod2 = forloop.index | modulo: 2 %}

@@ -235,6 +235,10 @@ These are included in the `index.md` file from `_include/gallery.html` and shoul
 These are generated from public google spreadsheets:
 https://docs.google.com/spreadsheets/d/1-Eugy7Wfl0O2dSach2D2dOoE8JEW2tI3sqChuCvLUYg/edit
 
+We have a script to fetch the data. NB We concatenate some files together.
+When the events come from Google the csv files have Windows line endings, so we use `dostounix` to convert them.
+You may need to install `dostounix` for the script to work
+
 Fetch the data with the script:
 
     #Fetch the data from those sheets.

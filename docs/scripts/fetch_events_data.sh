@@ -21,8 +21,11 @@ xmllint --format --html --xpath '/html/body/*' ../_includes/bingley_calendar_dow
 sed -i '1d' "../_data/BACevents.csv"
 sed -i '1d' "../_data/bandstand.csv"
 # Append the BAC events to all events
+echo "" >> "../_data/events.csv"
 cat "../_data/BACevents.csv" >> "../_data/events.csv"
+echo "" >> "../_data/events.csv"
 cat "../_data/bandstand.csv" >> "../_data/events.csv"
+dos2unix ../_data/events.csv
 
 echo $1
 echo $2
