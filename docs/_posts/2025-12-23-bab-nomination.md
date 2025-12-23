@@ -7,6 +7,7 @@ cover: splashes/bab-award.jpg #No leading slash
 # image-title: "Traditional Music at the Chip 'n' Ern" 
 # image-credit: "Photo: Marcus Rattray (Bingley Camera Club)"
 navigation: true
+description: The Bradford Accordion Band has been nominated as a shortlistee for the 2026 Royal Philharmonic Society's Inspiration Award
 ---
 
 The Bradford Accordion Band has been nominated as a shortlistee for the [2026 Royal Philharmonic Society's Inspiration Award](https://royalphilharmonicsociety.org.uk/awards/rps_music_awards/inspiration-award).
