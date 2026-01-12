@@ -13,7 +13,8 @@ wget --no-check-certificate --output-document=../_data/noticeboards.csv "https:/
 # Bandstand 2025
 wget --no-check-certificate --output-document=../_data/bandstand.csv "https://docs.google.com/spreadsheets/d/1P7JN00PAo3C1JTqqKfZimwC8tkMKo7cq3lY7Hv5p1VM/export?format=csv&gid=169288642"
 # Bingley Calendar
-wget --no-check-certificate --output-document=../_includes/bingley_calendar_download.html "https://docs.google.com/document/d/1wbSA12yo76mlj7aH6g-cFgJK3YHzyMpawmHGG3UOqtc/export?format=html"
+wget --no-check-certificate --output-document=../_includes/bingley_calendar_download.html "https://docs.google.com/document/d/10y7GFBGEEFQcPnnwDDe2kbEPrcae6c3FEOAmMfNrIks/export?format=html"
+
 ## Process Calendar
 xmllint --format --html --xpath '/html/body/*' ../_includes/bingley_calendar_download.html >../_includes/bingley_calendar.html 
 

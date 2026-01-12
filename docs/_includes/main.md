@@ -36,9 +36,9 @@
                     </div>
                     <div class="col-md-6 offset-md-1">
                         <div class="card-body">
-                            <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 2025</a></h5>
-                            <p class="card-text" markdown="1">We're helping Bingley play it's part in the City Of Culture.</p>
-                            <p class="card-text" markdown="1">More about <a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 2025</a></p>
+                            <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 2026</a></h5>
+                            <p class="card-text" markdown="1">Bingley continues the legacy of the City Of Culture.</p>
+                            <p class="card-text" markdown="1">More about <a href="{% link bingley2026.md %}">Bingley 2026</a></p>
                         </div>
                     </div>
                 </div>
