@@ -7,10 +7,10 @@ short-description: "Would you like to get involved in putting on Live Music Even
   \  \n"
 description: "Would you like to get involved in putting on Live Music Events?   \n\nPlenty
   of people that are putting on Live Music Events locally are looking for people to
-  help out.\n\nOne such event is [Rumble Up The Ryshworth](https://rumbleupbingley.co.uk/)
-  which is run by Bingley Music Town volunteers and there are opportunities to learn
-  sound engineering, being a roadie, running the door and welcoming people, booking
-  bands, promotion, publicity, websites, and so on. \n"
+  help out.\n\n[Rumble Events Bingley](https://rumbleupbingley.co.uk/) is run by Bingley
+  Music Town volunteers and there are opportunities to learn sound engineering, being
+  a roadie, running the door and welcoming people, booking bands, promotion, publicity,
+  websites, and so on. \n"
 permalink: "/help/live-music-events.html"
 layout: help_page
 ---

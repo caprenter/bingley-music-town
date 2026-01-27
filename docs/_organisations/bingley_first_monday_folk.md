@@ -6,7 +6,7 @@ image: BingleyFirstMondayFolk.jpg
 type: event
 member: false
 meets:
-- meets-at: Ryshworth Club
+- meets-at: Bingley Arts Centre
   meets-when: 7pm - 10:30pm
   frequency: regular-monday-first
 short-description: 'First Monday Folk is a monthly gig night, with opportunities for
@@ -14,7 +14,7 @@ short-description: 'First Monday Folk is a monthly gig night, with opportunities
 
   '
 description: |
-  Curated by the amazing Liz Narey, Bingley First Monday Folk brings the best singer songwriters to the Ryshworth Club at Crossflatts.
+  Curated by the amazing Liz Narey, Bingley First Monday Folk brings the best singer songwriters to Bingley Arts Centre.
 
   There are opportunities for people to play a tune two before the main act performs.
 

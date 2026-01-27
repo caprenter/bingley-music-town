@@ -569,12 +569,12 @@
   type: event
   member: false
   meets:
-  - { meets-at: Ryshworth Club, meets-when: 7pm - 10:30pm, frequency: regular-monday-first }
+  - { meets-at: Bingley Arts Centre, meets-when: 7pm - 10:30pm, frequency: regular-monday-first }
   short-description: |
     First Monday Folk is a monthly gig night, with opportunities for people to play a tune or two before the main act.
 
   description: |
-    Curated by the amazing Liz Narey, Bingley First Monday Folk brings the best singer songwriters to the Ryshworth Club at Crossflatts.
+    Curated by the amazing Liz Narey, Bingley First Monday Folk brings the best singer songwriters to Bingley Arts Centre.
 
     There are opportunities for people to play a tune two before the main act performs.
 
@@ -695,10 +695,10 @@
   description: |
     Musicians of all abilities welcome. 
 
-- name: Rumble Up The Ryshworth
-  title: Rumble Up The Ryshworth
+- name: Rumble Events Bingley
+  title: Rumble Events Bingley
   website: https://rumbleupbingley.co.uk/
-  facebook: https://www.facebook.com/rumbleuptheryshworth
+  facebook: https://www.facebook.com/rumbleeventsbingley
   #twitter: 
   # email: 
   # logo: 
@@ -708,7 +708,7 @@
   type: music-group
   member: false
   meets:
-    - { meets-at: Ryshworth Club, meets-when: 5pm - 11:30pm, frequency: regular-friday-third }
+    - { meets-at: Bingley Arts Centre, meets-when: 5pm - 11:30pm, frequency: regular-friday-third }
   short-description: |
     A regular gig night run by volunteers. Opportunities for roadies, sound engineers, event planners, etc. 
 
@@ -716,3 +716,5 @@
     A regular gig night run by volunteers that provides opportunities for anyone that wants to learn about putting on live music events.
     
     If you want to help shift gear and set up the stage, sound and lights, or learn to sound engineer, or run the door and merch stalls, or simply welcome people to the events, then this is a safe place for to have a go. 
+
+    This used to be Rumble Up The Ryshworth, but has changed it's name since moving to a new venue. 
