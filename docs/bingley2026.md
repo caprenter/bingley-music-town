@@ -11,7 +11,7 @@ We're working together with a number of other organisations to promote cultural 
 
 Here's a loose timetable of things we think might be taking place in 2026 in our district.
 
-This is taken directly from the [Bingley 2026 Calendar](https://tinyurl.com/2026-bingley)
+This is taken directly from the [Bingley 2026 Calendar](https://tinyurl.com/bingley2026calendar)
 
 {% include bingley_calendar.html %}
 
