@@ -26,7 +26,12 @@ xmllint --format --html --xpath '/html/body/*' ../_includes/bingley_calendar_dow
 sed -i '1d' "../_data/BACevents.csv"
 sed -i '1d' "../_data/bandstand.csv"
 sed -i '1d' "../_data/chip.csv"
+#Clean up Chip N ern data
+# Remove listings that are not booked yet
 sed -i '/^Available/d' "../_data/chip.csv"
+# Remove the Ukes regular events
+sed -i '/^Bingley Ukulele Group/d' "../_data/chip.csv"
+# Remove blank lines
 sed -i '/^,Chip/d' "../_data/chip.csv"
 
 
