@@ -61,6 +61,13 @@
             </div>
         </div>
     </div><!-- row -->
+    <div class="row row-cols-1 p-4 sit">
+        <div class="col text-center text-white ">
+        <h2 class="text-white fw-bold">Sounds In Town</h2>
+            <p class="fw-bold">Cottingley Town Hall<br>March 25th doors 7pm</p>
+            <a href="{% link sounds_in_town.md %}" class="btn btn-primary" role="button">Find Out More</a>
+        </div>
+    </div>
 </div><!-- container -->
 
 <!--## Sounds In Town - 14th May 2024

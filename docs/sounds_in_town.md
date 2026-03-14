@@ -28,8 +28,17 @@ Tell us:
 
 ## Our Next Event
 
-We're planning things for 2026. Check back here and on Facebook for details.
+Our fifth Sounds In Town event will be on Wednesday 25th March 2026 in collaboration with [Cottingley Town Hall Church]({% link _venues/cottingley_town_hall_church.md %}). The volunteers there are very keen on their music and host regular events throughout the year. We're delighted they have partnered up with us to showcase local musicians in their wonderful building.
 
+There will be a host of acoustic musical performances featuring: piano, violin, ukulele, accordion, guitar, solo vocals and the Cottingley Town Hall Church Choir!
+
+Entry is FREE (donations welcome)
+
+There will be lots of home-made cake on offer during the interval.
+
+**Doors open at 7pm. Performances start at 7.30pm prompt.** 
+
+Cottingley Town Hall, Main Street, Cottingley, Bingley, BD16 1SR
 
 ## Previous Events
 
