@@ -17,3 +17,4 @@
 {% endif %}
 
 {% endfor %} 
+{% assign meets-at-url = nil %}

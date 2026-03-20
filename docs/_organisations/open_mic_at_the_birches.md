@@ -5,7 +5,7 @@ image: open-mic.jpg
 type: music-group
 member: false
 meets:
-- meets-at: The Birches
+- meets-at: The Birches Eldwick
   meets-when: 6:30pm
   frequency: regular-sunday-last
 short-description: 'Musicians of all abilities welcome.

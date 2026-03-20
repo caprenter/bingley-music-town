@@ -8,10 +8,10 @@ image: BingleyUkes.jpg
 type: music-group
 member: true
 meets:
-- meets-at: The Peacock Bar Bingley
+- meets-at: Chip 'n' Ern
   meets-when: 7pm - 9pm
   frequency: regular-thursday-first
-- meets-at: The Peacock Bar Bingley
+- meets-at: Chip 'n' Ern
   meets-when: 7pm - 9pm
   frequency: regular-thursday-third
 short-description: 'A fun group of like minded people who enjoy playing ukulele.

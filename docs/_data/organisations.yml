@@ -363,8 +363,8 @@
   type: music-group
   member: true
   meets:
-    - { meets-at: The Peacock Bar Bingley, meets-when: 7pm - 9pm, frequency: regular-thursday-first }
-    - { meets-at: The Peacock Bar Bingley, meets-when: 7pm - 9pm, frequency: regular-thursday-third }
+    - { meets-at: Chip 'n' Ern, meets-when: 7pm - 9pm, frequency: regular-thursday-first }
+    - { meets-at: Chip 'n' Ern, meets-when: 7pm - 9pm, frequency: regular-thursday-third }
   short-description: |
     A fun group of like minded people who enjoy playing ukulele.
   description: |
@@ -668,7 +668,7 @@
   type: music-group
   member: false
   meets:
-  - { meets-at: The Birches, meets-when: 6:30pm, frequency: regular-sunday-last }
+  - { meets-at: The Birches Eldwick, meets-when: 6:30pm, frequency: regular-sunday-last }
   short-description: |
     Musicians of all abilities welcome.
 
@@ -701,12 +701,12 @@
   facebook: https://www.facebook.com/rumbleeventsbingley
   #twitter: 
   # email: 
-  # logo: 
+  logo: RumbleEventsBingley.png
   image: rumble.jpg
   #internal-link:
   #internal-link-text: 
   type: music-group
-  member: false
+  member: true
   meets:
     - { meets-at: Bingley Arts Centre, meets-when: 5pm - 11:30pm, frequency: regular-friday-third }
   short-description: |

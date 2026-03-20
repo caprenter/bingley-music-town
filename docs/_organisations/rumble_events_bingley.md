@@ -3,9 +3,10 @@ name: Rumble Events Bingley
 title: Rumble Events Bingley
 website: https://rumbleupbingley.co.uk/
 facebook: https://www.facebook.com/rumbleeventsbingley
+logo: RumbleEventsBingley.png
 image: rumble.jpg
 type: music-group
-member: false
+member: true
 meets:
 - meets-at: Bingley Arts Centre
   meets-when: 5pm - 11:30pm
