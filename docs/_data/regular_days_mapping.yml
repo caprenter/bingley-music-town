@@ -10,6 +10,7 @@ frequency:
   regular-sunday-third: Third Sunday of the month
   regular-thursday-first: First Thursday of the month
   regular-thursday: Thursdays
+  regular-thursday-fortnightly: Fortnightly on a Thursday
   regular-thursday-second: Second Thursday of the month
   regular-thursday-third: Third Thursday of the month
   regular-tuesday: Tuesdays

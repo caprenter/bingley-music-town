@@ -718,3 +718,29 @@
     If you want to help shift gear and set up the stage, sound and lights, or learn to sound engineer, or run the door and merch stalls, or simply welcome people to the events, then this is a safe place for to have a go. 
 
     This used to be Rumble Up The Ryshworth, but has changed it's name since moving to a new venue. 
+
+- name: Scratch Band
+  title: Scratch Band
+  #website: https://rumbleupbingley.co.uk/
+  #facebook: https://www.facebook.com/rumbleeventsbingley
+  #twitter: 
+  email: simonpartridge123@gmail.com 
+  logo: RumbleEventsBingley.png
+  image: Scratch-Band.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: true
+  meets:
+    - { meets-at: Bingley Arts Centre, meets-when: 11am - 1:00pm, frequency: regular-thursday-fortnightly }
+  short-description: |
+    Singalong or Playalong with Classic Pop Tunes. All Welcome. No previous experience necessary. Bring your instruments.
+
+  description: |
+    Join the fortnightly Scratch Band to singalong or playalong with Classic Pop Tunes
+
+    All Welcome. 
+
+    No previous experience necessary. Bring your instruments or just your voice.
+
+    £6 per session. 
