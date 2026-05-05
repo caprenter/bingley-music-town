@@ -2,7 +2,6 @@
 name: Scratch Band
 title: Scratch Band
 email: simonpartridge123@gmail.com
-logo: RumbleEventsBingley.png
 image: Scratch-Band.jpg
 type: music-group
 member: true
