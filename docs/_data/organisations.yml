@@ -559,7 +559,7 @@
 - name: Bingley First Monday Folk
   title: Bingley First Monday Folk
   #website: 
-  facebook: https://www.facebook.com/people/Bingley-First-Monday-Folk-Page/
+  facebook: people/Bingley-First-Monday-Folk-Page/
   #twitter: 
   # email:
   # logo: 
@@ -612,7 +612,7 @@
 - name: Buskers
   title: Buskers
   #website: 
-  facebook: https://www.facebook.com/groups/824997727607702
+  facebook: groups/824997727607702
   #twitter: 
   # email:
   # logo: 
@@ -634,7 +634,7 @@
 - name: Vinyl Revival
   title: Vinyl Revival
   #website: 
-  facebook: https://www.facebook.com/people/3rd-Sunday-Vinyl-Revival/61566812518164
+  facebook: people/3rd-Sunday-Vinyl-Revival/61566812518164
   #twitter: 
   # email: 
   # logo: 
@@ -697,8 +697,8 @@
 
 - name: Rumble Events Bingley
   title: Rumble Events Bingley
-  website: https://rumbleupbingley.co.uk/
-  facebook: https://www.facebook.com/rumbleeventsbingley
+  website: https://rumbleevents.co.uk/
+  facebook: rumbleeventsbingley
   #twitter: 
   # email: 
   logo: RumbleEventsBingley.png
@@ -722,7 +722,7 @@
 - name: Scratch Band
   title: Scratch Band
   #website: https://rumbleupbingley.co.uk/
-  #facebook: https://www.facebook.com/rumbleeventsbingley
+  #facebook: rumbleeventsbingley
   #twitter: 
   email: simonpartridge123@gmail.com 
   # logo: RumbleEventsBingley.png

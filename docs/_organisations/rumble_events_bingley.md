@@ -1,8 +1,8 @@
 ---
 name: Rumble Events Bingley
 title: Rumble Events Bingley
-website: https://rumbleupbingley.co.uk/
-facebook: https://www.facebook.com/rumbleeventsbingley
+website: https://rumbleevents.co.uk/
+facebook: rumbleeventsbingley
 logo: RumbleEventsBingley.png
 image: rumble.jpg
 type: music-group
@@ -18,7 +18,7 @@ description: "A regular gig night run by volunteers that provides opportunities 
   help shift gear and set up the stage, sound and lights, or learn to sound engineer,
   or run the door and merch stalls, or simply welcome people to the events, then this
   is a safe place for to have a go. \n\nThis used to be Rumble Up The Ryshworth, but
-  has changed it's name since moving to a new venue. "
+  has changed it's name since moving to a new venue. \n"
 permalink: "/organisations/rumble_events_bingley.html"
 layout: org_page
 ---
