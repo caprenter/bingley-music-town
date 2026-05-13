@@ -102,13 +102,6 @@ class: 'page-template'
 
 <div class="event-item {% if mod2 == 0 %}even{% else %}odd{% endif %}" markdown="1">
 <div class="row">
-<!--{% if event.largeimageurl %}
-<div class="col-md-4 image" markdown="1">
-<img class="img-responsive" src="{{ event.largeimageurl }}"/>
-{% if event.Tickets %}[Get Tickets]({{ event.Tickets }}){:class="btn btn-primary"}{% endif %}
-</div>
-{% endif %}
-<div class="col-md-8" markdown="1">-->
 
 <!-- PERFORMERS -->
 <div markdown="1">
@@ -148,7 +141,7 @@ Support: {% continue %}{% endif %}
 {% endif %} <!-- not cancelled -->
 
 <!-- LINKS -->
-{% for performer in performers -%}
+{% for performer in performers %}
 {% assign artist = site.data.artists | where:"Name", performer | first %}
 <div class="performer-links" markdown="1">
 {%- if forloop.length > 1 -%}* {{artist.Name }}:{% endif %}
