@@ -19,11 +19,27 @@ Got an instrument you no longer need? Need an instrument?
 
 We've found ourselves finding good homes for instruments people no longer need, and we're happy to keep on doing so.
 
-This service is run voluntarily by Dave Johnson at [Bingley Guitar Studio]({% link _organisations/bingley_guitar_studio.md %}), First Floor 122-124 Main Street (above Ison Harrison Solicitors), Bingley, BD16 2HL.
+We take in instruments people no-longer need ourselves. This service is run voluntarily by Dave Johnson at [Bingley Guitar Studio]({% link _organisations/bingley_guitar_studio.md %}), First Floor 122-124 Main Street (above Ison Harrison Solicitors), Bingley, BD16 2HL.
+
+We've also started to work with our friends at [SoundCycle](https://www.facebook.com/SoundCycleSustainabilityinMusic) who take unwanted music equipment & instruments, refurbish and prepare them for donation to school music departments, groups for disadvantaged young people, young adults with special educational needs and not-for-profit music projects in the Bradford District.
+
 
 ## Donate an instrument
 
+### Donate to Bingley Music Town
 Fill in our [Donate an Instrument form](https://docs.google.com/forms/d/e/1FAIpQLSfpGeqaYlQz2LAsN3985pGQv32smi1tkOYU_kkgBsaX7lsrMg/viewform) , and we'll be in touch.
+
+### Donate to SoundCycle directly
+
+SoundCycle take unwanted music equipment & instruments, refurbish and prepare them for donation to school music departments, groups for disadvantaged young people, young adults with special educational needs and not-for-profit music projects in the Bradford District.
+
+Contact Bren Travis at [SoundCycle](https://www.facebook.com/SoundCycleSustainabilityinMusic)
+<br><i class="bi bi-phone"></i> Phone: +44 7769 922278
+<br><i class="bi bi-envelope"></i> Email: brentravis@hotmail.com
+
+[![Soundcycle]({{ site.baseurl }}/assets/images/SoundCycle.jpg)](https://www.facebook.com/SoundCycleSustainabilityinMusic)
+{: class="d-inline-block align-text-top img-thumbnail"}
+
 
 ## Request an instrument
 
