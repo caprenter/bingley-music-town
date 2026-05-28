@@ -31,6 +31,11 @@ Want to make your own music today ({{ weekday }})?<br>
 
 {% if weekday == "Tuesday" %}
 {% include regular-tuesday.md %}
+{% include is_fortnightly.md dateToday=on-this-day-as-date startDate=2026-05-26 %}
+{% if Fortnightly  %}
+**Every Fortnight on a Tuesday**<br>
+{% include regular-tuesday-fortnightly.md %}
+{% endif %}
 {% comment %}
 {% include nth-occurrence.md nth_occurrence=3 day_of_week=2 dateToday=on-this-day-as-date %}
 {% if TDTD %}

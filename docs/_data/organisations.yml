@@ -739,7 +739,7 @@
   #facebook: rumbleeventsbingley
   #twitter: 
   email: simonpartridge123@gmail.com 
-  # logo: RumbleEventsBingley.png
+  logo: BMT_logo_blue_Member.png
   image: Scratch-Band.jpg
   #internal-link:
   #internal-link-text: 
@@ -758,3 +758,37 @@
     No previous experience necessary. Bring your instruments or just your voice.
 
     £6 per session. 
+
+
+- name: BD'onk! Street band
+  title: BD'onk! Street band
+  #website: https://rumbleupbingley.co.uk/
+  #facebook: rumbleeventsbingley
+  #twitter: 
+  email: music@bdonk.uk 
+  logo: BDonk-logo.png
+  image: BDonk_may26.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: true
+  meets:
+    - { meets-at: Shipley Baptist Church, meets-when: 7-9pm, frequency: regular-tuesday-fortnightly }
+    - { meets-at: Shipley Baptist Church, meets-when: 2-4pm, frequency: regular-sunday-third }
+  short-description: |
+    The BD'onk! Street Band do jazz, blues, pop, protest and fun and are open to everyone, regardless of level/ability.
+
+  description: |
+    The BD'onk! Street Band do jazz, blues, pop, protest and fun and are open to everyone, regardless of level/ability.
+    
+    They grew out of the City of Culture HONK! Festival hosted in 2025 by the legendary Peace Artistes. 
+    
+    For more on the ethos of  the global street band movement see https://honkfest.org/about/
+
+    Open to everyone, regardless of level/ability, they currently consist of brass, woodwind, and percussion and especially welcome basses. 
+    
+    You're welcome to join them if you'd like to learn how to play by ear, improvise and dance whilst playing. We're all learning together and we like a laugh!
+
+    They are members of Bingley Music Town and have band members that live in the Bingley district. They are our closest Street Band, and as well as regularly playing in our district they are open to members from round these parts. 
+    
+    Find them on Facebook and email them on: music@bdonk.uk

@@ -2,6 +2,7 @@
 name: Scratch Band
 title: Scratch Band
 email: simonpartridge123@gmail.com
+logo: BMT_logo_blue_Member.png
 image: Scratch-Band.jpg
 type: music-group
 member: true
