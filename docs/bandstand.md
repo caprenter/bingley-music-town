@@ -25,7 +25,7 @@ The latest listings can be found on the [Myrtle Park]({% link _venues/myrtle_par
                         <div class="card-body">
                             <h5 class="card-title">Bandstand Concerts 2026</h5>
                             <p class="card-text" markdown="1">Download the full 2026 calendar of events on the bandstand, in Myrtle Park using the link below</p>
-                            <p class="card-text" markdown="1">Note: there be changes from the published programme and events are weather dependent.</p>>
+                            <p class="card-text" markdown="1">Note: there be changes from the published programme and events are weather dependent.</p>
                             <p class="card-text" markdown="1"><a href="{% link assets/downloads/W45943_Bandstand_Concerts_2026.pdf %}"><i class="fa-solid fa-file-pdf"></i>Bandstand Concerts 2026 (A4)</a><br>
                             </p>
                         </div>
