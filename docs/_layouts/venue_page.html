@@ -72,6 +72,28 @@ class: 'page-template'
 </div>
 
 
+{% if page.Name == "Myrtle Park"  %}
+
+
+<div class="container photo-essays">
+    <div class="card border-0 border-top border-bottom h-100">
+        <div class="row g-0">
+            <div class="col-md-4 py-4">
+               <a href="{% link assets/downloads/W45943_Bandstand_Concerts_2026.pdf %}"><img src="{{ site.baseurl }}/assets/images/W45943_Bandstand_Concerts_2026.jpg" class="img-fluid rounded-start border m-0 p-0" alt="Bandstand Concerts 2026"></a>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="card-body">
+                    <h5 class="card-title">Bandstand Concerts 2026</h5>
+                    <p class="card-text" markdown="1">Download the full 2026 calendar of events on the bandstand, in Myrtle Park using the link below</p>
+                    <p class="card-text" markdown="1">Note: there be changes from the published programme and events are weather dependent.</p>
+                    <p class="card-text" markdown="1"><a href="{% link assets/downloads/W45943_Bandstand_Concerts_2026.pdf %}"><i class="fa-solid fa-file-pdf"></i>Bandstand Concerts 2026 (A4)</a><br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- container -->
+{% endif %}
 
 {% capture EventsList %}
 
@@ -214,6 +236,7 @@ Support: {% continue %}{% endif %}
 {% if has-regular-events == nil %}
 
 {% endif %}
+
 
 <div class="missing-something bg-light p-4">
     <h2>Missed something?</h2>

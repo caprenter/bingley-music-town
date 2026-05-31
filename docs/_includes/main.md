@@ -36,7 +36,7 @@
                     </div>
                     <div class="col-md-6 offset-md-1">
                         <div class="card-body">
-                            <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 2026</a></h5>
+                            <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley 26 Weekend - 6th/7th June</a></h5>
                             <p class="card-text" markdown="1">Bingley continues the legacy of the City Of Culture.</p>
                             <p class="card-text" markdown="1">More about <a href="{% link bingley2026.md %}">Bingley 2026</a></p>
                         </div>
@@ -53,8 +53,8 @@
                     <div class="col-md-6 offset-md-1">
                         <div class="card-body">
                             <h5 class="card-title"><a href="{% link _posts/2025-10-20-bandstand-2026.md %}">Bandstand Gigs 2026</a></h5>
-                            <p class="card-text" markdown="1">After a great summer of live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}) we're getting ready for 2026.</p>
-                            <p class="card-text" markdown="1">More about <a href="{% link _posts/2025-10-20-bandstand-2026.md %}">Bandstand Gigs 2026</a></p>
+                            <p class="card-text" markdown="1">A great summer of live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}) has begun.</p>
+                            <p class="card-text" markdown="1">Download a programme and find out more about <a href="{% link bandstand.md %}">Bandstand Gigs 2026</a></p>
                         </div>
                     </div>
                 </div>

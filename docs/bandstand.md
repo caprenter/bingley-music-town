@@ -7,27 +7,45 @@ cover: splashes/bandstand-summer-2025.jpg #no leading slash
 # image-credit: "Photo: Bingley Camera Club"
 navigation: true
 ---
+## Music on the Bandstand in 2026
 
-One of the highlights of the summer of 2025 was the live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}), and plans are underway for 2026. 
+We've lined up another summer of great live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %})
 
-<div class="row g-0">
-<div class="col-md-8" markdown="1">
-This was the first year in very long time that we've had so much use out of the Bandstand.
+The latest listings can be found on the [Myrtle Park]({% link _venues/myrtle_park.md %}) page.
 
-There were 30 concerts between May and September in 2025.
+<div class="container photo-essays">
+    <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
+        <div class="col">
+            <div class="card border-0 border-top border-bottom h-100">
+                <div class="row g-0">
+                    <div class="col-md-4 py-4">
+                        <a href="{% link assets/downloads/W45943_Bandstand_Concerts_2026.pdf %}"><img src="{{ site.baseurl }}/assets/images/W45943_Bandstand_Concerts_2026.jpg" class="img-fluid rounded-start border m-0 p-0" alt="Bandstand Concerts 2026"></a>
+                    </div>
+                    <div class="col-md-6 offset-md-1">
+                        <div class="card-body">
+                            <h5 class="card-title">Bandstand Concerts 2026</h5>
+                            <p class="card-text" markdown="1">Download the full 2026 calendar of events on the bandstand, in Myrtle Park using the link below</p>
+                            <p class="card-text" markdown="1">Note: there be changes from the published programme and events are weather dependent.</p>>
+                            <p class="card-text" markdown="1"><a href="{% link assets/downloads/W45943_Bandstand_Concerts_2026.pdf %}"><i class="fa-solid fa-file-pdf"></i>Bandstand Concerts 2026 (A4)</a><br>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- row -->
+</div><!-- container -->
 
 The concerts are brought to you by the [Friends of Myrtle Park<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.facebook.com/groups/friendsofmyrtlepark), [Bingley Town Council<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.bingleytowncouncil.gov.uk/), [Bradford Parks<i class="fa fa-external-link" aria-hidden="true"></i>](https://bradforddistrictparks.org/), and ourselves. 
 
-## Music in 2026
-We've got the funding in place to have music every Saturday and Sunday in the Summer of 2026.
 
-If you'd like to perform, then [get in touch]({% link contact.md %})
+<div class="row g-0">
+<div class="col-md-8" markdown="1">
 
-We're also interested in your feedback from the 2025 events, so again please [get in touch]({% link contact.md %})
+## 2025 Season
+2025 was the first year in very long time that we've had so much use out of the Bandstand.
 
-More information as we get it.
-
-**Check the [Myrtle Park]({% link _venues/myrtle_park.md %}) page** for the latest listings.
+There were 30 concerts between May and September in 2025.
 </div>
 
 <!-- <div class="col-md-3 offset-md-1">

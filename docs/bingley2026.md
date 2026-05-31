@@ -9,6 +9,16 @@ navigation: true
 
 We're working together with a number of other organisations to promote cultural events in Bingley during 2026, following on from the Bradford 2025 celebrations.
 
+## Bingley 26 Weekend
+
+An exciting two-day event at various locations around Bingley.
+
+Bingley will come alive with Creative Activities, Performances, Heritage Events and Family Fun across the town!
+
+[Full programme of events](https://www.bingleyartscentre.co.uk/events/bingley-26-weekend) can be found on the Bingley Arts Centre website
+
+## More events
+
 Here's a loose timetable of things we think might be taking place in 2026 in our district.
 
 This is taken directly from the [Bingley 2026 Calendar](https://tinyurl.com/bingley2026calendar)
