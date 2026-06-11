@@ -77,7 +77,7 @@ In practice we use:
 
     bundle exec jekyll pagemaster organisations
     ## OR with docker:
-    docker exec -it jekyll /bin/bash -c 'bundle exec jekyll pagemaster organisations'
+    docker exec -it bingleymusictown-jekyll-1 /bin/bash -c 'bundle exec jekyll pagemaster organisations'
 
 This command will generate markdown for views for each item in the collection under ./_{collection name}
 
