@@ -369,7 +369,7 @@ Please fork the repo,and make pull requests from your clone to this one.
 
 ## Branches
 - `main` holds the most recently deployed code
-- `(number)-(name)` branches are working branches where (number) is an issue number and (name) is made up, but has some relation to the issue
+- `(number)-(name)` branches are working branches where (number) is an issue number and (name) is made up, but has some relation to the issue 
 
 ## Workflow
 * Pick (or create an issue)
