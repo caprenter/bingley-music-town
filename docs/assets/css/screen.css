@@ -77,7 +77,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 }
 .groups .card-footer {
     background: none;
-    color: #FD4997 !important;
+    color: #DB146B !important;
     font-weight:700;
 }
 
@@ -252,7 +252,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 
   .member-badge p, .event-badge p {
     margin: 0 0 1em;
-    background: #FD4997;
+    background: #DB146B;
     color: #fff;
     font-weight: 700;
     padding: 0.4em;
@@ -615,7 +615,7 @@ h4, h5, h6 {
     -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     /* color: #2E2E2E; */
-    color: #FD4997;
+    color: #DB146B;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
     font-family: "Open Sans", sans-serif;
@@ -677,7 +677,7 @@ a:hover {
 }
 
 .top-stories h5 a, .top-stories h5 a:visited {
-    color: #FD4997;
+    color: #DB146B;
     text-decoration: none;
 }
 .top-stories h5 a:hover, .top-stories h5 a:focus {
@@ -745,7 +745,7 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em 2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #FD4997 0.4em solid;
+    border-left: #DB146B 0.4em solid;
     font-size: 1.8rem !important;
 }
 
@@ -881,7 +881,7 @@ table.events caption{
 }
 
 table.events caption span{
-    color: #FD4997;
+    color: #DB146B;
     font-size: 2rem;
 }
 
@@ -1580,7 +1580,7 @@ body.page-template .post-title {
     text-transform: uppercase;
     font-size: 1.5rem;
     white-space: nowrap;
-    color:#FD4997;
+    color:#DB146B;
     font-weight: 700;
 }
 
