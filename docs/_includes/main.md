@@ -48,13 +48,13 @@
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="{{ site.baseurl }}/assets/images/bingleyrocks.jpg" class="img-fluid rounded-start" alt="Bingley Rocks poster">
+                        <a href="{% link _posts/2025-10-20-bandstand-2026.md %}"><img src="{{ site.baseurl }}/assets/images/bandstand-summer-2025_350.jpg" class="img-fluid rounded-start" alt="The Bandstand in Myrtle Park"></a>
                     </div>
                     <div class="col-md-6 offset-md-1">
                         <div class="card-body">
-                            <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley Rocks</a></h5>
-                            <p class="card-text" markdown="1">Four days of live music<br>Fri. 28th - Mon. 31st August 2026</p>
-                            <p class="card-text" markdown="1"><a href="https://www.beescamping.co.uk/" target="_blank" rel="noopener noreferrer">Check their website for info and tickets<i class="fa fa-external-link" aria-hidden="true"></i></a></p>
+                            <h5 class="card-title"><a href="{% link _posts/2025-10-20-bandstand-2026.md %}">Bandstand Gigs 2026</a></h5>
+                            <p class="card-text" markdown="1">Our summer of live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}) is well underway.</p>
+                            <p class="card-text" markdown="1">Download a programme and find out more about <a href="{% link bandstand.md %}">Bandstand Gigs 2026</a></p>
                         </div>
                     </div>
                 </div>
@@ -64,18 +64,18 @@
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <a href="{% link _posts/2025-10-20-bandstand-2026.md %}"><img src="{{ site.baseurl }}/assets/images/bandstand-summer-2025_350.jpg" class="img-fluid rounded-start" alt="The Bandstand in Myrtle Park"></a>
+                        <img src="{{ site.baseurl }}/assets/images/bingleyrocks.jpg" class="img-fluid rounded-start" alt="Bingley Rocks poster">
                     </div>
                     <div class="col-md-6 offset-md-1">
                         <div class="card-body">
-                            <h5 class="card-title"><a href="{% link _posts/2025-10-20-bandstand-2026.md %}">Bandstand Gigs 2026</a></h5>
-                            <p class="card-text" markdown="1">A great summer of live music on the Bandstand in [Myrtle Park]({% link _venues/myrtle_park.md %}) has begun.</p>
-                            <p class="card-text" markdown="1">Download a programme and find out more about <a href="{% link bandstand.md %}">Bandstand Gigs 2026</a></p>
+                            <h5 class="card-title"><a href="{% link _posts/2025-03-03-bingley-2025.md %}">Bingley Rocks</a></h5>
+                            <p class="card-text" markdown="1">Unfortunately Bingley Rocks has been cancelled.</p>
+                            <p class="card-text" markdown="1"><a href="https://www.beescamping.co.uk/" target="_blank" rel="noopener noreferrer">Check their website for info and refunds.<i class="fa fa-external-link" aria-hidden="true"></i></a></p>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div>   
     </div>
     <!-- row -->
     <!-- <div class="row row-cols-1 p-4 sit">
