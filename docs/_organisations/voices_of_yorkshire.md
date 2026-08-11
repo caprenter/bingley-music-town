@@ -8,7 +8,7 @@ image: Voices-of-Yorkshire.jpg
 type: music-group
 member: true
 meets:
-- meets-at: Bradford And Bingley Rugby Club
+- meets-at: Bingley Baptist Church
   meets-when: 8pm - 9pm
   frequency: regular-monday
 short-description: 'Laid back, fun and completely non judgemental singing groups for
