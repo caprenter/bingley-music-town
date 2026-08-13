@@ -51,7 +51,7 @@ echo -e "\r" >> "../_data/events.csv"
 cat "../_data/chip.csv" >> "../_data/events.csv"
 dos2unix ../_data/events.csv
 
-echo "Don't forget Bandstand events don't update this way!!"
+echo "Don't forget Bandstand events don't update this way!! Download as csv then run the fetch script."
 
 echo $1
 echo $2
