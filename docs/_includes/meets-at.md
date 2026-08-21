@@ -11,9 +11,9 @@
 {% endfor %} 
 
 {% if meets-at-url %}
-<p class="card-text fs-4 fw-bold my-2"> {{ regular_days[meet.frequency] }}, {{ meet.meets-when }}, <a href="{{meets-at-url}}">{{meet.meets-at}}</a></p>
+<p class="card-text fs-4 fw-bold my-2">{% if meet.frequency %}{{ regular_days[meet.frequency] }}, {% endif %}{{ meet.meets-when }}, <a href="{{meets-at-url}}">{{meet.meets-at}}</a></p>
 {% else %}
-<p class="card-text fs-4 fw-bold my-2"> {{ regular_days[meet.frequency] }}, {{ meet.meets-when }}, {{meet.meets-at}}</p>
+<p class="card-text fs-4 fw-bold my-2">{% if meet.frequency %}{{ regular_days[meet.frequency] }}, {% endif %}{{ meet.meets-when }}, {{meet.meets-at}}</p>
 {% endif %}
 
 {% endfor %} 
