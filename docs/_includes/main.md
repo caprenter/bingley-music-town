@@ -8,8 +8,8 @@
     <p>Four days of Music and Fun at the Bradford And Bingley Sports Club</p>
     <a href="https://www.beescamping.co.uk/" target="_blank" rel="noopener noreferrer">Check the website for info and tickets<i class="fa fa-external-link" aria-hidden="true"></i></a>
     </div> -->
-    <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
-        <!-- <div class="col">
+    <!-- <div class="row row-cols-1 row-cols-xl-2 g-4 top-stories">
+        <div class="col">
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -44,7 +44,7 @@
                 </div>
             </div>
         </div> -->
-        <div class="col">
+        <!-- <div class="col">
             <div class="card border-0 border-bottom h-100">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -76,15 +76,16 @@
                 </div>
             </div>
         </div>   
-    </div>
-    <!-- row -->
-    <!-- <div class="row row-cols-1 p-4 sit">
-        <div class="col text-center text-white ">
-        <h2 class="text-white fw-bold">Sounds In Town</h2>
-            <p class="fw-bold">Cottingley Town Hall<br>March 25th doors 7pm</p>
-            <a href="{% link sounds_in_town.md %}" class="btn btn-primary" role="button">Find Out More</a>
-        </div>
     </div> -->
+    <!-- row -->
+    <div class="row row-cols-1 p-4 sit">
+        <div class="col text-center text-white ">
+        <h2 class="text-white fw-bold">Bingley Winter Concerts</h2>
+            <p class="fw-bold">Bingley Arts Centre<br>September 2026 - March 2027</p>
+            <p class="fw-bold">Programme and details to be announced soon.</p>
+            <!-- <a href="{% link sounds_in_town.md %}" class="btn btn-primary" role="button">Find Out More</a> -->
+        </div>
+    </div>
 </div><!-- container -->
 
 <!--## Sounds In Town - 14th May 2024
