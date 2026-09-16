@@ -10,6 +10,11 @@
 {% assign mod2 = forloop.index | modulo: 2 %}
 {% if event.Date >= dateToday  %}
 {% if event.Artists and event.Artists != nil and event.Artists != "" %}
+{% if include.searchstring %}
+{% unless event.Description contains include.searchstring %}
+{% continue %}
+{% endunless %}
+{% endif %}
 
 <!-- GROUP EVENTS BY DATE -->
 {% if forloop.first %}

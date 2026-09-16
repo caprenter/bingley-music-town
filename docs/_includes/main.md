@@ -78,12 +78,13 @@
         </div>   
     </div> -->
     <!-- row -->
-    <div class="row row-cols-1 p-4 sit">
+    <div class="row row-cols-1 p-4 soundsit">
         <div class="col text-center text-white ">
         <h2 class="text-white fw-bold">Bingley Winter Concerts</h2>
+            <p class="fw-bold">A series of Free/Affordable concerts to see us through the winter until the Bandstand comes alive again in 2027</p>
             <p class="fw-bold">Bingley Arts Centre<br>September 2026 - March 2027</p>
-            <p class="fw-bold">Programme and details to be announced soon.</p>
-            <!-- <a href="{% link sounds_in_town.md %}" class="btn btn-primary" role="button">Find Out More</a> -->
+
+            <a href="{% link winter-concerts.md %}" class="btn btn-primary" role="button">Find Out More</a>
         </div>
     </div>
 </div><!-- container -->

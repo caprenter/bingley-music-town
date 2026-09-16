@@ -49,6 +49,8 @@ echo -e "\r" >> "../_data/events.csv"
 cat "../_data/bandstand26.csv" >> "../_data/events.csv"
 echo -e "\r" >> "../_data/events.csv"
 cat "../_data/chip.csv" >> "../_data/events.csv"
+echo "" >> "../_data/events.csv"
+cat "../_data/WinterConcerts2627.csv" >> "../_data/events.csv"
 dos2unix ../_data/events.csv
 
 echo "Don't forget Bandstand events don't update this way!! Download as csv then run the fetch script."
