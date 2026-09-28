@@ -3,6 +3,7 @@ name: Emi Hall
 title: Emi Hall
 website: https://www.emihallsinger.co.uk/
 facebook: emihallmusic
+logo: BMT_logo_green_Teacher_Catherine.png
 type: tuition
 short-description: 'Wedding & Events Singer, Singing Teacher, Recording Artist & Songwriter.
 

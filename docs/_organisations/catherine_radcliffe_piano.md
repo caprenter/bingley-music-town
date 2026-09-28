@@ -1,10 +1,11 @@
 ---
 name: Catherine Radcliffe Piano
 title: Catherine Radcliffe Piano
-website: http://catherineradcliffepiano.weebly.com
-facebook: catherineradcliffepiano
+website: http://www.catherineradcliffemusic.co.uk
+facebook: catherineradcliffemusic
+instagram: catherineradcliffemusic
 twitter: pianocat5
-logo: BMT_logo_green_Teacher_Catherine.png
+logo: Catherine_Radcliffe_Piano.png
 type: tuition
 member: true
 short-description: 'One to one piano and theory lessons for beginners and improvers,

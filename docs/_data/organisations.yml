@@ -250,8 +250,8 @@
   title: Emi Hall
   website: https://www.emihallsinger.co.uk/
   facebook: emihallmusic
-  # logo: Becs_Leighton_Music.png
-  #image:
+  logo: BMT_logo_green_Teacher_Catherine.png
+  # image: BMT_logo_green_Teacher_Catherine.png
   type: tuition
   # member: true
   short-description: |
@@ -390,11 +390,12 @@
 
 - name: Catherine Radcliffe Piano
   title: Catherine Radcliffe Piano
-  website: http://catherineradcliffepiano.weebly.com
-  facebook: catherineradcliffepiano
+  website: http://www.catherineradcliffemusic.co.uk 
+  facebook: catherineradcliffemusic
+  instagram: catherineradcliffemusic
   twitter: pianocat5
   #email: 
-  logo: BMT_logo_green_Teacher_Catherine.png
+  logo: Catherine_Radcliffe_Piano.png
   #image:
   type: tuition
   member: true
