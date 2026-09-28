@@ -12,7 +12,7 @@ We've also had funding from the 1887 Alfred Sharp Fund for a project for the Mus
 
 Here's a list of all the professionals who can help you to play and sing.
 
-<div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch groups">
+<div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 d-flex align-items-stretch tuition">
 {% for organisation in site.organisations %}
 {% if organisation.type contains "tuition" %}
 
