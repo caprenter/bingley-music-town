@@ -78,31 +78,28 @@
         </div>   
     </div> -->
     <!-- row -->
-    <div class="row row-cols-1 p-4 soundsit">
-        <div class="col text-center text-white ">
+    <div class="row p-4">
+        <div class="col col-md-4 text-center text-white soundsit">
         <h2 class="text-white fw-bold">Bingley Winter Concerts</h2>
             <p class="fw-bold">A series of Free/Affordable concerts to see us through the winter until the Bandstand comes alive again in 2027</p>
             <p class="fw-bold">Bingley Arts Centre<br>September 2026 - March 2027</p>
 
             <a href="{% link winter-concerts.md %}" class="btn btn-primary" role="button">Find Out More</a>
         </div>
-    </div>
+<div class="col col-md-4 text-center" markdown="1">
+## Sounds In Town<br>18th November 2026
+[Sounds In Town]({% link sounds_in_town.md %}) is a music showcase aimed at unamplified musicians - the sort of things you might find in an orchestra. 
+
+The next event is at [All Saints Parish Church, Bingley]({% link _venues/all_saints_parish_church.md %}). 
+
+Entry is FREE (donations welcome). Doors open at 6:30pm. Performance starts at 7.00pm.
+</div>
+<div class="col col-md-4" markdown="1" style="text-align:center">
+<p class="m-0 p0"><a href="{{site_url}}/{% link sounds_in_town.md %}"><img src="/assets/images/sounds-in-town.jpg" class="img-responsive object-fit-contain m-0 p-0" ></a></p>
+</div>
+
+</div>
 </div><!-- container -->
-
-<!--## Sounds In Town - 14th May 2024
-
-<div class="row">
- 
-<div class="col col-md-6" markdown="1">We're helping with a new event that gives musicians a chance to perform to a supportive audience. 
-
-[Sounds In Town]({% link sounds_in_town.md %}) is aimed more towards unamplified musicians (think 'orchestra' type), but we'll have [Cullingworth Community Choir]({% link _organisations/cullingworth_community_choir.md %}) there, and hopefully [Wilko Wilkes<i class="fa fa-external-link" aria-hidden="true"></i>](https://wilkowilkes.com/){:target="_blank" rel="noopener noreferrer"}
-
-If you want to perform, [get in touch]({% link contact.md %}). We're booking performances in 10 minute slots. I'm told there may be cake!
-</div>
-<div class="col col-md-6" markdown="1" style="text-align:center"> [![Sounds In Town Event](/assets/images/sounds-in-town-may24.jpg)]({% link sounds_in_town.md %}){:class="img-responsive"}
-</div>
-
-</div>-->
 
 <div class="container py-4">
 <div class="row g-4">

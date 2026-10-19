@@ -10,6 +10,27 @@ navigation: true
 
 Sounds In Town is an initiative to give local (amateur) musicians and singers of any ability the chance to perform to a sympathetic, supportive and appreciative audience. 
 
+## Our Next Event
+
+Our next Sounds In Town event will be on 
+
+**Wednesday 18th November 2026** at
+[All Saints Church, Bingley]({% link _venues/all_saints_parish_church.md %})
+
+All Saints Parish Church, Old Main Street, Bingley, West Yorkshire, BD16 2RH
+
+Entry is FREE (donations welcome)
+
+**Doors open at 6:30pm. Performance starts at 7.00pm prompt.** 
+
+The volunteers there are very keen on their music and host regular events throughout the year. We're delighted they have partnered up with us to showcase local musicians in their wonderful building.
+
+There will be a host of acoustic musical performances featuring: organ, opera, guitar, solo vocals, and bell ringing.
+
+There will be lots of home-made cake on offer during the interval.
+
+## About Sounds In Town
+
 The events are based on the [Bradford Music Club](http://www.bradfordmusicclub.org.uk/) model where performers get a 10 minute maximum performance 'spots'. 
 
 Each event is FREE to attend although we do ask for voluntary donations upon exit from our audience to help pay for the venue costs and to fund future events. 
@@ -26,21 +47,17 @@ Tell us:
 * any technical requirements
 * any access needs
 
-## Our Next Event
-
-Our fifth Sounds In Town event will be on Wednesday 25th March 2026 in collaboration with [Cottingley Town Hall Church]({% link _venues/cottingley_town_hall_church.md %}). The volunteers there are very keen on their music and host regular events throughout the year. We're delighted they have partnered up with us to showcase local musicians in their wonderful building.
-
-There will be a host of acoustic musical performances featuring: piano, violin, ukulele, accordion, guitar, solo vocals and the Cottingley Town Hall Church Choir!
-
-Entry is FREE (donations welcome)
-
-There will be lots of home-made cake on offer during the interval.
-
-**Doors open at 7pm. Performances start at 7.30pm prompt.** 
-
-Cottingley Town Hall, Main Street, Cottingley, Bingley, BD16 1SR
-
 ## Previous Events
+
+### March 25th 2026, Cottingley Town Hall Church. 
+
+* Piano solo-duet
+* 3 Chord Max Ukulele Group
+* Marcus Dickerson, Guitar and Vocal
+* Artur Dotsiak, Piano Solo
+* Note-able, Accordion Ensemble
+* John Abbey and Sandra Twitchett, Piano and Vocal Duo
+* James Uttley, Isla Carter, and Luke Tonge, Violin, piano and clarinet trio
 
 ### October 22nd 2025, The Eldwick Church, Eldwick
 
