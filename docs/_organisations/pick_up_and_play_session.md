@@ -6,11 +6,14 @@ type: music-group
 member: false
 meets:
 - meets-at: The Brown Cow
-  meets-when: 7:30pm - 10:30pm
+  meets-when: 8:30pm - 10:30pm
   frequency: regular-monday
 - meets-at: Chip 'n' Ern
   meets-when: 7:30pm - 10:30pm
   frequency: regular-wednesday
+- meets-at: The Royal
+  meets-when: 8:30pm - 10:30pm
+  frequency: regular-thursday
 short-description: 'Traditional music in the pub. Come along and join in.
 
   '
