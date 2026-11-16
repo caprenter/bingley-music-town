@@ -794,3 +794,27 @@
     They are members of Bingley Music Town and have band members that live in the Bingley district. They are our closest Street Band, and as well as regularly playing in our district they are open to members from round these parts. 
     
     Find them on Facebook and email them on: music@bdonk.uk
+
+- name: Windstruments Clarinet Choir
+  title: Windstruments Clarinet Choir
+  #website: https://rumbleupbingley.co.uk/
+  #facebook: rumbleeventsbingley
+  #twitter: 
+  email: windstrumentsclarinetchoir@outlook.com 
+  # logo: 
+  image: WCC.jpg
+  #internal-link:
+  #internal-link-text: 
+  type: music-group
+  member: true
+  meets:
+    - { meets-at: Bingley Methodist Church, meets-when: 4.15-6.45pm, frequency: regular-sunday-second }
+  short-description: |
+    Windstruments Clarinet Choir is a friendly and welcoming clarinet ensemble for players of grade 4/5 upwards.
+
+  description: |
+    Windstruments Clarinet Choir is a friendly and welcoming clarinet ensemble for players of grade 4/5 upwards. 
+    
+    Rehearsals at Bingley Methodist Church, mostly on the second Sunday of the month 4.15-6.45. 
+    
+    New members always welcome, please email windstrumentsclarinetchoir@outlook.com for more information.
