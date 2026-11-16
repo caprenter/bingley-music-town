@@ -1,7 +1,9 @@
 ---
 name: Windstruments Clarinet Choir
 title: Windstruments Clarinet Choir
+facebook: windstrumentsclarinetchoir
 email: windstrumentsclarinetchoir@outlook.com
+logo: BMT_logo_blue_Member.png
 image: WCC.jpg
 type: music-group
 member: true
