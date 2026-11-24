@@ -82,25 +82,13 @@
     </div> -->
     <!-- row -->
     <div class="row p-4">
-        <div class="col-lg-4 p-4 text-center text-white soundsit">
+        <div class="col p-4 text-center text-white soundsit">
         <h2 class="text-white fw-bold">Bingley Winter Concerts</h2>
             <p class="fw-bold">A series of Free/Affordable concerts to see us through the winter until the Bandstand comes alive again in 2027</p>
             <p class="fw-bold">Bingley Arts Centre<br>September 2026 - March 2027</p>
 
             <a href="{% link winter-concerts.md %}" class="btn btn-primary" role="button">Find Out More</a>
         </div>
-<div class="col-lg-4 p-4 text-center" markdown="1">
-## Sounds In Town<br>18th November 2026
-[Sounds In Town]({% link sounds_in_town.md %}) is a music showcase aimed at unamplified musicians - the sort of things you might find in an orchestra. 
-
-The next event is at [All Saints Parish Church, Bingley]({% link _venues/all_saints_parish_church.md %}). 
-
-Entry is FREE (donations welcome). Doors open at 6:30pm. Performance starts at 7.00pm.
-</div>
-<div class="col-lg-4 p-4" markdown="1" style="text-align:center">
-<p class="m-0 p0"><a href="{{site_url}}/{% link sounds_in_town.md %}"><img src="/assets/images/sounds-in-town.jpg" class="img-responsive object-fit-contain m-0 p-0" ></a></p>
-</div>
-
 </div>
 </div><!-- container -->
 

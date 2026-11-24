@@ -12,22 +12,7 @@ Sounds In Town is an initiative to give local (amateur) musicians and singers of
 
 ## Our Next Event
 
-Our next Sounds In Town event will be on 
-
-**Wednesday 18th November 2026** at
-[All Saints Church, Bingley]({% link _venues/all_saints_parish_church.md %})
-
-All Saints Parish Church, Old Main Street, Bingley, West Yorkshire, BD16 2RH
-
-Entry is FREE (donations welcome)
-
-**Doors open at 6:30pm. Performance starts at 7.00pm prompt.** 
-
-The volunteers there are very keen on their music and host regular events throughout the year. We're delighted they have partnered up with us to showcase local musicians in their wonderful building.
-
-There will be a host of acoustic musical performances featuring: organ, opera, guitar, solo vocals, and bell ringing.
-
-There will be lots of home-made cake on offer during the interval.
+Our next Sounds In Town event is still in the planning stages. Check back here for updates. 
 
 ## About Sounds In Town
 
@@ -48,6 +33,14 @@ Tell us:
 * any access needs
 
 ## Previous Events
+
+### Wednesday 18th November 2026, All Saints Church, Bingley
+
+[All Saints Parish Church]({% link _venues/all_saints_parish_church.md %}), Old Main Street, Bingley, West Yorkshire, BD16 2RH
+
+The volunteers there are very keen on their music and host regular events throughout the year. We're delighted they partnered up with us to showcase local musicians in their wonderful building.
+
+This event saw a host of acoustic musical performances featuring: organ, opera, guitar, solo vocals, and bell ringing.
 
 ### March 25th 2026, Cottingley Town Hall Church. 
 

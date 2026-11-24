@@ -162,7 +162,7 @@
   type: music-group
   member: true
   meets:
-  - { meets-at: "St John's Room in Cullingworth", meets-when: 10:30am, frequency: regular-thursday }
+  - { meets-at: "St John's Room in Cullingworth", meets-when: 10:00am, frequency: regular-thursday }
   short-description: |
     Meets weekly and offers low cost ukulele lessons for beginners. 
   description: |
